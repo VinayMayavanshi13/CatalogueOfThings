@@ -73,19 +73,19 @@
 - [ ]  The Irishman
 - [ ]  Zero Dark Thirty
 - [ ]  Half Moon (Iranian Movie)
-- [ x]  Parmanu
-- [ x]  Shootout at Lokhandwala
-- [ x]  Aan Men at Work
-- [x ]  Mission Kashmir
-- [x ]  De Dana dhan
-- [x ]  Luck
-- [ x]  Awara Pagal Dewana
-- [x ]  Khatta Meetha
-- [x ]  Bhaag Milkha Bhaag
-- [ x]  Kai Po Chhe
-- [x ]  Dear Dad
-- [ x]  Murder 2
-- [x ]  Bahubali 1,2
+- [x]  Parmanu
+- [x]  Shootout at Lokhandwala
+- [x]  Aan Men at Work
+- [x]  Mission Kashmir
+- [x]  De Dana dhan
+- [x]  Luck
+- [x]  Awara Pagal Dewana
+- [x]  Khatta Meetha
+- [x]  Bhaag Milkha Bhaag
+- [x]  Kai Po Chhe
+- [x]  Dear Dad
+- [x]  Murder 2
+- [x]  Bahubali 1, 2
 - [ ]  Moneyball 
 - [ ]  Love and Other Drugs
 - [ ]  Kaminey
