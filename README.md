@@ -185,13 +185,24 @@
 - [ ]  The Boys
 - [ ]  Better Call Saul
 - [ ]  Dark
+- [x]  Criminal Injustice 
+- [ ]  The Sopranos
 
 ## TV Shows
 - [x] BR Chopra's Mahabharat
 - [x] Ramanand Sagar Ramayan
+- [ ]  The Office
+- [ ]  The Big Bang Theory
+- [ ]  Brooklyn Nine Nine
 
 ## Documentaries
-
+- [ ]  14 Peaks
+- [ ]  Seaspiracy
+- [ ]  The Mystery of Marilyn Munroe
+- [ ]  The Elephant Whisperers
+- [ ]  We are Legion
+- [ ]  Deep Web
+- [ ]  Planet Earth 1 and 2
 
 ## Internet Rabbit Holes
 - [folklore.org](https://www.folklore.org/) : Stories about the development of the original Macintosh.
