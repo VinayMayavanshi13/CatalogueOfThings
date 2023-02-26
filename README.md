@@ -164,6 +164,34 @@
 - [x] Strangers Things - 4 Seasons.
 - [x] Scam 1992
 - [x] Manhunt Unabomber
+- [x] Stranger Things
+- [x] Mind Hunters
+- [x] Aspirants
+- [ ] The Last of Us
+- [ ]  The West Wing
+- [ ] Succession - HBO Max
+- [ ] The Handmaid's Tale
+- [ ] Curb your enthusiasm
+- [ ] Black Mirror
+- [ ]  Fleabag 
+- [ ]  Supernatural
+- [ ] The Terminal List
+- [x]  Kota Factory
+- [x]  Special Ops 1,1.5
+- [x]  Asur
+- [x]  Dahan
+- [x]  Rudra
+- [ ]  Fauda
+- [ ]  The Boys
+- [ ]  Better Call Saul
+- [ ]  Dark
+
+## TV Shows
+- [x] BR Chopra's Mahabharat
+- [x] Ramanand Sagar Ramayan
+
+## Documentaries
+
 
 ## Internet Rabbit Holes
 - [folklore.org](https://www.folklore.org/) : Stories about the development of the original Macintosh.
