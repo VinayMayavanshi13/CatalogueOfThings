@@ -159,6 +159,22 @@
 - [x] Special 26
 - [x] The attacks of 26/11
 - [x] Lagaan
+- [x]  HIT 1
+- [x]  HIT 2
+- [x]  Jersey (Original Starring Nani)
+- [x]  Avatar
+- [x]  Top Gun Maverick
+- [ ]  Donnie Darko 
+- [ ]  Mullholland Drive
+- [ ]  Big Fish
+- [ ]  The X files
+- [x]  Kahani
+- [ ]  Kahani 2
+- [ ]  Sarkar 2
+- [ ]  Lucknow Central
+- [ ]  No Smoking 
+- [x]  D Company
+- [ ]  Avatar 2 
 
 ## Web Series
 - [x] Strangers Things - 4 Seasons.
