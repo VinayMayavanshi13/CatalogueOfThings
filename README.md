@@ -203,6 +203,14 @@
 - [ ]  Dark
 - [x]  Criminal Injustice 
 - [ ]  The Sopranos
+- [x]  Money Heist
+- [x]  Mirzapur
+- [x]  The Family Man
+- [x]  1899
+- [ ]  Mr Robot
+- [ ]  Olive Kitteridge
+- [ ]  CAT
+
 
 ## TV Shows
 - [x] BR Chopra's Mahabharat
