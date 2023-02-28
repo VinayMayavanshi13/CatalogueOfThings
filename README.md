@@ -175,6 +175,64 @@
 - [ ]  No Smoking 
 - [x]  D Company
 - [ ]  Avatar 2 
+- [ ]  Fury
+- [x] Loki
+- [x] Iron Man
+- [x] Thor Ragnarok
+- [x] Captain America 
+- [x] Captain America - Winter Soldier
+- [x] Captain America - Civil War
+- [x] Doctor Strange
+- [x] Avengers Infinity War
+- [x] Avengers End Game
+- [x] Spider Man - No Way Home
+- [x] Guardians of the Galaxy Vol. 1 and 2
+- [ ] Watch Men
+- [x] Kantara
+- [ ] Yashoda
+- [x] Chup
+- [x] Sita Raman
+- [x] 96
+- [x] Jodha Akbar
+- [x] Ek Deewana tha
+- [x] Monica O My Darling
+- [x] Ponniyin Selvan 1
+- [ ] The Big Shot 
+- [ ] Good Will Hunting
+- [ ] The Beautiful Mind 
+- [ ] The Wolf of Wall Street
+- [ ] The Pursuit of Happyness
+- [ ] Catch Me If You Can
+- [ ] Schindler's List 
+- [ ] Martian
+- [ ] 2001: A Space Odyssey
+- [ ] The Prestige 
+- [ ] Snowden
+- [ ] Dunkirk
+- [ ] The Internship
+- [ ] The Founder 
+- [x] The Imitation Game 
+- [ ] Lone Survivor
+- [ ] The Man Who Knew Infinity
+- [ ] Athena
+- [ ] The Intern
+- [x] Ghazi Attack
+- [x] Shershah
+- [x] Sardar Uddham Singh
+- [x] Major
+- [x] Spiderman - No Way Home
+- [ ] The Pianist 
+- [ ] Parasite
+- [ ] Pulp Fiction
+- [ ] The Green Mile
+- [ ] Margin Call
+- [ ] Wall Street
+- [ ] Fight Club 
+- [ ] Now You See Me 1 and 2
+- [ ] The Time Traveler's Wife 
+- [ ] The Pirates of Silicon Valley
+- [ ] Mission: Impossible Movie Series
+- [ ] Fast and Furious Franchise
 
 ## Web Series
 - [x] Strangers Things - 4 Seasons.
