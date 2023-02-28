@@ -268,7 +268,25 @@
 - [ ]  Mr Robot
 - [ ]  Olive Kitteridge
 - [ ]  CAT
-
+- [ ] Silicon Valley
+- [ ] Severance 
+- [ ] Sharp Objects
+- [ ] Euphoria
+- [ ] Mad Men
+- [ ] Entourage
+- [ ] The Undoing
+- [ ] Breaking bad
+- [ ] Chernobyl
+- [ ] The Wire
+- [ ] The leftovers
+- [ ] Mare of Easttown
+- [x] Maharani
+- [x] Scam 1992
+- [x] Rocket Boys
+- [ ] Jack Ryan
+- [x] Kaleidoscope
+- [ ] Rick And Morty - Animated Show
+- [ ] Game of thrones
 
 ## TV Shows
 - [x] BR Chopra's Mahabharat
@@ -285,6 +303,11 @@
 - [ ]  We are Legion
 - [ ]  Deep Web
 - [ ]  Planet Earth 1 and 2
+- [ ] Formula 1 Drive to Survive
+
+## Anime 
+
+- [ ] Death Note
 
 ## Internet Rabbit Holes
 - [folklore.org](https://www.folklore.org/) : Stories about the development of the original Macintosh.
