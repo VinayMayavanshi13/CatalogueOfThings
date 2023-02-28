@@ -11,7 +11,7 @@
 - [ ]  In the praise of shadows - Vintage Tanizaki
 - [ ]  The Spike : An epic journey through the brain in 2.1 seconds - Mark Humphries
 - [ ]  A complaint free world - Will Bowen
-- [ ]  Metazoa Animal minds and the birth of consciousness - Peter Godfrey-Smith
+- [ ]  Metazoa : Animal minds and the birth of consciousness - Peter Godfrey-Smith
 - [ ]  Justice - Michael  Sandel
 - [ ]  Finish what you start - Peter Hollins
 - [ ]  Eat, drink and be healthy : the Harvard Medical  School guide to healthy eating - Patrick J Skerrett
