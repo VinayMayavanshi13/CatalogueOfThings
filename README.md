@@ -16,6 +16,22 @@
 - [ ]  Finish what you start - Peter Hollins
 - [ ]  Eat, drink and be healthy : the Harvard Medical  School guide to healthy eating - Patrick J Skerrett
 - [ ]  Metabolical : Dr Robert lustig - Its about what process food does to our body.
+- [ ]  The ride of a lifetime - Robert Iger
+- [ ]  Educated - Tara Westower
+- [ ]  Hillbilly Elegy - J D Vance
+- [ ]  How to lie with statistics - Darrel Huff
+- [ ]  The Hungry Brain - Stephan J Guyeney
+- [ ]  Masters of Doom - David Kushner 
+- [ ]  Tiny Habits - BJ Fogg 
+- [ ]  When breathe becomes air - By Paul Kalanithi
+- [ ]  The Art of Strategy - Avinash J Dixit & Barry J Nalebuff
+- [ ]  Think Again - Adam Grunt
+- [ ]  Thinking Fast and Slow - Daniel Kahneman
+- [ ]  Influence - Robert Cialdini
+- [ ]  The Art of War - Sun Tzu
+- [ ]  What everybody is saying - Joe Navarro
+- [ ]  What we owe to the future - William MacAskill
+- [ ]  The Wealth of Nations - Adam Smith
 
 ## Movies
 - [x] Interstellar
