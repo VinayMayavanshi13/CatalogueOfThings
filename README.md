@@ -32,6 +32,15 @@
 - [ ]  What everybody is saying - Joe Navarro
 - [ ]  What we owe to the future - William MacAskill
 - [ ]  The Wealth of Nations - Adam Smith
+- [ ]  Atlas Shrugged
+- [ ]  The Big Picture - Sean Carrol
+- [ ]  A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
+- [ ]  How to avoid a climate disaster - Bill Gates
+- [ ]  Stranger in a Strange Land - Robert Heinlein
+- [ ]  The Unabomber Manifesto
+- [ ]  Karl Max - Das Kapital
+- [ ]  The Selfish Gene - Richard Dawkins
+- [ ]  Snow Crash
 
 ## Movies
 - [x] Interstellar
