@@ -41,6 +41,13 @@
 - [ ]  Karl Max - Das Kapital
 - [ ]  The Selfish Gene - Richard Dawkins
 - [ ]  Snow Crash
+- [ ]  Guns, Germs and Steel by Jared Diamond
+- [ ]  Masters of Doom - David Kushner
+- [ ]  The Journalist and the Murderer by Janet Malcolm
+- [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need
+- [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny by William Straus and Neil Howe
+- [ ]  Generations - The History of American Future by William Straus and Neil Howe
+- [ ]  The Spirit of St. Louis - Charles A. Lindbergh
 
 ## Movies
 - [x] Interstellar
