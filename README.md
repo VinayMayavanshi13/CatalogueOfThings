@@ -53,6 +53,13 @@
 - [ ]  Tao Te Ching: Text Only Edition Translated by Gia-fu feng and Jane English
 - [ ]  Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
 - [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
+- [ ]  The Beautiful Trouble - Andrew Boyd
+- [ ]  Seeing Like A State - James C. Scott
+- [ ]  Lifespan - David Sinclair
+- [ ]  Open - Andre Agassi
+- [ ]  Introduction To Indian Histroy - Ibrahim Aerali
+- [ ]  Essence of Indian Art - B. N. Goswamy
+- [ ]  Lady Doctor - Kavitha Rao
 
 ## Movies
 - [x] Interstellar
