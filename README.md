@@ -48,6 +48,11 @@
 - [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny by William Straus and Neil Howe
 - [ ]  Generations - The History of American Future by William Straus and Neil Howe
 - [ ]  The Spirit of St. Louis - Charles A. Lindbergh
+- [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
+- [ ]  The Singularity Is Near: When Humans Transcend Biology - Ray Kurzweil
+- [ ]  Tao Te Ching: Text Only Edition Translated by Gia-fu feng and Jane English
+- [ ]  Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
+- [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
 
 ## Movies
 - [x] Interstellar
