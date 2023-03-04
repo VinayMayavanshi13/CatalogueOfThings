@@ -60,6 +60,12 @@
 - [ ]  Introduction To Indian Histroy - Ibrahim Aerali
 - [ ]  Essence of Indian Art - B. N. Goswamy
 - [ ]  Lady Doctor - Kavitha Rao
+- [ ]  Sapiens Graphic Novel by David VanderMeulen and Yuval Noah Harari
+- [ ]  Watchmen Graphic Novel By Alan Moore and Dave Gibbons
+- [ ]  Blind Willow, Sleeping Woman - Haruki Murakami
+- [ ]  Breath - James Nestor
+- [ ]  The Three Body Problem Triology by Liu Cixin
+
 
 ## Movies
 - [x] Interstellar
