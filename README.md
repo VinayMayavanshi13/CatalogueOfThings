@@ -296,7 +296,7 @@
 - [ ] The Time Traveler's Wife 
 - [ ] The Pirates of Silicon Valley
 - [ ] Mission: Impossible Movie Series
-- [ ] Fast and Furious Franchise
+- [ ] Fast and Furious Franchise Movies (from Intial Years)
 
 ## Web Series
 - [x] Strangers Things - 4 Seasons.
@@ -353,8 +353,8 @@
 - [ ] Game of thrones
 
 ## TV Shows
-- [x] BR Chopra's Mahabharat
-- [x] Ramanand Sagar Ramayan
+- [x]  BR Chopra's Mahabharat
+- [x]  Ramanand Sagar's Ramayan
 - [ ]  The Office
 - [ ]  The Big Bang Theory
 - [ ]  Brooklyn Nine Nine
@@ -367,7 +367,7 @@
 - [ ]  We are Legion
 - [ ]  Deep Web
 - [ ]  Planet Earth 1 and 2
-- [ ] Formula 1 Drive to Survive
+- [ ]  Formula 1 Drive to Survive
 
 ## Anime 
 
