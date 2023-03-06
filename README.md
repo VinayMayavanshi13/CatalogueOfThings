@@ -65,7 +65,11 @@
 - [ ]  Blind Willow, Sleeping Woman - Haruki Murakami
 - [ ]  Breath - James Nestor
 - [ ]  The Three Body Problem Triology by Liu Cixin
-
+- [ ]  The Handmaid's Tale - Margaret Atwood
+- [ ]  Narcopolis - Jeet Thayil
+- [ ]  Blue Skinned Gods - SJ Sindu
+- [ ]  The School of Life: An Emotional Education by Alain De Botton
+- [ ]  The Last Question by Isaac Asimov
 
 ## Movies
 - [x] Interstellar
