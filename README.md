@@ -4,7 +4,7 @@
 - [x]  How to Win friends and Influence People - Dale Carnegie
 - [x]  Zero to One  - Blake Masters and Peter Thiel
 - [x]  The Almanack Of Naval Ravikant - Eric Jorgenson
-- [ ]  Chanakya Neeti
+- [ ]  Chanakya Neeti - B. K. Chaturvedi
 - [ ]  The Brief History of Nearly Everthing - Bill Bryson
 - [ ]  When we cease to understand the world - Benjamin Labatut
 - [ ]  Models of the mind - Grace Lindsay
