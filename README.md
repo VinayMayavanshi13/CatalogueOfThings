@@ -299,21 +299,21 @@
 - [ ] Fast and Furious Franchise Movies (from Intial Years)
 
 ## Web Series
-- [x] Strangers Things - 4 Seasons.
-- [x] Scam 1992
-- [x] Manhunt Unabomber
-- [x] Stranger Things
-- [x] Mind Hunters
-- [x] Aspirants
-- [ ] The Last of Us
+- [x]  Strangers Things - 4 Seasons.
+- [x]  Scam 1992
+- [x]  Manhunt Unabomber
+- [x]  Stranger Things
+- [x]  Mind Hunters
+- [x]  Aspirants
+- [ ]  The Last of Us
 - [ ]  The West Wing
-- [ ] Succession - HBO Max
-- [ ] The Handmaid's Tale
-- [ ] Curb your enthusiasm
-- [ ] Black Mirror
+- [ ]  Succession - HBO Max
+- [ ]  The Handmaid's Tale
+- [ ]  Curb your enthusiasm
+- [ ]  Black Mirror
 - [ ]  Fleabag 
 - [ ]  Supernatural
-- [ ] The Terminal List
+- [ ]  The Terminal List
 - [x]  Kota Factory
 - [x]  Special Ops 1,1.5
 - [x]  Asur
@@ -332,25 +332,25 @@
 - [ ]  Mr Robot
 - [ ]  Olive Kitteridge
 - [ ]  CAT
-- [ ] Silicon Valley
-- [ ] Severance 
-- [ ] Sharp Objects
-- [ ] Euphoria
-- [ ] Mad Men
-- [ ] Entourage
-- [ ] The Undoing
-- [ ] Breaking bad
-- [ ] Chernobyl
-- [ ] The Wire
-- [ ] The leftovers
-- [ ] Mare of Easttown
-- [x] Maharani
-- [x] Scam 1992
-- [x] Rocket Boys
-- [ ] Jack Ryan
-- [x] Kaleidoscope
-- [ ] Rick And Morty - Animated Show
-- [ ] Game of thrones
+- [ ]  Silicon Valley
+- [ ]  Severance 
+- [ ]  Sharp Objects
+- [ ]  Euphoria
+- [ ]  Mad Men
+- [ ]  Entourage
+- [ ]  The Undoing
+- [ ]  Breaking bad
+- [ ]  Chernobyl
+- [ ]  The Wire
+- [ ]  The leftovers
+- [ ]  Mare of Easttown
+- [x]  Maharani
+- [x]  Scam 1992
+- [x]  Rocket Boys
+- [ ]  Jack Ryan
+- [x]  Kaleidoscope
+- [ ]  Rick And Morty - Animated Show
+- [ ]  Game of thrones
 
 ## TV Shows
 - [x]  BR Chopra's Mahabharat
@@ -368,6 +368,15 @@
 - [ ]  Deep Web
 - [ ]  Planet Earth 1 and 2
 - [ ]  Formula 1 Drive to Survive
+- [ ]  Living On One Dollar
+- [ ]  Expedition Happiness
+- [ ]  Minimalism - A documentary about important things
+- [ ]  The Last Dance
+- [ ]  The Magic Pill
+- [ ]  I Am Not Your Guru - Tony Robbins
+- [ ]  My Octopus Teacher
+- [ ]  The Tinder Swindler
+- [ ]  A Playbook : A Coach Rules For Life
 
 ## Anime 
 
