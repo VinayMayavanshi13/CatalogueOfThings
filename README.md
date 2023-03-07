@@ -1,12 +1,12 @@
 # CatalogueOfThings
 
 ## Books
-- [x] How to Win friends and Influence People - Dale Carnegie
-- [x] Zero to One  - Blake Masters and Peter Thiel
-- [x] The Almanack Of Naval Ravikant - Eric Jorgenson
-- [ ] Chanakya Neeti
-- [ ] The Brief History of Nearly Everthing - Bill Bryson
-- [ ] When we cease to understand the world - Benjamin Labatut
+- [x]  How to Win friends and Influence People - Dale Carnegie
+- [x]  Zero to One  - Blake Masters and Peter Thiel
+- [x]  The Almanack Of Naval Ravikant - Eric Jorgenson
+- [ ]  Chanakya Neeti
+- [ ]  The Brief History of Nearly Everthing - Bill Bryson
+- [ ]  When we cease to understand the world - Benjamin Labatut
 - [ ]  Models of the mind - Grace Lindsay
 - [ ]  In the praise of shadows - Vintage Tanizaki
 - [ ]  The Spike : An epic journey through the brain in 2.1 seconds - Mark Humphries
@@ -70,6 +70,12 @@
 - [ ]  Blue Skinned Gods - SJ Sindu
 - [ ]  The School of Life: An Emotional Education by Alain De Botton
 - [ ]  The Last Question by Isaac Asimov
+- [ ]  Crucial Conversations by Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan.
+- [ ]  The Mom Test - Rob Fitzpatrick
+- [ ]  The Body - Bill Bryson
+- [ ]  Rebuild - Dr. Robert Zembroski
+- [ ]  Eat Fat Get Thin - Mark Hyman
+- [ ]  Gut - Giulia Enders
 
 ## Movies
 - [x] Interstellar
