@@ -76,6 +76,11 @@
 - [ ]  Rebuild - Dr. Robert Zembroski
 - [ ]  Eat Fat Get Thin - Mark Hyman
 - [ ]  Gut - Giulia Enders
+- [ ]  Zen In The Art Of Writing by Ray Bradbury
+- [ ]  A Thousand Splendid Suns by Khaled Hosseini
+- [ ]  Prisoners of Geography by Tim Marshall
+- [ ]  Hitchcock/Truffaut by Francois Truffaut
+- [ ]  Conversations with Wilder - by Billy Wilder and Cameron Crowe
 
 ## Movies
 - [x] Interstellar
