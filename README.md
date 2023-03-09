@@ -81,6 +81,11 @@
 - [ ]  Prisoners of Geography by Tim Marshall
 - [ ]  Hitchcock/Truffaut by Francois Truffaut
 - [ ]  Conversations with Wilder - by Billy Wilder and Cameron Crowe
+- [ ]  The Lean Startup - Eric Ries
+- [ ]  Shoe Dog - Phil Knight
+- [ ]  How to build this - Guy Raz
+- [ ]  Start At The End by David Lavinsky 
+- [ ]  How To Fail At Almost Everything & Still Win Big by Scott Adams
 
 ## Movies
 - [x] Interstellar
