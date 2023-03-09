@@ -84,8 +84,11 @@
 - [ ]  The Lean Startup - Eric Ries
 - [ ]  Shoe Dog - Phil Knight
 - [ ]  How to build this - Guy Raz
-- [ ]  Start At The End by David Lavinsky 
+- [ ]  Start At The End - David Lavinsky 
 - [ ]  How To Fail At Almost Everything & Still Win Big by Scott Adams
+- [ ]  Memories, Dreams and Reflection - Carl Jung.
+- [ ]  Flow - Mihaly Csikszentmilhayi
+- [ ]  Galileo's Error - Philip Goff
 
 ## Movies
 - [x] Interstellar
