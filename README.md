@@ -40,10 +40,10 @@
 - [ ]  The Unabomber Manifesto
 - [ ]  Karl Max - Das Kapital
 - [ ]  The Selfish Gene - Richard Dawkins
-- [ ]  Snow Crash
-- [ ]  Guns, Germs and Steel by Jared Diamond
+- [ ]  Snow Crash - Neal Stephenson
+- [ ]  Guns, Germs and Steel - Jared Diamond
 - [ ]  Masters of Doom - David Kushner
-- [ ]  The Journalist and the Murderer by Janet Malcolm
+- [ ]  The Journalist and the Murderer - Janet Malcolm
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need
 - [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny by William Straus and Neil Howe
 - [ ]  Generations - The History of American Future by William Straus and Neil Howe
@@ -60,32 +60,32 @@
 - [ ]  Introduction To Indian Histroy - Ibrahim Aerali
 - [ ]  Essence of Indian Art - B. N. Goswamy
 - [ ]  Lady Doctor - Kavitha Rao
-- [ ]  Sapiens Graphic Novel by David VanderMeulen and Yuval Noah Harari
-- [ ]  Watchmen Graphic Novel By Alan Moore and Dave Gibbons
+- [ ]  Sapiens Graphic Novel - David VanderMeulen and Yuval Noah Harari
+- [ ]  Watchmen Graphic Novel - Alan Moore and Dave Gibbons
 - [ ]  Blind Willow, Sleeping Woman - Haruki Murakami
 - [ ]  Breath - James Nestor
-- [ ]  The Three Body Problem Triology by Liu Cixin
+- [ ]  The Three Body Problem Triology - Liu Cixin
 - [ ]  The Handmaid's Tale - Margaret Atwood
 - [ ]  Narcopolis - Jeet Thayil
 - [ ]  Blue Skinned Gods - SJ Sindu
-- [ ]  The School of Life: An Emotional Education by Alain De Botton
-- [ ]  The Last Question by Isaac Asimov
-- [ ]  Crucial Conversations by Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan.
+- [ ]  The School of Life: An Emotional Education - Alain De Botton
+- [ ]  The Last Question - Isaac Asimov
+- [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan.
 - [ ]  The Mom Test - Rob Fitzpatrick
 - [ ]  The Body - Bill Bryson
 - [ ]  Rebuild - Dr. Robert Zembroski
 - [ ]  Eat Fat Get Thin - Mark Hyman
 - [ ]  Gut - Giulia Enders
-- [ ]  Zen In The Art Of Writing by Ray Bradbury
-- [ ]  A Thousand Splendid Suns by Khaled Hosseini
-- [ ]  Prisoners of Geography by Tim Marshall
-- [ ]  Hitchcock/Truffaut by Francois Truffaut
-- [ ]  Conversations with Wilder - by Billy Wilder and Cameron Crowe
+- [ ]  Zen In The Art Of Writing - Ray Bradbury
+- [ ]  A Thousand Splendid Suns - Khaled Hosseini
+- [ ]  Prisoners of Geography - Tim Marshall
+- [ ]  Hitchcock/Truffaut - Francois Truffaut
+- [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
 - [ ]  The Lean Startup - Eric Ries
 - [ ]  Shoe Dog - Phil Knight
 - [ ]  How to build this - Guy Raz
 - [ ]  Start At The End - David Lavinsky 
-- [ ]  How To Fail At Almost Everything & Still Win Big by Scott Adams
+- [ ]  How To Fail At Almost Everything & Still Win Big - Scott Adams
 - [ ]  Memories, Dreams and Reflection - Carl Jung.
 - [ ]  Flow - Mihaly Csikszentmilhayi
 - [ ]  Galileo's Error - Philip Goff
