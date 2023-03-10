@@ -89,6 +89,12 @@
 - [ ]  Memories, Dreams and Reflection - Carl Jung.
 - [ ]  Flow - Mihaly Csikszentmilhayi
 - [ ]  Galileo's Error - Philip Goff
+- [ ]  The Goal - Eliyahu Goldratt
+- [ ]  Finite and Infinite Games - James Carse
+- [ ]  Awareness - Anthony De Mello
+- [ ]  Origin Story - David Christain
+- [ ]  What I Talk About When I Talk About Running - Haruki Murakami.
+- [ ]  Musashi - Eiji Yoshikawa
 
 ## Movies
 - [x] Interstellar
