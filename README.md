@@ -100,7 +100,9 @@
 - [ ]  Sophie's World - Jostein Gaarder
 - [ ]  The Choice - Dr. Edith Eger
 - [ ]  The Art of Possibility - Benjamin Zander & Rosamund Zander
-
+- [ ]  Turn The Ship Around - L. David Marquet
+- [ ]  Seeking Wisdom from Darwin to Munger - Peter Bevelin
+- [ ]  The Top Five Regrets of The Dying - Bronnie Ware
 
 ## Movies
 - [x] Interstellar
