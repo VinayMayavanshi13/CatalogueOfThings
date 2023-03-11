@@ -95,6 +95,12 @@
 - [ ]  Origin Story - David Christain
 - [ ]  What I Talk About When I Talk About Running - Haruki Murakami.
 - [ ]  Musashi - Eiji Yoshikawa
+- [ ]  Loonshots - Safi Bahcall
+- [ ]  Algorithms To Live - Brian Christian, Thomas L. Griffiths, and Tom Griffiths
+- [ ]  Sophie's World - Jostein Gaarder
+- [ ]  The Choice - Dr. Edith Eger
+- [ ]  The Art of Possibility - Benjamin Zander & Rosamund Zander
+
 
 ## Movies
 - [x] Interstellar
