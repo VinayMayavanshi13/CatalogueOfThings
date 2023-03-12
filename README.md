@@ -103,6 +103,8 @@
 - [ ]  Turn The Ship Around - L. David Marquet
 - [ ]  Seeking Wisdom from Darwin to Munger - Peter Bevelin
 - [ ]  The Top Five Regrets of The Dying - Bronnie Ware
+- [ ]  The Mountain Is You - Brianna Wiest.
+- [ ]  Anything You Want - Derek Sivers
 
 ## Movies
 - [x] Interstellar
