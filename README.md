@@ -105,6 +105,10 @@
 - [ ]  The Top Five Regrets of The Dying - Bronnie Ware
 - [ ]  The Mountain Is You - Brianna Wiest.
 - [ ]  Anything You Want - Derek Sivers
+- [ ]  Talent is Never Enough - John C. Maxwell
+- [ ]  The Body Keeps The Score - Bessel Van Der Kolk
+- [ ]  Man And His Symbols - Carl Jung
+- [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
 
 ## Movies
 - [x] Interstellar
