@@ -70,7 +70,7 @@
 - [ ]  Blue Skinned Gods - SJ Sindu
 - [ ]  The School of Life: An Emotional Education - Alain De Botton
 - [ ]  The Last Question - Isaac Asimov
-- [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan.
+- [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
 - [ ]  The Mom Test - Rob Fitzpatrick
 - [ ]  The Body - Bill Bryson
 - [ ]  Rebuild - Dr. Robert Zembroski
@@ -86,7 +86,7 @@
 - [ ]  How to build this - Guy Raz
 - [ ]  Start At The End - David Lavinsky 
 - [ ]  How To Fail At Almost Everything & Still Win Big - Scott Adams
-- [ ]  Memories, Dreams and Reflection - Carl Jung.
+- [ ]  Memories, Dreams and Reflection - Carl Jung
 - [ ]  Flow - Mihaly Csikszentmilhayi
 - [ ]  Galileo's Error - Philip Goff
 - [ ]  The Goal - Eliyahu Goldratt
@@ -265,23 +265,23 @@
 - [x] Special 26
 - [x] The attacks of 26/11
 - [x] Lagaan
-- [x]  HIT 1
-- [x]  HIT 2
-- [x]  Jersey (Original Starring Nani)
-- [x]  Avatar
-- [x]  Top Gun Maverick
-- [ ]  Donnie Darko 
-- [ ]  Mullholland Drive
-- [ ]  Big Fish
-- [ ]  The X files
-- [x]  Kahani
-- [ ]  Kahani 2
-- [ ]  Sarkar 2
-- [ ]  Lucknow Central
-- [ ]  No Smoking 
-- [x]  D Company
-- [ ]  Avatar 2 
-- [ ]  Fury
+- [x] HIT 1 (Hindi Dubbed Telegu Version)
+- [x] HIT 2 (Hindi Dubbed Telegu Version)
+- [x] Jersey (Original Starring Nani)
+- [x] Avatar
+- [x] Top Gun Maverick
+- [ ] Donnie Darko 
+- [ ] Mullholland Drive
+- [ ] Big Fish
+- [ ] The X files
+- [x] Kahani
+- [ ] Kahani 2
+- [ ] Sarkar 2
+- [ ] Lucknow Central
+- [ ] No Smoking 
+- [x] D Company
+- [ ] Avatar 2 
+- [ ] Fury
 - [x] Loki
 - [x] Iron Man
 - [x] Thor Ragnarok
@@ -338,7 +338,7 @@
 - [ ] The Time Traveler's Wife 
 - [ ] The Pirates of Silicon Valley
 - [ ] Mission: Impossible Movie Series
-- [ ] Fast and Furious Franchise Movies (from Intial Years)
+- [ ] Fast and Furious Franchise Movies (from Initial Years)
 
 ## Web Series
 - [x]  Strangers Things - 4 Seasons.
