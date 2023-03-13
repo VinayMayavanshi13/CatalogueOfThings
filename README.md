@@ -109,6 +109,9 @@
 - [ ]  The Body Keeps The Score - Bessel Van Der Kolk
 - [ ]  Man And His Symbols - Carl Jung
 - [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
+- [ ]  Laws of Human Nature - Robert Greene
+- [ ]  The Road Less Travelled - M. Scott Peck
+- [ ]  What Happened To You - Dr Bruce Perry
 
 ## Movies
 - [x] Interstellar
