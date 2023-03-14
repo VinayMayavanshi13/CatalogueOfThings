@@ -427,6 +427,10 @@
 - [ ]  My Octopus Teacher
 - [ ]  The Tinder Swindler
 - [ ]  A Playbook : A Coach Rules For Life
+- [ ]  Return To Space
+- [ ]  The Minimalists : Less Is Now
+- [ ]  Abstract : The Art Of Design
+- [ ]  The Mind, Explained
 
 ## Anime 
 
