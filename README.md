@@ -112,6 +112,12 @@
 - [ ]  Laws of Human Nature - Robert Greene
 - [ ]  The Road Less Travelled - M. Scott Peck
 - [ ]  What Happened To You - Dr Bruce Perry
+- [ ]  The Social Animal - David Brook
+- [ ]  Blink - Malcom Gladwell
+- [ ]  Grit - Angela Duckworth
+- [ ]  May Be You Should Talk To Someone - Lori Gottlieb
+- [ ]  Emotional Intelligence - Daniel Goleman
+- [ ]  The Happiness Hypothesis - Jonathan Haidt
 
 ## Movies
 - [x] Interstellar
