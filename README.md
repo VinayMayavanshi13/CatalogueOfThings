@@ -345,6 +345,8 @@
 - [ ] The Pirates of Silicon Valley
 - [ ] Mission: Impossible Movie Series
 - [ ] Fast and Furious Franchise Movies (from Initial Years)
+- [ ] Hacksaw Ridge
+- [ ] Lion
 
 ## Web Series
 - [x]  Strangers Things - 4 Seasons.
