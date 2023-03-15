@@ -124,6 +124,12 @@
 - [ ]  A Thousand Brains - Jeff Hawkins
 - [ ]  The First Cell - Azra Raza
 - [ ]  The Pricipice - Toby Ord
+- [ ]  Yuganta - Irawati Karve
+- [ ]  Building a Second Brain Book - Tiago Forte
+- [ ]  Just Keep Buying - Nick Maggiulli
+- [ ]  The Happiest man on Earth - Eddie Jaku
+- [ ]  Chatter - Ethan Kross
+- [ ]  Snow Leopard - Nicolas Cole
 
 ## Movies
 - [x] Interstellar
