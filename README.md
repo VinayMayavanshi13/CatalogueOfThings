@@ -121,6 +121,9 @@
 - [ ]  Probably Approximately Correct - Leslie Valiant
 - [ ]  The Collected Schizoprenias - Esme Weijun Wang
 - [ ]  The End oF Everthing - Katie Mack
+- [ ]  A Thousand Brains - Jeff Hawkins
+- [ ]  The First Cell - Azra Raza
+- [ ]  The Pricipice - Toby Ord
 
 ## Movies
 - [x] Interstellar
