@@ -118,6 +118,9 @@
 - [ ]  May Be You Should Talk To Someone - Lori Gottlieb
 - [ ]  Emotional Intelligence - Daniel Goleman
 - [ ]  The Happiness Hypothesis - Jonathan Haidt
+- [ ]  Probably Approximately Correct - Leslie Valiant
+- [ ]  The Collected Schizoprenias - Esme Weijun Wang
+- [ ]  The End oF Everthing - Katie Mack
 
 ## Movies
 - [x] Interstellar
