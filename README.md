@@ -130,6 +130,11 @@
 - [ ]  The Happiest man on Earth - Eddie Jaku
 - [ ]  Chatter - Ethan Kross
 - [ ]  Snow Leopard - Nicolas Cole
+- [ ]  The Principal Upanishads by S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
+- [ ]  "The Bhagavad Gita" translated by Eknath Easwaran - The Bhagavad Gita is one of the most famous and influential texts in Indian philosophy. This translation is highly regarded for its clarity and accessibility.
+- [ ]  "The Collected Works of Ramana Maharshi" edited by Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
+- [ ]  "The Heart of Hinduism" by Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
+- [ ]  "The Foundations of Indian Philosophy" by A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
 
 ## Movies
 - [x] Interstellar
