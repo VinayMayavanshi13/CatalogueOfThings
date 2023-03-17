@@ -145,6 +145,14 @@
 - [ ]  The Automatic Millionaire - David Bach
 - [ ]  The Millionaire Next Door - Thomas J. Stanley
 - [ ]  Secrets of Millionaire Mind - T. Harv Eker
+- [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
+- [ ]  Dreams of a Final Theory - Steven Weinberg
+- [ ]  Empire of Ants - Sussane Foitzik and Olaf Frit
+- [ ]  Deep Down Things The Breathtaking Beauty of Particle Physics - Bruce A Schumm
+- [ ]  The First Three Minutes - Steven Weinberg
+- [ ]  How to bake π - Eugenia Cheng
+- [ ]  The Order of Time - Carlo Rovelli
+- [ ]  The Science of Can and Can't - Chiara Marletto
 
 ## Movies
 - [x] Interstellar
