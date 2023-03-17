@@ -135,6 +135,10 @@
 - [ ]  "The Collected Works of Ramana Maharshi" edited by Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
 - [ ]  "The Heart of Hinduism" by Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
 - [ ]  "The Foundations of Indian Philosophy" by A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
+- [ ]  Food Rules - Michael Pollan
+- [ ]  Entangled Life - Merlin Sheldrake
+- [ ]  The Mind is Flat - Nick Chater
+- [ ]  Money : Master The Game by Tony Robbins
 
 ## Movies
 - [x] Interstellar
