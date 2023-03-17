@@ -139,6 +139,12 @@
 - [ ]  Entangled Life - Merlin Sheldrake
 - [ ]  The Mind is Flat - Nick Chater
 - [ ]  Money : Master The Game by Tony Robbins
+- [ ]  The Barefoot Investor - Scott Pape 
+- [ ]  The little book that beats the market - Joel Greenblatt
+- [ ]  The Total Money Makeover - Dave Ramsay
+- [ ]  The Automatic Millionaire - David Bach
+- [ ]  The Millionaire Next Door - Thomas J. Stanley
+- [ ]  Secrets of Millionaire Mind - T. Harv Eker
 
 ## Movies
 - [x] Interstellar
