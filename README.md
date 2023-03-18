@@ -159,6 +159,10 @@
 - [ ]  Zen And The Art of Motorcycle - Robert Pising
 - [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences by John Allen Paulos
 - [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan by Robert Kanigel
+- [ ]  Where Is My Flying Car? by Josh Storrs Hall
+- [ ]  High Output Management by Andy Grove
+- [ ]  Only the Paranoid Survive by Andy Grove
+- [ ]  The Great CEO Within by Matt Mochary
 
 ## Movies
 - [x] Interstellar
