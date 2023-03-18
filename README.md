@@ -163,6 +163,13 @@
 - [ ]  High Output Management by Andy Grove
 - [ ]  Only the Paranoid Survive by Andy Grove
 - [ ]  The Great CEO Within by Matt Mochary
+- [ ]  How Innovation Works: And Why It Flourishes in Freedom by Matt Ridley
+- [ ]  The Sovereign Individual by James Dale Davidson and Lord William Rees-Mogg.
+- [ ]  Technological Revolutions and Financial Capital by Carlota Perez
+- [ ]  Indistractable by Nir Eyal
+- [ ]  The Cold Start Problem by Andrew Chen
+- [ ]  The Gray Lady Winked by Ashley Rindsberg
+
 
 ## Movies
 - [x] Interstellar
