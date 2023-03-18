@@ -153,6 +153,10 @@
 - [ ]  How to bake π - Eugenia Cheng
 - [ ]  The Order of Time - Carlo Rovelli
 - [ ]  The Science of Can and Can't - Chiara Marletto
+- [ ]  The Interpretation of Dreams - Sigmund Freud
+- [ ]  Enlightenment Now - Steven Pinker
+- [ ]  Beyond Good and Evil - Friedrich Nietzsche
+- [ ]  Zen And The Art of Motorcycle - Robert Pising
 
 ## Movies
 - [x] Interstellar
