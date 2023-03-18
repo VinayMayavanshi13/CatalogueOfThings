@@ -157,6 +157,8 @@
 - [ ]  Enlightenment Now - Steven Pinker
 - [ ]  Beyond Good and Evil - Friedrich Nietzsche
 - [ ]  Zen And The Art of Motorcycle - Robert Pising
+- [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences by John Allen Paulos
+- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan by Robert Kanigel
 
 ## Movies
 - [x] Interstellar
