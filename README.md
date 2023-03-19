@@ -227,6 +227,22 @@
 - [ ]  One Hundred Years of Solitude by Gabriel Garcia Marquez and Gregory Rabassa
 - [ ]  The Painted Bird by Jerzy Kosinski
 - [ ]  Life Is Elsewhere by Milan Kundera
+- [ ]  The Tyranny of Merit - Michael J Sandel
+- [ ]  Quantum Mechanics The Theoretical Minimum - Leonard Susskind & Art Friedman
+- [ ]  I Contain Multitudes - Ed Yong
+- [ ]  Inner Presence - Antii Revonsuo
+- [ ]  The Soul of Marionette - John Gray
+- [ ]  Financial Intelligence - Karen Berman, Joe Knight and John Case.
+- [ ]  The Boys Graphic Novel - Garth Ennis
+- [ ]  The Communication Book - Mikael Krogerus and Roman Tschappler.
+- [ ]  The Hitchhiker's Guide to the Galaxy - Douglas Adams
+- [ ]  The Remains of the day - Kazuo Ishiguro
+- [ ]  Peter Pan - James Barrie
+- [ ]  The Lord of the Rings - JRR Tolkien
+- [ ]  A Gentleman in Moscow - Amor Towles
+- [ ]  East of Eden - John Steinbeck 
+- [ ]  The Martian - Andy Weir
+- [ ]  The Book Of Dust - Philip Pullman
 
 ## Movies
 - [x] Interstellar
