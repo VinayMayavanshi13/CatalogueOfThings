@@ -224,6 +224,9 @@
 - [ ]  Wilderness Essays by Epictitus
 - [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility by Nassim Nicholas Taleb
 - [ ]  Shogun by James Clavell
+- [ ]  One Hundred Years of Solitude by Gabriel Garcia Marquez and Gregory Rabassa
+- [ ]  The Painted Bird by Jerzy Kosinski
+- [ ]  Life Is Elsewhere by Milan Kundera
 
 ## Movies
 - [x] Interstellar
