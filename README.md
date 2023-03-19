@@ -176,7 +176,9 @@
 - [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA by Daniel Carpenter
 - [ ]  The Truth Machine by Michael Casey & Paul Vigna
 - [ ]  The Internet of Money Volume 1 by Andreas Antonopolous
-
+- [ ]  Seeing Like a State by James C. Scott
+- [ ]  From Third World to First by Lee Kuan Yew
+- [ ]  History Has Begun by Bruno Maçães
 
 ## Movies
 - [x] Interstellar
