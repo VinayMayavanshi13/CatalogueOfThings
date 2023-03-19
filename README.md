@@ -173,6 +173,10 @@
 - [ ]  AI Superpowers by Kai-Fu Lee
 - [ ]  Catching Fire by Richard Wrangham
 - [ ]  Who We Are and How We Got Here by David Reich
+- [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA by Daniel Carpenter
+- [ ]  The Truth Machine by Michael Casey & Paul Vigna
+- [ ]  The Internet of Money Volume 1 by Andreas Antonopolous
+
 
 ## Movies
 - [x] Interstellar
