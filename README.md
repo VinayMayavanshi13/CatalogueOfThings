@@ -169,7 +169,10 @@
 - [ ]  Indistractable by Nir Eyal
 - [ ]  The Cold Start Problem by Andrew Chen
 - [ ]  The Gray Lady Winked by Ashley Rindsberg
-
+- [ ]  Merchants of Truth by Jill Abramson
+- [ ]  AI Superpowers by Kai-Fu Lee
+- [ ]  Catching Fire by Richard Wrangham
+- [ ]  Who We Are and How We Got Here by David Reich
 
 ## Movies
 - [x] Interstellar
