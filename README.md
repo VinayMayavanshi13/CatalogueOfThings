@@ -192,6 +192,13 @@
 - [ ]  The Journalist and the Murderer + Janet Malcolm
 - [ ]  Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists -  Antony Sutton
 - [ ]  Wall Street and the Rise of Hitler - Antony Sutton
+- [ ]  Cat’s Cradle by Kurt Vonnegut
+- [ ]  The Psychedelic Explorer’s Guide by James Fadiman
+- [ ]  The Adventures of Johnny Bunko by Daniel H. Pink
+- [ ]  So Good They Can’t Ignore You by Cal Newport
+- [ ]  Shantaram: A Novel by Gregory David Roberts
+- [ ]  Things Hidden Since the Foundation of the World by René Girard
+- [ ]  As a Man Thinketh by James Allen
 
 ## Movies
 - [x] Interstellar
