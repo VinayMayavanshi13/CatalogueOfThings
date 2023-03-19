@@ -243,6 +243,11 @@
 - [ ]  East of Eden - John Steinbeck 
 - [ ]  The Martian - Andy Weir
 - [ ]  The Book Of Dust - Philip Pullman
+- [ ]  Jonathan Livingston Seagull - Richard Bach
+- [ ]  The Fountainhead - Ayn Rand
+- [ ]  Kill Decision - Daniel Suarez
+- [ ]  The Alchemist - Paulo Coelho
+- [ ]  Ready Player One - Ernest Cline
 
 ## Movies
 - [x] Interstellar
