@@ -204,6 +204,26 @@
 - [ ]  Man’s Search for Meaning by Viktor E.Frankl
 - [ ]  The Fourth Turning by William Strauss
 - [ ]  Generations by William Strauss
+- [ ]  The Singularity Is Near by Ray Kurzweil
+- [ ]  The Everything Store: Jeff Bezos and the Age of Amazon by Brad Stone
+- [ ]  The Rise of Superman by Steven Kotler
+- [ ]  Benjamin Franklin by Walter Isaacson
+- [ ]  Titan: The Life of John D. Rockefeller by Ron Cherow
+- [ ]  How to Live by Sarah Bakewell
+- [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King by Rich Cohen
+- [ ]  Tough Jews by Rich Cohen
+- [ ]  Edison – A Biography by Matthew Josephson
+- [ ]  Ulysses S. Grant: Triumph Over Adversity by Brooks D. Simpson
+- [ ]  The Control of Nature by John McPhee
+- [ ]  Giving Good Weight by John McPhee
+- [ ]  What Makes Sammy Run? by Budd Schulberg
+- [ ]  The Artist’s Way – Morning Pages Journal by Julia Cameron
+- [ ]  Daily Rituals by Mason Currey
+- [ ]  The War of Art by Steven Pressfield
+- [ ]  Blue Ocean Strategy by W. Chan Kim
+- [ ]  Wilderness Essays by Epictitus
+- [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility by Nassim Nicholas Taleb
+- [ ]  Shogun by James Clavell
 
 ## Movies
 - [x] Interstellar
