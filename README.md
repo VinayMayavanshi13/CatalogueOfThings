@@ -199,6 +199,11 @@
 - [ ]  Shantaram: A Novel by Gregory David Roberts
 - [ ]  Things Hidden Since the Foundation of the World by René Girard
 - [ ]  As a Man Thinketh by James Allen
+- [ ]  The Spirit of St. Louis by Charles A.Lindbergh
+- [ ]  The Man Who Sold the Moon and Orphans of the Sky by Robert Heinlein
+- [ ]  Man’s Search for Meaning by Viktor E.Frankl
+- [ ]  The Fourth Turning by William Strauss
+- [ ]  Generations by William Strauss
 
 ## Movies
 - [x] Interstellar
