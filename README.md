@@ -179,6 +179,19 @@
 - [ ]  Seeing Like a State by James C. Scott
 - [ ]  From Third World to First by Lee Kuan Yew
 - [ ]  History Has Begun by Bruno Maçães
+- [ ]  The Craft by John Dickie
+- [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
+- [ ]  Rules for Radicals - Saul Alinsky
+- [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
+- [ ]  War and Peace and War: The Rise and Fall of Empires - Peter Turchin
+- [ ]  The Fourth Turning: An American Prophecy - William Strauss and Neil Howe
+- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
+- [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
+- [ ]  The Gulag Archipelago - Aleksandr I. Solzhenitsyn
+- [ ]  The House of Government: A Saga of the Russian Revolution - Yuri Slezkine
+- [ ]  The Journalist and the Murderer + Janet Malcolm
+- [ ]  Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists -  Antony Sutton
+- [ ]  Wall Street and the Rise of Hitler - Antony Sutton
 
 ## Movies
 - [x] Interstellar
