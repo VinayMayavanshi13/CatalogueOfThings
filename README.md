@@ -248,6 +248,18 @@
 - [ ]  Kill Decision - Daniel Suarez
 - [ ]  The Alchemist - Paulo Coelho
 - [ ]  Ready Player One - Ernest Cline
+- [ ]  The Song of Achilles - Madelline Miller
+- [ ]  A Wrinkle in Time - Madeleine L'Engle
+- [ ]  The Master and the Margarita - Mikhail Bulgakov
+- [ ]  Disruptor - Arwen Elys Dayton
+- [ ]  The E-Myth Revisted - Michael E. Gerber
+- [ ]  You Are a Badmass at Making Money - Jen Sincero 
+- [ ]  The 100$ Startup - Chris Guillebeau
+- [ ]  The Entrepreneur Mind - Kevin D. Johnson
+- [ ]  Buyology - Martin Lindstrom
+- [ ]  Launch - Jeff Walker
+- [ ]  Build - Tony Fadell
+- [ ]  DeepWork - Cal Newport
 
 ## Movies
 - [x] Interstellar
