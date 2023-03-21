@@ -522,7 +522,7 @@
 - [x]  The Family Man
 - [x]  1899
 - [ ]  Mr Robot
-- [ ]  Olive Kitteridge
+- [x]  Olive Kitteridge
 - [ ]  CAT
 - [ ]  Silicon Valley
 - [ ]  Severance 
