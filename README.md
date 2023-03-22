@@ -584,6 +584,12 @@
 - [ ]  The Minimalists : Less Is Now
 - [ ]  Abstract : The Art Of Design
 - [ ]  The Mind, Explained
+- [ ]  Connecting
+- [ ]  Objectified
+- [ ]  Phantoms in the Brain
+- [ ]  Atari : Game Over
+- [ ]  Helvetica
+- [ ]  The Men Who Made Us Spend
 
 ## Anime 
 
