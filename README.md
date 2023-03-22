@@ -554,7 +554,7 @@
 - [x]  Kaleidoscope
 - [ ]  Rick And Morty - Animated Show
 - [ ]  Game of thrones
-
+- [ ]  The Man in the High Castle
 ## TV Shows
 - [x]  BR Chopra's Mahabharat
 - [x]  Ramanand Sagar's Ramayan
