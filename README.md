@@ -260,6 +260,8 @@
 - [ ]  Launch - Jeff Walker
 - [ ]  Build - Tony Fadell
 - [ ]  DeepWork - Cal Newport
+- [ ]  The Dip - Seth Godin
+- [ ]  Who Moved My Cheese - Dr Spencer Johnson
 
 ## Movies
 - [x] Interstellar
