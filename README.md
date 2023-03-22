@@ -267,6 +267,10 @@
 - [ ]  Chhapa Kurishu
 - [ ]  Deewar
 - [ ]  October
+- [ ]  Khamoshi
+- [ ]  Martian
+- [ ]  The Girl With the Dragon Tattoo
+
 
 ## Movies
 - [x] Interstellar
