@@ -305,7 +305,7 @@
 - [ ] Shakti 
 - [ ] Luck By Chance
 - [ ] Mother India
-- [ ] No Smoking 
+- [x] No Smoking 
 - [ ] Mughal E Azam
 - [ ] Pihu 
 - [ ] The Legend of Bhagat Singh
