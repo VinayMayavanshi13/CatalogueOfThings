@@ -437,7 +437,6 @@
 - [ ] Kahani 2
 - [ ] Sarkar 2
 - [ ] Lucknow Central
-- [ ] No Smoking 
 - [x] D Company
 - [ ] Avatar 2 
 - [ ] Fury
@@ -500,6 +499,7 @@
 - [ ] Fast and Furious Franchise Movies (from Initial Years)
 - [ ] Hacksaw Ridge
 - [ ] Lion
+- [ ]  Don't Look Up
 
 ## Web Series
 - [x]  Strangers Things - 4 Seasons.
@@ -590,6 +590,7 @@
 - [ ]  Atari : Game Over
 - [ ]  Helvetica
 - [ ]  The Men Who Made Us Spend
+- [ ]  HyperNormalisation
 
 ## Anime 
 
