@@ -268,6 +268,15 @@ Book by Stephen King
 - [ ]  The Emperor of Maladies Heretics - Siddhartha
 - [ ]  India Before Gandhi - Ramachandra Guha
 - [ ]  India After Gandhi - Ramachandra Guha
+- [ ]  The Fourth Turning book - Neil Howe and William Strauss
+- [ ]  The Prophet by Kahlil Gibran
+- [ ]  Why I Write - George Orwell
+- [ ]  Prisoners of Geography - Tim Marshall
+- [ ]  Cosmocomics by Italo Calvino
+- [ ]  The Humans - Matt Haig
+- [ ]  How To Stop Time - Matt Haig
+- [ ]  The Midnight Library - Matt Haig
+
 
 ## Movies
 - [x] Interstellar
