@@ -276,6 +276,12 @@ Book by Stephen King
 - [ ]  The Humans - Matt Haig
 - [ ]  How To Stop Time - Matt Haig
 - [ ]  The Midnight Library - Matt Haig
+- [ ]  Richard Feynman’s Lectures by Richard Feynman
+- [ ]  Princeton Companion of Mathematics by Timothy Gowers
+- [ ]  Schaum's Outlines by Joel Lerner and James Cashin
+- [ ]  1000 Exercises in Probability by Geoffrey Grimmett and David Stirzaker
+- [ ]  The Nature of Mathematical Modeling by Neil Gershenfeld
+- [ ]  Physics for Scientists and Engineers by Paul Tipler
 
 
 ## Movies
