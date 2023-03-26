@@ -262,15 +262,12 @@
 - [ ]  DeepWork - Cal Newport
 - [ ]  The Dip - Seth Godin
 - [ ]  Who Moved My Cheese - Dr Spencer Johnson
-- [ ]  Amores Perros
-- [ ]  7 Boxes
-- [ ]  Chhapa Kurishu
-- [ ]  Deewar
-- [ ]  October
-- [ ]  Khamoshi
-- [ ]  Martian
-- [ ]  The Girl With the Dragon Tattoo
-
+- [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
+- [ ]  On Writing: A Memoir of the Craft
+Book by Stephen King
+- [ ]  The Emperor of Maladies Heretics - Siddhartha
+- [ ]  India Before Gandhi - Ramachandra Guha
+- [ ]  India After Gandhi - Ramachandra Guha
 
 ## Movies
 - [x] Interstellar
@@ -492,6 +489,14 @@
 - [ ] Margin Call
 - [ ] Wall Street
 - [ ] Fight Club 
+- [ ]  Amores Perros
+- [ ]  7 Boxes
+- [ ]  Chhapa Kurishu
+- [ ]  Deewar
+- [ ]  October
+- [ ]  Khamoshi
+- [ ]  Martian
+- [ ]  The Girl With the Dragon Tattoo
 - [ ] Now You See Me 1 and 2
 - [ ] The Time Traveler's Wife 
 - [ ] The Pirates of Silicon Valley
