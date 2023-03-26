@@ -499,7 +499,10 @@
 - [ ] Fast and Furious Franchise Movies (from Initial Years)
 - [ ] Hacksaw Ridge
 - [ ] Lion
-- [ ]  Don't Look Up
+- [ ] Don't Look Up
+- [ ] Glengarry Glen Ross
+- [ ] The Man from earth
+- [ ] The Raid (Part 1 & 2)
 
 ## Web Series
 - [x]  Strangers Things - 4 Seasons.
