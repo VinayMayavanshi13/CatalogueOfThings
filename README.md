@@ -558,6 +558,11 @@
 - [ ]  Rick And Morty - Animated Show
 - [ ]  Game of thrones
 - [ ]  The Man in the High Castle
+- [ ]  Broadchurch 
+- [ ]  Band Of Brothers
+- [ ]  The Lost Room
+- [ ]  Sliders
+
 ## TV Shows
 - [x]  BR Chopra's Mahabharat
 - [x]  Ramanand Sagar's Ramayan
