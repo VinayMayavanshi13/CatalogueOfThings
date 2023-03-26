@@ -282,7 +282,8 @@ Book by Stephen King
 - [ ]  1000 Exercises in Probability by Geoffrey Grimmett and David Stirzaker
 - [ ]  The Nature of Mathematical Modeling by Neil Gershenfeld
 - [ ]  Physics for Scientists and Engineers by Paul Tipler
-
+- [ ]  Visual Complex Analysis by Tristan Needham
+- [ ]  Visual Complex Functions by Elias Wegert
 
 ## Movies
 - [x] Interstellar
