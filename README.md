@@ -284,6 +284,11 @@ Book by Stephen King
 - [ ]  Physics for Scientists and Engineers by Paul Tipler
 - [ ]  Visual Complex Analysis by Tristan Needham
 - [ ]  Visual Complex Functions by Elias Wegert
+- [ ]  Antking - Charlie Kaufman
+- [ ]  Reflections in a sacred pond - Murad Ali Balg
+- [ ]  Freedom at Midnight - Dominique Lapierre and Larry Collins
+- [ ]  Train To Pakistan - Khushwant Singh
+- [ ]  Journey under the midnight sun - Keigo Higashimo
 
 ## Movies
 - [x] Interstellar
