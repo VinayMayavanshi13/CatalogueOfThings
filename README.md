@@ -292,6 +292,13 @@ Book by Stephen King
 - [ ]  White Mughals - William Dalrymple
 - [ ]  Sputnik Sweetheart - Haruki Murakami
 - [ ]  The Strange Library - Haruki Murakami
+- [ ]  Gulliver's Travels
+- [ ]  Pride and Prejudice book
+- [ ]  Roald Dahl Books
+- [ ]  Enid Blyton books
+- [ ]  Agatha Cristie Books
+- [ ]  Lee Child Book Series
+- [ ]  Game of Thrones Book Series
 
 ## Movies
 - [x] Interstellar
@@ -513,14 +520,14 @@ Book by Stephen King
 - [ ] Margin Call
 - [ ] Wall Street
 - [ ] Fight Club 
-- [ ]  Amores Perros
-- [ ]  7 Boxes
-- [ ]  Chhapa Kurishu
-- [ ]  Deewar
-- [ ]  October
-- [ ]  Khamoshi
-- [ ]  Martian
-- [ ]  The Girl With the Dragon Tattoo
+- [ ] Amores Perros
+- [ ] 7 Boxes
+- [ ] Chhapa Kurishu
+- [ ] Deewar
+- [ ] October
+- [ ] Khamoshi
+- [ ] Martian
+- [ ] The Girl With the Dragon Tattoo
 - [ ] Now You See Me 1 and 2
 - [ ] The Time Traveler's Wife 
 - [ ] The Pirates of Silicon Valley
