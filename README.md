@@ -289,6 +289,9 @@ Book by Stephen King
 - [ ]  Freedom at Midnight - Dominique Lapierre and Larry Collins
 - [ ]  Train To Pakistan - Khushwant Singh
 - [ ]  Journey under the midnight sun - Keigo Higashimo
+- [ ]  White Mughals - William Dalrymple
+- [ ]  Sputnik Sweetheart - Haruki Murakami
+- [ ]  The Strange Library - Haruki Murakami
 
 ## Movies
 - [x] Interstellar
