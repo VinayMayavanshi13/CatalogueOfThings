@@ -263,8 +263,7 @@
 - [ ]  The Dip - Seth Godin
 - [ ]  Who Moved My Cheese - Dr Spencer Johnson
 - [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
-- [ ]  On Writing: A Memoir of the Craft
-Book by Stephen King
+- [ ]  On Writing: A Memoir of the Craft - Stephen King
 - [ ]  The Emperor of Maladies Heretics - Siddhartha
 - [ ]  India Before Gandhi - Ramachandra Guha
 - [ ]  India After Gandhi - Ramachandra Guha
@@ -301,53 +300,53 @@ Book by Stephen King
 - [ ]  Game of Thrones Book Series
 
 ## Movies
-- [x] Interstellar
-- [x] Inception
-- [x] The Dark Knight Trilogy
-- [x] The Shawshank Redemption
-- [x] V
-- [x] Go Goa Gone
-- [x] Garam Masala 
-- [x] New York
-- [x] Force
-- [x] Munnabhai MBBS
-- [x] 3 Idiots
-- [x] PK
-- [x] Chakde India
-- [ ] Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
-- [ ] Coherence
-- [ ] Her
-- [ ] Citadel
-- [ ] Babel
-- [ ] Shame (2011 )
-- [ ] Spotlight 
-- [ ] Sicario 
-- [ ] The Great Indian Kitchen
-- [ ] 500 Days of Summer 
-- [ ] Stronger 
-- [ ] Too Old To Die Young
-- [ ] 13 Reasons Why
-- [ ] Shangai
-- [ ] Few Good Men
-- [ ] The American President
-- [ ] Shakti 
-- [ ] Luck By Chance
-- [ ] Mother India
-- [x] No Smoking 
-- [ ] Mughal E Azam
-- [ ] Pihu 
-- [ ] The Legend of Bhagat Singh
-- [ ] Shor in the City
-- [ ] Shutter Island 
-- [ ] Sicario 
-- [ ] Sarkar 3
-- [ ] Khamosh (1985)
-- [ ] Khosla ka Ghosla
-- [ ] Rocket Singh Salesman of the year
-- [ ] The Da Vinci Code
-- [ ] Fight Club
-- [ ] Gone Girl
-- [ ] Jojorabbit
+- [x]  Interstellar
+- [x]  Inception
+- [x]  The Dark Knight Trilogy
+- [x]  The Shawshank Redemption
+- [x]  V
+- [x]  Go Goa Gone
+- [x]  Garam Masala 
+- [x]  New York
+- [x]  Force
+- [x]  Munnabhai MBBS
+- [x]  3 Idiots
+- [x]  PK
+- [x]  Chakde India
+- [ ]  Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
+- [ ]  Coherence
+- [ ]  Her
+- [ ]  Citadel
+- [ ]  Babel
+- [ ]  Shame (2011 )
+- [ ]  Spotlight 
+- [ ]  Sicario 
+- [ ]  The Great Indian Kitchen
+- [ ]  500 Days of Summer 
+- [ ]  Stronger 
+- [ ]  Too Old To Die Young
+- [ ]  13 Reasons Why
+- [ ]  Shangai
+- [ ]  Few Good Men
+- [ ]  The American President
+- [ ]  Shakti 
+- [ ]  Luck By Chance
+- [ ]  Mother India
+- [x]  No Smoking 
+- [ ]  Mughal E Azam
+- [ ]  Pihu 
+- [ ]  The Legend of Bhagat Singh
+- [ ]  Shor in the City
+- [ ]  Shutter Island 
+- [ ]  Sicario 
+- [ ]  Sarkar 3
+- [ ]  Khamosh (1985)
+- [ ]  Khosla ka Ghosla
+- [ ]  Rocket Singh Salesman of the year
+- [ ]  The Da Vinci Code
+- [ ]  Fight Club
+- [ ]  Gone Girl
+- [ ]  Jojorabbit
 - [ ]  Black Friday
 - [ ]  Irreversible
 - [ ]  Raajneeti
@@ -438,41 +437,41 @@ Book by Stephen King
 - [x]  Jay Bhim
 - [x]  Forensic
 - [x]  Freddy
-- [ ] The Godfather Part 1 and 2
-- [ ] Annihilation 
-- [ ] The Perks of Being a Wallflower 
-- [ ] The Da Vinci Code 
-- [ ] The World at War
-- [ ] The Matrix 
-- [x] Andadhun
-- [x] Tasveer 8x10
-- [x] Table No. 21 
-- [x] English Vinglish 
-- [x] Vicky Donor
-- [x] Special 26
-- [x] The attacks of 26/11
-- [x] Lagaan
-- [x] HIT 1 (Hindi Dubbed Telegu Version)
-- [x] HIT 2 (Hindi Dubbed Telegu Version)
-- [x] Jersey (Original Starring Nani)
-- [x] Avatar
-- [x] Top Gun Maverick
-- [ ] Donnie Darko 
-- [ ] Mullholland Drive
-- [ ] Big Fish
-- [ ] The X files
-- [x] Kahani
-- [ ] Kahani 2
-- [ ] Sarkar 2
-- [ ] Lucknow Central
-- [x] D Company
-- [ ] Avatar 2 
-- [ ] Fury
-- [x] Loki
-- [x] Iron Man
-- [x] Thor Ragnarok
-- [x] Captain America 
-- [x] Captain America - Winter Soldier
+- [ ]  The Godfather Part 1 and 2
+- [ ]  Annihilation 
+- [ ]  The Perks of Being a Wallflower 
+- [ ]  The Da Vinci Code 
+- [ ]  The World at War
+- [ ]  The Matrix 
+- [x]  Andadhun
+- [x]  Tasveer 8x10
+- [x]  Table No. 21 
+- [x]  English Vinglish 
+- [x]  Vicky Donor
+- [x]  Special 26
+- [x]  The attacks of 26/11
+- [x]  Lagaan
+- [x]  HIT 1 (Hindi Dubbed Telegu Version)
+- [x]  HIT 2 (Hindi Dubbed Telegu Version)
+- [x]  Jersey (Original Starring Nani)
+- [x]  Avatar
+- [x]  Top Gun Maverick
+- [ ]  Donnie Darko 
+- [ ]  Mullholland Drive
+- [ ]  Big Fish
+- [ ]  The X files
+- [x]  Kahani
+- [ ]  Kahani 2
+- [ ]  Sarkar 2
+- [ ]  Lucknow Central
+- [x]  D Company
+- [ ]  Avatar 2 
+- [ ]  Fury
+- [x]  Loki
+- [x]  Iron Man
+- [x]  Thor Ragnarok
+- [x]  Captain America 
+- [x]  Captain America - Winter Soldier
 - [x] Captain America - Civil War
 - [x] Doctor Strange
 - [x] Avengers Infinity War
