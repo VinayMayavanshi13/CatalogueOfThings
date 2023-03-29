@@ -45,12 +45,12 @@
 - [ ]  Masters of Doom - David Kushner
 - [ ]  The Journalist and the Murderer - Janet Malcolm
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need
-- [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny by William Straus and Neil Howe
+- [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny - William Straus and Neil Howe
 - [ ]  Generations - The History of American Future by William Straus and Neil Howe
 - [ ]  The Spirit of St. Louis - Charles A. Lindbergh
 - [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
 - [ ]  The Singularity Is Near: When Humans Transcend Biology - Ray Kurzweil
-- [ ]  Tao Te Ching: Text Only Edition Translated by Gia-fu feng and Jane English
+- [ ]  Tao Te Ching: Text Only Edition Translated - Gia-fu feng and Jane English
 - [ ]  Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
 - [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
 - [ ]  The Beautiful Trouble - Andrew Boyd
@@ -130,15 +130,15 @@
 - [ ]  The Happiest man on Earth - Eddie Jaku
 - [ ]  Chatter - Ethan Kross
 - [ ]  Snow Leopard - Nicolas Cole
-- [ ]  The Principal Upanishads by S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
-- [ ]  "The Bhagavad Gita" translated by Eknath Easwaran - The Bhagavad Gita is one of the most famous and influential texts in Indian philosophy. This translation is highly regarded for its clarity and accessibility.
-- [ ]  "The Collected Works of Ramana Maharshi" edited by Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
-- [ ]  "The Heart of Hinduism" by Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
-- [ ]  "The Foundations of Indian Philosophy" by A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
+- [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
+- [ ]  "The Bhagavad Gita" translated - Eknath Easwaran - The Bhagavad Gita is one of the most famous and influential texts in Indian philosophy. This translation is highly regarded for its clarity and accessibility.
+- [ ]  "The Collected Works of Ramana Maharshi" edited - Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
+- [ ]  "The Heart of Hinduism" - Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
+- [ ]  "The Foundations of Indian Philosophy" - A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
 - [ ]  Food Rules - Michael Pollan
 - [ ]  Entangled Life - Merlin Sheldrake
 - [ ]  The Mind is Flat - Nick Chater
-- [ ]  Money : Master The Game by Tony Robbins
+- [ ]  Money : Master The Game - Tony Robbins
 - [ ]  The Barefoot Investor - Scott Pape 
 - [ ]  The little book that beats the market - Joel Greenblatt
 - [ ]  The Total Money Makeover - Dave Ramsay
@@ -157,29 +157,29 @@
 - [ ]  Enlightenment Now - Steven Pinker
 - [ ]  Beyond Good and Evil - Friedrich Nietzsche
 - [ ]  Zen And The Art of Motorcycle - Robert Pising
-- [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences by John Allen Paulos
-- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan by Robert Kanigel
-- [ ]  Where Is My Flying Car? by Josh Storrs Hall
-- [ ]  High Output Management by Andy Grove
-- [ ]  Only the Paranoid Survive by Andy Grove
-- [ ]  The Great CEO Within by Matt Mochary
-- [ ]  How Innovation Works: And Why It Flourishes in Freedom by Matt Ridley
-- [ ]  The Sovereign Individual by James Dale Davidson and Lord William Rees-Mogg.
-- [ ]  Technological Revolutions and Financial Capital by Carlota Perez
-- [ ]  Indistractable by Nir Eyal
-- [ ]  The Cold Start Problem by Andrew Chen
-- [ ]  The Gray Lady Winked by Ashley Rindsberg
-- [ ]  Merchants of Truth by Jill Abramson
-- [ ]  AI Superpowers by Kai-Fu Lee
-- [ ]  Catching Fire by Richard Wrangham
-- [ ]  Who We Are and How We Got Here by David Reich
-- [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA by Daniel Carpenter
-- [ ]  The Truth Machine by Michael Casey & Paul Vigna
-- [ ]  The Internet of Money Volume 1 by Andreas Antonopolous
-- [ ]  Seeing Like a State by James C. Scott
-- [ ]  From Third World to First by Lee Kuan Yew
-- [ ]  History Has Begun by Bruno Maçães
-- [ ]  The Craft by John Dickie
+- [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences - John Allen Paulos
+- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
+- [ ]  Where Is My Flying Car? - Josh Storrs Hall
+- [ ]  High Output Management - Andy Grove
+- [ ]  Only the Paranoid Survive - Andy Grove
+- [ ]  The Great CEO Within - Matt Mochary
+- [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
+- [ ]  The Sovereign Individual - James Dale Davidson and Lord William Rees-Mogg.
+- [ ]  Technological Revolutions and Financial Capital - Carlota Perez
+- [ ]  Indistractable - Nir Eyal
+- [ ]  The Cold Start Problem - Andrew Chen
+- [ ]  The Gray Lady Winked - Ashley Rindsberg
+- [ ]  Merchants of Truth - Jill Abramson
+- [ ]  AI Superpowers - Kai-Fu Lee
+- [ ]  Catching Fire - Richard Wrangham
+- [ ]  Who We Are and How We Got Here - David Reich
+- [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA - Daniel Carpenter
+- [ ]  The Truth Machine - Michael Casey & Paul Vigna
+- [ ]  The Internet of Money Volume 1 - Andreas Antonopolous
+- [ ]  Seeing Like a State - James C. Scott
+- [ ]  From Third World to First - Lee Kuan Yew
+- [ ]  History Has Begun - Bruno Maçães
+- [ ]  The Craft - John Dickie
 - [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
 - [ ]  Rules for Radicals - Saul Alinsky
 - [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
@@ -193,40 +193,40 @@
 - [ ]  Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists -  Antony Sutton
 - [ ]  Wall Street and the Rise of Hitler - Antony Sutton
 - [ ]  Cat’s Cradle by Kurt Vonnegut
-- [ ]  The Psychedelic Explorer’s Guide by James Fadiman
-- [ ]  The Adventures of Johnny Bunko by Daniel H. Pink
-- [ ]  So Good They Can’t Ignore You by Cal Newport
-- [ ]  Shantaram: A Novel by Gregory David Roberts
-- [ ]  Things Hidden Since the Foundation of the World by René Girard
-- [ ]  As a Man Thinketh by James Allen
-- [ ]  The Spirit of St. Louis by Charles A.Lindbergh
-- [ ]  The Man Who Sold the Moon and Orphans of the Sky by Robert Heinlein
-- [ ]  Man’s Search for Meaning by Viktor E.Frankl
-- [ ]  The Fourth Turning by William Strauss
-- [ ]  Generations by William Strauss
-- [ ]  The Singularity Is Near by Ray Kurzweil
-- [ ]  The Everything Store: Jeff Bezos and the Age of Amazon by Brad Stone
-- [ ]  The Rise of Superman by Steven Kotler
-- [ ]  Benjamin Franklin by Walter Isaacson
-- [ ]  Titan: The Life of John D. Rockefeller by Ron Cherow
-- [ ]  How to Live by Sarah Bakewell
-- [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King by Rich Cohen
-- [ ]  Tough Jews by Rich Cohen
+- [ ]  The Psychedelic Explorer’s Guide - James Fadiman
+- [ ]  The Adventures of Johnny Bunko - Daniel H. Pink
+- [ ]  So Good They Can’t Ignore You - Cal Newport
+- [ ]  Shantaram: A Novel - Gregory David Roberts
+- [ ]  Things Hidden Since the Foundation of the World - René Girard
+- [ ]  As a Man Thinketh - James Allen
+- [ ]  The Spirit of St. Louis - Charles A.Lindbergh
+- [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
+- [ ]  Man’s Search for Meaning - Viktor E.Frankl
+- [ ]  The Fourth Turning - William Strauss
+- [ ]  Generations - William Strauss
+- [ ]  The Singularity Is Near - Ray Kurzweil
+- [ ]  The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
+- [ ]  The Rise of Superman - Steven Kotler
+- [ ]  Benjamin Franklin - Walter Isaacson
+- [ ]  Titan: The Life of John D. Rockefeller - Ron Cherow
+- [ ]  How to Live - Sarah Bakewell
+- [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
+- [ ]  Tough Jews - Rich Cohen
 - [ ]  Edison – A Biography by Matthew Josephson
-- [ ]  Ulysses S. Grant: Triumph Over Adversity by Brooks D. Simpson
-- [ ]  The Control of Nature by John McPhee
-- [ ]  Giving Good Weight by John McPhee
-- [ ]  What Makes Sammy Run? by Budd Schulberg
-- [ ]  The Artist’s Way – Morning Pages Journal by Julia Cameron
-- [ ]  Daily Rituals by Mason Currey
-- [ ]  The War of Art by Steven Pressfield
-- [ ]  Blue Ocean Strategy by W. Chan Kim
-- [ ]  Wilderness Essays by Epictitus
-- [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility by Nassim Nicholas Taleb
-- [ ]  Shogun by James Clavell
-- [ ]  One Hundred Years of Solitude by Gabriel Garcia Marquez and Gregory Rabassa
-- [ ]  The Painted Bird by Jerzy Kosinski
-- [ ]  Life Is Elsewhere by Milan Kundera
+- [ ]  Ulysses S. Grant: Triumph Over Adversity - Brooks D. Simpson
+- [ ]  The Control of Nature - John McPhee
+- [ ]  Giving Good Weight - John McPhee
+- [ ]  What Makes Sammy Run? - Budd Schulberg
+- [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
+- [ ]  Daily Rituals - Mason Currey
+- [ ]  The War of Art - Steven Pressfield
+- [ ]  Blue Ocean Strategy - W. Chan Kim
+- [ ]  Wilderness Essays - Epictitus
+- [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
+- [ ]  Shogun - James Clavell
+- [ ]  One Hundred Years of Solitude - Gabriel Garcia Marquez and Gregory Rabassa
+- [ ]  The Painted Bird - Jerzy Kosinski
+- [ ]  Life Is Elsewhere - Milan Kundera
 - [ ]  The Tyranny of Merit - Michael J Sandel
 - [ ]  Quantum Mechanics The Theoretical Minimum - Leonard Susskind & Art Friedman
 - [ ]  I Contain Multitudes - Ed Yong
@@ -275,14 +275,14 @@
 - [ ]  The Humans - Matt Haig
 - [ ]  How To Stop Time - Matt Haig
 - [ ]  The Midnight Library - Matt Haig
-- [ ]  Richard Feynman’s Lectures by Richard Feynman
-- [ ]  Princeton Companion of Mathematics by Timothy Gowers
-- [ ]  Schaum's Outlines by Joel Lerner and James Cashin
-- [ ]  1000 Exercises in Probability by Geoffrey Grimmett and David Stirzaker
-- [ ]  The Nature of Mathematical Modeling by Neil Gershenfeld
-- [ ]  Physics for Scientists and Engineers by Paul Tipler
-- [ ]  Visual Complex Analysis by Tristan Needham
-- [ ]  Visual Complex Functions by Elias Wegert
+- [ ]  Richard Feynman’s Lectures - Richard Feynman
+- [ ]  Princeton Companion of Mathematics - Timothy Gowers
+- [ ]  Schaum's Outlines - Joel Lerner and James Cashin
+- [ ]  1000 Exercises in Probability - Geoffrey Grimmett and David Stirzaker
+- [ ]  The Nature of Mathematical Modeling - Neil Gershenfeld
+- [ ]  Physics for Scientists and Engineers - Paul Tipler
+- [ ]  Visual Complex Analysis - Tristan Needham
+- [ ]  Visual Complex Functions - Elias Wegert
 - [ ]  Antking - Charlie Kaufman
 - [ ]  Reflections in a sacred pond - Murad Ali Balg
 - [ ]  Freedom at Midnight - Dominique Lapierre and Larry Collins
