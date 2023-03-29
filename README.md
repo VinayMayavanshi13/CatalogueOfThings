@@ -292,9 +292,9 @@
 - [ ]  Sputnik Sweetheart - Haruki Murakami
 - [ ]  The Strange Library - Haruki Murakami
 - [ ]  Gulliver's Travels
-- [ ]  Pride and Prejudice book
+- [ ]  Pride and Prejudice - Jane Austen
 - [ ]  Roald Dahl Books
-- [ ]  Enid Blyton books
+- [ ]  Enid Blyton Books
 - [ ]  Agatha Cristie Books
 - [ ]  Lee Child Book Series
 - [ ]  Game of Thrones Book Series
@@ -472,72 +472,72 @@
 - [x]  Thor Ragnarok
 - [x]  Captain America 
 - [x]  Captain America - Winter Soldier
-- [x] Captain America - Civil War
-- [x] Doctor Strange
-- [x] Avengers Infinity War
-- [x] Avengers End Game
-- [x] Spider Man - No Way Home
-- [x] Guardians of the Galaxy Vol. 1 and 2
-- [ ] Watch Men
-- [x] Kantara
-- [ ] Yashoda
-- [x] Chup
-- [x] Sita Raman
-- [x] 96
-- [x] Jodha Akbar
-- [x] Ek Deewana tha
-- [x] Monica O My Darling
-- [x] Ponniyin Selvan 1
-- [ ] The Big Shot 
-- [ ] Good Will Hunting
-- [ ] The Beautiful Mind 
-- [ ] The Wolf of Wall Street
-- [ ] The Pursuit of Happyness
-- [ ] Catch Me If You Can
-- [ ] Schindler's List 
-- [ ] Martian
-- [ ] 2001: A Space Odyssey
-- [x] The Prestige
-- [ ] Snowden
-- [ ] Dunkirk
-- [ ] The Internship
-- [ ] The Founder 
-- [x] The Imitation Game 
-- [ ] Lone Survivor
-- [ ] The Man Who Knew Infinity
-- [ ] Athena
-- [ ] The Intern
-- [x] Ghazi Attack
-- [x] Shershah
-- [x] Sardar Uddham Singh
-- [x] Major
-- [x] Spiderman - No Way Home
-- [ ] The Pianist 
-- [ ] Parasite
-- [ ] Pulp Fiction
-- [ ] The Green Mile
-- [ ] Margin Call
-- [ ] Wall Street
-- [ ] Fight Club 
-- [ ] Amores Perros
-- [ ] 7 Boxes
-- [ ] Chhapa Kurishu
-- [ ] Deewar
-- [ ] October
-- [ ] Khamoshi
-- [ ] Martian
-- [ ] The Girl With the Dragon Tattoo
-- [ ] Now You See Me 1 and 2
-- [ ] The Time Traveler's Wife 
-- [ ] The Pirates of Silicon Valley
-- [ ] Mission: Impossible Movie Series
-- [ ] Fast and Furious Franchise Movies (from Initial Years)
-- [ ] Hacksaw Ridge
-- [ ] Lion
-- [ ] Don't Look Up
-- [ ] Glengarry Glen Ross
-- [ ] The Man from earth
-- [ ] The Raid (Part 1 & 2)
+- [x]  Captain America - Civil War
+- [x]  Doctor Strange
+- [x]  Avengers Infinity War
+- [x]  Avengers End Game
+- [x]  Spider Man - No Way Home
+- [x]  Guardians of the Galaxy Vol. 1 and 2
+- [ ]  Watch Men
+- [x]  Kantara
+- [ ]  Yashoda
+- [x]  Chup
+- [x]  Sita Raman
+- [x]  96
+- [x]  Jodha Akbar
+- [x]  Ek Deewana tha
+- [x]  Monica O My Darling
+- [x]  Ponniyin Selvan
+- [ ]  The Big Shot 
+- [ ]  Good Will Hunting
+- [ ]  The Beautiful Mind 
+- [ ]  The Wolf of Wall Street
+- [ ]  The Pursuit of Happyness
+- [ ]  Catch Me If You Can
+- [ ]  Schindler's List 
+- [ ]  Martian
+- [ ]  2001: A Space Odyssey
+- [x]  The Prestige
+- [ ]  Snowden
+- [ ]  Dunkirk
+- [ ]  The Internship
+- [ ]  The Founder 
+- [x]  The Imitation Game 
+- [ ]  Lone Survivor
+- [ ]  The Man Who Knew Infinity
+- [ ]  Athena
+- [ ]  The Intern
+- [x]  Ghazi Attack
+- [x]  Shershah
+- [x]  Sardar Uddham Singh
+- [x]  Major
+- [x]  Spiderman - No Way Home
+- [ ]  The Pianist 
+- [ ]  Parasite
+- [ ]  Pulp Fiction
+- [ ]  The Green Mile
+- [ ]  Margin Call
+- [ ]  Wall Street
+- [ ]  Fight Club 
+- [ ]  Amores Perros
+- [ ]  7 Boxes
+- [ ]  Chhapa Kurishu
+- [ ]  Deewar
+- [ ]  October
+- [ ]  Khamoshi
+- [ ]  Martian
+- [ ]  The Girl With the Dragon Tattoo
+- [ ]  Now You See Me 1 and 2
+- [ ]  The Time Traveler's Wife 
+- [ ]  The Pirates of Silicon Valley
+- [ ]  Mission: Impossible Movie Series
+- [ ]  Fast and Furious Franchise Movies (from Initial Years)
+- [ ]  Hacksaw Ridge
+- [ ]  Lion
+- [ ]  Don't Look Up
+- [ ]  Glengarry Glen Ross
+- [ ]  The Man from earth
+- [ ]  The Raid (Part 1 & 2)
 
 ## Web Series
 - [x]  Strangers Things - 4 Seasons.
