@@ -1,6 +1,17 @@
 # CatalogueOfThings
+Welcome to the "Category of Things" repository! This is a place where you can find a curated list of books to read, movies to watch, web series to binge on, TV shows to enjoy, anime to explore, and even some internet rabbit holes to dive into.
 
-## Books
+## Table of Contents
+
+-   [Books](#Books)
+-   [Movies](#Movies)
+-   [Web Series](#Web-Series)
+-   [TV Shows](#TV-Shows)
+-   [Documentaries](#Documentaries)
+-   [Anime](#Anime)
+-   [Internet Rabbit Holes](#Internet-Rabbit-Holes)
+
+## [Books](https://github.com/VinayMayavanshi13/CatalogueOfThings#Books)
 - [x]  How to Win friends and Influence People - Dale Carnegie
 - [x]  Zero to One  - Blake Masters and Peter Thiel
 - [x]  The Almanack Of Naval Ravikant - Eric Jorgenson
@@ -299,7 +310,7 @@
 - [ ]  Lee Child Book Series
 - [ ]  Game of Thrones Book Series
 
-## Movies
+## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
 - [x]  Inception
 - [x]  The Dark Knight Trilogy
@@ -539,7 +550,7 @@
 - [ ]  The Man from earth
 - [ ]  The Raid (Part 1 & 2)
 
-## Web Series
+## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [x]  Strangers Things - 4 Seasons.
 - [x]  Scam 1992
 - [x]  Manhunt Unabomber
@@ -598,14 +609,14 @@
 - [ ]  The Lost Room
 - [ ]  Sliders
 
-## TV Shows
+## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 - [x]  BR Chopra's Mahabharat
 - [x]  Ramanand Sagar's Ramayan
 - [ ]  The Office
 - [ ]  The Big Bang Theory
 - [ ]  Brooklyn Nine Nine
 
-## Documentaries
+## [Documentaries](https://github.com/VinayMayavanshi13/CatalogueOfThings#Documentaries)
 - [ ]  14 Peaks
 - [ ]  Seaspiracy
 - [ ]  The Mystery of Marilyn Munroe
@@ -635,11 +646,11 @@
 - [ ]  The Men Who Made Us Spend
 - [ ]  HyperNormalisation
 
-## Anime 
+## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
 - [ ] Death Note
 
-## Internet Rabbit Holes
+## [Internet Rabbit Holes](https://github.com/VinayMayavanshi13/CatalogueOfThings#Internet-Rabbit-Holes)
 - [folklore.org](https://www.folklore.org/) : Stories about the development of the original Macintosh.
 
 - [HackerNews](https://news.ycombinator.com/) : A good suggestion for anyone looking for interesting articles
