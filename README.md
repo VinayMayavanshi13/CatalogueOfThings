@@ -685,3 +685,9 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ReadSomethingGreat](https://www.readsomethinggreat.com/)
 
 - [Blakeir](https://blakeir.com/)
+
+- [Melting Asphalt](https://meltingasphalt.com/)
+
+- [Stratchery](https://stratechery.com/)
+
+- [Idle Words](https://idlewords.com/)
