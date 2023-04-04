@@ -549,6 +549,10 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Glengarry Glen Ross
 - [ ]  The Man from earth
 - [ ]  The Raid (Part 1 & 2)
+- [ ]  Monsoon Shootout
+- [ ]  A Death In The Gunj
+- [ ]  Gali Guleiyan
+- [ ]  Manorama : Six Feet Under
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [x]  Strangers Things - 4 Seasons.
