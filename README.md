@@ -388,6 +388,15 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  This Is How It Always Is - Laurie Frankel
 - [ ]  Win Without Pitching Manifesto - Blair Enns
 - [ ]  The Coaching Habit - Michael Bungay Stanier
+- [ ]  Socratic Selling - Kevin Daley
+- [ ]  7 Strategies for Wealth & Happiness - Jim Rohn
+- [ ]  The Brand Flip - Marty Neumeier
+- [ ]  No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model - Richard Schwartz
+- [ ]  The Push Man and Other Stories by Yoshihiro Tatsumi 
+- [ ]  Tintin and the Secret of Literature by Tom McCarthy
+- [ ]  Scalped (American Novel Series) by Jason Aaron
+- [ ]  Reasons of Belonging: Fourteen Contemporary Indian Poets
+- [ ]  City of Glass by Paul Auster
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
