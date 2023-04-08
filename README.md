@@ -407,6 +407,13 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Benjamin Franklin by Carl Van Doren
 - [ ]  Franklin of Philadelphia by Edmond Wright 
 - [ ]  "I Never Wanted to be Vice-President of Anything!": An Investigative Biography of Nelson Rockefeller by Michael Kramer and Sam Roberts 
+- [ ]  Henry J. Kaiser: Builder in the Modern American West by Mark Foster (I read this a few years ago — it’s episode 66)
+- [ ]  Carnegie by Peter Krass 
+- [ ]  Conversations with Lee Kuan Yew: Citizen Singapore: How to Build a Nation by Tom Plate 
+- [ ]  The Wizard and the Prophet by Charles Mann 
+- [ ]  Herbert Hoover: A Public Life by David Burner 
+- [ ]  Coolidge by Amity Shlaes 
+- [ ]  Ivan Pavlov: A Russian Life in Science by Daniel Todes 
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
