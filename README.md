@@ -719,11 +719,9 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  The leftovers
 - [ ]  Mare of Easttown
 - [x]  Maharani
-- [x]  Scam 1992
 - [x]  Rocket Boys
 - [ ]  Jack Ryan
 - [x]  Kaleidoscope
-- [ ]  Rick And Morty - Animated Show
 - [ ]  Game of thrones
 - [ ]  The Man in the High Castle
 - [ ]  Broadchurch 
@@ -771,6 +769,7 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
 - [ ] Death Note
+- [ ] Rick And Morty - Animated Show
 
 ## [Internet Rabbit Holes](https://github.com/VinayMayavanshi13/CatalogueOfThings#Internet-Rabbit-Holes)
 - [folklore.org](https://www.folklore.org/) : Stories about the development of the original Macintosh.
