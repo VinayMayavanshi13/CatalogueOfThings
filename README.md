@@ -352,7 +352,17 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Social Animal by David Brooks -
 - [ ]  The Tipping Point by Malcolm Gladwell
 - [ ]  Gone Girl by Gillian Flynn
-
+- [ ]  Tuesdays With Morrie - Mitch Albom
+- [ ]  Atonement - Ian Mcewan
+- [ ]  Glengarry Glen Ross by David Mamet
+- [ ]  Hey, Whipple, Squeeze This by Luke Sullivan and Sam Bennett 
+- [ ]  The Copy Book by Rotovision
+- [ ]  Pandeymonium: Piyush Pandey On Advertising by Piyush Pandey 
+- [ ]  Bill Bernbach's Book: A History of Advertising That Changed the History of Advertising by Bob Levenson  
+- [ ]  Ogilvy on Advertising in the Digital Age by Miles Young
+- [ ]  Mandate: Will of the People by Vir Sanghvi
+- [ ]  My Lady Jane by Book by Brodi Ashton, Cynthia Hand, and Jodi Meadows
+- [ ]  Toba Tek Singh by Saadat Hasan Manto
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
