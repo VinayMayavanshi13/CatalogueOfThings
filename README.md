@@ -397,6 +397,16 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Scalped (American Novel Series) by Jason Aaron
 - [ ]  Reasons of Belonging: Fourteen Contemporary Indian Poets
 - [ ]  City of Glass by Paul Auster
+- [ ]  The Conversations: Walter Murch and the Art of Editing Film by Michael Ondaatje
+- [ ]  The Stiglitz Report by Joseph E Stiglitz
+- [ ]  The Argumentative Indian by Amartya Sen
+- [ ]  Imagining India by Nandan Nilekani
+- [ ]  Indira: The Life of Indira Nehru Gandhi by Katherine Frank
+- [ ]  Not Your Usual Founding Father: Selected Readings from Benjamin Franklin by Ben Franklin and Edmund Morgan 
+- [ ]  Benjamin Franklin by Edmund Morgan 
+- [ ]  Benjamin Franklin by Carl Van Doren
+- [ ]  Franklin of Philadelphia by Edmond Wright 
+- [ ]  "I Never Wanted to be Vice-President of Anything!": An Investigative Biography of Nelson Rockefeller by Michael Kramer and Sam Roberts 
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
