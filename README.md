@@ -414,6 +414,19 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Herbert Hoover: A Public Life by David Burner 
 - [ ]  Coolidge by Amity Shlaes 
 - [ ]  Ivan Pavlov: A Russian Life in Science by Daniel Todes 
+- [ ]  The Story-life of Lincoln: A Biography Composed of Five Hundred True Stories Told by Abraham Lincoln and his Friends by Wayne Whipple 
+- [ ]  The Collected Works of Abraham Lincoln; 8 volumes by Roy Balser 
+- [ ]  The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965 by Paul Reid and William Manchester 
+- [ ]  The Man from Monticello: An Intimate Life of Thomas Jefferson by Thomas Fleming 
+- [ ]  Woodrow Wilson by H.W. Brands 
+- [ ]  The Life of Sir William Osler by Harvey Cushing 
+- [ ]  Diary and Autobiography of John Adams 
+- [ ]  Eugene Meyer by Merlo John Pusey
+- [ ]  Max Planck: Driven by Vision, Broken by War by Brandon Brown 
+- [ ]  David Sarnoff: A Biography by Eugene Lyons 
+- [ ]  Einstein: Life and Times by Ronald W. Clark
+- [ ]  All of Mark Twain’s Letters (5 Volumes) 
+- [ ]  John D. Rockefeller Interviews by William O. Inglis 1917-1920
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
