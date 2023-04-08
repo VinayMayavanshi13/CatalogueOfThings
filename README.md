@@ -732,6 +732,7 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 - [x]  BR Chopra's Mahabharat
 - [x]  Ramanand Sagar's Ramayan
+- [ ]  Rick And Morty - Animated Show
 - [ ]  The Office
 - [ ]  The Big Bang Theory
 - [ ]  Brooklyn Nine Nine
@@ -769,7 +770,6 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
 - [ ] Death Note
-- [ ] Rick And Morty - Animated Show
 
 ## [Internet Rabbit Holes](https://github.com/VinayMayavanshi13/CatalogueOfThings#Internet-Rabbit-Holes)
 - [folklore.org](https://www.folklore.org/) : Stories about the development of the original Macintosh.
