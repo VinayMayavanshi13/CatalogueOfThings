@@ -379,6 +379,15 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  A Girl is a Half-formed Thing -Eimear McBride
 - [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
 - [ ]  Invisible Women - Caroline Criado Perez
+- [ ]  The Haunting of Alma Fielding - Kate Summerscale
+- [ ]  The Year of Magical Thinking - Joan Didion
+- [ ]  The Tibetan Book of the Dead - Grahan Coleman
+- [ ]  Shuggie Bain - Douglas Stuart
+- [ ]  Americanah - Chimamanda Ngozi Adichie
+- [ ]  Cold Earth - Sarah Moss
+- [ ]  This Is How It Always Is - Laurie Frankel
+- [ ]  Win Without Pitching Manifesto - Blair Enns
+- [ ]  The Coaching Habit - Michael Bungay Stanier
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
