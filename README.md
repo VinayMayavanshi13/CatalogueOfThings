@@ -315,6 +315,13 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  JED Mckenna's Notebook
 - [ ]  UNIX: A History and a Memoir - Brian W Kernighan
 - [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
+- [ ]  Bad Blood - John Carreyrou
+- [ ]  Empire of Pain - Patrick Radden Keefe
+- [ ]  A Spy Among Friends : Philby and the Great Betrayal - Ben Macintyre
+- [ ]  The Glass Bead Game - Hermann Hesse
+- [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
+- [ ]  House of Sleep - Jonathan Coe
+- [ ]  The First Fifteen Lives of Harry August - Claire North
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
