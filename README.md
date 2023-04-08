@@ -313,6 +313,8 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Theory Of Everything - JED McKenna
 - [ ]  The Enlightment Triology - JED Mckenna
 - [ ]  JED Mckenna's Notebook
+- [ ]  UNIX: A History and a Memoir - Brian W Kernighan
+- [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
