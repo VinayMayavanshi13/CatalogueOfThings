@@ -309,6 +309,10 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Agatha Cristie Books
 - [ ]  Lee Child Book Series
 - [ ]  Game of Thrones Book Series
+- [ ]  Four Thousand Weeks - Oliver Burkeman
+- [ ]  Theory Of Everything - JED McKenna
+- [ ]  The Enlightment Triology - JED Mckenna
+- [ ]  JED Mckenna's Notebook
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
