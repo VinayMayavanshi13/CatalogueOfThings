@@ -336,6 +336,23 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Jokes and Their Relation to the Unconscious by Sigmund Freud
 - [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
 - [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
+- [ ]  Andha Yug by Dharamvir Bharati
+- [ ]  Rama's Last Act by Bhavabhuti
+- [ ]  We Know It When We See It - Richard Masland
+- [ ]  The Science of Storytelling - Will Storr
+- [ ]  The Hero's Journey - Joseph Campbell
+- [ ]  Ready Player One by Ernest Cline
+- [ ]  Fahrenheit 451 by Ray Bradbury
+- [ ]  Red Rising Series by Pierce Brown 
+- [ ]  Harry Potter and the Prisoner of Azkaban by J.K. Rowling 
+- [ ]  1984 by George Orwell
+- [ ]  Shining by Stephen King
+- [ ]  Pet Sematary by Stephen King
+- [ ]  Purple Cow by Seth Godin
+- [ ]  Social Animal by David Brooks -
+- [ ]  The Tipping Point by Malcolm Gladwell
+- [ ]  Gone Girl by Gillian Flynn
+
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
