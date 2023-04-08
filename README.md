@@ -326,7 +326,16 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
 - [ ]  Alice in Wonderland - Lewis Carroll
 - [ ]  Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
-
+- [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
+- [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
+- [ ]  The Ayatollah Begs to Differ by Hooman Majd
+- [ ]  Hard-Boiled Wonderland and the End of the World by Haruki Murakami
+- [ ]  Gerrard: My Autobiography by Steven Gerrard
+- [ ]  Intuition Pumps and Other Tools for Thinking by Daniel Dennett 
+- [ ]  Civilization and Its Discontents by Sigmund Freud 
+- [ ]  Jokes and Their Relation to the Unconscious by Sigmund Freud
+- [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
+- [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
