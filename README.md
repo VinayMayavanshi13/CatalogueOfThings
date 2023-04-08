@@ -363,6 +363,22 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Mandate: Will of the People by Vir Sanghvi
 - [ ]  My Lady Jane by Book by Brodi Ashton, Cynthia Hand, and Jodi Meadows
 - [ ]  Toba Tek Singh by Saadat Hasan Manto
+- [ ]  To Kill a Mockingbird by Harper Lee 
+- [ ]  The Catcher in the Rye by J. D. Salinger
+- [ ]  The Complete Hitchiker Series by Douglas Adams
+- [ ]  Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore
+- [ ]  Song Of Drapaudi - Ira Mukhoty 
+- [ ]  Daughters of the Sun: Empresses, Queens and Begums of the Mughal Empire - Ira Mukhtoy
+- [ ]  Akbar - Ira Mukhoty 
+- [ ]  Heroines: Powerful Indian Women of Myth and History - Ira Mukhoty 
+- [ ]  The Left Hand of Darkness - Ursula K. Le Guin
+- [ ]  India in the Persianate Age - Richard M Eaton
+- [ ]  This House of Grief - Helen Garner
+- [ ]  Joe Cinque's Consolation - Helen Garner
+- [ ]  Beloved - Toni Morrison
+- [ ]  A Girl is a Half-formed Thing -Eimear McBride
+- [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
+- [ ]  Invisible Women - Caroline Criado Perez
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
