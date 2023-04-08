@@ -322,6 +322,11 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
 - [ ]  House of Sleep - Jonathan Coe
 - [ ]  The First Fifteen Lives of Harry August - Claire North
+- [ ]  The History of the Peloponnesian War - Thucydides
+- [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
+- [ ]  Alice in Wonderland - Lewis Carroll
+- [ ]  Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
+
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
