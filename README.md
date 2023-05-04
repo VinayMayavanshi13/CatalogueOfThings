@@ -807,37 +807,37 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  The Dissident <br/>
 - When Washington Post journalist Jamal Khashoggi disappears in Istanbul, his fiancée and dissidents around the world piece together the clues to his murder and expose a global cover-up.
 - [ ]  American Factory <br/>
-A Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.
+- A Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.
 - [ ]  The Summit <br/>
-In August 2008, 22 climbers met on High Camp of K2, the last stop before the summit. 48 hours later, 11 had been killed. At the heart of the film is a mystery about one extraordinary man–Ger McDonnell, the first Irishman to summit K2.
+- In August 2008, 22 climbers met on High Camp of K2, the last stop before the summit. 48 hours later, 11 had been killed. At the heart of the film is a mystery about one extraordinary man–Ger McDonnell, the first Irishman to summit K2.
 - [ ]  The Beatles Get Back <br/>
-Watch as the Beatles work to write and rehearse 14 new songs for their first live show in more than two years; including their unforgettable rooftop concert at London's Savile Row.
+-Watch as the Beatles work to write and rehearse 14 new songs for their first live show in more than two years; including their unforgettable rooftop concert at London's Savile Row.
 - [ ]  The King of Kong <br/>
-In 1999, Billy Mitchell set a record score in "Donkey Kong" that many felt would never be broken. In 2003 Steve Wiebe set out to beat it. Watch as both men battle for the title of the supreme king of gaming.
+- In 1999, Billy Mitchell set a record score in "Donkey Kong" that many felt would never be broken. In 2003 Steve Wiebe set out to beat it. Watch as both men battle for the title of the supreme king of gaming.
 - [ ]  Sir Alex Ferguson <br/>
-A look at how Sir Alex Ferguson became one of the greatest football coaches of all time while recovering from a cerebral hemorrhage.
+- A look at how Sir Alex Ferguson became one of the greatest football coaches of all time while recovering from a cerebral hemorrhage.
 - [ ]  Chasing Ice <br/>
-Follow National Geographic photographer James Balog across the Arctic as he deploys time-lapse cameras designed for one purpose: to capture a multi-year record of the world's changing glaciers.
+- Follow National Geographic photographer James Balog across the Arctic as he deploys time-lapse cameras designed for one purpose: to capture a multi-year record of the world's changing glaciers.
 - [ ]  Last Breath <br/>
-A deep-sea diver is stranded on the seabed with 5 minutes of oxygen and no hope of rescue. With access to an amazing archive, this is the story of one man's impossible fight for survival.
+- A deep-sea diver is stranded on the seabed with 5 minutes of oxygen and no hope of rescue. With access to an amazing archive, this is the story of one man's impossible fight for survival.
 - [ ]  Cooked  <br/>
-Watch acclaimed food writer Michael Pollan explore how cooking transforms food and shapes our world. Each episode focuses on a different natural element and its relationship to both ancient and modern cooking methods.
+- Watch acclaimed food writer Michael Pollan explore how cooking transforms food and shapes our world. Each episode focuses on a different natural element and its relationship to both ancient and modern cooking methods.
 - [ ]  One Child Nation <br/>
-A stunning look into how a nation prioritizes its national agenda over human life and tells the truth about China's "population war" and its one-child policy.
+- A stunning look into how a nation prioritizes its national agenda over human life and tells the truth about China's "population war" and its one-child policy.
 - [ ]  Particle Fever <br/>
-As the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time, or perhaps their greatest failure.
+- As the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time, or perhaps their greatest failure.
 - [ ]  Meru <br/>
-Three elite climbers struggle to find their way through obsession and loss as they attempt to climb Mount Meru, one of the most coveted prizes in the high stakes game of Himalayan big wall climbing.
+- Three elite climbers struggle to find their way through obsession and loss as they attempt to climb Mount Meru, one of the most coveted prizes in the high stakes game of Himalayan big wall climbing.
 - [ ]  Into the Inferno <br/>
-A 2016 documentary film directed by Werner Herzog. In it, Herzog explores active volcanoes from around the world and the people who risk everything living near them.
+- A 2016 documentary film directed by Werner Herzog. In it, Herzog explores active volcanoes from around the world and the people who risk everything living near them.
 - [ ]  Human Harvest <br/>
-Nobel Peace Prize nominees David Matas and David Kilgour investigate the organ harvesting trade in China and uncover one of the world’s worst crimes against humanity.
+- Nobel Peace Prize nominees David Matas and David Kilgour investigate the organ harvesting trade in China and uncover one of the world’s worst crimes against humanity.
 - [ ]  The Andy Warhol Diaries <br/>
-A breathtakingly expansive, six-part portrait of a legend chronicles the remarkable life of Andy Warhol from the intimate vantage point offered by the artist’s own posthumously published diaries.
+- A breathtakingly expansive, six-part portrait of a legend chronicles the remarkable life of Andy Warhol from the intimate vantage point offered by the artist’s own posthumously published diaries.
 - [ ]  Jean-Michel Basquiat: The Radiant Child <br/>
-A documentary about the legendary New York painter Jean-Michel Basquiat. It explores Basquiat's rise in the art world, his close relationship with Warhol, and looks at how he coped with scrutiny and fame.
+- A documentary about the legendary New York painter Jean-Michel Basquiat. It explores Basquiat's rise in the art world, his close relationship with Warhol, and looks at how he coped with scrutiny and fame.
 - [ ]  Banksy Does New York <br/>
-An eye-opening documentary that follows elusive street artist Banksy as he attempts to create 31 unique pieces of art in 31 days in New York while constantly evading the NYPD.
+- An eye-opening documentary that follows elusive street artist Banksy as he attempts to create 31 unique pieces of art in 31 days in New York while constantly evading the NYPD.
 
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
