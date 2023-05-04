@@ -436,6 +436,17 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Walden - Henry David Thoreau
 - [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
 - [ ]  The Nicomachean Ethics - Aristotle
+- [ ]  Nobody Wants to Read Your Sh*t - Steven Pressfield
+- [ ]  On Writing Well - William Zinsser
+- [ ]  How to Write Short - Roy Peter Clarke
+- [ ]  Bird by Bird - Anne Lamott
+- [ ]  100 Ways to Improve Your Writing - Gary Provost
+- [ ]  Everybody Writes - Ann Handley
+- [ ]  Consider This - Chuck Palahniuk
+- [ ]  The Elements of Style - Shrunk and White
+- [ ]  Writing Tools - Roy Peter Clarke
+- [ ]  Do I Make Myself Clear - Harold Evans
+- [ ]  If You Want To Write - Brenda Ueland
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
