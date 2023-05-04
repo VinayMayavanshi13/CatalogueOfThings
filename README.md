@@ -447,6 +447,20 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Writing Tools - Roy Peter Clarke
 - [ ]  Do I Make Myself Clear - Harold Evans
 - [ ]  If You Want To Write - Brenda Ueland
+- [ ]  Clear and Simple as the Truth - Francis-Noël Thomas
+- [ ]  The Invention of Nature - Andrea Wulf
+- [ ]  The Elements of Eloquence - Mark Forsyth
+- [ ]  The War of Art - Steven Pressfield
+- [ ]  Lies My Teacher Told Me - James W Loewen
+- [ ]  The Lessons of History - Ariel Durant & Will Durant
+- [ ]  The Guns of August - Barbara W. Tuchman
+- [ ]  Genghis Khan and the Making of the Modern World - Jack Weatherford
+- [ ]  1776 - David McCullough
+- [ ]  The Warmth of Other Suns - Isabel Wilkerson
+- [ ]  SPQR - Mary Beard
+- [ ]  A Little History of the World - E. H. Gombrich
+- [ ]  Bury My Heart At Wounded Knee - Dee Brown
+- [ ]  The Silk Roads - Peter Frankopan
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
