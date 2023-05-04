@@ -427,6 +427,15 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  Einstein: Life and Times by Ronald W. Clark
 - [ ]  All of Mark Twain’s Letters (5 Volumes) 
 - [ ]  John D. Rockefeller Interviews by William O. Inglis 1917-1920
+- [ ]  Thus Spoke Zarathustra - Friedrich Nietzsche
+- [ ]  The Tao Of Pooh - Benjamin Hoff
+- [ ]  Beyond Good And Evil - Friedrich Nietzsche
+- [ ]  The Story Of Philosophy - Will Durant
+- [ ]  The Republic - Plato
+- [ ]  Letters From A Stoic - Seneca
+- [ ]  Walden - Henry David Thoreau
+- [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
+- [ ]  The Nicomachean Ethics - Aristotle
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
