@@ -461,6 +461,23 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  A Little History of the World - E. H. Gombrich
 - [ ]  Bury My Heart At Wounded Knee - Dee Brown
 - [ ]  The Silk Roads - Peter Frankopan
+- [ ]  An Ancestor’s Tale - Richard Dawkins
+- [ ]  The Dawn of Everything - David Graeber and David Wengrow
+- [ ]  The March of Folly - Barbara W. Tuchman
+- [ ]  A People's History of the United States - Howard Zinn
+- [ ]  How to Hide an Empire - Daniel Immerwahr
+- [ ]  Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease and How to Fight It - Benjamin Bikman
+- [ ]  Being Mortal - Atul Gawande
+- [ ]  Food - Mark Hyman
+- [ ]  Breath - James Nestor
+- [ ]  We Zebras Don’t Get Ulcers - Robert sapolsky
+- [ ]  The Blue Zones Kitchen - Dan Buettner
+- [ ]  Boundless - Ben Greenfield
+- [ ]  Good Calories, Bad Calories  - Gary Taubes
+- [ ]  Metabolical - Robert Lustig
+- [ ]  In Defense of Food - Michael Pollan
+- [ ]  How Not to Die: Discover the Foods Scientifically Proven to Prevent and - [ ]  Reverse Disease - Michael Greger
+- [ ]  The China Study - T. Colin Campbell
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
