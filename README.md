@@ -751,6 +751,8 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [ ]  The Patience Stone (2013)
 - [ ]  Taxi (2015)
 - [ ]  Life and a Day (2016)
+- [ ]  Whiplash
+- [ ]  Pi (1998)
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [x]  Strangers Things - 4 Seasons.
