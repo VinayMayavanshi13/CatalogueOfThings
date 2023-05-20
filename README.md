@@ -559,7 +559,7 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [x]  Murder 2
 - [x]  Bahubali 1, 2
 - [ ]  Moneyball 
-- [ ]  Love and Other Drugs
+- [x]  Love and Other Drugs
 - [ ]  Kaminey
 - [ ]  Kuttey
 - [ ]  Operation Romeo
@@ -667,7 +667,7 @@ Welcome to the "Category of Things" repository! This is a place where you can fi
 - [x]  Jodha Akbar
 - [x]  Ek Deewana tha
 - [x]  Monica O My Darling
-- [x]  Ponniyin Selvan
+- [x]  Ponniyin Selvan I & II
 - [ ]  The Big Shot 
 - [ ]  Good Will Hunting
 - [ ]  The Beautiful Mind 
