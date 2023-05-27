@@ -1,5 +1,5 @@
 # CatalogueOfThings
-Welcome to the "Category of Things" repository! This is a place where you can find a curated list of books to read, movies to watch, web series to binge on, TV shows to enjoy, documentaries to educate, anime to explore, and even some internet rabbit holes to dive into.
+Welcome to the "Catalogue of Things" repository! This is a place where you can find a curated list of books to read, movies to watch, web series to binge on, TV shows to enjoy, documentaries to educate, anime to explore, and even some internet rabbit holes to dive into.
 
 ## Table of Contents
 
