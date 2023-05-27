@@ -478,6 +478,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  In Defense of Food - Michael Pollan
 - [ ]  How Not to Die: Discover the Foods Scientifically Proven to Prevent and - [ ]  Reverse Disease - Michael Greger
 - [ ]  The China Study - T. Colin Campbell
+- [ ]  Rashmirathi By Dinkar in Hindi (Book on Mahabharat's Karn)
+- [ ]  More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin
+
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [x]  Interstellar
