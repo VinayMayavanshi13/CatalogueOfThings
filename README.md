@@ -12,9 +12,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 -   [Internet Rabbit Holes](#Internet-Rabbit-Holes)
 
 ## [Books](https://github.com/VinayMayavanshi13/CatalogueOfThings#Books)
-- [x]  How to Win friends and Influence People - Dale Carnegie
-- [x]  Zero to One  - Blake Masters and Peter Thiel
-- [x]  The Almanack Of Naval Ravikant - Eric Jorgenson
+- [ ]  How to Win friends and Influence People - Dale Carnegie
+- [ ]  Zero to One  - Blake Masters and Peter Thiel
+- [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
 - [ ]  Chanakya Neeti - B. K. Chaturvedi
 - [ ]  The Brief History of Nearly Everthing - Bill Bryson
 - [ ]  When we cease to understand the world - Benjamin Labatut
@@ -483,19 +483,19 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
-- [x]  Interstellar
-- [x]  Inception
-- [x]  The Dark Knight Trilogy
-- [x]  The Shawshank Redemption
-- [x]  V
-- [x]  Go Goa Gone
-- [x]  Garam Masala 
-- [x]  New York
-- [x]  Force
-- [x]  Munnabhai MBBS
-- [x]  3 Idiots
-- [x]  PK
-- [x]  Chakde India
+- [ ]  Interstellar
+- [ ]  Inception
+- [ ]  The Dark Knight Trilogy
+- [ ]  The Shawshank Redemption
+- [ ]  V
+- [ ]  Go Goa Gone
+- [ ]  Garam Masala 
+- [ ]  New York
+- [ ]  Force
+- [ ]  Munnabhai MBBS
+- [ ]  3 Idiots
+- [ ]  PK
+- [ ]  Chakde India
 - [ ]  Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
 - [ ]  Coherence
 - [ ]  Her
@@ -515,7 +515,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Shakti 
 - [ ]  Luck By Chance
 - [ ]  Mother India
-- [x]  No Smoking 
+- [ ]  No Smoking 
 - [ ]  Mughal E Azam
 - [ ]  Pihu 
 - [ ]  The Legend of Bhagat Singh
@@ -533,7 +533,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Black Friday
 - [ ]  Irreversible
 - [ ]  Raajneeti
-- [x]  Talvar
+- [ ]  Talvar
 - [ ]  Eternal Sunshine of a Spotless Mind
 - [ ]  Lucy 
 - [ ]  Limitless
@@ -543,31 +543,31 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Andaz Apna Apna
 - [ ]  Black Friday - Anurag Kashyab
 - [ ]  Swades
-- [x]  Rang De Basanti 
+- [ ]  Rang De Basanti 
 - [ ]  Madras Cafe
 - [ ]  The Irishman
 - [ ]  Zero Dark Thirty
 - [ ]  Half Moon (Iranian Movie)
-- [x]  Parmanu
-- [x]  Shootout at Lokhandwala
-- [x]  Aan Men at Work
-- [x]  Mission Kashmir
-- [x]  De Dana dhan
-- [x]  Luck
-- [x]  Awara Pagal Dewana
-- [x]  Khatta Meetha
-- [x]  Bhaag Milkha Bhaag
-- [x]  Kai Po Chhe
-- [x]  Dear Dad
-- [x]  Murder 2
-- [x]  Bahubali 1, 2
+- [ ]  Parmanu
+- [ ]  Shootout at Lokhandwala
+- [ ]  Aan Men at Work
+- [ ]  Mission Kashmir
+- [ ]  De Dana dhan
+- [ ]  Luck
+- [ ]  Awara Pagal Dewana
+- [ ]  Khatta Meetha
+- [ ]  Bhaag Milkha Bhaag
+- [ ]  Kai Po Chhe
+- [ ]  Dear Dad
+- [ ]  Murder 2
+- [ ]  Bahubali 1, 2
 - [ ]  Moneyball 
-- [x]  Love and Other Drugs
+- [ ]  Love and Other Drugs
 - [ ]  Kaminey
 - [ ]  Kuttey
 - [ ]  Operation Romeo
 - [ ]  Aakrosh
-- [x]  Chandni Chowk to China 
+- [ ]  Chandni Chowk to China 
 - [ ]  Queen
 - [ ]  Scent of a Woman 
 - [ ]  The Curious Case of Benjamin Button 
@@ -576,15 +576,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Good Fellas
 - [ ]  Joker
 - [ ]  Gasper Noe Movie - Love  (Erotic) 
-- [x]  Lakshya
-- [x]  Raazi
-- [x]  Satya
-- [x]  Sarkar 
-- [x]  Rakht Charitra
-- [x]  Phantom
-- [x]  Dil Chahta hai
-- [x]  Zindagi Na Milegi Dobara 
-- [x]  Titanic  
+- [ ]  Lakshya
+- [ ]  Raazi
+- [ ]  Satya
+- [ ]  Sarkar 
+- [ ]  Rakht Charitra
+- [ ]  Phantom
+- [ ]  Dil Chahta hai
+- [ ]  Zindagi Na Milegi Dobara 
+- [ ]  Titanic  
 - [ ]  Coded Bias
 - [ ]  Citizenfour 
 - [ ]  Indie Game
@@ -602,75 +602,75 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Udaan
 - [ ]  The Batman (2022)
 - [ ]  Rush
-- [x]  Gangs of Wasseypur 1,2
-- [x]  Satya
-- [x]  Masaan
-- [x]  Uri : The Surgical Strike
-- [x]  Dhrishyam 2
-- [x]  Tenet
-- [x]  Vikram
-- [x]  Asuran
-- [x]  War
-- [x]  The Kashmir Files
-- [x]  Darlings
-- [x]  Salaam Venky
-- [x]  Pushpa the rise
-- [x]  Soorarai Pottru
-- [x]  Gully Boy
-- [x]  Jay Bhim
-- [x]  Forensic
-- [x]  Freddy
+- [ ]  Gangs of Wasseypur 1,2
+- [ ]  Satya
+- [ ]  Masaan
+- [ ]  Uri : The Surgical Strike
+- [ ]  Dhrishyam 2
+- [ ]  Tenet
+- [ ]  Vikram
+- [ ]  Asuran
+- [ ]  War
+- [ ]  The Kashmir Files
+- [ ]  Darlings
+- [ ]  Salaam Venky
+- [ ]  Pushpa the rise
+- [ ]  Soorarai Pottru
+- [ ]  Gully Boy
+- [ ]  Jay Bhim
+- [ ]  Forensic
+- [ ]  Freddy
 - [ ]  The Godfather Part 1 and 2
 - [ ]  Annihilation 
 - [ ]  The Perks of Being a Wallflower 
 - [ ]  The Da Vinci Code 
 - [ ]  The World at War
 - [ ]  The Matrix 
-- [x]  Andadhun
-- [x]  Tasveer 8x10
-- [x]  Table No. 21 
-- [x]  English Vinglish 
-- [x]  Vicky Donor
-- [x]  Special 26
-- [x]  The attacks of 26/11
-- [x]  Lagaan
-- [x]  HIT 1 (Hindi Dubbed Telegu Version)
-- [x]  HIT 2 (Hindi Dubbed Telegu Version)
-- [x]  Jersey (Original Starring Nani)
-- [x]  Avatar
-- [x]  Top Gun Maverick
+- [ ]  Andadhun
+- [ ]  Tasveer 8x10
+- [ ]  Table No. 21 
+- [ ]  English Vinglish 
+- [ ]  Vicky Donor
+- [ ]  Special 26
+- [ ]  The attacks of 26/11
+- [ ]  Lagaan
+- [ ]  HIT 1 (Hindi Dubbed Telegu Version)
+- [ ]  HIT 2 (Hindi Dubbed Telegu Version)
+- [ ]  Jersey (Original Starring Nani)
+- [ ]  Avatar
+- [ ]  Top Gun Maverick
 - [ ]  Donnie Darko 
 - [ ]  Mullholland Drive
 - [ ]  Big Fish
 - [ ]  The X files
-- [x]  Kahani
+- [ ]  Kahani
 - [ ]  Kahani 2
 - [ ]  Sarkar 2
 - [ ]  Lucknow Central
-- [x]  D Company
+- [ ]  D Company
 - [ ]  Avatar 2 
 - [ ]  Fury
-- [x]  Loki
-- [x]  Iron Man
-- [x]  Thor Ragnarok
-- [x]  Captain America 
-- [x]  Captain America - Winter Soldier
-- [x]  Captain America - Civil War
-- [x]  Doctor Strange
-- [x]  Avengers Infinity War
-- [x]  Avengers End Game
-- [x]  Spider Man - No Way Home
-- [x]  Guardians of the Galaxy Vol. 1 and 2
+- [ ]  Loki
+- [ ]  Iron Man
+- [ ]  Thor Ragnarok
+- [ ]  Captain America 
+- [ ]  Captain America - Winter Soldier
+- [ ]  Captain America - Civil War
+- [ ]  Doctor Strange
+- [ ]  Avengers Infinity War
+- [ ]  Avengers End Game
+- [ ]  Spider Man - No Way Home
+- [ ]  Guardians of the Galaxy Vol. 1 and 2
 - [ ]  Watch Men
-- [x]  Kantara
+- [ ]  Kantara
 - [ ]  Yashoda
-- [x]  Chup
-- [x]  Sita Raman
-- [x]  96
-- [x]  Jodha Akbar
-- [x]  Ek Deewana tha
-- [x]  Monica O My Darling
-- [x]  Ponniyin Selvan I & II
+- [ ]  Chup
+- [ ]  Sita Raman
+- [ ]  96
+- [ ]  Jodha Akbar
+- [ ]  Ek Deewana tha
+- [ ]  Monica O My Darling
+- [ ]  Ponniyin Selvan I & II
 - [ ]  The Big Shot 
 - [ ]  Good Will Hunting
 - [ ]  The Beautiful Mind 
@@ -680,21 +680,21 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Schindler's List 
 - [ ]  Martian
 - [ ]  2001: A Space Odyssey
-- [x]  The Prestige
+- [ ]  The Prestige
 - [ ]  Snowden
 - [ ]  Dunkirk
 - [ ]  The Internship
 - [ ]  The Founder 
-- [x]  The Imitation Game 
+- [ ]  The Imitation Game 
 - [ ]  Lone Survivor
 - [ ]  The Man Who Knew Infinity
 - [ ]  Athena
 - [ ]  The Intern
-- [x]  Ghazi Attack
-- [x]  Shershah
-- [x]  Sardar Uddham Singh
-- [x]  Major
-- [x]  Spiderman - No Way Home
+- [ ]  Ghazi Attack
+- [ ]  Shershah
+- [ ]  Sardar Uddham Singh
+- [ ]  Major
+- [ ]  Spiderman - No Way Home
 - [ ]  The Pianist 
 - [ ]  Parasite
 - [ ]  Pulp Fiction
@@ -763,12 +763,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Icendies
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
-- [x]  Strangers Things - 4 Seasons.
-- [x]  Scam 1992
-- [x]  Manhunt Unabomber
-- [x]  Stranger Things
-- [x]  Mind Hunters
-- [x]  Aspirants
+- [ ]  Strangers Things - 4 Seasons.
+- [ ]  Scam 1992
+- [ ]  Manhunt Unabomber
+- [ ]  Stranger Things
+- [ ]  Mind Hunters
+- [ ]  Aspirants
 - [ ]  The Last of Us
 - [ ]  The West Wing
 - [ ]  Succession - HBO Max
@@ -778,23 +778,23 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fleabag 
 - [ ]  Supernatural
 - [ ]  The Terminal List
-- [x]  Kota Factory
-- [x]  Special Ops 1,1.5
-- [x]  Asur
-- [x]  Dahan
-- [x]  Rudra
+- [ ]  Kota Factory
+- [ ]  Special Ops 1,1.5
+- [ ]  Asur
+- [ ]  Dahan
+- [ ]  Rudra
 - [ ]  Fauda
 - [ ]  The Boys
 - [ ]  Better Call Saul
 - [ ]  Dark
-- [x]  Criminal Injustice 
+- [ ]  Criminal Injustice 
 - [ ]  The Sopranos
-- [x]  Money Heist
-- [x]  Mirzapur
-- [x]  The Family Man
-- [x]  1899
+- [ ]  Money Heist
+- [ ]  Mirzapur
+- [ ]  The Family Man
+- [ ]  1899
 - [ ]  Mr Robot
-- [x]  Olive Kitteridge
+- [ ]  Olive Kitteridge
 - [ ]  CAT
 - [ ]  Silicon Valley
 - [ ]  Severance 
@@ -808,10 +808,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Wire
 - [ ]  The leftovers
 - [ ]  Mare of Easttown
-- [x]  Maharani
-- [x]  Rocket Boys
+- [ ]  Maharani
+- [ ]  Rocket Boys
 - [ ]  Jack Ryan
-- [x]  Kaleidoscope
+- [ ]  Kaleidoscope
 - [ ]  Game of thrones
 - [ ]  The Man in the High Castle
 - [ ]  Broadchurch 
@@ -820,8 +820,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Sliders
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
-- [x]  BR Chopra's Mahabharat
-- [x]  Ramanand Sagar's Ramayan
+- [ ]  BR Chopra's Mahabharat
+- [ ]  Ramanand Sagar's Ramayan
 - [ ]  Rick And Morty - Animated Show
 - [ ]  The Office
 - [ ]  The Big Bang Theory
