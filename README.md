@@ -761,6 +761,19 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hey Ram
 - [ ]  Asoka
 - [ ]  Icendies
+- [ ]  Wake Up Sid
+- [ ]  Do Dooni Char
+- [ ]  Taare Zameen Par
+- [ ]  Maqbool
+- [ ]  Haider
+- [ ]  Gulaal - Anurag Kashyap
+- [ ]  Raajneeti
+- [ ]  Shool
+- [ ]  Yuva
+- [ ]  Shangai
+- [ ]  Hazaaron Khwaishey Aisi
+- [ ]  Haasil
+- [ ]  Bridge of Spies
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
