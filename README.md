@@ -774,6 +774,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hazaaron Khwaishey Aisi
 - [ ]  Haasil
 - [ ]  Bridge of Spies
+- [ ]  Criminal (2016 Movie Starring Gal Gadot)
+- [ ]  Oppenheimer
+- [ ]  Barbie
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
