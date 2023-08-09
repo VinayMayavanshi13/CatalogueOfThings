@@ -777,6 +777,19 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Criminal (2016 Movie Starring Gal Gadot)
 - [ ]  Oppenheimer
 - [ ]  Barbie
+- [ ]  Blade Runner 2049
+- [ ]  Birth
+- [ ]  Creation
+- [ ]  The theory of Everything
+- [ ]  The Stoneman Murders
+- [ ]  Aamir
+- [ ]  Monsoon Shootout
+- [ ]  Gurgaon
+- [ ]  Being Cyrus
+- [ ]  Khaamosh
+- [ ]  Ek Haseena thi
+- [ ]  Manorama Six Feet Under
+- [ ]  Johnny Gaddar
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
@@ -834,6 +847,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Band Of Brothers
 - [ ]  The Lost Room
 - [ ]  Sliders
+- [ ]  The Knick
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 - [ ]  BR Chopra's Mahabharat
@@ -842,6 +856,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Office
 - [ ]  The Big Bang Theory
 - [ ]  Brooklyn Nine Nine
+- [ ]  Ozark
 
 ## [Documentaries](https://github.com/VinayMayavanshi13/CatalogueOfThings#Documentaries)
 - [ ]  14 Peaks
@@ -906,6 +921,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - A documentary about the legendary New York painter Jean-Michel Basquiat. It explores Basquiat's rise in the art world, his close relationship with Warhol, and looks at how he coped with scrutiny and fame.
 - [ ]  Banksy Does New York <br/>
 - An eye-opening documentary that follows elusive street artist Banksy as he attempts to create 31 unique pieces of art in 31 days in New York while constantly evading the NYPD.
+- [ ]  Who is America
+- [ ]  The Jinx: The Life and Deaths of Robert Durst
 
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
