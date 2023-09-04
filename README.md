@@ -480,6 +480,19 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The China Study - T. Colin Campbell
 - [ ]  Rashmirathi By Dinkar in Hindi (Book on Mahabharat's Karn)
 - [ ]  More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin
+- [ ]  A Song Of Ice and Fire - George Martin
+- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
+- [ ]  The History Of Love by Nicole Krauss
+- [ ]  Mathematics: A Very Short Introduction by Timothy Gowers
+- [ ]  Philosophy of Mathematics by Øystein Linnebo 
+- [ ]  The Oxford Handbook of Philosophy of Mathematics and Logic
+- [ ]  Introduction to Mathematical Philosophy by Bertrand Russell
+- [ ]  Thinking about Mathematics by Stewart Shapiro
+- [ ]  The Woman Who Knew Too Much, Revised Ed.: Alice Stewart and the Secrets of Radiation - Gayle Greene
+- [ ]  Logicomix an Epic Search for Trurh: An Epic Search for Truth
+- [ ]  Destined For War - Graham Allison
+- [ ]  Innovators by Walter Isaacson.
+- [ ]  The Lives of the Most Excellent Painters, Sculptors, and Architects by Giorgio Vasari
 
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
@@ -798,7 +811,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  A Prophet
 - [ ]  The Sixth Sense
 - [ ]  Ship of thesus
-
+- [ ]  An Given Sunday
+- [ ]  Invictus
+- [ ]  Women Talking
+- [ ]  Run (2020 Aneesh Chaganty)
+- [ ]  Roja 
+- [ ]  Bombay
+- [ ]  Return to Seoul
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
@@ -856,6 +875,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Sliders
 - [ ]  The Knick
 - [ ]  Rectify
+- [ ]  Barry
+- [ ]  The Night off
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 - [ ]  BR Chopra's Mahabharat
@@ -931,6 +952,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - An eye-opening documentary that follows elusive street artist Banksy as he attempts to create 31 unique pieces of art in 31 days in New York while constantly evading the NYPD.
 - [ ]  Who is America
 - [ ]  The Jinx: The Life and Deaths of Robert Durst
+- [ ]  The Last Dance
 
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
