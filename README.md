@@ -499,7 +499,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
 - [ ]  Coherence
 - [ ]  Her
-- [ ]  Citadel
 - [ ]  Babel
 - [ ]  Shame (2011 )
 - [ ]  Spotlight 
@@ -790,6 +789,16 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Ek Haseena thi
 - [ ]  Manorama Six Feet Under
 - [ ]  Johnny Gaddar
+- [ ]  Ardh Satya
+- [ ]  Salaam Bombay
+- [ ]  Uzak
+- [ ]  I killed my mother
+- [ ]  Tom at the farm
+- [ ]  Heartbeats
+- [ ]  A Prophet
+- [ ]  The Sixth Sense
+- [ ]  Ship of thesus
+
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
@@ -840,14 +849,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Maharani
 - [ ]  Rocket Boys
 - [ ]  Jack Ryan
-- [ ]  Kaleidoscope
 - [ ]  Game of thrones
 - [ ]  The Man in the High Castle
 - [ ]  Broadchurch 
-- [ ]  Band Of Brothers
 - [ ]  The Lost Room
 - [ ]  Sliders
 - [ ]  The Knick
+- [ ]  Rectify
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 - [ ]  BR Chopra's Mahabharat
