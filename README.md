@@ -493,7 +493,16 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Destined For War - Graham Allison
 - [ ]  Innovators by Walter Isaacson.
 - [ ]  The Lives of the Most Excellent Painters, Sculptors, and Architects by Giorgio Vasari
-
+- [ ]  The Mosquito: A Human History of Our Deadliest Predator by Timothy C. Winegard
+- [ ]  Hacking Darwin: Genetic Engineering and the Future of Humanity by Jamie Metzl
+- [ ]  Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do by Jennifer L. Eberhardt
+- [ ]  Range: Why Generalists Triumph in a Specialized World by David Epstein
+- [ ]  The Spy and the Traitor: The Greatest Espionage Story of the Cold War by Ben Macintyre
+- [ ]  Trick Mirror: Reflections on Self-Delusion by Jia Tolentino
+- [ ]  Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell
+- [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence, by Ajay Agrawal, Joshua Gans and Avi Goldfarb
+- [ ]  Seeing Like a State by James C. Scott
+- [ ]  The Art of Readable Writing: With the Flesch Readability Formula
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
