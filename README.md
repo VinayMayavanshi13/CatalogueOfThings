@@ -15,7 +15,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  How to Win friends and Influence People - Dale Carnegie
 - [ ]  Zero to One  - Blake Masters and Peter Thiel
 - [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
-- [ ]  Chanakya Neeti - B. K. Chaturvedi
+- [ ]  ChanakyaNeeti - B. K. Chaturvedi
 - [ ]  The Brief History of Nearly Everthing - Bill Bryson
 - [ ]  When we cease to understand the world - Benjamin Labatut
 - [ ]  Models of the mind - Grace Lindsay
@@ -533,7 +533,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Shangai
 - [ ]  Few Good Men
 - [ ]  The American President
-- [ ]  Shakti 
 - [ ]  Luck By Chance
 - [ ]  Mother India
 - [ ]  No Smoking 
@@ -543,14 +542,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Shor in the City
 - [ ]  Shutter Island 
 - [ ]  Sicario 
-- [ ]  Sarkar 3
 - [ ]  Khamosh (1985)
 - [ ]  Khosla ka Ghosla
 - [ ]  Rocket Singh Salesman of the year
 - [ ]  The Da Vinci Code
 - [ ]  Fight Club
 - [ ]  Gone Girl
-- [ ]  Jojorabbit
 - [ ]  Black Friday
 - [ ]  Irreversible
 - [ ]  Raajneeti
@@ -571,8 +568,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Half Moon (Iranian Movie)
 - [ ]  Parmanu
 - [ ]  Shootout at Lokhandwala
-- [ ]  Aan Men at Work
-- [ ]  Mission Kashmir
 - [ ]  De Dana dhan
 - [ ]  Luck
 - [ ]  Awara Pagal Dewana
@@ -635,7 +630,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Kashmir Files
 - [ ]  Darlings
 - [ ]  Salaam Venky
-- [ ]  Pushpa the rise
 - [ ]  Soorarai Pottru
 - [ ]  Gully Boy
 - [ ]  Jay Bhim
@@ -664,9 +658,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Mullholland Drive
 - [ ]  Big Fish
 - [ ]  The X files
-- [ ]  Kahani
-- [ ]  Kahani 2
-- [ ]  Sarkar 2
+- [ ]  Kahani 1, 2
 - [ ]  Lucknow Central
 - [ ]  D Company
 - [ ]  Avatar 2 
@@ -795,13 +787,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hazaaron Khwaishey Aisi
 - [ ]  Haasil
 - [ ]  Bridge of Spies
-- [ ]  Criminal (2016 Movie Starring Gal Gadot)
 - [ ]  Oppenheimer
-- [ ]  Barbie
 - [ ]  Blade Runner 2049
 - [ ]  Birth
 - [ ]  Creation
-- [ ]  The theory of Everything
 - [ ]  The Stoneman Murders
 - [ ]  Aamir
 - [ ]  Monsoon Shootout
