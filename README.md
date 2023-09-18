@@ -591,7 +591,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Heat
 - [ ]  Good Fellas
 - [ ]  Joker
-- [ ]  Gasper Noe Movie - Love  (Erotic) 
 - [ ]  Lakshya
 - [ ]  Raazi
 - [ ]  Satya
