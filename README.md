@@ -503,6 +503,17 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence, by Ajay Agrawal, Joshua Gans and Avi Goldfarb
 - [ ]  Seeing Like a State by James C. Scott
 - [ ]  The Art of Readable Writing: With the Flesch Readability Formula
+- [ ]  De Gaulle –Julian Jackson
+- [ ]  Meet You in Hell: Andrew Carnegie, Henry Clay Frick, and the Bitter Partnership That Changed America -- Les Standiford
+- [ ]  Estee: A Success Story Hardcover – Estee Lauder
+- [ ]  Against the Odds: An Autobiography -- James Dyson
+- [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
+- [ ]  The Rational Optimist: How Prosperity Evolves -- Matt Ridley
+- [ ]  Genome: The Autobiography of a Species in 23 Chapters -- Matt Ridley
+- [ ]  The Red Queen: Sex and the Evolution of Human Nature -- Matt Ridley
+- [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
+- [ ]  The Evolution of Everything: How New Ideas Emerge -- Matt Ridley
+- [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
