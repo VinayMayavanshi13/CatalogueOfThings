@@ -514,6 +514,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
 - [ ]  The Evolution of Everything: How New Ideas Emerge -- Matt Ridley
 - [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
+- [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
+- [ ]  The Lessons of History -- Will & Ariel Durant
+- [ ]  The Sovereign Individual: Mastering the Transition to the Information Age -- James Dale Davidson and Lord William Rees-Mogg
+- [ ]  Why We're Polarized -- Ezra Klein
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
