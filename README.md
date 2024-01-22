@@ -545,7 +545,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Stronger 
 - [ ]  Too Old To Die Young
 - [ ]  13 Reasons Why
-- [ ]  Shangai
 - [ ]  Few Good Men
 - [ ]  The American President
 - [ ]  Luck By Chance
