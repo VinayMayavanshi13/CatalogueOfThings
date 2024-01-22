@@ -561,9 +561,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Khosla ka Ghosla
 - [ ]  Rocket Singh Salesman of the year
 - [ ]  The Da Vinci Code
-- [ ]  Fight Club
 - [ ]  Gone Girl
-- [ ]  Black Friday
 - [ ]  Irreversible
 - [ ]  Raajneeti
 - [ ]  Talvar
@@ -705,7 +703,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Pursuit of Happyness
 - [ ]  Catch Me If You Can
 - [ ]  Schindler's List 
-- [ ]  Martian
 - [ ]  2001: A Space Odyssey
 - [ ]  The Prestige
 - [ ]  Snowden
@@ -781,7 +778,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Patience Stone (2013)
 - [ ]  Taxi (2015)
 - [ ]  Life and a Day (2016)
-- [ ]  Whiplash
 - [ ]  Pi (1998)
 - [ ]  Paheli by Amol Palekar
 - [ ]  Dil Se 
@@ -802,7 +798,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Haasil
 - [ ]  Bridge of Spies
 - [ ]  Oppenheimer
-- [ ]  Blade Runner 2049
 - [ ]  Birth
 - [ ]  Creation
 - [ ]  The Stoneman Murders
@@ -862,13 +857,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Revenant (2015)
 - [ ]  Phantom Thread (2017)
 - [ ]  Mad Max: Fury Road (2015)
-- [ ]  Sicario (2015)
-- [ ]  Incendies (2010)
 - [ ]  The Great Beauty (2013)
 - [ ]  Han Gong-ju (2013)
 - [ ]  The Usual Suspects (1995)
-- [ ]  Gone Girl (2014)
-- [ ]  The Girl with the Dragon Tattoo (2009)
 - [ ]  13 (2010)
 - [ ]  Blue Valentine (2010)
 - [ ]  The Edge of Heaven (2007)
@@ -894,7 +885,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Pan’s Labyrinth (2006)
 - [ ]  I Saw the Devil (2010)
 - [ ]  The Consequences of Love (2004)
-
 - [ ]  Il Divo (2008)
 - [ ]  The Best of Youth (2003)
 - [ ]  Gomorrah (2008)
