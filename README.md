@@ -562,7 +562,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Da Vinci Code
 - [ ]  Gone Girl
 - [ ]  Irreversible
-- [ ]  Raajneeti
 - [ ]  Talvar
 - [ ]  Eternal Sunshine of a Spotless Mind
 - [ ]  Lucy 
@@ -592,7 +591,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Moneyball 
 - [ ]  Love and Other Drugs
 - [ ]  Kaminey
-- [ ]  Kuttey
 - [ ]  Operation Romeo
 - [ ]  Aakrosh
 - [ ]  Chandni Chowk to China 
@@ -660,8 +658,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Special 26
 - [ ]  The attacks of 26/11
 - [ ]  Lagaan
-- [ ]  HIT 1 (Hindi Dubbed Telegu Version)
-- [ ]  HIT 2 (Hindi Dubbed Telegu Version)
+- [ ]  HIT 1 (Telegu Version)
+- [ ]  HIT 2 (Telegu Version)
 - [ ]  Jersey (Original Starring Nani)
 - [ ]  Avatar
 - [ ]  Top Gun Maverick
@@ -687,7 +685,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Guardians of the Galaxy Vol. 1 and 2
 - [ ]  Watch Men
 - [ ]  Kantara
-- [ ]  Yashoda
 - [ ]  Chup
 - [ ]  Sita Raman
 - [ ]  96
@@ -917,6 +914,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Witch (2015)
 - [ ]  Oasis (2002)
 - [ ]  Peppermint Candy
+- [ ]  Visaranai
+- [ ]  Viduthalai
+- [ ]  7 Khoon Maaf
+- [ ]  Zodiac
+- [ ]  12th Fail
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
