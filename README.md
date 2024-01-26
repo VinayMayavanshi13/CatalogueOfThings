@@ -685,7 +685,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Guardians of the Galaxy Vol. 1 and 2
 - [ ]  Watch Men
 - [ ]  Kantara
-- [ ]  Chup
 - [ ]  Sita Raman
 - [ ]  96
 - [ ]  Jodha Akbar
@@ -849,7 +848,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Platform (2019)
 - [ ]  The Devil’s Backbone (2001)
 - [ ]  City of God (2002)
-- [ ]  Amores Perros (2000)
 - [ ]  The Revenant (2015)
 - [ ]  Phantom Thread (2017)
 - [ ]  Mad Max: Fury Road (2015)
