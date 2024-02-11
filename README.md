@@ -998,7 +998,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Living On One Dollar
 - [ ]  Expedition Happiness
 - [ ]  Minimalism - A documentary about important things
-- [ ]  The Last Dance
 - [ ]  The Magic Pill
 - [ ]  I Am Not Your Guru - Tony Robbins
 - [ ]  My Octopus Teacher
@@ -1057,6 +1056,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Vow Part 1 and Part 2
 - [ ]  Bikram : Yogi, Guru, Predator
 - [ ]  Escaping Twin Flames
+- [ ]  AlphaGO
 
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
