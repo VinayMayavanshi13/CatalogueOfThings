@@ -1052,6 +1052,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Who is America
 - [ ]  The Jinx: The Life and Deaths of Robert Durst
 - [ ]  The Last Dance
+- [ ]  The Tiger King
+- [ ]  Love has Won
+- [ ]  The Vow Part 1 and Part 2
+- [ ]  Bikram : Yogi, Guru, Predator
+- [ ]  Escaping Twin Flames
 
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
