@@ -1057,10 +1057,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Bikram : Yogi, Guru, Predator
 - [ ]  Escaping Twin Flames
 - [ ]  AlphaGO
+- [ ]  John and Jane
+- [ ]  Free Solo
+- [ ]  Status Anxiety
+- [ ]  Longshot
 
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
 - [ ] Death Note
+- [ ] Attack On Titans
 
 ## [Internet Rabbit Holes](https://github.com/VinayMayavanshi13/CatalogueOfThings#Internet-Rabbit-Holes)
 - [folklore.org](https://www.folklore.org/) : Stories about the development of the original Macintosh.
