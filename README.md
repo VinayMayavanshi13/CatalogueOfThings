@@ -917,6 +917,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  7 Khoon Maaf
 - [ ]  Zodiac
 - [ ]  12th Fail
+- [ ]  The Farewell (2019)
+- [ ]  Still Walking (2009)
+- [ ]  The Best of Youth (2005)
+- [ ]  All of Us Strangers (2023)
+- [ ]  The Fits (2016)
+- [ ]  Paterson (2016)
+      
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
