@@ -948,7 +948,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Carlos (2010)
 - [ ]  Trenque Lauquen (2023)
 - [ ]  Rocks (2020)
-- [ ]  Portrait of a Lady on Fire (2019)      
+- [ ]  Portrait of a Lady on Fire (2019)
+- [ ]  White Plastic Sky
+- [ ]  Mommy - Xavier Dolan
+- [ ]  Winter Sleep
+- [ ]  Three Monkeys - (2008, Turkish Movie, Directed by Nuri Bilge Ceylan)      
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
