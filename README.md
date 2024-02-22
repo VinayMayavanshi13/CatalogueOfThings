@@ -570,7 +570,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Court (Marathi)
 - [ ]  Harry Potter Movie Series
 - [ ]  Andaz Apna Apna
-- [ ]  Black Friday - Anurag Kashyab
+- [ ]  Black Friday - Anurag Kashyap
 - [ ]  Swades
 - [ ]  Rang De Basanti 
 - [ ]  Madras Cafe
@@ -732,8 +732,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Now You See Me 1 and 2
 - [ ]  The Time Traveler's Wife 
 - [ ]  The Pirates of Silicon Valley
-- [ ]  Mission: Impossible Movie Series
-- [ ]  Fast and Furious Franchise Movies (from Initial Years)
 - [ ]  Hacksaw Ridge
 - [ ]  Lion
 - [ ]  Don't Look Up
