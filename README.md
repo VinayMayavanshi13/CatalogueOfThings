@@ -1008,6 +1008,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Rectify
 - [ ]  Barry
 - [ ]  The Night off
+- [ ]  Industry
+- [ ]  Prison Break
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 - [ ]  BR Chopra's Mahabharat
