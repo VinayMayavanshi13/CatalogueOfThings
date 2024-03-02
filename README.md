@@ -957,6 +957,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Away we Go
 - [ ]  Killa (Marathi Movie)
 - [ ]  Life is Beautiful (1997)
+- [ ]  Normal People
+- [ ]  American Fiction
+- [ ]  Anatomy of a Fall
+- [ ]  The Holdovers
+- [ ]  Killers of the Flower Moon
+- [ ]  Maestro
+- [ ]  Past Lives
+- [ ]  Poor Things
+- [ ]  The Zone of Interest
       
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
