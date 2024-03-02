@@ -950,7 +950,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  White Plastic Sky
 - [ ]  Mommy - Xavier Dolan
 - [ ]  Winter Sleep
-- [ ]  Three Monkeys - (2008, Turkish Movie, Directed by Nuri Bilge Ceylan)      
+- [ ]  Three Monkeys - (2008, Turkish Movie, Directed by Nuri Bilge Ceylan)
+- [ ]  Somewhere 
+- [ ]  Lars and the real girls
+- [ ]  Revolutionary Road 
+- [ ]  Away we Go
+- [ ]  Killa (Marathi Movie)
+- [ ]  Life is Beautiful (1997)
+      
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
