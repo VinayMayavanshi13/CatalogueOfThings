@@ -981,6 +981,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Psycho 
 - [ ]  Gladiator
 - [ ]  American History X      
+- [ ]  Grave of the fireflies
+- [ ]  The usual suspects
+- [ ]  Harakiri
+- [ ]  Casablanca
+- [ ]  The intouchables
+- [ ]  Modern times
+- [ ]  Cinema Paradiso
+- [ ]  Rear Window
+- [ ]  Once upon a time in the west
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
