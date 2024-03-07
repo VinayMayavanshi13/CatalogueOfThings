@@ -990,6 +990,19 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Cinema Paradiso
 - [ ]  Rear Window
 - [ ]  Once upon a time in the west
+- [ ]  Alien
+- [ ]  City Lights
+- [ ]  Apocalypse now
+- [ ]  Django Unchained
+- [ ]  Memento
+- [ ]  Raiders of the Lost Ark
+- [ ]  Wall-E
+- [ ]  The lives of Othera
+- [ ]  Sunset Blvd
+- [ ]  Paths of Glory
+- [ ]  Witness for the prosecution
+- [ ]  The Great dictator
+- [ ]  Aliens
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
