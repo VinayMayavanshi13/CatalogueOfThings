@@ -966,7 +966,21 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Past Lives
 - [ ]  Poor Things
 - [ ]  The Zone of Interest
-      
+- [ ]  12 Angry Men
+- [ ]  The Good, the Bad and the ugly
+- [ ]  One flew Over the Cuckoo's Next
+- [ ]  It's a Wonderful Life
+- [ ]  Seven Samurai
+- [ ]  The Silence of Lambs
+- [ ]  City of God
+- [ ]  Life is beautiful
+- [ ]  Terminator 2
+- [ ]  The Pianist
+- [ ]  Back to the future
+- [ ]  Spirited Away
+- [ ]  Psycho 
+- [ ]  Gladiator
+- [ ]  American History X      
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
