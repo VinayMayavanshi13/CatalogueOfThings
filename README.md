@@ -1011,6 +1011,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Ikiru
 - [ ]  Lawrence of Arabia
 - [ ]  Citizen Kane
+- [ ]  M (1931)
+- [ ]  Vertigo 
+- [ ]  Amelie
+- [ ]  Incendies
+- [ ]  Up
+- [ ]  To kill a mocking bird
+- [ ]  The sting
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
