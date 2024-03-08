@@ -1003,6 +1003,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Witness for the prosecution
 - [ ]  The Great dictator
 - [ ]  Aliens
+- [ ]  American Beauty
+- [ ]  Once upon a time in America
+- [ ]  Capernaum
+- [ ]  The Hunt
+- [ ]  Reservoir Dogs
+- [ ]  Ikiru
+- [ ]  Lawrence of Arabia
+- [ ]  Citizen Kane
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
