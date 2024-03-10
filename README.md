@@ -1037,6 +1037,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  There will be Blood
 - [ ]  Casino
 - [ ]  Ran
+- [ ]  Pan's Labyrith
+- [ ]  The treasure of the Sierra Madre
+- [ ]  Yojimbo
+- [ ]  The thing
+- [ ]  Kill Bill: Vol. 1
+- [ ]  Monty python and holy grail
+- [ ]  The Great Escape
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
