@@ -1018,6 +1018,25 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Up
 - [ ]  To kill a mocking bird
 - [ ]  The sting
+- [ ]  Hamilton
+- [ ]  Die hard
+- [ ]  Metropolis
+- [ ]  Snatch
+- [ ]  Bicycle Thieves
+- [ ]  1917
+- [ ]  LA Confidential
+- [ ]  Downfall
+- [ ]  For a few dollars more
+- [ ]  Some like it hot
+- [ ]  Green Book
+- [ ]  The Kid
+- [ ]  The Father
+- [ ]  All about Eve
+- [ ]  Judgement at Nuremberg
+- [ ]  The truman show
+- [ ]  There will be Blood
+- [ ]  Casino
+- [ ]  Ran
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
