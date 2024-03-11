@@ -1105,6 +1105,17 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Night off
 - [ ]  Industry
 - [ ]  Prison Break
+- [ ]  Stolen (Abhishek Banerjee)
+- [ ]  The Good Wife then The Good Fight Series
+- [ ]  A Star is Born
+- [ ]  Blue Valentine
+- [ ]  Memoria
+- [ ]  Close
+- [ ]  Aftersun
+- [ ]  Uncle Boonme who can recall his past lives
+- [ ]  Prisoners (2013)
+- [ ]  Thalapathy - Mani Ratnam
+- [ ]  Monsoon Wedding
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 - [ ]  BR Chopra's Mahabharat
