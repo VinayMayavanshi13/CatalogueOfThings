@@ -1206,6 +1206,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ] Death Note
 - [ ] Attack On Titans
+- [ ] Blue Eye Samurai
 
 ## [Internet Rabbit Holes](https://github.com/VinayMayavanshi13/CatalogueOfThings#Internet-Rabbit-Holes)
 - [folklore.org](https://www.folklore.org/) : Stories about the development of the original Macintosh.
