@@ -518,14 +518,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Lessons of History -- Will & Ariel Durant
 - [ ]  The Sovereign Individual: Mastering the Transition to the Information Age -- James Dale Davidson and Lord William Rees-Mogg
 - [ ]  Why We're Polarized -- Ezra Klein
-- [ ]  The Power Of Now - Eckhart Tolle
+- [ ]  The Power Of Now -- Eckhart Tolle
 - [ ]  Awareness - Anthony De Mello
-- [ ]  The Art Of Impossible - Steven Kotler
-- [ ]  Flow - Mihaly Csikszentmihalyi
-- [ ]  The Way Of The Superior Man - David Deida
-- [ ]  The Wisdom Of Insecurity - Alan Watts
-- [ ]  The Kybalion - The Three Initiates 
-- [ ]  The Borderless World - Kenichi Ohmae
+- [ ]  The Art Of Impossible -- Steven Kotler
+- [ ]  Flow -- Mihaly Csikszentmihalyi
+- [ ]  The Way Of The Superior Man -- David Deida
+- [ ]  The Wisdom Of Insecurity -- Alan Watts
+- [ ]  The Kybalion -- The Three Initiates 
+- [ ]  The Borderless World -- Kenichi Ohmae
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
