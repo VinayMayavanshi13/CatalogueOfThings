@@ -526,6 +526,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Wisdom Of Insecurity -- Alan Watts
 - [ ]  The Kybalion -- The Three Initiates 
 - [ ]  The Borderless World -- Kenichi Ohmae
+- [ ]  Love's Executioner --  Irvin D. Yalom
+- [ ]  Creatures of Day -- Creatures of Day
+- [ ]  Maybe you should talk to someone -- Lori Gottlieb
+- [ ]  The Gift of Therapy -- Irvin D. Yalom
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
