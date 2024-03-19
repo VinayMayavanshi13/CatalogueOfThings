@@ -530,6 +530,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Creatures of Day -- Creatures of Day
 - [ ]  Maybe you should talk to someone -- Lori Gottlieb
 - [ ]  The Gift of Therapy -- Irvin D. Yalom
+- [ ]  Why nobody has told me this before --  Julie Smith
+- [ ]  The Mindful Self Compassion Workbook -- Christopher Germer and Kristin Neff
+- [ ]  The Gifts of Imperfections -- Brene Brown
+- [ ]  The Boy who was raised as a dog -- Bruce D. Perry and Maia Szalavitz
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
