@@ -534,6 +534,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Mindful Self Compassion Workbook -- Christopher Germer and Kristin Neff
 - [ ]  The Gifts of Imperfections -- Brene Brown
 - [ ]  The Boy who was raised as a dog -- Bruce D. Perry and Maia Szalavitz
+- [ ]  Hold me tight -- Sue Johnson
+- [ ]  Reinventing your life -- Janet S. Klosko and Jeffrey Young
+- [ ]  Read People Like Book -- Patrick King
+- [ ]  Surrounded By Psychopaths -- Thomas Erikson
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
