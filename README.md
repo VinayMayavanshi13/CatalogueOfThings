@@ -538,6 +538,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Reinventing your life -- Janet S. Klosko and Jeffrey Young
 - [ ]  Read People Like Book -- Patrick King
 - [ ]  Surrounded By Psychopaths -- Thomas Erikson
+- [ ]  Crack in Creation --  Jennifer Doudna and Samuel H. Sternberg
+- [ ]  The Diet Myth -- Tim Spector
+- [ ]  The Body -- Bill Bryson
+- [ ]  Lifespan -- David Sinclair
+- [ ]  Behave -- Robert Sapolsky
+- [ ]  The things you can see only when you slow down -- Haemin Sunim
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
