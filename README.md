@@ -544,6 +544,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Lifespan -- David Sinclair
 - [ ]  Behave -- Robert Sapolsky
 - [ ]  The things you can see only when you slow down -- Haemin Sunim
+- [ ]  Trial Of The Visionary Minds -- John Weir Perry
+- [ ]  The Primal Wounds -- Nancy Verrier
+- [ ]  The Eden Project -- James Hollis
+- [ ]  The Reality Game -- Samuel Woolley
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
