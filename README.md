@@ -1079,6 +1079,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Les Diaboliques (1955)
 - [ ]  Perfect Blue (1997)
 - [ ]  Cure(1997)
+- [ ]  Get Out(2017)
+- [ ]  Burning (2018)
+- [ ]  Mother (2017)
+- [ ]  Misery (1990)
+- [ ]  Cache(2015)
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
