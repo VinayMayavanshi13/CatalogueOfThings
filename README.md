@@ -1074,6 +1074,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Kill Bill: Vol. 1
 - [ ]  Monty python and holy grail
 - [ ]  The Great Escape
+- [ ]  The Silence of the Lambs (1991)
+- [ ]  Vertigo (1958)
+- [ ]  Les Diaboliques (1955)
+- [ ]  Perfect Blue (1997)
+- [ ]  Cure(1997)
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
