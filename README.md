@@ -552,6 +552,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Psychology of the Spirits -- Mary Devlin
 - [ ]  The Pregnant Virgin -- Marion Woodman
 - [ ]  The Problem Of the Puer Aterneus -- Marie-Louise von Franz
+- [ ]  Jung's Map of the Soul -- Murray Stein
+- [ ]  Frames of Mind -- Howard Gardner
+- [ ]  Embodied Spirituality in a Sacred World -- Michael Washburn
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
