@@ -548,6 +548,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Primal Wounds -- Nancy Verrier
 - [ ]  The Eden Project -- James Hollis
 - [ ]  The Reality Game -- Samuel Woolley
+- [ ]  Core Energetics -- John C Pierrakos
+- [ ]  The Psychology of the Spirits -- Mary Devlin
+- [ ]  The Pregnant Virgin -- Marion Woodman
+- [ ]  The Problem Of the Puer Aterneus -- Marie-Louise von Franz
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
