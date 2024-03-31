@@ -555,6 +555,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Jung's Map of the Soul -- Murray Stein
 - [ ]  Frames of Mind -- Howard Gardner
 - [ ]  Embodied Spirituality in a Sacred World -- Michael Washburn
+- [ ]  The Feynman Lectures on Physics -- Richard Feynman
+- [ ]  The Princeton Companion to Mathematics -- Timothy Gowers
+- [ ]  One Thousand Exercises in Probability -- Geoffrey Grimmett and David Stirzaker
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
