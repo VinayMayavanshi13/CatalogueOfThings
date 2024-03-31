@@ -558,6 +558,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Feynman Lectures on Physics -- Richard Feynman
 - [ ]  The Princeton Companion to Mathematics -- Timothy Gowers
 - [ ]  One Thousand Exercises in Probability -- Geoffrey Grimmett and David Stirzaker
+- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan -- Robert Kanigel
+- [ ]  Where Is My Flying Car? -- Josh Storrs Hall
+- [ ]  The Great CEO Within -- Matt Mochary
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
