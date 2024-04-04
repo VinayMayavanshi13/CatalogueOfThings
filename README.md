@@ -561,6 +561,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan -- Robert Kanigel
 - [ ]  Where Is My Flying Car? -- Josh Storrs Hall
 - [ ]  The Great CEO Within -- Matt Mochary
+- [ ]  How Innovation Works: And Why It Flourishes in Freedom -- Matt Ridley
+- [ ]  The Sovereign Individual -- James Dale Davidson and Lord William Rees-Mogg
+- [ ]  Technological Revolutions and Financial Capital -- Carlota Perez
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
