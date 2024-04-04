@@ -564,6 +564,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  How Innovation Works: And Why It Flourishes in Freedom -- Matt Ridley
 - [ ]  The Sovereign Individual -- James Dale Davidson and Lord William Rees-Mogg
 - [ ]  Technological Revolutions and Financial Capital -- Carlota Perez
+- [ ]  The Gray Lady Winked  Ashley Rindsberg
+- [ ]  Merchants of Truth  Jill Abramson
+- [ ]  AI Superpowers -- Kai-Fu Lee
+- [ ]  Who We Are and How We Got Here -- David Reich
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
