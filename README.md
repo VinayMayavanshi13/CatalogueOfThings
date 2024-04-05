@@ -572,6 +572,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Seeing Like a State -- James C. Scott
 - [ ]  History Has Begun -- Bruno Maçães
 - [ ]  The Craft -- John Dickie
+- [ ]  Principles for Dealing with the Changing World Order -- Ray Dalio
+- [ ]  How the Internet Happened: From Netscape to the iPhone -- Brian McCullough
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
