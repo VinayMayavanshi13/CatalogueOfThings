@@ -568,6 +568,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Merchants of Truth  Jill Abramson
 - [ ]  AI Superpowers -- Kai-Fu Lee
 - [ ]  Who We Are and How We Got Here -- David Reich
+- [ ]  The Truth Machine -- Michael Casey and Paul Vigna
+- [ ]  Seeing Like a State -- James C. Scott
+- [ ]  History Has Begun -- Bruno Maçães
+- [ ]  The Craft -- John Dickie
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
