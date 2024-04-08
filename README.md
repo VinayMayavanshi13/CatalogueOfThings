@@ -1110,6 +1110,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Mother (2017)
 - [ ]  Misery (1990)
 - [ ]  Cache(2015)
+- [ ]  The Vanishing(1993)
+- [ ]  The Conversation (1974)
+- [ ]  Nocturnal Animals (2016)
+- [ ]  301, 302(1995)
+- [ ]  Cape Fear(1991)
+- [ ]  Karthik Calling Karthik(2010)
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
