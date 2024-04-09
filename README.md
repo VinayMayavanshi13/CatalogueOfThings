@@ -1078,7 +1078,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Die hard
 - [ ]  Metropolis
 - [ ]  Snatch
-- [ ]  Bicycle Thieves
 - [ ]  1917
 - [ ]  LA Confidential
 - [ ]  Downfall
