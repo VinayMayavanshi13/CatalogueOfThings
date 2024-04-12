@@ -1122,6 +1122,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Junoon by Shyam Benegal
 - [ ]  Ferris Bueller's Day off
 - [ ]  Butch Cassidy and the Sundance Kid
+- [ ]  Meghe Dhaka Tara
+- [ ]  Stanley Ka Dabba
+- [ ]  Rockford
+- [ ]  Stand by Me
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
