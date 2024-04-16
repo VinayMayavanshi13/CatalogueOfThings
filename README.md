@@ -1126,6 +1126,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Stanley Ka Dabba
 - [ ]  Rockford
 - [ ]  Stand by Me
+- [ ]  Wonder
+- [ ]  Kitaab
+- [ ]  Eight Grade
+- [ ]  Are You There God? It's Me, Margaret.
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 - [ ]  Strangers Things - 4 Seasons.
@@ -1198,6 +1202,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Prisoners (2013)
 - [ ]  Thalapathy - Mani Ratnam
 - [ ]  Monsoon Wedding
+
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 - [ ]  BR Chopra's Mahabharat
