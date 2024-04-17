@@ -600,7 +600,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  500 Days of Summer 
 - [ ]  Stronger 
 - [ ]  Too Old To Die Young
-- [ ]  13 Reasons Why
 - [ ]  Few Good Men
 - [ ]  The American President
 - [ ]  Luck By Chance
@@ -1202,6 +1201,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Night off
 - [ ]  Industry
 - [ ]  Prison Break
+- [ ]  13 Reasons Why
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 - [ ]  BR Chopra's Mahabharat
