@@ -43,26 +43,26 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  What everybody is saying - Joe Navarro
 - [ ]  What we owe to the future - William MacAskill
 - [ ]  The Wealth of Nations - Adam Smith
-- [ ]  Atlas Shrugged
+- [ ]  Atlas Shrugged - Ayn Rand
 - [ ]  The Big Picture - Sean Carrol
 - [ ]  A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
-- [ ]  How to avoid a climate disaster - Bill Gates
-- [ ]  Stranger in a Strange Land - Robert Heinlein
+- [ ]  How To Avoid A Climate Disaster - Bill Gates
+- [ ]  Stranger In A Strange Land - Robert Heinlein
 - [ ]  The Unabomber Manifesto
 - [ ]  Karl Max - Das Kapital
 - [ ]  The Selfish Gene - Richard Dawkins
 - [ ]  Snow Crash - Neal Stephenson
 - [ ]  Guns, Germs and Steel - Jared Diamond
 - [ ]  Masters of Doom - David Kushner
-- [ ]  The Journalist and the Murderer - Janet Malcolm
+- [ ]  The Journalist And The Murderer - Janet Malcolm
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need
-- [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny - William Straus and Neil Howe
-- [ ]  Generations - The History of American Future by William Straus and Neil Howe
+- [ ]  The Fourth Turning: An American Prophecy - What The Cycles of History Tell Us About America's Next Rendezvous With Destiny - William Straus and Neil Howe
+- [ ]  Generations - The History Of American Future By William Straus and Neil Howe
 - [ ]  The Spirit of St. Louis - Charles A. Lindbergh
-- [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
+- [ ]  The Man Who Sold The Moon And Orphans Of The Sky - Robert Heinlein
 - [ ]  The Singularity Is Near: When Humans Transcend Biology - Ray Kurzweil
 - [ ]  Tao Te Ching: Text Only Edition Translated - Gia-fu feng and Jane English
-- [ ]  Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
+- [ ]  Zen And The Art Of Motorcycle Maintenance: An Inquiry Into Values - Robert Pirsig
 - [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
 - [ ]  The Beautiful Trouble - Andrew Boyd
 - [ ]  Seeing Like A State - James C. Scott
@@ -71,8 +71,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Introduction To Indian Histroy - Ibrahim Aerali
 - [ ]  Essence of Indian Art - B. N. Goswamy
 - [ ]  Lady Doctor - Kavitha Rao
-- [ ]  Sapiens Graphic Novel - David VanderMeulen and Yuval Noah Harari
-- [ ]  Watchmen Graphic Novel - Alan Moore and Dave Gibbons
 - [ ]  Blind Willow, Sleeping Woman - Haruki Murakami
 - [ ]  Breath - James Nestor
 - [ ]  The Three Body Problem Triology - Liu Cixin
