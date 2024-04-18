@@ -16,18 +16,18 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Zero to One  - Blake Masters and Peter Thiel
 - [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
 - [ ]  ChanakyaNeeti - B. K. Chaturvedi
-- [ ]  The Brief History of Nearly Everthing - Bill Bryson
-- [ ]  When we cease to understand the world - Benjamin Labatut
-- [ ]  Models of the mind - Grace Lindsay
-- [ ]  In the praise of shadows - Vintage Tanizaki
-- [ ]  The Spike : An epic journey through the brain in 2.1 seconds - Mark Humphries
-- [ ]  A complaint free world - Will Bowen
-- [ ]  Metazoa : Animal minds and the birth of consciousness - Peter Godfrey-Smith
+- [ ]  The Brief History Of Nearly Everthing - Bill Bryson
+- [ ]  When We Cease To Understand The World - Benjamin Labatut
+- [ ]  Models Of The Mind - Grace Lindsay
+- [ ]  In The Praise Of Shadows - Vintage Tanizaki
+- [ ]  The Spike : An epic Journey Through The Brain In 2.1 Seconds - Mark Humphries
+- [ ]  A Complaint Free World - Will Bowen
+- [ ]  Metazoa : Animal Minds And The Birth Of Consciousness - Peter Godfrey-Smith
 - [ ]  Justice - Michael  Sandel
-- [ ]  Finish what you start - Peter Hollins
-- [ ]  Eat, drink and be healthy : the Harvard Medical  School guide to healthy eating - Patrick J Skerrett
-- [ ]  Metabolical : Dr Robert lustig - Its about what process food does to our body.
-- [ ]  The ride of a lifetime - Robert Iger
+- [ ]  Finish What You Start - Peter Hollins
+- [ ]  Eat, Drink And Be Healthy : The Harvard Medical  School Guide To Healthy Eating - Patrick J Skerrett
+- [ ]  Metabolical : Dr Robert Lustig - It's About What Process Food Does To Our Body.
+- [ ]  The Ride Of A Lifetime - Robert Iger
 - [ ]  Educated - Tara Westower
 - [ ]  Hillbilly Elegy - J D Vance
 - [ ]  How to lie with statistics - Darrel Huff
