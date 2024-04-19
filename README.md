@@ -15,7 +15,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  How to Win friends and Influence People - Dale Carnegie
 - [ ]  Zero to One  - Blake Masters and Peter Thiel
 - [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
-- [ ]  ChanakyaNeeti - B. K. Chaturvedi
+- [ ]  Chanakya Neeti - B. K. Chaturvedi
 - [ ]  The Brief History Of Nearly Everthing - Bill Bryson
 - [ ]  When We Cease To Understand The World - Benjamin Labatut
 - [ ]  Models Of The Mind - Grace Lindsay
@@ -92,7 +92,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
 - [ ]  The Lean Startup - Eric Ries
 - [ ]  Shoe Dog - Phil Knight
-- [ ]  How to build this - Guy Raz
+- [ ]  How To Build This - Guy Raz
 - [ ]  Start At The End - David Lavinsky 
 - [ ]  How To Fail At Almost Everything & Still Win Big - Scott Adams
 - [ ]  Memories, Dreams and Reflection - Carl Jung
@@ -114,7 +114,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Top Five Regrets of The Dying - Bronnie Ware
 - [ ]  The Mountain Is You - Brianna Wiest.
 - [ ]  Anything You Want - Derek Sivers
-- [ ]  Talent is Never Enough - John C. Maxwell
+- [ ]  Talent Is Never Enough - John C. Maxwell
 - [ ]  The Body Keeps The Score - Bessel Van Der Kolk
 - [ ]  Man And His Symbols - Carl Jung
 - [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
@@ -136,41 +136,41 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Yuganta - Irawati Karve
 - [ ]  Building a Second Brain Book - Tiago Forte
 - [ ]  Just Keep Buying - Nick Maggiulli
-- [ ]  The Happiest man on Earth - Eddie Jaku
+- [ ]  The Happiest Man On Earth - Eddie Jaku
 - [ ]  Chatter - Ethan Kross
 - [ ]  Snow Leopard - Nicolas Cole
 - [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
 - [ ]  "The Bhagavad Gita" translated - Eknath Easwaran - The Bhagavad Gita is one of the most famous and influential texts in Indian philosophy. This translation is highly regarded for its clarity and accessibility.
-- [ ]  "The Collected Works of Ramana Maharshi" edited - Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
+- [ ]  "The Collected Works Of Ramana Maharshi" edited - Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
 - [ ]  "The Heart of Hinduism" - Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
 - [ ]  "The Foundations of Indian Philosophy" - A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
 - [ ]  Food Rules - Michael Pollan
 - [ ]  Entangled Life - Merlin Sheldrake
-- [ ]  The Mind is Flat - Nick Chater
+- [ ]  The Mind Is Flat - Nick Chater
 - [ ]  Money : Master The Game - Tony Robbins
 - [ ]  The Barefoot Investor - Scott Pape 
-- [ ]  The little book that beats the market - Joel Greenblatt
+- [ ]  The Little Book That Beats The Market - Joel Greenblatt
 - [ ]  The Total Money Makeover - Dave Ramsay
 - [ ]  The Automatic Millionaire - David Bach
 - [ ]  The Millionaire Next Door - Thomas J. Stanley
-- [ ]  Secrets of Millionaire Mind - T. Harv Eker
-- [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
+- [ ]  Secrets Of Millionaire Mind - T. Harv Eker
+- [ ]  The Power Of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
 - [ ]  Dreams of a Final Theory - Steven Weinberg
 - [ ]  Empire of Ants - Sussane Foitzik and Olaf Frit
 - [ ]  Deep Down Things The Breathtaking Beauty of Particle Physics - Bruce A Schumm
 - [ ]  The First Three Minutes - Steven Weinberg
-- [ ]  How to bake π - Eugenia Cheng
-- [ ]  The Order of Time - Carlo Rovelli
-- [ ]  The Science of Can and Can't - Chiara Marletto
-- [ ]  The Interpretation of Dreams - Sigmund Freud
+- [ ]  How To Bake π - Eugenia Cheng
+- [ ]  The Order Of Time - Carlo Rovelli
+- [ ]  The Science Of Can and Can't - Chiara Marletto
+- [ ]  The Interpretation Of Dreams - Sigmund Freud
 - [ ]  Enlightenment Now - Steven Pinker
 - [ ]  Beyond Good and Evil - Friedrich Nietzsche
-- [ ]  Zen And The Art of Motorcycle - Robert Pising
+- [ ]  Zen And The Art Of Motorcycle - Robert Pising
 - [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences - John Allen Paulos
-- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
+- [ ]  The Man Who Knew Infinity: A Life Of The Genius Ramanujan - Robert Kanigel
 - [ ]  Where Is My Flying Car? - Josh Storrs Hall
 - [ ]  High Output Management - Andy Grove
-- [ ]  Only the Paranoid Survive - Andy Grove
+- [ ]  Only The Paranoid Survive - Andy Grove
 - [ ]  The Great CEO Within - Matt Mochary
 - [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
 - [ ]  The Sovereign Individual - James Dale Davidson and Lord William Rees-Mogg.
