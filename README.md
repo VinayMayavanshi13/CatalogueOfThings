@@ -12,48 +12,110 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 -   [Internet Rabbit Holes](#Internet-Rabbit-Holes)
 
 ## [Books](https://github.com/VinayMayavanshi13/CatalogueOfThings#Books)
-- [ ]  How to Win friends and Influence People - Dale Carnegie
-- [ ]  Zero to One  - Blake Masters and Peter Thiel
-- [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
-- [ ]  ChanakyaNeeti - B. K. Chaturvedi
-- [ ]  The Brief History of Nearly Everthing - Bill Bryson
-- [ ]  When we cease to understand the world - Benjamin Labatut
-- [ ]  Models of the mind - Grace Lindsay
-- [ ]  In the praise of shadows - Vintage Tanizaki
-- [ ]  The Spike : An epic journey through the brain in 2.1 seconds - Mark Humphries
 - [ ]  A complaint free world - Will Bowen
-- [ ]  Metazoa : Animal minds and the birth of consciousness - Peter Godfrey-Smith
-- [ ]  Justice - Michael  Sandel
-- [ ]  Finish what you start - Peter Hollins
+- [ ]  A Little History of the World - E. H. Gombrich
+- [ ]  Atlas Shrugged
+- [ ]  A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
+
+
+
+- [ ]  Blind Willow, Sleeping Woman - Haruki Murakami
+- [ ]  Breath - James Nestor
+
+
+
+
+
+- [ ]  ChanakyaNeeti - B. K. Chaturvedi
+
+
+
+- [ ]  Deep Down Things The Breathtaking Beauty of Particle Physics - Bruce A Schumm
+- [ ]  Dreams of a Final Theory - Steven Weinberg
+
+
+
+
 - [ ]  Eat, drink and be healthy : the Harvard Medical  School guide to healthy eating - Patrick J Skerrett
-- [ ]  Metabolical : Dr Robert lustig - Its about what process food does to our body.
-- [ ]  The ride of a lifetime - Robert Iger
 - [ ]  Educated - Tara Westower
+
+
+- [ ]  Finish what you start - Peter Hollins
+
+
+
+- [ ]  Genome: The Autobiography of a Species in 23 Chapters -- Matt Ridley
+- [ ]  Guns, Germs and Steel - Jared Diamond
+
+
+
+- [ ]  How to Win friends and Influence People - Dale Carnegie
 - [ ]  Hillbilly Elegy - J D Vance
 - [ ]  How to lie with statistics - Darrel Huff
-- [ ]  The Hungry Brain - Stephan J Guyeney
+- [ ]  How to avoid a climate disaster - Bill Gates
+
+- [ ]  In the praise of shadows - Vintage Tanizaki
+- [ ]  Influence - Robert Cialdini
+
+- [ ]  Justice - Michael  Sandel
+
+
+
+- [ ]  Karl Max - Das Kapital
+
+
+- [ ]  Lifespan - David Sinclair
+
 - [ ]  Masters of Doom - David Kushner 
-- [ ]  Tiny Habits - BJ Fogg 
-- [ ]  When breathe becomes air - By Paul Kalanithi
+- [ ]  Metazoa : Animal minds and the birth of consciousness - Peter Godfrey-Smith
+- [ ]  Metabolical : Dr Robert lustig - Its about what process food does to our body.
+- [ ]  Models of the mind - Grace Lindsay
+
+
+
+
+- [ ]  Open - Andre Agassi
+
+
+- [ ]  Probably Approximately Correct - Leslie Valiant
+
+- [ ]  Rebuild - Dr. Robert Zembroski
+
+- [ ]  Stranger in a Strange Land - Robert Heinlein
+- [ ]  Snow Crash - Neal Stephenson
+
+- [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
+- [ ]  The Red Queen: Sex and the Evolution of Human Nature -- Matt Ridley
+- [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
+- [ ]  The Evolution of Everything: How New Ideas Emerge -- Matt Ridley
+- [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
+- [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
+- [ ]  The Lessons of History -- Will & Ariel Durant
+- [ ]  The Brief History of Nearly Everthing - Bill Bryson
+- [ ]  The Spike : An epic journey through the brain in 2.1 seconds - Mark Humphries
+- [ ]  The ride of a lifetime - Robert Iger
+- [ ]  The Hungry Brain - Stephan J Guyeney
 - [ ]  The Art of Strategy - Avinash J Dixit & Barry J Nalebuff
 - [ ]  Think Again - Adam Grunt
 - [ ]  Thinking Fast and Slow - Daniel Kahneman
-- [ ]  Influence - Robert Cialdini
+- [ ]  Tiny Habits - BJ Fogg
 - [ ]  The Art of War - Sun Tzu
-- [ ]  What everybody is saying - Joe Navarro
-- [ ]  What we owe to the future - William MacAskill
-- [ ]  The Wealth of Nations - Adam Smith
-- [ ]  Atlas Shrugged
 - [ ]  The Big Picture - Sean Carrol
-- [ ]  A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
-- [ ]  How to avoid a climate disaster - Bill Gates
-- [ ]  Stranger in a Strange Land - Robert Heinlein
 - [ ]  The Unabomber Manifesto
-- [ ]  Karl Max - Das Kapital
 - [ ]  The Selfish Gene - Richard Dawkins
-- [ ]  Snow Crash - Neal Stephenson
-- [ ]  Guns, Germs and Steel - Jared Diamond
-- [ ]  Masters of Doom - David Kushner
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 - [ ]  The Journalist and the Murderer - Janet Malcolm
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need
 - [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny - William Straus and Neil Howe
@@ -66,15 +128,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
 - [ ]  The Beautiful Trouble - Andrew Boyd
 - [ ]  Seeing Like A State - James C. Scott
-- [ ]  Lifespan - David Sinclair
-- [ ]  Open - Andre Agassi
+
+
 - [ ]  Introduction To Indian Histroy - Ibrahim Aerali
 - [ ]  Essence of Indian Art - B. N. Goswamy
 - [ ]  Lady Doctor - Kavitha Rao
 - [ ]  Sapiens Graphic Novel - David VanderMeulen and Yuval Noah Harari
 - [ ]  Watchmen Graphic Novel - Alan Moore and Dave Gibbons
-- [ ]  Blind Willow, Sleeping Woman - Haruki Murakami
-- [ ]  Breath - James Nestor
+
 - [ ]  The Three Body Problem Triology - Liu Cixin
 - [ ]  The Handmaid's Tale - Margaret Atwood
 - [ ]  Narcopolis - Jeet Thayil
@@ -84,7 +145,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
 - [ ]  The Mom Test - Rob Fitzpatrick
 - [ ]  The Body - Bill Bryson
-- [ ]  Rebuild - Dr. Robert Zembroski
+
 - [ ]  Eat Fat Get Thin - Mark Hyman
 - [ ]  Gut - Giulia Enders
 - [ ]  Zen In The Art Of Writing - Ray Bradbury
@@ -129,13 +190,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  May Be You Should Talk To Someone - Lori Gottlieb
 - [ ]  Emotional Intelligence - Daniel Goleman
 - [ ]  The Happiness Hypothesis - Jonathan Haidt
-- [ ]  Probably Approximately Correct - Leslie Valiant
+
 - [ ]  The Collected Schizoprenias - Esme Weijun Wang
 - [ ]  The End oF Everthing - Katie Mack
 - [ ]  A Thousand Brains - Jeff Hawkins
 - [ ]  The First Cell - Azra Raza
 - [ ]  The Pricipice - Toby Ord
-- [ ]  Yuganta - Irawati Karve
+
 - [ ]  Building a Second Brain Book - Tiago Forte
 - [ ]  Just Keep Buying - Nick Maggiulli
 - [ ]  The Happiest man on Earth - Eddie Jaku
@@ -157,9 +218,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Millionaire Next Door - Thomas J. Stanley
 - [ ]  Secrets of Millionaire Mind - T. Harv Eker
 - [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
-- [ ]  Dreams of a Final Theory - Steven Weinberg
+
 - [ ]  Empire of Ants - Sussane Foitzik and Olaf Frit
-- [ ]  Deep Down Things The Breathtaking Beauty of Particle Physics - Bruce A Schumm
+
+
 - [ ]  The First Three Minutes - Steven Weinberg
 - [ ]  How to bake π - Eugenia Cheng
 - [ ]  The Order of Time - Carlo Rovelli
@@ -458,7 +520,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  1776 - David McCullough
 - [ ]  The Warmth of Other Suns - Isabel Wilkerson
 - [ ]  SPQR - Mary Beard
-- [ ]  A Little History of the World - E. H. Gombrich
+
 - [ ]  Bury My Heart At Wounded Knee - Dee Brown
 - [ ]  The Silk Roads - Peter Frankopan
 - [ ]  An Ancestor’s Tale - Richard Dawkins
@@ -509,15 +571,20 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Against the Odds: An Autobiography -- James Dyson
 - [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
 - [ ]  The Rational Optimist: How Prosperity Evolves -- Matt Ridley
-- [ ]  Genome: The Autobiography of a Species in 23 Chapters -- Matt Ridley
-- [ ]  The Red Queen: Sex and the Evolution of Human Nature -- Matt Ridley
-- [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
-- [ ]  The Evolution of Everything: How New Ideas Emerge -- Matt Ridley
-- [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
-- [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
-- [ ]  The Lessons of History -- Will & Ariel Durant
+
+
 - [ ]  The Sovereign Individual: Mastering the Transition to the Information Age -- James Dale Davidson and Lord William Rees-Mogg
+
 - [ ]  Why We're Polarized -- Ezra Klein
+- [ ]  When breathe becomes air - By Paul Kalanithi
+- [ ]  What everybody is saying - Joe Navarro
+- [ ]  What we owe to the future - William MacAskill
+- [ ]  When we cease to understand the world - Benjamin Labatut
+
+
+- [ ]  Yuganta - Irawati Karve
+
+- [ ]  Zero to One  - Blake Masters and Peter Thiel
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
