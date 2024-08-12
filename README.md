@@ -38,7 +38,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Eat, drink and be healthy : the Harvard Medical  School guide to healthy eating - Patrick J Skerrett
 - [ ]  Educated - Tara Westower
-
+- [ ]  Essence of Indian Art - B. N. Goswamy
 
 - [ ]  Finish what you start - Peter Hollins
 
@@ -46,16 +46,21 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Genome: The Autobiography of a Species in 23 Chapters -- Matt Ridley
 - [ ]  Guns, Germs and Steel - Jared Diamond
-
+- [ ]  Generations - The History of American Future by William Straus and Neil Howe
 
 
 - [ ]  How to Win friends and Influence People - Dale Carnegie
 - [ ]  Hillbilly Elegy - J D Vance
 - [ ]  How to lie with statistics - Darrel Huff
 - [ ]  How to avoid a climate disaster - Bill Gates
+- [ ]  How to build this - Guy Raz
+- [ ]  How To Fail At Almost Everything & Still Win Big - Scott Adams
 
 - [ ]  In the praise of shadows - Vintage Tanizaki
 - [ ]  Influence - Robert Cialdini
+- [ ]  Introduction To Indian Histroy - Ibrahim Aerali
+
+
 
 - [ ]  Justice - Michael  Sandel
 
@@ -64,6 +69,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Karl Max - Das Kapital
 
 
+- [ ]  Lady Doctor - Kavitha Rao
 - [ ]  Lifespan - David Sinclair
 
 - [ ]  Masters of Doom - David Kushner 
@@ -81,8 +87,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Rebuild - Dr. Robert Zembroski
 
+- [ ]  Sapiens Graphic Novel - David VanderMeulen and Yuval Noah Harari
 - [ ]  Stranger in a Strange Land - Robert Heinlein
 - [ ]  Snow Crash - Neal Stephenson
+- [ ]  Seeing Like A State - James C. Scott
+- [ ]  Shoe Dog - Phil Knight
+- [ ]  Start At The End - David Lavinsky 
 
 - [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
 - [ ]  The Red Queen: Sex and the Evolution of Human Nature -- Matt Ridley
@@ -103,97 +113,102 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Big Picture - Sean Carrol
 - [ ]  The Unabomber Manifesto
 - [ ]  The Selfish Gene - Richard Dawkins
- 
-
-
-
-
-
-
-
-
-
-
-
-
+- [ ]  The Art of Readable Writing: With the Flesch Readability Formula
+- [ ]  The Rational Optimist: How Prosperity Evolves -- Matt Ridley
+- [ ]  The Sovereign Individual: Mastering the Transition to the Information Age -- James Dale Davidson and Lord William Rees-Mogg
+- [ ]  The Spy and the Traitor: The Greatest Espionage Story of the Cold War by Ben Macintyre
+- [ ]  Trick Mirror: Reflections on Self-Delusion by Jia Tolentino
+- [ ]  Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell 
 - [ ]  The Journalist and the Murderer - Janet Malcolm
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need
 - [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny - William Straus and Neil Howe
-- [ ]  Generations - The History of American Future by William Straus and Neil Howe
+- [ ]  The Beautiful Trouble - Andrew Boyd
 - [ ]  The Spirit of St. Louis - Charles A. Lindbergh
 - [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
 - [ ]  The Singularity Is Near: When Humans Transcend Biology - Ray Kurzweil
 - [ ]  Tao Te Ching: Text Only Edition Translated - Gia-fu feng and Jane English
-- [ ]  Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
-- [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
-- [ ]  The Beautiful Trouble - Andrew Boyd
-- [ ]  Seeing Like A State - James C. Scott
-
-
-- [ ]  Introduction To Indian Histroy - Ibrahim Aerali
-- [ ]  Essence of Indian Art - B. N. Goswamy
-- [ ]  Lady Doctor - Kavitha Rao
-- [ ]  Sapiens Graphic Novel - David VanderMeulen and Yuval Noah Harari
-- [ ]  Watchmen Graphic Novel - Alan Moore and Dave Gibbons
-
 - [ ]  The Three Body Problem Triology - Liu Cixin
 - [ ]  The Handmaid's Tale - Margaret Atwood
-- [ ]  Narcopolis - Jeet Thayil
-- [ ]  Blue Skinned Gods - SJ Sindu
 - [ ]  The School of Life: An Emotional Education - Alain De Botton
 - [ ]  The Last Question - Isaac Asimov
-- [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
 - [ ]  The Mom Test - Rob Fitzpatrick
 - [ ]  The Body - Bill Bryson
+- [ ]  The Lean Startup - Eric Ries
+
+
+- [ ]  Anything You Want - Derek Sivers
+- [ ]  Algorithms To Live - Brian Christian, Thomas L. Griffiths, and Tom Griffiths
+- [ ]  Awareness - Anthony De Mello
+- [ ]  A Thousand Splendid Suns - Khaled Hosseini
+- [ ]  A Thousand Brains - Jeff Hawkins
+
+- [ ]  Blue Skinned Gods - SJ Sindu
+- [ ]  Blink - Malcom Gladwell
+
+- [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
+- [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
 
 - [ ]  Eat Fat Get Thin - Mark Hyman
-- [ ]  Gut - Giulia Enders
-- [ ]  Zen In The Art Of Writing - Ray Bradbury
-- [ ]  A Thousand Splendid Suns - Khaled Hosseini
-- [ ]  Prisoners of Geography - Tim Marshall
-- [ ]  Hitchcock/Truffaut - Francois Truffaut
-- [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
-- [ ]  The Lean Startup - Eric Ries
-- [ ]  Shoe Dog - Phil Knight
-- [ ]  How to build this - Guy Raz
-- [ ]  Start At The End - David Lavinsky 
-- [ ]  How To Fail At Almost Everything & Still Win Big - Scott Adams
-- [ ]  Memories, Dreams and Reflection - Carl Jung
-- [ ]  Flow - Mihaly Csikszentmilhayi
-- [ ]  Galileo's Error - Philip Goff
-- [ ]  The Goal - Eliyahu Goldratt
+- [ ]  Emotional Intelligence - Daniel Goleman
 - [ ]  Finite and Infinite Games - James Carse
-- [ ]  Awareness - Anthony De Mello
-- [ ]  Origin Story - David Christain
-- [ ]  What I Talk About When I Talk About Running - Haruki Murakami.
-- [ ]  Musashi - Eiji Yoshikawa
+
+- [ ]  Galileo's Error - Philip Goff
+- [ ]  Grit - Angela Duckworth
+- [ ]  Gut - Giulia Enders
+
+- [ ]  Hitchcock/Truffaut - Francois Truffaut
+
+- [ ]  Laws of Human Nature - Robert Greene
 - [ ]  Loonshots - Safi Bahcall
-- [ ]  Algorithms To Live - Brian Christian, Thomas L. Griffiths, and Tom Griffiths
+
+- [ ]  May Be You Should Talk To Someone - Lori Gottlieb
+- [ ]  Man And His Symbols - Carl Jung
+- [ ]  Memories, Dreams and Reflection - Carl Jung
+- [ ]  Musashi - Eiji Yoshikawa
+
+
+- [ ]  Narcopolis - Jeet Thayil
+
+- [ ]  Origin Story - David Christain
+
 - [ ]  Sophie's World - Jostein Gaarder
+
+- [ ]  Talent is Never Enough - John C. Maxwell
+- [ ]  The Body Keeps The Score - Bessel Van Der Kolk
 - [ ]  The Choice - Dr. Edith Eger
 - [ ]  The Art of Possibility - Benjamin Zander & Rosamund Zander
 - [ ]  Turn The Ship Around - L. David Marquet
-- [ ]  Seeking Wisdom from Darwin to Munger - Peter Bevelin
 - [ ]  The Top Five Regrets of The Dying - Bronnie Ware
 - [ ]  The Mountain Is You - Brianna Wiest.
-- [ ]  Anything You Want - Derek Sivers
-- [ ]  Talent is Never Enough - John C. Maxwell
-- [ ]  The Body Keeps The Score - Bessel Van Der Kolk
-- [ ]  Man And His Symbols - Carl Jung
-- [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
-- [ ]  Laws of Human Nature - Robert Greene
+- [ ]  The Goal - Eliyahu Goldratt
 - [ ]  The Road Less Travelled - M. Scott Peck
-- [ ]  What Happened To You - Dr Bruce Perry
 - [ ]  The Social Animal - David Brook
-- [ ]  Blink - Malcom Gladwell
-- [ ]  Grit - Angela Duckworth
-- [ ]  May Be You Should Talk To Someone - Lori Gottlieb
-- [ ]  Emotional Intelligence - Daniel Goleman
 - [ ]  The Happiness Hypothesis - Jonathan Haidt
-
 - [ ]  The Collected Schizoprenias - Esme Weijun Wang
+
+- [ ]  Prisoners of Geography - Tim Marshall
+- [ ]  What I Talk About When I Talk About Running - Haruki Murakami.
+- [ ]  What Happened To You - Dr Bruce Perry
+
+- [ ]  Zen In The Art Of Writing - Ray Bradbury
+
+
+
+
+
+
+
+- [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
+
+
+
+
+
+
+
+
 - [ ]  The End oF Everthing - Katie Mack
-- [ ]  A Thousand Brains - Jeff Hawkins
+
 - [ ]  The First Cell - Azra Raza
 - [ ]  The Pricipice - Toby Ord
 
@@ -559,31 +574,30 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hacking Darwin: Genetic Engineering and the Future of Humanity by Jamie Metzl
 - [ ]  Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do by Jennifer L. Eberhardt
 - [ ]  Range: Why Generalists Triumph in a Specialized World by David Epstein
-- [ ]  The Spy and the Traitor: The Greatest Espionage Story of the Cold War by Ben Macintyre
-- [ ]  Trick Mirror: Reflections on Self-Delusion by Jia Tolentino
-- [ ]  Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell
+
 - [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence, by Ajay Agrawal, Joshua Gans and Avi Goldfarb
 - [ ]  Seeing Like a State by James C. Scott
-- [ ]  The Art of Readable Writing: With the Flesch Readability Formula
+
 - [ ]  De Gaulle –Julian Jackson
 - [ ]  Meet You in Hell: Andrew Carnegie, Henry Clay Frick, and the Bitter Partnership That Changed America -- Les Standiford
 - [ ]  Estee: A Success Story Hardcover – Estee Lauder
 - [ ]  Against the Odds: An Autobiography -- James Dyson
 - [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
-- [ ]  The Rational Optimist: How Prosperity Evolves -- Matt Ridley
 
 
-- [ ]  The Sovereign Individual: Mastering the Transition to the Information Age -- James Dale Davidson and Lord William Rees-Mogg
 
 - [ ]  Why We're Polarized -- Ezra Klein
 - [ ]  When breathe becomes air - By Paul Kalanithi
 - [ ]  What everybody is saying - Joe Navarro
 - [ ]  What we owe to the future - William MacAskill
 - [ ]  When we cease to understand the world - Benjamin Labatut
+- [ ]  Watchmen Graphic Novel - Alan Moore and Dave Gibbons
+- [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
 
 
 - [ ]  Yuganta - Irawati Karve
 
+- [ ]  Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
 - [ ]  Zero to One  - Blake Masters and Peter Thiel
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
