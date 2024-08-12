@@ -134,46 +134,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Mom Test - Rob Fitzpatrick
 - [ ]  The Body - Bill Bryson
 - [ ]  The Lean Startup - Eric Ries
-
-
-- [ ]  Anything You Want - Derek Sivers
-- [ ]  Algorithms To Live - Brian Christian, Thomas L. Griffiths, and Tom Griffiths
-- [ ]  Awareness - Anthony De Mello
-- [ ]  A Thousand Splendid Suns - Khaled Hosseini
-- [ ]  A Thousand Brains - Jeff Hawkins
-
-- [ ]  Blue Skinned Gods - SJ Sindu
-- [ ]  Blink - Malcom Gladwell
-
-- [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
-- [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
-
-- [ ]  Eat Fat Get Thin - Mark Hyman
-- [ ]  Emotional Intelligence - Daniel Goleman
-- [ ]  Finite and Infinite Games - James Carse
-
-- [ ]  Galileo's Error - Philip Goff
-- [ ]  Grit - Angela Duckworth
-- [ ]  Gut - Giulia Enders
-
-- [ ]  Hitchcock/Truffaut - Francois Truffaut
-
-- [ ]  Laws of Human Nature - Robert Greene
-- [ ]  Loonshots - Safi Bahcall
-
-- [ ]  May Be You Should Talk To Someone - Lori Gottlieb
-- [ ]  Man And His Symbols - Carl Jung
-- [ ]  Memories, Dreams and Reflection - Carl Jung
-- [ ]  Musashi - Eiji Yoshikawa
-
-
-- [ ]  Narcopolis - Jeet Thayil
-
-- [ ]  Origin Story - David Christain
-
-- [ ]  Sophie's World - Jostein Gaarder
-
-- [ ]  Talent is Never Enough - John C. Maxwell
 - [ ]  The Body Keeps The Score - Bessel Van Der Kolk
 - [ ]  The Choice - Dr. Edith Eger
 - [ ]  The Art of Possibility - Benjamin Zander & Rosamund Zander
@@ -185,13 +145,87 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Social Animal - David Brook
 - [ ]  The Happiness Hypothesis - Jonathan Haidt
 - [ ]  The Collected Schizoprenias - Esme Weijun Wang
+- [ ]  The End oF Everthing - Katie Mack
+- [ ]  The First Cell - Azra Raza
+- [ ]  The Pricipice - Toby Ord
+- [ ]  The Happiest man on Earth - Eddie Jaku
+- [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
+- [ ]  The Bhagavad Gita translated - Eknath Easwaran - The Bhagavad Gita is one of the most famous and influential texts in Indian philosophy. This translation is highly regarded for its clarity and accessibility.
+- [ ]  The Collected Works of Ramana Maharshi edited - Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
+- [ ]  The Heart of Hinduism - Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
+- [ ]  The Foundations of Indian Philosophy - A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
+- [ ]  The Mind is Flat - Nick Chater
+- [ ]  The Barefoot Investor - Scott Pape
+- [ ]  The little book that beats the market - Joel Greenblatt
+- [ ]  The Total Money Makeover - Dave Ramsay
+- [ ]  The Automatic Millionaire - David Bach
+- [ ]  The Millionaire Next Door - Thomas J. Stanley
+- [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
+- [ ]  The First Three Minutes - Steven Weinberg
+- [ ]  The Order of Time - Carlo Rovelli
+- [ ]  The Science of Can and Can't - Chiara Marletto
+- [ ]  The Interpretation of Dreams - Sigmund Freud
+
+- [ ]  Anything You Want - Derek Sivers
+- [ ]  Algorithms To Live - Brian Christian, Thomas L. Griffiths, and Tom Griffiths
+- [ ]  Awareness - Anthony De Mello
+- [ ]  A Thousand Splendid Suns - Khaled Hosseini
+- [ ]  A Thousand Brains - Jeff Hawkins
+
+- [ ]  Blue Skinned Gods - SJ Sindu
+- [ ]  Blink - Malcom Gladwell
+- [ ]  Building a Second Brain Book - Tiago Forte
+
+- [ ]  Chatter - Ethan Kross
+- [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
+- [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
+
+- [ ]  Enlightenment Now - Steven Pinker
+- [ ]  Entangled Life - Merlin Sheldrake
+- [ ]  Eat Fat Get Thin - Mark Hyman
+- [ ]  Emotional Intelligence - Daniel Goleman
+- [ ]  Empire of Ants - Sussane Foitzik and Olaf Frit
+
+- [ ]  Finite and Infinite Games - James Carse
+- [ ]  Food Rules - Michael Pollan
+
+- [ ]  Galileo's Error - Philip Goff
+- [ ]  Grit - Angela Duckworth
+- [ ]  Gut - Giulia Enders
+
+- [ ]  Hitchcock/Truffaut - Francois Truffaut
+- [ ]  How to bake π - Eugenia Cheng
+
+- [ ]  Just Keep Buying - Nick Maggiulli
+
+- [ ]  Laws of Human Nature - Robert Greene
+- [ ]  Loonshots - Safi Bahcall
+
+- [ ]  May Be You Should Talk To Someone - Lori Gottlieb
+- [ ]  Man And His Symbols - Carl Jung
+- [ ]  Memories, Dreams and Reflection - Carl Jung
+- [ ]  Musashi - Eiji Yoshikawa
+- [ ]  Money : Master The Game - Tony Robbins
+
+- [ ]  Narcopolis - Jeet Thayil
+
+- [ ]  Origin Story - David Christain
+
+- [ ]  Secrets of Millionaire Mind - T. Harv Eker
+- [ ]  Sophie's World - Jostein Gaarder
+- [ ]  Snow Leopard - Nicolas Cole
+
+
+- [ ]  Talent is Never Enough - John C. Maxwell
+
+
 
 - [ ]  Prisoners of Geography - Tim Marshall
 - [ ]  What I Talk About When I Talk About Running - Haruki Murakami.
 - [ ]  What Happened To You - Dr Bruce Perry
 
 - [ ]  Zen In The Art Of Writing - Ray Bradbury
-
+- [ ]  Zen And The Art of Motorcycle - Robert Pising
 
 
 
@@ -205,46 +239,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 
-
-
-- [ ]  The End oF Everthing - Katie Mack
-
-- [ ]  The First Cell - Azra Raza
-- [ ]  The Pricipice - Toby Ord
-
-- [ ]  Building a Second Brain Book - Tiago Forte
-- [ ]  Just Keep Buying - Nick Maggiulli
-- [ ]  The Happiest man on Earth - Eddie Jaku
-- [ ]  Chatter - Ethan Kross
-- [ ]  Snow Leopard - Nicolas Cole
-- [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
-- [ ]  "The Bhagavad Gita" translated - Eknath Easwaran - The Bhagavad Gita is one of the most famous and influential texts in Indian philosophy. This translation is highly regarded for its clarity and accessibility.
-- [ ]  "The Collected Works of Ramana Maharshi" edited - Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
-- [ ]  "The Heart of Hinduism" - Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
-- [ ]  "The Foundations of Indian Philosophy" - A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
-- [ ]  Food Rules - Michael Pollan
-- [ ]  Entangled Life - Merlin Sheldrake
-- [ ]  The Mind is Flat - Nick Chater
-- [ ]  Money : Master The Game - Tony Robbins
-- [ ]  The Barefoot Investor - Scott Pape 
-- [ ]  The little book that beats the market - Joel Greenblatt
-- [ ]  The Total Money Makeover - Dave Ramsay
-- [ ]  The Automatic Millionaire - David Bach
-- [ ]  The Millionaire Next Door - Thomas J. Stanley
-- [ ]  Secrets of Millionaire Mind - T. Harv Eker
-- [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
-
-- [ ]  Empire of Ants - Sussane Foitzik and Olaf Frit
-
-
-- [ ]  The First Three Minutes - Steven Weinberg
-- [ ]  How to bake π - Eugenia Cheng
-- [ ]  The Order of Time - Carlo Rovelli
-- [ ]  The Science of Can and Can't - Chiara Marletto
-- [ ]  The Interpretation of Dreams - Sigmund Freud
-- [ ]  Enlightenment Now - Steven Pinker
 - [ ]  Beyond Good and Evil - Friedrich Nietzsche
-- [ ]  Zen And The Art of Motorcycle - Robert Pising
+
 - [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences - John Allen Paulos
 - [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
 - [ ]  Where Is My Flying Car? - Josh Storrs Hall
