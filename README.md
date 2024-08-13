@@ -343,7 +343,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 - [ ]  Financial Intelligence - Karen Berman, Joe Knight and John Case.
-
+- [ ]  Four Thousand Weeks - Oliver Burkeman
 
 
 
@@ -373,108 +373,162 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  A Gentleman in Moscow - Amor Towles
 - [ ]  A Wrinkle in Time - Madeleine L'Engle
+- [ ]  Antking - Charlie Kaufman
 
 - [ ]  Buyology - Martin Lindstrom
 - [ ]  Build - Tony Fadell
 
+- [ ]  Cosmocomics by Italo Calvino
+
 - [ ]  Disruptor - Arwen Elys Dayton
 - [ ]  DeepWork - Cal Newport
+
+- [ ]  Freedom at Midnight - Dominique Lapierre and Larry Collins
+
+- [ ]  Game of Thrones Book Series
+- [ ]  Gulliver's Travels
+
+- [ ]  How To Stop Time - Matt Haig
 
 - [ ]  India Before Gandhi - Ramachandra Guha
 - [ ]  India After Gandhi - Ramachandra Guha
 
+- [ ]  JED Mckenna's Notebook
+- [ ]  Journey under the midnight sun - Keigo Higashimo
+
 - [ ]  Kill Decision - Daniel Suarez
 
+
+
 - [ ]  Launch - Jeff Walker
+
+
 
 - [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
 - [ ]  On Writing: A Memoir of the Craft - Stephen King
 
+
+
+
+- [ ]  Princeton Companion of Mathematics - Timothy Gowers
+- [ ]  Prisoners of Geography - Tim Marshall
+- [ ]  Physics for Scientists and Engineers - Paul Tipler
+- [ ]  Pride and Prejudice - Jane Austen
+
+
 - [ ]  Ready Player One - Ernest Cline
+- [ ]  Richard Feynman’s Lectures - Richard Feynman
+- [ ]  Reflections in a sacred pond - Murad Ali Balg
+
+
+
+- [ ]  Schaum's Outlines - Joel Lerner and James Cashin
+- [ ]  Sputnik Sweetheart - Haruki Murakami
+
 
 
 - [ ]  The Emperor of Maladies Heretics - Siddhartha
 - [ ]  The Dip - Seth Godin
 - [ ]  The Fourth Turning book - Neil Howe and William Strauss
 - [ ]  The Prophet by Kahlil Gibran
-
-- [ ]  Why I Write - George Orwell
-- [ ]  Who Moved My Cheese - Dr Spencer Johnson
-- [ ]  You Are a Badmass at Making Money - Jen Sincero 
-
-- [ ]  Prisoners of Geography - Tim Marshall
-- [ ]  Cosmocomics by Italo Calvino
 - [ ]  The Humans - Matt Haig
-- [ ]  How To Stop Time - Matt Haig
 - [ ]  The Midnight Library - Matt Haig
-- [ ]  Richard Feynman’s Lectures - Richard Feynman
-- [ ]  Princeton Companion of Mathematics - Timothy Gowers
-- [ ]  Schaum's Outlines - Joel Lerner and James Cashin
-- [ ]  1000 Exercises in Probability - Geoffrey Grimmett and David Stirzaker
 - [ ]  The Nature of Mathematical Modeling - Neil Gershenfeld
-- [ ]  Physics for Scientists and Engineers - Paul Tipler
+- [ ]  The Strange Library - Haruki Murakami
+- [ ]  Train To Pakistan - Khushwant Singh
+- [ ]  Theory Of Everything - JED McKenna
+- [ ]  The Enlightment Triology - JED Mckenna
+
+- [ ]  UNIX: A History and a Memoir - Brian W Kernighan
+- [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
+
 - [ ]  Visual Complex Analysis - Tristan Needham
 - [ ]  Visual Complex Functions - Elias Wegert
-- [ ]  Antking - Charlie Kaufman
-- [ ]  Reflections in a sacred pond - Murad Ali Balg
-- [ ]  Freedom at Midnight - Dominique Lapierre and Larry Collins
-- [ ]  Train To Pakistan - Khushwant Singh
-- [ ]  Journey under the midnight sun - Keigo Higashimo
+
+
+
+
 - [ ]  White Mughals - William Dalrymple
-- [ ]  Sputnik Sweetheart - Haruki Murakami
-- [ ]  The Strange Library - Haruki Murakami
-- [ ]  Gulliver's Travels
-- [ ]  Pride and Prejudice - Jane Austen
+- [ ]  Why I Write - George Orwell
+- [ ]  Who Moved My Cheese - Dr Spencer Johnson
+
+
+- [ ]  You Are a Badmass at Making Money - Jen Sincero 
+
+
+- [ ]  1000 Exercises in Probability - Geoffrey Grimmett and David Stirzaker
+
+
+### Authors to explore
+
 - [ ]  Roald Dahl Books
 - [ ]  Enid Blyton Books
 - [ ]  Agatha Cristie Books
 - [ ]  Lee Child Book Series
-- [ ]  Game of Thrones Book Series
-- [ ]  Four Thousand Weeks - Oliver Burkeman
-- [ ]  Theory Of Everything - JED McKenna
-- [ ]  The Enlightment Triology - JED Mckenna
-- [ ]  JED Mckenna's Notebook
-- [ ]  UNIX: A History and a Memoir - Brian W Kernighan
-- [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
-- [ ]  Bad Blood - John Carreyrou
-- [ ]  Empire of Pain - Patrick Radden Keefe
-- [ ]  A Spy Among Friends : Philby and the Great Betrayal - Ben Macintyre
-- [ ]  The Glass Bead Game - Hermann Hesse
-- [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
-- [ ]  House of Sleep - Jonathan Coe
-- [ ]  The First Fifteen Lives of Harry August - Claire North
-- [ ]  The History of the Peloponnesian War - Thucydides
-- [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
-- [ ]  Alice in Wonderland - Lewis Carroll
-- [ ]  Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
-- [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
-- [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
-- [ ]  The Ayatollah Begs to Differ by Hooman Majd
-- [ ]  Hard-Boiled Wonderland and the End of the World by Haruki Murakami
-- [ ]  Gerrard: My Autobiography by Steven Gerrard
-- [ ]  Intuition Pumps and Other Tools for Thinking by Daniel Dennett 
-- [ ]  Civilization and Its Discontents by Sigmund Freud 
-- [ ]  Jokes and Their Relation to the Unconscious by Sigmund Freud
-- [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
-- [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
-- [ ]  Andha Yug by Dharamvir Bharati
-- [ ]  Rama's Last Act by Bhavabhuti
-- [ ]  We Know It When We See It - Richard Masland
-- [ ]  The Science of Storytelling - Will Storr
-- [ ]  The Hero's Journey - Joseph Campbell
-- [ ]  Ready Player One by Ernest Cline
-- [ ]  Fahrenheit 451 by Ray Bradbury
-- [ ]  Red Rising Series by Pierce Brown 
-- [ ]  Harry Potter and the Prisoner of Azkaban by J.K. Rowling 
 
-- [ ]  Shining by Stephen King
+
+- [ ]  Andha Yug by Dharamvir Bharati
+- [ ]  A Spy Among Friends : Philby and the Great Betrayal - Ben Macintyre
+- [ ]  Alice in Wonderland - Lewis Carroll
+- [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
+- [ ]  Atonement - Ian Mcewan
+
+- [ ]  Bad Blood - John Carreyrou
+
+- [ ]  Civilization and Its Discontents by Sigmund Freud 
+
+- [ ]  Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
+- [ ]  Empire of Pain - Patrick Radden Keefe
+
+- [ ]  Fahrenheit 451 by Ray Bradbury
+
+- [ ]  Gerrard: My Autobiography by Steven Gerrard
+- [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
+- [ ]  Gone Girl by Gillian Flynn
+
+- [ ]  Hard-Boiled Wonderland and the End of the World by Haruki Murakami
+- [ ]  House of Sleep - Jonathan Coe
+- [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
+- [ ]  Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+
+- [ ]  Intuition Pumps and Other Tools for Thinking by Daniel Dennett 
+
+- [ ]  Jokes and Their Relation to the Unconscious by Sigmund Freud
+
 - [ ]  Pet Sematary by Stephen King
 - [ ]  Purple Cow by Seth Godin
-- [ ]  Social Animal by David Brooks -
+
+- [ ]  Rama's Last Act by Bhavabhuti
+- [ ]  Ready Player One by Ernest Cline
+- [ ]  Red Rising Series by Pierce Brown 
+
+- [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
+- [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
+- [ ]  Shining by Stephen King
+- [ ]  Social Animal by David Brooks
+
+- [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
+- [ ]  The Glass Bead Game - Hermann Hesse
+- [ ]  The First Fifteen Lives of Harry August - Claire North
+- [ ]  The History of the Peloponnesian War - Thucydides
+- [ ]  The Ayatollah Begs to Differ by Hooman Majd
+- [ ]  The Science of Storytelling - Will Storr
+- [ ]  The Hero's Journey - Joseph Campbell
 - [ ]  The Tipping Point by Malcolm Gladwell
-- [ ]  Gone Girl by Gillian Flynn
 - [ ]  Tuesdays With Morrie - Mitch Albom
-- [ ]  Atonement - Ian Mcewan
+
+
+
+- [ ]  We Know It When We See It - Richard Masland
+
+
+
+
+
+
+
+
+
 - [ ]  Glengarry Glen Ross by David Mamet
 - [ ]  Hey, Whipple, Squeeze This by Luke Sullivan and Sam Bennett 
 - [ ]  The Copy Book by Rotovision
