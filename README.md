@@ -12,6 +12,16 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 -   [Internet Rabbit Holes](#Internet-Rabbit-Holes)
 
 ## [Books](https://github.com/VinayMayavanshi13/CatalogueOfThings#Books)
+
+- [ ]  7 Strategies for Wealth & Happiness - Jim Rohn
+- [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
+- [ ]  1984 by George Orwell
+- [ ]  100 Ways to Improve Your Writing - Gary Provost
+
+
+
+
+
 - [ ]  A complaint free world - Will Bowen
 - [ ]  A Little History of the World - E. H. Gombrich
 - [ ]  Atlas Shrugged
@@ -232,40 +242,53 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 
-- [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
 
 
-
-
-
+- [ ]  Against the Odds: An Autobiography -- James Dyson
+- [ ]  AI Superpowers - Kai-Fu Lee
 
 - [ ]  Beyond Good and Evil - Friedrich Nietzsche
 
-- [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences - John Allen Paulos
-- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
-- [ ]  Where Is My Flying Car? - Josh Storrs Hall
+- [ ]  Catching Fire - Richard Wrangham
+
+- [ ]  From Third World to First - Lee Kuan Yew
+
 - [ ]  High Output Management - Andy Grove
-- [ ]  Only the Paranoid Survive - Andy Grove
-- [ ]  The Great CEO Within - Matt Mochary
 - [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
-- [ ]  The Sovereign Individual - James Dale Davidson and Lord William Rees-Mogg.
-- [ ]  Technological Revolutions and Financial Capital - Carlota Perez
+- [ ]  History Has Begun - Bruno Maçães
+- [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences - John Allen Paulos
 - [ ]  Indistractable - Nir Eyal
+
+- [ ]  Merchants of Truth - Jill Abramson
+
+- [ ]  Only the Paranoid Survive - Andy Grove
+
+- [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA - Daniel Carpenter
+- [ ]  Rules for Radicals - Saul Alinsky
+- [ ]  Seeing Like a State - James C. Scott
+
+- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
+- [ ]  The Great CEO Within - Matt Mochary
+- [ ]  The Sovereign Individual - James Dale Davidson and Lord William Rees-Mogg.
 - [ ]  The Cold Start Problem - Andrew Chen
 - [ ]  The Gray Lady Winked - Ashley Rindsberg
-- [ ]  Merchants of Truth - Jill Abramson
-- [ ]  AI Superpowers - Kai-Fu Lee
-- [ ]  Catching Fire - Richard Wrangham
-- [ ]  Who We Are and How We Got Here - David Reich
-- [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA - Daniel Carpenter
+- [ ]  Technological Revolutions and Financial Capital - Carlota Perez
 - [ ]  The Truth Machine - Michael Casey & Paul Vigna
 - [ ]  The Internet of Money Volume 1 - Andreas Antonopolous
-- [ ]  Seeing Like a State - James C. Scott
-- [ ]  From Third World to First - Lee Kuan Yew
-- [ ]  History Has Begun - Bruno Maçães
 - [ ]  The Craft - John Dickie
 - [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
-- [ ]  Rules for Radicals - Saul Alinsky
+
+
+- [ ]  Where Is My Flying Car? - Josh Storrs Hall
+- [ ]  Who We Are and How We Got Here - David Reich
+
+
+
+
+
+
+
+
 - [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
 - [ ]  War and Peace and War: The Rise and Fall of Empires - Peter Turchin
 - [ ]  The Fourth Turning: An American Prophecy - William Strauss and Neil Howe
@@ -418,7 +441,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fahrenheit 451 by Ray Bradbury
 - [ ]  Red Rising Series by Pierce Brown 
 - [ ]  Harry Potter and the Prisoner of Azkaban by J.K. Rowling 
-- [ ]  1984 by George Orwell
+
 - [ ]  Shining by Stephen King
 - [ ]  Pet Sematary by Stephen King
 - [ ]  Purple Cow by Seth Godin
@@ -462,7 +485,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Win Without Pitching Manifesto - Blair Enns
 - [ ]  The Coaching Habit - Michael Bungay Stanier
 - [ ]  Socratic Selling - Kevin Daley
-- [ ]  7 Strategies for Wealth & Happiness - Jim Rohn
+
 - [ ]  The Brand Flip - Marty Neumeier
 - [ ]  No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model - Richard Schwartz
 - [ ]  The Push Man and Other Stories by Yoshihiro Tatsumi 
@@ -513,7 +536,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  On Writing Well - William Zinsser
 - [ ]  How to Write Short - Roy Peter Clarke
 - [ ]  Bird by Bird - Anne Lamott
-- [ ]  100 Ways to Improve Your Writing - Gary Provost
+
 - [ ]  Everybody Writes - Ann Handley
 - [ ]  Consider This - Chuck Palahniuk
 - [ ]  The Elements of Style - Shrunk and White
@@ -577,7 +600,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  De Gaulle –Julian Jackson
 - [ ]  Meet You in Hell: Andrew Carnegie, Henry Clay Frick, and the Bitter Partnership That Changed America -- Les Standiford
 - [ ]  Estee: A Success Story Hardcover – Estee Lauder
-- [ ]  Against the Odds: An Autobiography -- James Dyson
+
 - [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
 
 
