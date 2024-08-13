@@ -21,7 +21,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 
-
+- [ ]  Anything You Want - Derek Sivers
+- [ ]  Algorithms To Live - Brian Christian, Thomas L. Griffiths, and Tom Griffiths
+- [ ]  Awareness - Anthony De Mello
+- [ ]  A Thousand Splendid Suns - Khaled Hosseini
+- [ ]  A Thousand Brains - Jeff Hawkins
 - [ ]  A complaint free world - Will Bowen
 - [ ]  A Little History of the World - E. H. Gombrich
 - [ ]  Atlas Shrugged
@@ -31,7 +35,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Blind Willow, Sleeping Woman - Haruki Murakami
 - [ ]  Breath - James Nestor
-
+- [ ]  Blue Skinned Gods - SJ Sindu
+- [ ]  Blink - Malcom Gladwell
+- [ ]  Building a Second Brain Book - Tiago Forte
 
 
 
@@ -176,15 +182,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Science of Can and Can't - Chiara Marletto
 - [ ]  The Interpretation of Dreams - Sigmund Freud
 
-- [ ]  Anything You Want - Derek Sivers
-- [ ]  Algorithms To Live - Brian Christian, Thomas L. Griffiths, and Tom Griffiths
-- [ ]  Awareness - Anthony De Mello
-- [ ]  A Thousand Splendid Suns - Khaled Hosseini
-- [ ]  A Thousand Brains - Jeff Hawkins
+- [ ]  Ulysses S. Grant: Triumph Over Adversity - Brooks D. Simpson
 
-- [ ]  Blue Skinned Gods - SJ Sindu
-- [ ]  Blink - Malcom Gladwell
-- [ ]  Building a Second Brain Book - Tiago Forte
+
+- [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
+- [ ]  Against the Odds: An Autobiography -- James Dyson
+- [ ]  AI Superpowers - Kai-Fu Lee
+
 
 - [ ]  Chatter - Ethan Kross
 - [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
@@ -244,8 +248,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 
-- [ ]  Against the Odds: An Autobiography -- James Dyson
-- [ ]  AI Superpowers - Kai-Fu Lee
 
 - [ ]  Beyond Good and Evil - Friedrich Nietzsche
 
@@ -256,6 +258,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  High Output Management - Andy Grove
 - [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
 - [ ]  History Has Begun - Bruno Maçães
+- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
+
 - [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences - John Allen Paulos
 - [ ]  Indistractable - Nir Eyal
 
@@ -263,9 +267,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Only the Paranoid Survive - Andy Grove
 
+- [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
+
 - [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA - Daniel Carpenter
 - [ ]  Rules for Radicals - Saul Alinsky
+
+
 - [ ]  Seeing Like a State - James C. Scott
+- [ ]  So Good They Can’t Ignore You - Cal Newport
+- [ ]  Shantaram: A Novel - Gregory David Roberts
 
 - [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
 - [ ]  The Great CEO Within - Matt Mochary
@@ -277,57 +287,64 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Internet of Money Volume 1 - Andreas Antonopolous
 - [ ]  The Craft - John Dickie
 - [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
-
+- [ ]  The Fourth Turning: An American Prophecy - William Strauss and Neil Howe
 
 - [ ]  Where Is My Flying Car? - Josh Storrs Hall
 - [ ]  Who We Are and How We Got Here - David Reich
-
-
-
-
-
-
-
-
-- [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
 - [ ]  War and Peace and War: The Rise and Fall of Empires - Peter Turchin
-- [ ]  The Fourth Turning: An American Prophecy - William Strauss and Neil Howe
-- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
-- [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
+- [ ]  Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists -  Antony Sutton
+- [ ]  Wall Street and the Rise of Hitler - Antony Sutton
+
 - [ ]  The Gulag Archipelago - Aleksandr I. Solzhenitsyn
 - [ ]  The House of Government: A Saga of the Russian Revolution - Yuri Slezkine
 - [ ]  The Journalist and the Murderer + Janet Malcolm
-- [ ]  Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists -  Antony Sutton
-- [ ]  Wall Street and the Rise of Hitler - Antony Sutton
-- [ ]  Cat’s Cradle by Kurt Vonnegut
 - [ ]  The Psychedelic Explorer’s Guide - James Fadiman
 - [ ]  The Adventures of Johnny Bunko - Daniel H. Pink
-- [ ]  So Good They Can’t Ignore You - Cal Newport
-- [ ]  Shantaram: A Novel - Gregory David Roberts
 - [ ]  Things Hidden Since the Foundation of the World - René Girard
-- [ ]  As a Man Thinketh - James Allen
+
 - [ ]  The Spirit of St. Louis - Charles A.Lindbergh
 - [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
-- [ ]  Man’s Search for Meaning - Viktor E.Frankl
-- [ ]  The Fourth Turning - William Strauss
-- [ ]  Generations - William Strauss
 - [ ]  The Singularity Is Near - Ray Kurzweil
 - [ ]  The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
 - [ ]  The Rise of Superman - Steven Kotler
+
+
+
+
+
+- [ ]  As a Man Thinketh - James Allen
+
 - [ ]  Benjamin Franklin - Walter Isaacson
-- [ ]  Titan: The Life of John D. Rockefeller - Ron Cherow
+- [ ]  Blue Ocean Strategy - W. Chan Kim
+
+- [ ]  Cat’s Cradle by Kurt Vonnegut
+
+- [ ]  Daily Rituals - Mason Currey
+
+- [ ]  Edison – A Biography by Matthew Josephson
+
+
 - [ ]  How to Live - Sarah Bakewell
+
+- [ ]  Man’s Search for Meaning - Viktor E.Frankl
+
+- [ ]  Generations - William Strauss
+- [ ]  Giving Good Weight - John McPhee
+
+- [ ]  Titan: The Life of John D. Rockefeller - Ron Cherow
+
+- [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
 - [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
 - [ ]  Tough Jews - Rich Cohen
-- [ ]  Edison – A Biography by Matthew Josephson
-- [ ]  Ulysses S. Grant: Triumph Over Adversity - Brooks D. Simpson
 - [ ]  The Control of Nature - John McPhee
-- [ ]  Giving Good Weight - John McPhee
-- [ ]  What Makes Sammy Run? - Budd Schulberg
-- [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
-- [ ]  Daily Rituals - Mason Currey
 - [ ]  The War of Art - Steven Pressfield
-- [ ]  Blue Ocean Strategy - W. Chan Kim
+
+- [ ]  What Makes Sammy Run? - Budd Schulberg
+
+
+
+
+
 - [ ]  Wilderness Essays - Epictitus
 - [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
 - [ ]  Shogun - James Clavell
