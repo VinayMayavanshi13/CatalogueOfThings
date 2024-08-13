@@ -466,16 +466,23 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Agatha Cristie Books
 - [ ]  Lee Child Book Series
 
-
+- [ ]  Akbar - Ira Mukhoty 
 - [ ]  Andha Yug by Dharamvir Bharati
 - [ ]  A Spy Among Friends : Philby and the Great Betrayal - Ben Macintyre
 - [ ]  Alice in Wonderland - Lewis Carroll
 - [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
 - [ ]  Atonement - Ian Mcewan
+- [ ]  A Girl is a Half-formed Thing -Eimear McBride
+- [ ]  Americanah - Chimamanda Ngozi Adichie
 
+- [ ]  Beloved - Toni Morrison
 - [ ]  Bad Blood - John Carreyrou
+- [ ]  Bill Bernbach's Book: A History of Advertising That Changed the History of Advertising by Bob Levenson
 
 - [ ]  Civilization and Its Discontents by Sigmund Freud 
+- [ ]  Cold Earth - Sarah Moss
+
+- [ ]  Daughters of the Sun: Empresses, Queens and Begums of the Mughal Empire - Ira Mukhtoy
 
 - [ ]  Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
 - [ ]  Empire of Pain - Patrick Radden Keefe
@@ -485,16 +492,35 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Gerrard: My Autobiography by Steven Gerrard
 - [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
 - [ ]  Gone Girl by Gillian Flynn
+- [ ]  Glengarry Glen Ross by David Mamet
+
 
 - [ ]  Hard-Boiled Wonderland and the End of the World by Haruki Murakami
+- [ ]  Heroines: Powerful Indian Women of Myth and History - Ira Mukhoty 
 - [ ]  House of Sleep - Jonathan Coe
 - [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
 - [ ]  Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+- [ ]  Hey, Whipple, Squeeze This by Luke Sullivan and Sam Bennett 
 
 - [ ]  Intuition Pumps and Other Tools for Thinking by Daniel Dennett 
+- [ ]  India in the Persianate Age - Richard M Eaton
+- [ ]  Invisible Women - Caroline Criado Perez
+- [ ]  Imagining India by Nandan Nilekani
+- [ ]  Indira: The Life of Indira Nehru Gandhi by Katherine Frank
 
+- [ ]  Joe Cinque's Consolation - Helen Garner
 - [ ]  Jokes and Their Relation to the Unconscious by Sigmund Freud
 
+- [ ]  Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore
+
+- [ ]  Mandate: Will of the People by Vir Sanghvi
+- [ ]  My Lady Jane by Book by Brodi Ashton, Cynthia Hand, and Jodi Meadows
+
+- [ ]  No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model - Richard Schwartz
+
+- [ ]  Ogilvy on Advertising in the Digital Age by Miles Young
+
+- [ ]  Pandeymonium: Piyush Pandey On Advertising by Piyush Pandey
 - [ ]  Pet Sematary by Stephen King
 - [ ]  Purple Cow by Seth Godin
 
@@ -506,7 +532,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
 - [ ]  Shining by Stephen King
 - [ ]  Social Animal by David Brooks
+- [ ]  Song Of Drapaudi - Ira Mukhoty 
+- [ ]  Shuggie Bain - Douglas Stuart
+- [ ]  Socratic Selling - Kevin Daley
 
+
+- [ ]  This House of Grief - Helen Garner
+- [ ]  The Left Hand of Darkness - Ursula K. Le Guin
 - [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
 - [ ]  The Glass Bead Game - Hermann Hesse
 - [ ]  The First Fifteen Lives of Harry August - Claire North
@@ -516,67 +548,52 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Hero's Journey - Joseph Campbell
 - [ ]  The Tipping Point by Malcolm Gladwell
 - [ ]  Tuesdays With Morrie - Mitch Albom
-
-
-
-- [ ]  We Know It When We See It - Richard Masland
-
-
-
-
-
-
-
-
-
-- [ ]  Glengarry Glen Ross by David Mamet
-- [ ]  Hey, Whipple, Squeeze This by Luke Sullivan and Sam Bennett 
 - [ ]  The Copy Book by Rotovision
-- [ ]  Pandeymonium: Piyush Pandey On Advertising by Piyush Pandey 
-- [ ]  Bill Bernbach's Book: A History of Advertising That Changed the History of Advertising by Bob Levenson  
-- [ ]  Ogilvy on Advertising in the Digital Age by Miles Young
-- [ ]  Mandate: Will of the People by Vir Sanghvi
-- [ ]  My Lady Jane by Book by Brodi Ashton, Cynthia Hand, and Jodi Meadows
 - [ ]  Toba Tek Singh by Saadat Hasan Manto
 - [ ]  To Kill a Mockingbird by Harper Lee 
 - [ ]  The Catcher in the Rye by J. D. Salinger
 - [ ]  The Complete Hitchiker Series by Douglas Adams
-- [ ]  Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore
-- [ ]  Song Of Drapaudi - Ira Mukhoty 
-- [ ]  Daughters of the Sun: Empresses, Queens and Begums of the Mughal Empire - Ira Mukhtoy
-- [ ]  Akbar - Ira Mukhoty 
-- [ ]  Heroines: Powerful Indian Women of Myth and History - Ira Mukhoty 
-- [ ]  The Left Hand of Darkness - Ursula K. Le Guin
-- [ ]  India in the Persianate Age - Richard M Eaton
-- [ ]  This House of Grief - Helen Garner
-- [ ]  Joe Cinque's Consolation - Helen Garner
-- [ ]  Beloved - Toni Morrison
-- [ ]  A Girl is a Half-formed Thing -Eimear McBride
 - [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
-- [ ]  Invisible Women - Caroline Criado Perez
 - [ ]  The Haunting of Alma Fielding - Kate Summerscale
 - [ ]  The Year of Magical Thinking - Joan Didion
 - [ ]  The Tibetan Book of the Dead - Grahan Coleman
-- [ ]  Shuggie Bain - Douglas Stuart
-- [ ]  Americanah - Chimamanda Ngozi Adichie
-- [ ]  Cold Earth - Sarah Moss
-- [ ]  This Is How It Always Is - Laurie Frankel
-- [ ]  Win Without Pitching Manifesto - Blair Enns
 - [ ]  The Coaching Habit - Michael Bungay Stanier
-- [ ]  Socratic Selling - Kevin Daley
-
+- [ ]  This Is How It Always Is - Laurie Frankel
 - [ ]  The Brand Flip - Marty Neumeier
-- [ ]  No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model - Richard Schwartz
-- [ ]  The Push Man and Other Stories by Yoshihiro Tatsumi 
-- [ ]  Tintin and the Secret of Literature by Tom McCarthy
-- [ ]  Scalped (American Novel Series) by Jason Aaron
-- [ ]  Reasons of Belonging: Fourteen Contemporary Indian Poets
-- [ ]  City of Glass by Paul Auster
 - [ ]  The Conversations: Walter Murch and the Art of Editing Film by Michael Ondaatje
 - [ ]  The Stiglitz Report by Joseph E Stiglitz
 - [ ]  The Argumentative Indian by Amartya Sen
-- [ ]  Imagining India by Nandan Nilekani
-- [ ]  Indira: The Life of Indira Nehru Gandhi by Katherine Frank
+
+- [ ]  The Push Man and Other Stories by Yoshihiro Tatsumi 
+- [ ]  Tintin and the Secret of Literature by Tom McCarthy
+
+- [ ]  We Know It When We See It - Richard Masland
+- [ ]  Win Without Pitching Manifesto - Blair Enns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- [ ]  Scalped (American Novel Series) by Jason Aaron
+- [ ]  Reasons of Belonging: Fourteen Contemporary Indian Poets
+- [ ]  City of Glass by Paul Auster
+
+
 - [ ]  Not Your Usual Founding Father: Selected Readings from Benjamin Franklin by Ben Franklin and Edmund Morgan 
 - [ ]  Benjamin Franklin by Edmund Morgan 
 - [ ]  Benjamin Franklin by Carl Van Doren
