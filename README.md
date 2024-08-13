@@ -20,7 +20,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 
-
+- [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
+- [ ]  Against the Odds: An Autobiography -- James Dyson
+- [ ]  AI Superpowers - Kai-Fu Lee
 - [ ]  Anything You Want - Derek Sivers
 - [ ]  Algorithms To Live - Brian Christian, Thomas L. Griffiths, and Tom Griffiths
 - [ ]  Awareness - Anthony De Mello
@@ -41,7 +43,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 
-
+- [ ]  Chatter - Ethan Kross
+- [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
+- [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
 - [ ]  ChanakyaNeeti - B. K. Chaturvedi
 
 
@@ -55,15 +59,23 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Eat, drink and be healthy : the Harvard Medical  School guide to healthy eating - Patrick J Skerrett
 - [ ]  Educated - Tara Westower
 - [ ]  Essence of Indian Art - B. N. Goswamy
+- [ ]  Enlightenment Now - Steven Pinker
+- [ ]  Entangled Life - Merlin Sheldrake
+- [ ]  Eat Fat Get Thin - Mark Hyman
+- [ ]  Emotional Intelligence - Daniel Goleman
+- [ ]  Empire of Ants - Sussane Foitzik and Olaf Frit
 
 - [ ]  Finish what you start - Peter Hollins
-
+- [ ]  Finite and Infinite Games - James Carse
+- [ ]  Food Rules - Michael Pollan
 
 
 - [ ]  Genome: The Autobiography of a Species in 23 Chapters -- Matt Ridley
 - [ ]  Guns, Germs and Steel - Jared Diamond
 - [ ]  Generations - The History of American Future by William Straus and Neil Howe
-
+- [ ]  Galileo's Error - Philip Goff
+- [ ]  Grit - Angela Duckworth
+- [ ]  Gut - Giulia Enders
 
 - [ ]  How to Win friends and Influence People - Dale Carnegie
 - [ ]  Hillbilly Elegy - J D Vance
@@ -71,6 +83,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  How to avoid a climate disaster - Bill Gates
 - [ ]  How to build this - Guy Raz
 - [ ]  How To Fail At Almost Everything & Still Win Big - Scott Adams
+- [ ]  Hitchcock/Truffaut - Francois Truffaut
+- [ ]  How to bake π - Eugenia Cheng
 
 - [ ]  In the praise of shadows - Vintage Tanizaki
 - [ ]  Influence - Robert Cialdini
@@ -79,7 +93,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 - [ ]  Justice - Michael  Sandel
-
+- [ ]  Just Keep Buying - Nick Maggiulli
 
 
 - [ ]  Karl Max - Das Kapital
@@ -101,6 +115,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Probably Approximately Correct - Leslie Valiant
 
+- [ ]  Quantum Mechanics The Theoretical Minimum - Leonard Susskind & Art Friedman
+
 - [ ]  Rebuild - Dr. Robert Zembroski
 
 - [ ]  Sapiens Graphic Novel - David VanderMeulen and Yuval Noah Harari
@@ -110,6 +126,35 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Shoe Dog - Phil Knight
 - [ ]  Start At The End - David Lavinsky 
 
+- [ ]  The Great CEO Within - Matt Mochary
+- [ ]  The Sovereign Individual - James Dale Davidson and Lord William Rees-Mogg.
+- [ ]  The Cold Start Problem - Andrew Chen
+- [ ]  The Gray Lady Winked - Ashley Rindsberg
+- [ ]  Technological Revolutions and Financial Capital - Carlota Perez
+- [ ]  The Truth Machine - Michael Casey & Paul Vigna
+- [ ]  The Internet of Money Volume 1 - Andreas Antonopolous
+- [ ]  The Craft - John Dickie
+- [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
+- [ ]  The Fourth Turning: An American Prophecy - William Strauss and Neil Howe
+- [ ]  The Gulag Archipelago - Aleksandr I. Solzhenitsyn
+- [ ]  The House of Government: A Saga of the Russian Revolution - Yuri Slezkine
+- [ ]  The Journalist and the Murderer + Janet Malcolm
+- [ ]  The Psychedelic Explorer’s Guide - James Fadiman
+- [ ]  The Adventures of Johnny Bunko - Daniel H. Pink
+- [ ]  Things Hidden Since the Foundation of the World - René Girard
+- [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
+- [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
+- [ ]  Tough Jews - Rich Cohen
+- [ ]  The Control of Nature - John McPhee
+- [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
+- [ ]  The Painted Bird - Jerzy Kosinski
+- [ ]  The Tyranny of Merit - Michael J Sandel
+- [ ]  The War of Art - Steven Pressfield
+- [ ]  The Spirit of St. Louis - Charles A.Lindbergh
+- [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
+- [ ]  The Singularity Is Near - Ray Kurzweil
+- [ ]  The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
+- [ ]  The Rise of Superman - Steven Kotler
 - [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
 - [ ]  The Red Queen: Sex and the Evolution of Human Nature -- Matt Ridley
 - [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
@@ -185,32 +230,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Ulysses S. Grant: Triumph Over Adversity - Brooks D. Simpson
 
 
-- [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
-- [ ]  Against the Odds: An Autobiography -- James Dyson
-- [ ]  AI Superpowers - Kai-Fu Lee
 
 
-- [ ]  Chatter - Ethan Kross
-- [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
-- [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
-
-- [ ]  Enlightenment Now - Steven Pinker
-- [ ]  Entangled Life - Merlin Sheldrake
-- [ ]  Eat Fat Get Thin - Mark Hyman
-- [ ]  Emotional Intelligence - Daniel Goleman
-- [ ]  Empire of Ants - Sussane Foitzik and Olaf Frit
-
-- [ ]  Finite and Infinite Games - James Carse
-- [ ]  Food Rules - Michael Pollan
-
-- [ ]  Galileo's Error - Philip Goff
-- [ ]  Grit - Angela Duckworth
-- [ ]  Gut - Giulia Enders
-
-- [ ]  Hitchcock/Truffaut - Francois Truffaut
-- [ ]  How to bake π - Eugenia Cheng
-
-- [ ]  Just Keep Buying - Nick Maggiulli
 
 - [ ]  Laws of Human Nature - Robert Greene
 - [ ]  Loonshots - Safi Bahcall
@@ -278,35 +299,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Shantaram: A Novel - Gregory David Roberts
 
 - [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
-- [ ]  The Great CEO Within - Matt Mochary
-- [ ]  The Sovereign Individual - James Dale Davidson and Lord William Rees-Mogg.
-- [ ]  The Cold Start Problem - Andrew Chen
-- [ ]  The Gray Lady Winked - Ashley Rindsberg
-- [ ]  Technological Revolutions and Financial Capital - Carlota Perez
-- [ ]  The Truth Machine - Michael Casey & Paul Vigna
-- [ ]  The Internet of Money Volume 1 - Andreas Antonopolous
-- [ ]  The Craft - John Dickie
-- [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
-- [ ]  The Fourth Turning: An American Prophecy - William Strauss and Neil Howe
 
-- [ ]  Where Is My Flying Car? - Josh Storrs Hall
-- [ ]  Who We Are and How We Got Here - David Reich
-- [ ]  War and Peace and War: The Rise and Fall of Empires - Peter Turchin
-- [ ]  Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists -  Antony Sutton
-- [ ]  Wall Street and the Rise of Hitler - Antony Sutton
-
-- [ ]  The Gulag Archipelago - Aleksandr I. Solzhenitsyn
-- [ ]  The House of Government: A Saga of the Russian Revolution - Yuri Slezkine
-- [ ]  The Journalist and the Murderer + Janet Malcolm
-- [ ]  The Psychedelic Explorer’s Guide - James Fadiman
-- [ ]  The Adventures of Johnny Bunko - Daniel H. Pink
-- [ ]  Things Hidden Since the Foundation of the World - René Girard
-
-- [ ]  The Spirit of St. Louis - Charles A.Lindbergh
-- [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
-- [ ]  The Singularity Is Near - Ray Kurzweil
-- [ ]  The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
-- [ ]  The Rise of Superman - Steven Kotler
 
 
 
@@ -326,74 +319,89 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  How to Live - Sarah Bakewell
 
+- [ ]  Life Is Elsewhere - Milan Kundera
+
 - [ ]  Man’s Search for Meaning - Viktor E.Frankl
 
 - [ ]  Generations - William Strauss
 - [ ]  Giving Good Weight - John McPhee
 
+- [ ]  One Hundred Years of Solitude - Gabriel Garcia Marquez and Gregory Rabassa
+
+- [ ]  Shogun - James Clavell
+
 - [ ]  Titan: The Life of John D. Rockefeller - Ron Cherow
 
-- [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
-- [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
-- [ ]  Tough Jews - Rich Cohen
-- [ ]  The Control of Nature - John McPhee
-- [ ]  The War of Art - Steven Pressfield
+
 
 - [ ]  What Makes Sammy Run? - Budd Schulberg
-
-
-
-
-
 - [ ]  Wilderness Essays - Epictitus
-- [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
-- [ ]  Shogun - James Clavell
-- [ ]  One Hundred Years of Solitude - Gabriel Garcia Marquez and Gregory Rabassa
-- [ ]  The Painted Bird - Jerzy Kosinski
-- [ ]  Life Is Elsewhere - Milan Kundera
-- [ ]  The Tyranny of Merit - Michael J Sandel
-- [ ]  Quantum Mechanics The Theoretical Minimum - Leonard Susskind & Art Friedman
+
+
+
+- [ ]  East of Eden - John Steinbeck 
+
+
+- [ ]  Financial Intelligence - Karen Berman, Joe Knight and John Case.
+
+
+
+
 - [ ]  I Contain Multitudes - Ed Yong
 - [ ]  Inner Presence - Antii Revonsuo
+
+- [ ]  Jonathan Livingston Seagull - Richard Bach
+
+- [ ]  The 100$ Startup - Chris Guillebeau
+- [ ]  The Entrepreneur Mind - Kevin D. Johnson
+- [ ]  The Alchemist - Paulo Coelho
 - [ ]  The Soul of Marionette - John Gray
-- [ ]  Financial Intelligence - Karen Berman, Joe Knight and John Case.
 - [ ]  The Boys Graphic Novel - Garth Ennis
 - [ ]  The Communication Book - Mikael Krogerus and Roman Tschappler.
 - [ ]  The Hitchhiker's Guide to the Galaxy - Douglas Adams
 - [ ]  The Remains of the day - Kazuo Ishiguro
-- [ ]  Peter Pan - James Barrie
 - [ ]  The Lord of the Rings - JRR Tolkien
-- [ ]  A Gentleman in Moscow - Amor Towles
-- [ ]  East of Eden - John Steinbeck 
 - [ ]  The Martian - Andy Weir
 - [ ]  The Book Of Dust - Philip Pullman
-- [ ]  Jonathan Livingston Seagull - Richard Bach
 - [ ]  The Fountainhead - Ayn Rand
-- [ ]  Kill Decision - Daniel Suarez
-- [ ]  The Alchemist - Paulo Coelho
-- [ ]  Ready Player One - Ernest Cline
 - [ ]  The Song of Achilles - Madelline Miller
-- [ ]  A Wrinkle in Time - Madeleine L'Engle
 - [ ]  The Master and the Margarita - Mikhail Bulgakov
-- [ ]  Disruptor - Arwen Elys Dayton
 - [ ]  The E-Myth Revisted - Michael E. Gerber
-- [ ]  You Are a Badmass at Making Money - Jen Sincero 
-- [ ]  The 100$ Startup - Chris Guillebeau
-- [ ]  The Entrepreneur Mind - Kevin D. Johnson
+
+- [ ]  Peter Pan - James Barrie
+
+
+- [ ]  A Gentleman in Moscow - Amor Towles
+- [ ]  A Wrinkle in Time - Madeleine L'Engle
+
 - [ ]  Buyology - Martin Lindstrom
-- [ ]  Launch - Jeff Walker
 - [ ]  Build - Tony Fadell
+
+- [ ]  Disruptor - Arwen Elys Dayton
 - [ ]  DeepWork - Cal Newport
-- [ ]  The Dip - Seth Godin
-- [ ]  Who Moved My Cheese - Dr Spencer Johnson
-- [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
-- [ ]  On Writing: A Memoir of the Craft - Stephen King
-- [ ]  The Emperor of Maladies Heretics - Siddhartha
+
 - [ ]  India Before Gandhi - Ramachandra Guha
 - [ ]  India After Gandhi - Ramachandra Guha
+
+- [ ]  Kill Decision - Daniel Suarez
+
+- [ ]  Launch - Jeff Walker
+
+- [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
+- [ ]  On Writing: A Memoir of the Craft - Stephen King
+
+- [ ]  Ready Player One - Ernest Cline
+
+
+- [ ]  The Emperor of Maladies Heretics - Siddhartha
+- [ ]  The Dip - Seth Godin
 - [ ]  The Fourth Turning book - Neil Howe and William Strauss
 - [ ]  The Prophet by Kahlil Gibran
+
 - [ ]  Why I Write - George Orwell
+- [ ]  Who Moved My Cheese - Dr Spencer Johnson
+- [ ]  You Are a Badmass at Making Money - Jen Sincero 
+
 - [ ]  Prisoners of Geography - Tim Marshall
 - [ ]  Cosmocomics by Italo Calvino
 - [ ]  The Humans - Matt Haig
@@ -629,7 +637,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  When we cease to understand the world - Benjamin Labatut
 - [ ]  Watchmen Graphic Novel - Alan Moore and Dave Gibbons
 - [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
-
+- [ ]  Where Is My Flying Car? - Josh Storrs Hall
+- [ ]  Who We Are and How We Got Here - David Reich
+- [ ]  War and Peace and War: The Rise and Fall of Empires - Peter Turchin
+- [ ]  Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists -  Antony Sutton
+- [ ]  Wall Street and the Rise of Hitler - Antony Sutton
 
 - [ ]  Yuganta - Irawati Karve
 
