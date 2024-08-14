@@ -13,40 +13,41 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [Books](https://github.com/VinayMayavanshi13/CatalogueOfThings#Books)
 
-- [ ]  7 Strategies for Wealth & Happiness - Jim Rohn
-- [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
-- [ ]  1984 by George Orwell
 - [ ]  100 Ways to Improve Your Writing - Gary Provost
+- [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
 - [ ]  1776 - David McCullough
+- [ ]  1984 by George Orwell
+- [ ]  7 Strategies for Wealth & Happiness - Jim Rohn
 
-- [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
-- [ ]  Against the Odds: An Autobiography -- James Dyson
-- [ ]  AI Superpowers - Kai-Fu Lee
-- [ ]  Anything You Want - Derek Sivers
-- [ ]  Algorithms To Live - Brian Christian, Thomas L. Griffiths, and Tom Griffiths
-- [ ]  Awareness - Anthony De Mello
-- [ ]  A Thousand Splendid Suns - Khaled Hosseini
-- [ ]  A Thousand Brains - Jeff Hawkins
 - [ ]  A complaint free world - Will Bowen
-- [ ]  A Little History of the World - E. H. Gombrich
-- [ ]  Atlas Shrugged
-- [ ]  A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
-- [ ]  Akbar - Ira Mukhoty 
-- [ ]  Andha Yug by Dharamvir Bharati
-- [ ]  A Spy Among Friends : Philby and the Great Betrayal - Ben Macintyre
-- [ ]  Alice in Wonderland - Lewis Carroll
-- [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
-- [ ]  Atonement - Ian Mcewan
+- [ ]  Against the Odds: An Autobiography -- James Dyson
+- [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
+- [ ]  A Gentleman in Moscow - Amor Towles
 - [ ]  A Girl is a Half-formed Thing -Eimear McBride
+- [ ]  AI Superpowers - Kai-Fu Lee
+- [ ]  Akbar - Ira Mukhoty
+- [ ]  Alice in Wonderland - Lewis Carroll 
+- [ ]  A Little History of the World - E. H. Gombrich
+- [ ]  Algorithms To Live - Brian Christian, Thomas L. Griffiths, and Tom Griffiths
+- [ ]  All of Mark Twain’s Letters (5 Volumes) 
+- [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
 - [ ]  Americanah - Chimamanda Ngozi Adichie
 - [ ]  An Ancestor’s Tale - Richard Dawkins
-- [ ]  A People's History of the United States - Howard Zinn
-- [ ]  A Song Of Ice and Fire - George Martin
-- [ ]  All of Mark Twain’s Letters (5 Volumes) 
-- [ ]  As a Man Thinketh - James Allen
-- [ ]  A Gentleman in Moscow - Amor Towles
-- [ ]  A Wrinkle in Time - Madeleine L'Engle
+- [ ]  Andha Yug by Dharamvir Bharati
 - [ ]  Antking - Charlie Kaufman
+- [ ]  Anything You Want - Derek Sivers
+- [ ]  A People's History of the United States - Howard Zinn
+- [ ]  As a Man Thinketh - James Allen
+- [ ]  A Song Of Ice and Fire - George Martin
+- [ ]  A Spy Among Friends : Philby and the Great Betrayal - Ben Macintyre
+- [ ]  Atlas Shrugged
+- [ ]  A Thousand Splendid Suns - Khaled Hosseini
+- [ ]  A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
+- [ ]  A Thousand Brains - Jeff Hawkins
+- [ ]  Atonement - Ian Mcewan
+- [ ]  Awareness - Anthony De Mello
+- [ ]  A Wrinkle in Time - Madeleine L'Engle
+
 
 - [ ]  Buyology - Martin Lindstrom
 - [ ]  Build - Tony Fadell
