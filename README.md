@@ -206,81 +206,75 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Karl Max - Das Kapital
 - [ ]  Kill Decision - Daniel Suarez
 
+- [ ]  Lady Doctor - Kavitha Rao
 - [ ]  Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore
 - [ ]  Launch - Jeff Walker
+- [ ]  Laws of Human Nature - Robert Greene
 - [ ]  Letters From A Stoic - Seneca
 - [ ]  Lies My Teacher Told Me - James W Loewen
 - [ ]  Life Is Elsewhere - Milan Kundera
-- [ ]  Logicomix an Epic Search for Trurh: An Epic Search for Truth
-
-
-- [ ]  Mathematics: A Very Short Introduction by Timothy Gowers
-- [ ]  Lady Doctor - Kavitha Rao
 - [ ]  Lifespan - David Sinclair
-- [ ]  Laws of Human Nature - Robert Greene
+- [ ]  Logicomix an Epic Search for Trurh: An Epic Search for Truth
 - [ ]  Loonshots - Safi Bahcall
 
-- [ ]  May Be You Should Talk To Someone - Lori Gottlieb
 - [ ]  Man And His Symbols - Carl Jung
-- [ ]  Memories, Dreams and Reflection - Carl Jung
-- [ ]  Musashi - Eiji Yoshikawa
-- [ ]  Money : Master The Game - Tony Robbins
-- [ ]  Masters of Doom - David Kushner 
-- [ ]  Metazoa : Animal minds and the birth of consciousness - Peter Godfrey-Smith
-- [ ]  Metabolical : Dr Robert lustig - Its about what process food does to our body.
-- [ ]  Models of the mind - Grace Lindsay
-- [ ]  Metabolical - Robert Lustig
-- [ ]  Meet You in Hell: Andrew Carnegie, Henry Clay Frick, and the Bitter Partnership That Changed America -- Les Standiford
-- [ ]  More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin
-- [ ]  Merchants of Truth - Jill Abramson
-- [ ]  Man’s Search for Meaning - Viktor E.Frankl
 - [ ]  Mandate: Will of the People by Vir Sanghvi
-- [ ]  My Lady Jane by Book by Brodi Ashton, Cynthia Hand, and Jodi Meadows
+- [ ]  Man’s Search for Meaning - Viktor E.Frankl
+- [ ]  Masters of Doom - David Kushner 
+- [ ]  Mathematics: A Very Short Introduction by Timothy Gowers
 - [ ]  Max Planck: Driven by Vision, Broken by War by Brandon Brown
+- [ ]  May Be You Should Talk To Someone - Lori Gottlieb
+- [ ]  Meet You in Hell: Andrew Carnegie, Henry Clay Frick, and the Bitter Partnership That Changed America -- Les Standiford
+- [ ]  Memories, Dreams and Reflection - Carl Jung
+- [ ]  Merchants of Truth - Jill Abramson
+- [ ]  Metabolical : Dr Robert lustig - Its about what process food does to our body.
+- [ ]  Metazoa : Animal minds and the birth of consciousness - Peter Godfrey-Smith
+- [ ]  Models of the mind - Grace Lindsay
+- [ ]  Money : Master The Game - Tony Robbins
+- [ ]  More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin
+- [ ]  Musashi - Eiji Yoshikawa
+- [ ]  My Lady Jane by Book by Brodi Ashton, Cynthia Hand, and Jodi Meadows
 
-- [ ]  Nobody Wants to Read Your Sh*t - Steven Pressfield
-- [ ]  No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model - Richard Schwartz
-- [ ]  Not Your Usual Founding Father: Selected Readings from Benjamin Franklin by Ben Franklin and Edmund Morgan 
-- [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
 - [ ]  Narcopolis - Jeet Thayil
+- [ ]  No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model - Richard Schwartz
+- [ ]  Nobody Wants to Read Your Sh*t - Steven Pressfield
+- [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
+- [ ]  Not Your Usual Founding Father: Selected Readings from Benjamin Franklin by Ben Franklin and Edmund Morgan 
 
-
+- [ ]  Ogilvy on Advertising in the Digital Age by Miles Young
+- [ ]  One Hundred Years of Solitude - Gabriel Garcia Marquez and Gregory Rabassa
+- [ ]  Only the Paranoid Survive - Andy Grove
+- [ ]  On Writing: A Memoir of the Craft - Stephen King
+- [ ]  On Writing Well - William Zinsser
 - [ ]  Open - Andre Agassi
 - [ ]  Origin Story - David Christain
-- [ ]  On Writing Well - William Zinsser
-- [ ]  On Writing: A Memoir of the Craft - Stephen King
-- [ ]  Only the Paranoid Survive - Andy Grove
-- [ ]  One Hundred Years of Solitude - Gabriel Garcia Marquez and Gregory Rabassa
-- [ ]  Ogilvy on Advertising in the Digital Age by Miles Young
 
 - [ ]  Pandeymonium: Piyush Pandey On Advertising by Piyush Pandey
-- [ ]  Pet Sematary by Stephen King
-- [ ]  Purple Cow by Seth Godin
-- [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
 - [ ]  Peter Pan - James Barrie
-- [ ]  Princeton Companion of Mathematics - Timothy Gowers
-- [ ]  Prisoners of Geography - Tim Marshall
+- [ ]  Pet Sematary by Stephen King
+- [ ]  Philosophy of Mathematics by Øystein Linnebo
 - [ ]  Physics for Scientists and Engineers - Paul Tipler
 - [ ]  Pride and Prejudice - Jane Austen
-- [ ]  Philosophy of Mathematics by Øystein Linnebo
 - [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence, by Ajay Agrawal, Joshua Gans and Avi Goldfarb
-- [ ]  Probably Approximately Correct - Leslie Valiant
+- [ ]  Princeton Companion of Mathematics - Timothy Gowers
+- [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
 - [ ]  Prisoners of Geography - Tim Marshall
+- [ ]  Probably Approximately Correct - Leslie Valiant
+- [ ]  Purple Cow by Seth Godin
 
 - [ ]  Quantum Mechanics The Theoretical Minimum - Leonard Susskind & Art Friedman
 
-- [ ]  Rebuild - Dr. Robert Zembroski
-- [ ]  Rashmirathi By Dinkar in Hindi (Book on Mahabharat's Karn)
-- [ ]  Range: Why Generalists Triumph in a Specialized World by David Epstein
-- [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA - Daniel Carpenter
-- [ ]  Rules for Radicals - Saul Alinsky
-- [ ]  Ready Player One - Ernest Cline
-- [ ]  Richard Feynman’s Lectures - Richard Feynman
-- [ ]  Reflections in a sacred pond - Murad Ali Balg
 - [ ]  Rama's Last Act by Bhavabhuti
-- [ ]  Ready Player One by Ernest Cline
+- [ ]  Range: Why Generalists Triumph in a Specialized World by David Epstein
+- [ ]  Rashmirathi By Dinkar in Hindi (Book on Mahabharat's Karn)
+- [ ]  Ready Player One - Ernest Cline
 - [ ]  Reasons of Belonging: Fourteen Contemporary Indian Poets
-- [ ]  Red Rising Series by Pierce Brown 
+- [ ]  Rebuild - Dr. Robert Zembroski
+- [ ]  Red Rising Series by Pierce Brown
+- [ ]  Reflections in a sacred pond - Murad Ali Balg 
+- [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA - Daniel Carpenter
+- [ ]  Richard Feynman’s Lectures - Richard Feynman
+- [ ]  Rules for Radicals - Saul Alinsky
 
 - [ ]  Scalped (American Novel Series) by Jason Aaron
 - [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
