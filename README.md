@@ -276,31 +276,28 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Richard Feynman’s Lectures - Richard Feynman
 - [ ]  Rules for Radicals - Saul Alinsky
 
+- [ ]  Sapiens Graphic Novel - David VanderMeulen and Yuval Noah Harari
 - [ ]  Scalped (American Novel Series) by Jason Aaron
+- [ ]  Schaum's Outlines - Joel Lerner and James Cashin
+- [ ]  Secrets of Millionaire Mind - T. Harv Eker
+- [ ]  Seeing Like a State by James C. Scott
+- [ ]  Shantaram: A Novel - Gregory David Roberts
+- [ ]  Shining by Stephen King
+- [ ]  Shogun - James Clavell
+- [ ]  Shuggie Bain - Douglas Stuart
+- [ ]  Social Animal by David Brooks
+- [ ]  Socratic Selling - Kevin Daley
+- [ ]  So Good They Can’t Ignore You - Cal Newport
+- [ ]  Song Of Drapaudi - Ira Mukhoty 
+- [ ]  Sophie's World - Jostein Gaarder
+- [ ]  Snow Crash - Neal Stephenson
+- [ ]  Snow Leopard - Nicolas Cole
+- [ ]  Start At The End - David Lavinsky 
+- [ ]  Stranger in a Strange Land - Robert Heinlein
+- [ ]  SPQR - Mary Beard
+- [ ]  Sputnik Sweetheart - Haruki Murakami
 - [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
 - [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
-- [ ]  Shining by Stephen King
-- [ ]  Social Animal by David Brooks
-- [ ]  Song Of Drapaudi - Ira Mukhoty 
-- [ ]  Shuggie Bain - Douglas Stuart
-- [ ]  Socratic Selling - Kevin Daley
-- [ ]  Schaum's Outlines - Joel Lerner and James Cashin
-- [ ]  Sputnik Sweetheart - Haruki Murakami
-- [ ]  Seeing Like a State - James C. Scott
-- [ ]  So Good They Can’t Ignore You - Cal Newport
-- [ ]  Shantaram: A Novel - Gregory David Roberts
-- [ ]  Shogun - James Clavell
-- [ ]  SPQR - Mary Beard
-- [ ]  Seeing Like a State by James C. Scott
-- [ ]  Sapiens Graphic Novel - David VanderMeulen and Yuval Noah Harari
-- [ ]  Stranger in a Strange Land - Robert Heinlein
-- [ ]  Snow Crash - Neal Stephenson
-- [ ]  Seeing Like A State - James C. Scott
-- [ ]  Shoe Dog - Phil Knight
-- [ ]  Start At The End - David Lavinsky 
-- [ ]  Secrets of Millionaire Mind - T. Harv Eker
-- [ ]  Sophie's World - Jostein Gaarder
-- [ ]  Snow Leopard - Nicolas Cole
 
 - [ ]  The 100$ Startup - Chris Guillebeau
 - [ ]  The Entrepreneur Mind - Kevin D. Johnson
