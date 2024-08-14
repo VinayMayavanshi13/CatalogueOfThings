@@ -478,7 +478,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Beloved - Toni Morrison
 - [ ]  Bad Blood - John Carreyrou
 - [ ]  Bill Bernbach's Book: A History of Advertising That Changed the History of Advertising by Bob Levenson
+- [ ]  Benjamin Franklin by Edmund Morgan 
+- [ ]  Benjamin Franklin by Carl Van Doren
 
+- [ ]  City of Glass by Paul Auster
 - [ ]  Civilization and Its Discontents by Sigmund Freud 
 - [ ]  Cold Earth - Sarah Moss
 
@@ -488,6 +491,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Empire of Pain - Patrick Radden Keefe
 
 - [ ]  Fahrenheit 451 by Ray Bradbury
+- [ ]  Franklin of Philadelphia by Edmond Wright 
 
 - [ ]  Gerrard: My Autobiography by Steven Gerrard
 - [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
@@ -501,12 +505,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
 - [ ]  Harry Potter and the Prisoner of Azkaban by J.K. Rowling
 - [ ]  Hey, Whipple, Squeeze This by Luke Sullivan and Sam Bennett 
+- [ ]  Henry J. Kaiser: Builder in the Modern American West by Mark Foster
 
 - [ ]  Intuition Pumps and Other Tools for Thinking by Daniel Dennett 
 - [ ]  India in the Persianate Age - Richard M Eaton
 - [ ]  Invisible Women - Caroline Criado Perez
 - [ ]  Imagining India by Nandan Nilekani
 - [ ]  Indira: The Life of Indira Nehru Gandhi by Katherine Frank
+- [ ]  "I Never Wanted to be Vice-President of Anything!": An Investigative Biography of Nelson Rockefeller by Michael Kramer and Sam Roberts 
 
 - [ ]  Joe Cinque's Consolation - Helen Garner
 - [ ]  Jokes and Their Relation to the Unconscious by Sigmund Freud
@@ -517,6 +523,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  My Lady Jane by Book by Brodi Ashton, Cynthia Hand, and Jodi Meadows
 
 - [ ]  No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model - Richard Schwartz
+- [ ]  Not Your Usual Founding Father: Selected Readings from Benjamin Franklin by Ben Franklin and Edmund Morgan 
 
 - [ ]  Ogilvy on Advertising in the Digital Age by Miles Young
 
@@ -526,8 +533,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Rama's Last Act by Bhavabhuti
 - [ ]  Ready Player One by Ernest Cline
+- [ ]  Reasons of Belonging: Fourteen Contemporary Indian Poets
 - [ ]  Red Rising Series by Pierce Brown 
 
+- [ ]  Scalped (American Novel Series) by Jason Aaron
 - [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
 - [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
 - [ ]  Shining by Stephen King
@@ -579,102 +588,140 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 
+- [ ]  All of Mark Twain’s Letters (5 Volumes) 
 
 
 
-
-
-
-
-
-
-
-- [ ]  Scalped (American Novel Series) by Jason Aaron
-- [ ]  Reasons of Belonging: Fourteen Contemporary Indian Poets
-- [ ]  City of Glass by Paul Auster
-
-
-- [ ]  Not Your Usual Founding Father: Selected Readings from Benjamin Franklin by Ben Franklin and Edmund Morgan 
-- [ ]  Benjamin Franklin by Edmund Morgan 
-- [ ]  Benjamin Franklin by Carl Van Doren
-- [ ]  Franklin of Philadelphia by Edmond Wright 
-- [ ]  "I Never Wanted to be Vice-President of Anything!": An Investigative Biography of Nelson Rockefeller by Michael Kramer and Sam Roberts 
-- [ ]  Henry J. Kaiser: Builder in the Modern American West by Mark Foster (I read this a few years ago — it’s episode 66)
+- [ ]  Coolidge by Amity Shlaes
 - [ ]  Carnegie by Peter Krass 
 - [ ]  Conversations with Lee Kuan Yew: Citizen Singapore: How to Build a Nation by Tom Plate 
-- [ ]  The Wizard and the Prophet by Charles Mann 
+
+- [ ]  Diary and Autobiography of John Adams
+- [ ]  David Sarnoff: A Biography by Eugene Lyons  
+
+- [ ]  Eugene Meyer by Merlo John Pusey
+- [ ]  Einstein: Life and Times by Ronald W. Clark
+
+
 - [ ]  Herbert Hoover: A Public Life by David Burner 
-- [ ]  Coolidge by Amity Shlaes 
+ 
 - [ ]  Ivan Pavlov: A Russian Life in Science by Daniel Todes 
+
+- [ ]  John D. Rockefeller Interviews by William O. Inglis 1917-1920
+
+- [ ]  Max Planck: Driven by Vision, Broken by War by Brandon Brown
+
+- [ ]  Nobody Wants to Read Your Sh*t - Steven Pressfield
+- [ ]  On Writing Well - William Zinsser
+
 - [ ]  The Story-life of Lincoln: A Biography Composed of Five Hundred True Stories Told by Abraham Lincoln and his Friends by Wayne Whipple 
 - [ ]  The Collected Works of Abraham Lincoln; 8 volumes by Roy Balser 
 - [ ]  The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965 by Paul Reid and William Manchester 
 - [ ]  The Man from Monticello: An Intimate Life of Thomas Jefferson by Thomas Fleming 
-- [ ]  Woodrow Wilson by H.W. Brands 
 - [ ]  The Life of Sir William Osler by Harvey Cushing 
-- [ ]  Diary and Autobiography of John Adams 
-- [ ]  Eugene Meyer by Merlo John Pusey
-- [ ]  Max Planck: Driven by Vision, Broken by War by Brandon Brown 
-- [ ]  David Sarnoff: A Biography by Eugene Lyons 
-- [ ]  Einstein: Life and Times by Ronald W. Clark
-- [ ]  All of Mark Twain’s Letters (5 Volumes) 
-- [ ]  John D. Rockefeller Interviews by William O. Inglis 1917-1920
+- [ ]  The Wizard and the Prophet by Charles Mann 
 - [ ]  Thus Spoke Zarathustra - Friedrich Nietzsche
 - [ ]  The Tao Of Pooh - Benjamin Hoff
-- [ ]  Beyond Good And Evil - Friedrich Nietzsche
 - [ ]  The Story Of Philosophy - Will Durant
 - [ ]  The Republic - Plato
-- [ ]  Letters From A Stoic - Seneca
-- [ ]  Walden - Henry David Thoreau
 - [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
 - [ ]  The Nicomachean Ethics - Aristotle
-- [ ]  Nobody Wants to Read Your Sh*t - Steven Pressfield
-- [ ]  On Writing Well - William Zinsser
-- [ ]  How to Write Short - Roy Peter Clarke
+
+- [ ]  Woodrow Wilson by H.W. Brands 
+- [ ]  Walden - Henry David Thoreau
+
+
+
+
+ 
+
+- [ ]  An Ancestor’s Tale - Richard Dawkins
+- [ ]  A People's History of the United States - Howard Zinn
+- [ ]  A Song Of Ice and Fire - George Martin
+
+- [ ]  Beyond Good And Evil - Friedrich Nietzsche
 - [ ]  Bird by Bird - Anne Lamott
+- [ ]  Bury My Heart At Wounded Knee - Dee Brown
+- [ ]  Boundless - Ben Greenfield
+- [ ]  Breath - James Nestor
+- [ ]  Being Mortal - Atul Gawande
+
+- [ ]  Consider This - Chuck Palahniuk
+- [ ]  Clear and Simple as the Truth - Francis-Noël Thomas
+
+- [ ]  Do I Make Myself Clear - Harold Evans
 
 - [ ]  Everybody Writes - Ann Handley
-- [ ]  Consider This - Chuck Palahniuk
-- [ ]  The Elements of Style - Shrunk and White
-- [ ]  Writing Tools - Roy Peter Clarke
-- [ ]  Do I Make Myself Clear - Harold Evans
+
+- [ ]  Genghis Khan and the Making of the Modern World - Jack Weatherford
+- [ ]  Good Calories, Bad Calories  - Gary Taubes
+
+- [ ]  How to Write Short - Roy Peter Clarke
+- [ ]  How to Hide an Empire - Daniel Immerwahr
+- [ ]  How Not to Die: Discover the Foods Scientifically Proven to Prevent and - [ ]  Reverse Disease - Michael Greger
+- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
+
 - [ ]  If You Want To Write - Brenda Ueland
-- [ ]  Clear and Simple as the Truth - Francis-Noël Thomas
+- [ ]  In Defense of Food - Michael Pollan
+
+- [ ]  Letters From A Stoic - Seneca
+- [ ]  Lies My Teacher Told Me - James W Loewen
+
+- [ ]  Metabolical - Robert Lustig
+- [ ]  More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin
+
+- [ ]  Rashmirathi By Dinkar in Hindi (Book on Mahabharat's Karn)
+
+- [ ]  SPQR - Mary Beard
+
+- [ ]  The Blue Zones Kitchen - Dan Buettner
+- [ ]  The Elements of Style - Shrunk and White
 - [ ]  The Invention of Nature - Andrea Wulf
 - [ ]  The Elements of Eloquence - Mark Forsyth
 - [ ]  The War of Art - Steven Pressfield
-- [ ]  Lies My Teacher Told Me - James W Loewen
 - [ ]  The Lessons of History - Ariel Durant & Will Durant
 - [ ]  The Guns of August - Barbara W. Tuchman
-- [ ]  Genghis Khan and the Making of the Modern World - Jack Weatherford
-- [ ]  1776 - David McCullough
 - [ ]  The Warmth of Other Suns - Isabel Wilkerson
-- [ ]  SPQR - Mary Beard
-
-- [ ]  Bury My Heart At Wounded Knee - Dee Brown
-- [ ]  The Silk Roads - Peter Frankopan
-- [ ]  An Ancestor’s Tale - Richard Dawkins
 - [ ]  The Dawn of Everything - David Graeber and David Wengrow
 - [ ]  The March of Folly - Barbara W. Tuchman
-- [ ]  A People's History of the United States - Howard Zinn
-- [ ]  How to Hide an Empire - Daniel Immerwahr
-- [ ]  Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease and How to Fight It - Benjamin Bikman
-- [ ]  Being Mortal - Atul Gawande
-- [ ]  Food - Mark Hyman
-- [ ]  Breath - James Nestor
-- [ ]  We Zebras Don’t Get Ulcers - Robert sapolsky
-- [ ]  The Blue Zones Kitchen - Dan Buettner
-- [ ]  Boundless - Ben Greenfield
-- [ ]  Good Calories, Bad Calories  - Gary Taubes
-- [ ]  Metabolical - Robert Lustig
-- [ ]  In Defense of Food - Michael Pollan
-- [ ]  How Not to Die: Discover the Foods Scientifically Proven to Prevent and - [ ]  Reverse Disease - Michael Greger
+- [ ]  The Silk Roads - Peter Frankopan
 - [ ]  The China Study - T. Colin Campbell
-- [ ]  Rashmirathi By Dinkar in Hindi (Book on Mahabharat's Karn)
-- [ ]  More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin
-- [ ]  A Song Of Ice and Fire - George Martin
-- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
 - [ ]  The History Of Love by Nicole Krauss
+
+- [ ]  Writing Tools - Roy Peter Clarke
+- [ ]  Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease and How to Fight It - Benjamin Bikman
+- [ ]  We Zebras Don’t Get Ulcers - Robert sapolsky
+
+
+
+
+
+- [ ]  1776 - David McCullough
+
+
+
+
+
+
+
+
+
+
+- [ ]  Food - Mark Hyman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - [ ]  Mathematics: A Very Short Introduction by Timothy Gowers
 - [ ]  Philosophy of Mathematics by Øystein Linnebo 
 - [ ]  The Oxford Handbook of Philosophy of Mathematics and Logic
