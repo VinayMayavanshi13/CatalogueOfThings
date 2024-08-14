@@ -173,46 +173,46 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  How to Write Short - Roy Peter Clarke
 - [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
 
-- [ ]  In the praise of shadows - Vintage Tanizaki
-- [ ]  Influence - Robert Cialdini
-- [ ]  Introduction To Indian Histroy - Ibrahim Aerali
-- [ ]  Ivan Pavlov: A Russian Life in Science by Daniel Todes 
-- [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences - John Allen Paulos
-- [ ]  Indistractable - Nir Eyal
 - [ ]  I Contain Multitudes - Ed Yong
-- [ ]  Inner Presence - Antii Revonsuo
+- [ ]  If You Want To Write - Brenda Ueland
+- [ ]  Imagining India by Nandan Nilekani
+- [ ]  "I Never Wanted to be Vice-President of Anything!": An Investigative Biography of Nelson Rockefeller by Michael Kramer and Sam Roberts
+- [ ]  In Defense of Food - Michael Pollan
 - [ ]  India Before Gandhi - Ramachandra Guha
 - [ ]  India After Gandhi - Ramachandra Guha
-- [ ]  Intuition Pumps and Other Tools for Thinking by Daniel Dennett 
 - [ ]  India in the Persianate Age - Richard M Eaton
-- [ ]  Invisible Women - Caroline Criado Perez
-- [ ]  Imagining India by Nandan Nilekani
 - [ ]  Indira: The Life of Indira Nehru Gandhi by Katherine Frank
-- [ ]  "I Never Wanted to be Vice-President of Anything!": An Investigative Biography of Nelson Rockefeller by Michael Kramer and Sam Roberts 
-- [ ]  If You Want To Write - Brenda Ueland
-- [ ]  In Defense of Food - Michael Pollan
-- [ ]  Introduction to Mathematical Philosophy by Bertrand Russell
+- [ ]  Indistractable - Nir Eyal
+- [ ]  Influence - Robert Cialdini
+- [ ]  Inner Presence - Antii Revonsuo
 - [ ]  Innovators by Walter Isaacson.
+- [ ]  Invisible Women - Caroline Criado Perez
+- [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences - John Allen Paulos
+- [ ]  In the praise of shadows - Vintage Tanizaki
+- [ ]  Introduction To Indian Histroy - Ibrahim Aerali
+- [ ]  Introduction to Mathematical Philosophy by Bertrand Russell
+- [ ]  Intuition Pumps and Other Tools for Thinking by Daniel Dennett
+- [ ]  Ivan Pavlov: A Russian Life in Science by Daniel Todes 
 
-- [ ]  Jonathan Livingston Seagull - Richard Bach
 - [ ]  JED Mckenna's Notebook
-- [ ]  Journey under the midnight sun - Keigo Higashimo
 - [ ]  Joe Cinque's Consolation - Helen Garner
-- [ ]  Jokes and Their Relation to the Unconscious by Sigmund Freud
 - [ ]  John D. Rockefeller Interviews by William O. Inglis 1917-1920
-- [ ]  Justice - Michael  Sandel
+- [ ]  Jokes and Their Relation to the Unconscious by Sigmund Freud
+- [ ]  Jonathan Livingston Seagull - Richard Bach
+- [ ]  Journey under the midnight sun - Keigo Higashimo
 - [ ]  Just Keep Buying - Nick Maggiulli
-
+- [ ]  Justice - Michael  Sandel
 
 - [ ]  Karl Max - Das Kapital
 - [ ]  Kill Decision - Daniel Suarez
 
+- [ ]  Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore
+- [ ]  Launch - Jeff Walker
 - [ ]  Letters From A Stoic - Seneca
 - [ ]  Lies My Teacher Told Me - James W Loewen
-- [ ]  Logicomix an Epic Search for Trurh: An Epic Search for Truth
 - [ ]  Life Is Elsewhere - Milan Kundera
-- [ ]  Launch - Jeff Walker
-- [ ]  Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore
+- [ ]  Logicomix an Epic Search for Trurh: An Epic Search for Truth
+
 
 - [ ]  Mathematics: A Very Short Introduction by Timothy Gowers
 - [ ]  Lady Doctor - Kavitha Rao
