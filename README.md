@@ -117,64 +117,61 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Everybody Writes - Ann Handley
 
 
-
-- [ ]  Food - Mark Hyman
-- [ ]  From Third World to First - Lee Kuan Yew
-- [ ]  Financial Intelligence - Karen Berman, Joe Knight and John Case.
-- [ ]  Four Thousand Weeks - Oliver Burkeman
-- [ ]  Freedom at Midnight - Dominique Lapierre and Larry Collins
 - [ ]  Fahrenheit 451 by Ray Bradbury
-- [ ]  Franklin of Philadelphia by Edmond Wright 
+- [ ]  Financial Intelligence - Karen Berman, Joe Knight and John Case.
 - [ ]  Finish what you start - Peter Hollins
 - [ ]  Finite and Infinite Games - James Carse
 - [ ]  Food Rules - Michael Pollan
+- [ ]  Food - Mark Hyman
+- [ ]  Four Thousand Weeks - Oliver Burkeman
+- [ ]  Franklin of Philadelphia by Edmond Wright
+- [ ]  Freedom at Midnight - Dominique Lapierre and Larry Collins
+- [ ]  From Third World to First - Lee Kuan Yew
 
-
-- [ ]  Genome: The Autobiography of a Species in 23 Chapters -- Matt Ridley
-- [ ]  Guns, Germs and Steel - Jared Diamond
-- [ ]  Generations - The History of American Future by William Straus and Neil Howe
 - [ ]  Galileo's Error - Philip Goff
-- [ ]  Grit - Angela Duckworth
-- [ ]  Gut - Giulia Enders
-- [ ]  Generations - William Strauss
-- [ ]  Giving Good Weight - John McPhee
 - [ ]  Game of Thrones Book Series
-- [ ]  Gulliver's Travels
-- [ ]  Gerrard: My Autobiography by Steven Gerrard
-- [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
-- [ ]  Gone Girl by Gillian Flynn
-- [ ]  Glengarry Glen Ross by David Mamet
+- [ ]  Generations - William Strauss
+- [ ]  Generations - The History of American Future by William Straus and Neil Howe
 - [ ]  Genghis Khan and the Making of the Modern World - Jack Weatherford
+- [ ]  Genome: The Autobiography of a Species in 23 Chapters -- Matt Ridley
+- [ ]  Gerrard: My Autobiography by Steven Gerrard
+- [ ]  Glengarry Glen Ross by David Mamet
+- [ ]  Giving Good Weight - John McPhee
+- [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
 - [ ]  Good Calories, Bad Calories  - Gary Taubes
+- [ ]  Gone Girl by Gillian Flynn
+- [ ]  Grit - Angela Duckworth
+- [ ]  Gulliver's Travels
+- [ ]  Guns, Germs and Steel - Jared Diamond
+- [ ]  Gut - Giulia Enders
 
 - [ ]  Hacking Darwin: Genetic Engineering and the Future of Humanity by Jamie Metzl
-- [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
-- [ ]  How to Write Short - Roy Peter Clarke
-- [ ]  How to Hide an Empire - Daniel Immerwahr
-- [ ]  How Not to Die: Discover the Foods Scientifically Proven to Prevent and - [ ]  Reverse Disease - Michael Greger
-- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
 - [ ]  Hard-Boiled Wonderland and the End of the World by Haruki Murakami
-- [ ]  Heroines: Powerful Indian Women of Myth and History - Ira Mukhoty 
-- [ ]  House of Sleep - Jonathan Coe
-- [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
+- [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
 - [ ]  Harry Potter and the Prisoner of Azkaban by J.K. Rowling
-- [ ]  Hey, Whipple, Squeeze This by Luke Sullivan and Sam Bennett 
-- [ ]  Henry J. Kaiser: Builder in the Modern American West by Mark Foster
-- [ ]  High Output Management - Andy Grove
-- [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
-- [ ]  History Has Begun - Bruno Maçães
-- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
-- [ ]  How to Live - Sarah Bakewell
-- [ ]  How To Stop Time - Matt Haig
+- [ ]  Henry J. Kaiser: Builder in the Modern American West by Mark Foster  
+- [ ]  Heroines: Powerful Indian Women of Myth and History - Ira Mukhoty
 - [ ]  Herbert Hoover: A Public Life by David Burner
-- [ ]  How to Win friends and Influence People - Dale Carnegie
+- [ ]  Hey, Whipple, Squeeze This by Luke Sullivan and Sam Bennett
+- [ ]  High Output Management - Andy Grove
 - [ ]  Hillbilly Elegy - J D Vance
-- [ ]  How to lie with statistics - Darrel Huff
+- [ ]  History Has Begun - Bruno Maçães
+- [ ]  Hitchcock/Truffaut - Francois Truffaut
+- [ ]  House of Sleep - Jonathan Coe
+- [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
+- [ ]  How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease - Michael Greger
+- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
 - [ ]  How to avoid a climate disaster - Bill Gates
+- [ ]  How to bake π - Eugenia Cheng
 - [ ]  How to build this - Guy Raz
 - [ ]  How To Fail At Almost Everything & Still Win Big - Scott Adams
-- [ ]  Hitchcock/Truffaut - Francois Truffaut
-- [ ]  How to bake π - Eugenia Cheng
+- [ ]  How to Hide an Empire - Daniel Immerwahr
+- [ ]  How to lie with statistics - Darrel Huff
+- [ ]  How to Live - Sarah Bakewell
+- [ ]  How To Stop Time - Matt Haig
+- [ ]  How to Win friends and Influence People - Dale Carnegie
+- [ ]  How to Write Short - Roy Peter Clarke
+- [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
 
 - [ ]  In the praise of shadows - Vintage Tanizaki
 - [ ]  Influence - Robert Cialdini
