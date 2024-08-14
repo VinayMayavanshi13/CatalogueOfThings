@@ -86,36 +86,37 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
 
 - [ ]  Daily Rituals - Mason Currey
-- [ ]  Disruptor - Arwen Elys Dayton
-- [ ]  DeepWork - Cal Newport
 - [ ]  Daughters of the Sun: Empresses, Queens and Begums of the Mughal Empire - Ira Mukhtoy
-- [ ]  Diary and Autobiography of John Adams
 - [ ]  David Sarnoff: A Biography by Eugene Lyons 
-- [ ]  Do I Make Myself Clear - Harold Evans
-- [ ]  Destined For War - Graham Allison
-- [ ]  De Gaulle –Julian Jackson
 - [ ]  Deep Down Things The Breathtaking Beauty of Particle Physics - Bruce A Schumm
+- [ ]  DeepWork - Cal Newport
+- [ ]  De Gaulle –Julian Jackson
+- [ ]  Destined For War - Graham Allison
+- [ ]  Diary and Autobiography of John Adams
+- [ ]  Disruptor - Arwen Elys Dayton
+- [ ]  Do I Make Myself Clear - Harold Evans
 - [ ]  Dreams of a Final Theory - Steven Weinberg
 
 
 
-
+- [ ]  East of Eden - John Steinbeck 
 - [ ]  Eat, drink and be healthy : the Harvard Medical  School guide to healthy eating - Patrick J Skerrett
+- [ ]  Eat Fat Get Thin - Mark Hyman
+- [ ]  Edison – A Biography by Matthew Josephson
 - [ ]  Educated - Tara Westower
-- [ ]  Essence of Indian Art - B. N. Goswamy
+- [ ]  Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
+- [ ]  Einstein: Life and Times by Ronald W. Clark
+- [ ]  Empire of Ants - Sussane Foitzik and Olaf Frit
+- [ ]  Empire of Pain - Patrick Radden Keefe
+- [ ]  Emotional Intelligence - Daniel Goleman
 - [ ]  Enlightenment Now - Steven Pinker
 - [ ]  Entangled Life - Merlin Sheldrake
-- [ ]  Eat Fat Get Thin - Mark Hyman
-- [ ]  Emotional Intelligence - Daniel Goleman
-- [ ]  Empire of Ants - Sussane Foitzik and Olaf Frit
-- [ ]  Edison – A Biography by Matthew Josephson
-- [ ]  East of Eden - John Steinbeck 
-- [ ]  Eugene Meyer by Merlo John Pusey
-- [ ]  Einstein: Life and Times by Ronald W. Clark
-- [ ]  Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
-- [ ]  Empire of Pain - Patrick Radden Keefe
-- [ ]  Everybody Writes - Ann Handley
+- [ ]  Essence of Indian Art - B. N. Goswamy
 - [ ]  Estee: A Success Story Hardcover – Estee Lauder
+- [ ]  Eugene Meyer by Merlo John Pusey
+- [ ]  Everybody Writes - Ann Handley
+
+
 
 - [ ]  Food - Mark Hyman
 - [ ]  From Third World to First - Lee Kuan Yew
