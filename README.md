@@ -17,8 +17,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
 - [ ]  1984 by George Orwell
 - [ ]  100 Ways to Improve Your Writing - Gary Provost
-
-
+- [ ]  1776 - David McCullough
 
 - [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
 - [ ]  Against the Odds: An Autobiography -- James Dyson
@@ -40,7 +39,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Blue Skinned Gods - SJ Sindu
 - [ ]  Blink - Malcom Gladwell
 - [ ]  Building a Second Brain Book - Tiago Forte
-
+- [ ]  Beyond Good and Evil - Friedrich Nietzsche
 
 
 - [ ]  Chatter - Ethan Kross
@@ -101,19 +100,27 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Lady Doctor - Kavitha Rao
 - [ ]  Lifespan - David Sinclair
+- [ ]  Laws of Human Nature - Robert Greene
+- [ ]  Loonshots - Safi Bahcall
 
+- [ ]  May Be You Should Talk To Someone - Lori Gottlieb
+- [ ]  Man And His Symbols - Carl Jung
+- [ ]  Memories, Dreams and Reflection - Carl Jung
+- [ ]  Musashi - Eiji Yoshikawa
+- [ ]  Money : Master The Game - Tony Robbins
 - [ ]  Masters of Doom - David Kushner 
 - [ ]  Metazoa : Animal minds and the birth of consciousness - Peter Godfrey-Smith
 - [ ]  Metabolical : Dr Robert lustig - Its about what process food does to our body.
 - [ ]  Models of the mind - Grace Lindsay
 
-
+- [ ]  Narcopolis - Jeet Thayil
 
 
 - [ ]  Open - Andre Agassi
-
+- [ ]  Origin Story - David Christain
 
 - [ ]  Probably Approximately Correct - Leslie Valiant
+- [ ]  Prisoners of Geography - Tim Marshall
 
 - [ ]  Quantum Mechanics The Theoretical Minimum - Leonard Susskind & Art Friedman
 
@@ -125,7 +132,26 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Seeing Like A State - James C. Scott
 - [ ]  Shoe Dog - Phil Knight
 - [ ]  Start At The End - David Lavinsky 
+- [ ]  Secrets of Millionaire Mind - T. Harv Eker
+- [ ]  Sophie's World - Jostein Gaarder
+- [ ]  Snow Leopard - Nicolas Cole
 
+- [ ]  The 100$ Startup - Chris Guillebeau
+- [ ]  The Entrepreneur Mind - Kevin D. Johnson
+- [ ]  The Alchemist - Paulo Coelho
+- [ ]  The Soul of Marionette - John Gray
+- [ ]  The Boys Graphic Novel - Garth Ennis
+- [ ]  The Communication Book - Mikael Krogerus and Roman Tschappler.
+- [ ]  The Hitchhiker's Guide to the Galaxy - Douglas Adams
+- [ ]  The Remains of the day - Kazuo Ishiguro
+- [ ]  The Lord of the Rings - JRR Tolkien
+- [ ]  The Martian - Andy Weir
+- [ ]  The Book Of Dust - Philip Pullman
+- [ ]  The Fountainhead - Ayn Rand
+- [ ]  The Song of Achilles - Madelline Miller
+- [ ]  The Master and the Margarita - Mikhail Bulgakov
+- [ ]  The E-Myth Revisted - Michael E. Gerber
+- [ ]  Talent is Never Enough - John C. Maxwell
 - [ ]  The Great CEO Within - Matt Mochary
 - [ ]  The Sovereign Individual - James Dale Davidson and Lord William Rees-Mogg.
 - [ ]  The Cold Start Problem - Andrew Chen
@@ -226,53 +252,117 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Order of Time - Carlo Rovelli
 - [ ]  The Science of Can and Can't - Chiara Marletto
 - [ ]  The Interpretation of Dreams - Sigmund Freud
+- [ ]  This House of Grief - Helen Garner
+- [ ]  The Left Hand of Darkness - Ursula K. Le Guin
+- [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
+- [ ]  The Glass Bead Game - Hermann Hesse
+- [ ]  The First Fifteen Lives of Harry August - Claire North
+- [ ]  The History of the Peloponnesian War - Thucydides
+- [ ]  The Ayatollah Begs to Differ by Hooman Majd
+- [ ]  The Science of Storytelling - Will Storr
+- [ ]  The Hero's Journey - Joseph Campbell
+- [ ]  The Tipping Point by Malcolm Gladwell
+- [ ]  Tuesdays With Morrie - Mitch Albom
+- [ ]  The Copy Book by Rotovision
+- [ ]  Toba Tek Singh by Saadat Hasan Manto
+- [ ]  To Kill a Mockingbird by Harper Lee 
+- [ ]  The Catcher in the Rye by J. D. Salinger
+- [ ]  The Complete Hitchiker Series by Douglas Adams
+- [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
+- [ ]  The Haunting of Alma Fielding - Kate Summerscale
+- [ ]  The Year of Magical Thinking - Joan Didion
+- [ ]  The Tibetan Book of the Dead - Grahan Coleman
+- [ ]  The Coaching Habit - Michael Bungay Stanier
+- [ ]  This Is How It Always Is - Laurie Frankel
+- [ ]  The Brand Flip - Marty Neumeier
+- [ ]  The Conversations: Walter Murch and the Art of Editing Film by Michael Ondaatje
+- [ ]  The Stiglitz Report by Joseph E Stiglitz
+- [ ]  The Argumentative Indian by Amartya Sen
+- [ ]  The Story-life of Lincoln: A Biography Composed of Five Hundred True Stories Told by Abraham Lincoln and his Friends by Wayne Whipple 
+- [ ]  The Collected Works of Abraham Lincoln; 8 volumes by Roy Balser 
+- [ ]  The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965 by Paul Reid and William Manchester 
+- [ ]  The Man from Monticello: An Intimate Life of Thomas Jefferson by Thomas Fleming 
+- [ ]  The Life of Sir William Osler by Harvey Cushing 
+- [ ]  The Wizard and the Prophet by Charles Mann 
+- [ ]  Thus Spoke Zarathustra - Friedrich Nietzsche
+- [ ]  The Tao Of Pooh - Benjamin Hoff
+- [ ]  The Story Of Philosophy - Will Durant
+- [ ]  The Republic - Plato
+- [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
+- [ ]  The Nicomachean Ethics - Aristotle
+- [ ]  The Blue Zones Kitchen - Dan Buettner
+- [ ]  The Elements of Style - Shrunk and White
+- [ ]  The Invention of Nature - Andrea Wulf
+- [ ]  The Elements of Eloquence - Mark Forsyth
+- [ ]  The War of Art - Steven Pressfield
+- [ ]  The Lessons of History - Ariel Durant & Will Durant
+- [ ]  The Guns of August - Barbara W. Tuchman
+- [ ]  The Warmth of Other Suns - Isabel Wilkerson
+- [ ]  The Dawn of Everything - David Graeber and David Wengrow
+- [ ]  The March of Folly - Barbara W. Tuchman
+- [ ]  The Silk Roads - Peter Frankopan
+- [ ]  The China Study - T. Colin Campbell
+- [ ]  The History Of Love by Nicole Krauss
+- [ ]  The Lives of the Most Excellent Painters, Sculptors, and Architects by Giorgio Vasari
+- [ ]  The Mosquito: A Human History of Our Deadliest Predator by Timothy C. Winegard
+- [ ]  The Oxford Handbook of Philosophy of Mathematics and Logic
+- [ ]  Thinking about Mathematics by Stewart Shapiro
+- [ ]  The Woman Who Knew Too Much, Revised Ed.: Alice Stewart and the Secrets of Radiation - Gayle Greene
+- [ ]  The Push Man and Other Stories by Yoshihiro Tatsumi 
+- [ ]  Tintin and the Secret of Literature by Tom McCarthy
+- [ ]  The Emperor of Maladies Heretics - Siddhartha
+- [ ]  The Dip - Seth Godin
+- [ ]  The Fourth Turning book - Neil Howe and William Strauss
+- [ ]  The Prophet by Kahlil Gibran
+- [ ]  The Humans - Matt Haig
+- [ ]  The Midnight Library - Matt Haig
+- [ ]  The Nature of Mathematical Modeling - Neil Gershenfeld
+- [ ]  The Strange Library - Haruki Murakami
+- [ ]  Train To Pakistan - Khushwant Singh
+- [ ]  Theory Of Everything - JED McKenna
+- [ ]  The Enlightment Triology - JED Mckenna
 
+- [ ]  UNIX: A History and a Memoir - Brian W Kernighan
+- [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
 - [ ]  Ulysses S. Grant: Triumph Over Adversity - Brooks D. Simpson
 
+- [ ]  Visual Complex Analysis - Tristan Needham
+- [ ]  Visual Complex Functions - Elias Wegert
 
 
 
 
-- [ ]  Laws of Human Nature - Robert Greene
-- [ ]  Loonshots - Safi Bahcall
-
-- [ ]  May Be You Should Talk To Someone - Lori Gottlieb
-- [ ]  Man And His Symbols - Carl Jung
-- [ ]  Memories, Dreams and Reflection - Carl Jung
-- [ ]  Musashi - Eiji Yoshikawa
-- [ ]  Money : Master The Game - Tony Robbins
-
-- [ ]  Narcopolis - Jeet Thayil
-
-- [ ]  Origin Story - David Christain
-
-- [ ]  Secrets of Millionaire Mind - T. Harv Eker
-- [ ]  Sophie's World - Jostein Gaarder
-- [ ]  Snow Leopard - Nicolas Cole
-
-
-- [ ]  Talent is Never Enough - John C. Maxwell
+- [ ]  White Mughals - William Dalrymple
+- [ ]  Why I Write - George Orwell
+- [ ]  Who Moved My Cheese - Dr Spencer Johnson
 
 
 
-- [ ]  Prisoners of Geography - Tim Marshall
-- [ ]  What I Talk About When I Talk About Running - Haruki Murakami.
-- [ ]  What Happened To You - Dr Bruce Perry
+- [ ]  Akbar - Ira Mukhoty 
+- [ ]  Andha Yug by Dharamvir Bharati
+- [ ]  A Spy Among Friends : Philby and the Great Betrayal - Ben Macintyre
+- [ ]  Alice in Wonderland - Lewis Carroll
+- [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
+- [ ]  Atonement - Ian Mcewan
+- [ ]  A Girl is a Half-formed Thing -Eimear McBride
+- [ ]  Americanah - Chimamanda Ngozi Adichie
+- [ ]  An Ancestor’s Tale - Richard Dawkins
+- [ ]  A People's History of the United States - Howard Zinn
+- [ ]  A Song Of Ice and Fire - George Martin
+- [ ]  All of Mark Twain’s Letters (5 Volumes) 
+- [ ]  As a Man Thinketh - James Allen
 
-- [ ]  Zen In The Art Of Writing - Ray Bradbury
-- [ ]  Zen And The Art of Motorcycle - Robert Pising
+- [ ]  Benjamin Franklin - Walter Isaacson
+- [ ]  Blue Ocean Strategy - W. Chan Kim
 
-
-
-
-
-
-
-
-
-- [ ]  Beyond Good and Evil - Friedrich Nietzsche
-
+- [ ]  Cat’s Cradle by Kurt Vonnegut
 - [ ]  Catching Fire - Richard Wrangham
+
+- [ ]  Daily Rituals - Mason Currey
+
+- [ ]  Edison – A Biography by Matthew Josephson
+
+
 
 - [ ]  From Third World to First - Lee Kuan Yew
 
@@ -305,16 +395,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 
-- [ ]  As a Man Thinketh - James Allen
 
-- [ ]  Benjamin Franklin - Walter Isaacson
-- [ ]  Blue Ocean Strategy - W. Chan Kim
-
-- [ ]  Cat’s Cradle by Kurt Vonnegut
-
-- [ ]  Daily Rituals - Mason Currey
-
-- [ ]  Edison – A Biography by Matthew Josephson
 
 
 - [ ]  How to Live - Sarah Bakewell
@@ -352,21 +433,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Jonathan Livingston Seagull - Richard Bach
 
-- [ ]  The 100$ Startup - Chris Guillebeau
-- [ ]  The Entrepreneur Mind - Kevin D. Johnson
-- [ ]  The Alchemist - Paulo Coelho
-- [ ]  The Soul of Marionette - John Gray
-- [ ]  The Boys Graphic Novel - Garth Ennis
-- [ ]  The Communication Book - Mikael Krogerus and Roman Tschappler.
-- [ ]  The Hitchhiker's Guide to the Galaxy - Douglas Adams
-- [ ]  The Remains of the day - Kazuo Ishiguro
-- [ ]  The Lord of the Rings - JRR Tolkien
-- [ ]  The Martian - Andy Weir
-- [ ]  The Book Of Dust - Philip Pullman
-- [ ]  The Fountainhead - Ayn Rand
-- [ ]  The Song of Achilles - Madelline Miller
-- [ ]  The Master and the Margarita - Mikhail Bulgakov
-- [ ]  The E-Myth Revisted - Michael E. Gerber
+
 
 - [ ]  Peter Pan - James Barrie
 
@@ -427,30 +494,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 
-- [ ]  The Emperor of Maladies Heretics - Siddhartha
-- [ ]  The Dip - Seth Godin
-- [ ]  The Fourth Turning book - Neil Howe and William Strauss
-- [ ]  The Prophet by Kahlil Gibran
-- [ ]  The Humans - Matt Haig
-- [ ]  The Midnight Library - Matt Haig
-- [ ]  The Nature of Mathematical Modeling - Neil Gershenfeld
-- [ ]  The Strange Library - Haruki Murakami
-- [ ]  Train To Pakistan - Khushwant Singh
-- [ ]  Theory Of Everything - JED McKenna
-- [ ]  The Enlightment Triology - JED Mckenna
 
-- [ ]  UNIX: A History and a Memoir - Brian W Kernighan
-- [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
-
-- [ ]  Visual Complex Analysis - Tristan Needham
-- [ ]  Visual Complex Functions - Elias Wegert
-
-
-
-
-- [ ]  White Mughals - William Dalrymple
-- [ ]  Why I Write - George Orwell
-- [ ]  Who Moved My Cheese - Dr Spencer Johnson
 
 
 - [ ]  You Are a Badmass at Making Money - Jen Sincero 
@@ -466,29 +510,46 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Agatha Cristie Books
 - [ ]  Lee Child Book Series
 
-- [ ]  Akbar - Ira Mukhoty 
-- [ ]  Andha Yug by Dharamvir Bharati
-- [ ]  A Spy Among Friends : Philby and the Great Betrayal - Ben Macintyre
-- [ ]  Alice in Wonderland - Lewis Carroll
-- [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
-- [ ]  Atonement - Ian Mcewan
-- [ ]  A Girl is a Half-formed Thing -Eimear McBride
-- [ ]  Americanah - Chimamanda Ngozi Adichie
+
+
+
+
+ 
+
+
 
 - [ ]  Beloved - Toni Morrison
 - [ ]  Bad Blood - John Carreyrou
 - [ ]  Bill Bernbach's Book: A History of Advertising That Changed the History of Advertising by Bob Levenson
 - [ ]  Benjamin Franklin by Edmund Morgan 
 - [ ]  Benjamin Franklin by Carl Van Doren
+- [ ]  Beyond Good And Evil - Friedrich Nietzsche
+- [ ]  Bird by Bird - Anne Lamott
+- [ ]  Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do by Jennifer L. Eberhardt
+- [ ]  Bury My Heart At Wounded Knee - Dee Brown
+- [ ]  Boundless - Ben Greenfield
+- [ ]  Breath - James Nestor
+- [ ]  Being Mortal - Atul Gawande
 
 - [ ]  City of Glass by Paul Auster
 - [ ]  Civilization and Its Discontents by Sigmund Freud 
 - [ ]  Cold Earth - Sarah Moss
+- [ ]  Coolidge by Amity Shlaes
+- [ ]  Carnegie by Peter Krass 
+- [ ]  Conversations with Lee Kuan Yew: Citizen Singapore: How to Build a Nation by Tom Plate
 
 - [ ]  Daughters of the Sun: Empresses, Queens and Begums of the Mughal Empire - Ira Mukhtoy
+- [ ]  Diary and Autobiography of John Adams
+- [ ]  David Sarnoff: A Biography by Eugene Lyons  
 
+- [ ]  Eugene Meyer by Merlo John Pusey
+- [ ]  Einstein: Life and Times by Ronald W. Clark
 - [ ]  Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
 - [ ]  Empire of Pain - Patrick Radden Keefe
+- [ ]  Everybody Writes - Ann Handley
+- [ ]  Estee: A Success Story Hardcover – Estee Lauder
+
+
 
 - [ ]  Fahrenheit 451 by Ray Bradbury
 - [ ]  Franklin of Philadelphia by Edmond Wright 
@@ -546,61 +607,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Socratic Selling - Kevin Daley
 
 
-- [ ]  This House of Grief - Helen Garner
-- [ ]  The Left Hand of Darkness - Ursula K. Le Guin
-- [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
-- [ ]  The Glass Bead Game - Hermann Hesse
-- [ ]  The First Fifteen Lives of Harry August - Claire North
-- [ ]  The History of the Peloponnesian War - Thucydides
-- [ ]  The Ayatollah Begs to Differ by Hooman Majd
-- [ ]  The Science of Storytelling - Will Storr
-- [ ]  The Hero's Journey - Joseph Campbell
-- [ ]  The Tipping Point by Malcolm Gladwell
-- [ ]  Tuesdays With Morrie - Mitch Albom
-- [ ]  The Copy Book by Rotovision
-- [ ]  Toba Tek Singh by Saadat Hasan Manto
-- [ ]  To Kill a Mockingbird by Harper Lee 
-- [ ]  The Catcher in the Rye by J. D. Salinger
-- [ ]  The Complete Hitchiker Series by Douglas Adams
-- [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
-- [ ]  The Haunting of Alma Fielding - Kate Summerscale
-- [ ]  The Year of Magical Thinking - Joan Didion
-- [ ]  The Tibetan Book of the Dead - Grahan Coleman
-- [ ]  The Coaching Habit - Michael Bungay Stanier
-- [ ]  This Is How It Always Is - Laurie Frankel
-- [ ]  The Brand Flip - Marty Neumeier
-- [ ]  The Conversations: Walter Murch and the Art of Editing Film by Michael Ondaatje
-- [ ]  The Stiglitz Report by Joseph E Stiglitz
-- [ ]  The Argumentative Indian by Amartya Sen
 
-- [ ]  The Push Man and Other Stories by Yoshihiro Tatsumi 
-- [ ]  Tintin and the Secret of Literature by Tom McCarthy
 
 - [ ]  We Know It When We See It - Richard Masland
 - [ ]  Win Without Pitching Manifesto - Blair Enns
 
-
-
-
-
-
-
-
-
-
-- [ ]  All of Mark Twain’s Letters (5 Volumes) 
-
-
-
-- [ ]  Coolidge by Amity Shlaes
-- [ ]  Carnegie by Peter Krass 
-- [ ]  Conversations with Lee Kuan Yew: Citizen Singapore: How to Build a Nation by Tom Plate 
-
-- [ ]  Diary and Autobiography of John Adams
-- [ ]  David Sarnoff: A Biography by Eugene Lyons  
-
-- [ ]  Eugene Meyer by Merlo John Pusey
-- [ ]  Einstein: Life and Times by Ronald W. Clark
 
 
 - [ ]  Herbert Hoover: A Public Life by David Burner 
@@ -614,18 +625,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Nobody Wants to Read Your Sh*t - Steven Pressfield
 - [ ]  On Writing Well - William Zinsser
 
-- [ ]  The Story-life of Lincoln: A Biography Composed of Five Hundred True Stories Told by Abraham Lincoln and his Friends by Wayne Whipple 
-- [ ]  The Collected Works of Abraham Lincoln; 8 volumes by Roy Balser 
-- [ ]  The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965 by Paul Reid and William Manchester 
-- [ ]  The Man from Monticello: An Intimate Life of Thomas Jefferson by Thomas Fleming 
-- [ ]  The Life of Sir William Osler by Harvey Cushing 
-- [ ]  The Wizard and the Prophet by Charles Mann 
-- [ ]  Thus Spoke Zarathustra - Friedrich Nietzsche
-- [ ]  The Tao Of Pooh - Benjamin Hoff
-- [ ]  The Story Of Philosophy - Will Durant
-- [ ]  The Republic - Plato
-- [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
-- [ ]  The Nicomachean Ethics - Aristotle
+
 
 - [ ]  Woodrow Wilson by H.W. Brands 
 - [ ]  Walden - Henry David Thoreau
@@ -635,27 +635,26 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
  
 
-- [ ]  An Ancestor’s Tale - Richard Dawkins
-- [ ]  A People's History of the United States - Howard Zinn
-- [ ]  A Song Of Ice and Fire - George Martin
 
-- [ ]  Beyond Good And Evil - Friedrich Nietzsche
-- [ ]  Bird by Bird - Anne Lamott
-- [ ]  Bury My Heart At Wounded Knee - Dee Brown
-- [ ]  Boundless - Ben Greenfield
-- [ ]  Breath - James Nestor
-- [ ]  Being Mortal - Atul Gawande
+
+
 
 - [ ]  Consider This - Chuck Palahniuk
 - [ ]  Clear and Simple as the Truth - Francis-Noël Thomas
 
 - [ ]  Do I Make Myself Clear - Harold Evans
+- [ ]  Destined For War - Graham Allison
+- [ ]  De Gaulle –Julian Jackson
 
-- [ ]  Everybody Writes - Ann Handley
+
+
+- [ ]  Food - Mark Hyman
 
 - [ ]  Genghis Khan and the Making of the Modern World - Jack Weatherford
 - [ ]  Good Calories, Bad Calories  - Gary Taubes
 
+- [ ]  Hacking Darwin: Genetic Engineering and the Future of Humanity by Jamie Metzl
+- [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
 - [ ]  How to Write Short - Roy Peter Clarke
 - [ ]  How to Hide an Empire - Daniel Immerwahr
 - [ ]  How Not to Die: Discover the Foods Scientifically Proven to Prevent and - [ ]  Reverse Disease - Michael Greger
@@ -663,91 +662,32 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  If You Want To Write - Brenda Ueland
 - [ ]  In Defense of Food - Michael Pollan
+- [ ]  Introduction to Mathematical Philosophy by Bertrand Russell
+- [ ]  Innovators by Walter Isaacson.
 
 - [ ]  Letters From A Stoic - Seneca
 - [ ]  Lies My Teacher Told Me - James W Loewen
+- [ ]  Logicomix an Epic Search for Trurh: An Epic Search for Truth
 
+- [ ]  Mathematics: A Very Short Introduction by Timothy Gowers
 - [ ]  Metabolical - Robert Lustig
+- [ ]  Meet You in Hell: Andrew Carnegie, Henry Clay Frick, and the Bitter Partnership That Changed America -- Les Standiford
 - [ ]  More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin
 
+- [ ]  Philosophy of Mathematics by Øystein Linnebo
+- [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence, by Ajay Agrawal, Joshua Gans and Avi Goldfarb
+
 - [ ]  Rashmirathi By Dinkar in Hindi (Book on Mahabharat's Karn)
+- [ ]  Range: Why Generalists Triumph in a Specialized World by David Epstein
 
 - [ ]  SPQR - Mary Beard
+- [ ]  Seeing Like a State by James C. Scott
 
-- [ ]  The Blue Zones Kitchen - Dan Buettner
-- [ ]  The Elements of Style - Shrunk and White
-- [ ]  The Invention of Nature - Andrea Wulf
-- [ ]  The Elements of Eloquence - Mark Forsyth
-- [ ]  The War of Art - Steven Pressfield
-- [ ]  The Lessons of History - Ariel Durant & Will Durant
-- [ ]  The Guns of August - Barbara W. Tuchman
-- [ ]  The Warmth of Other Suns - Isabel Wilkerson
-- [ ]  The Dawn of Everything - David Graeber and David Wengrow
-- [ ]  The March of Folly - Barbara W. Tuchman
-- [ ]  The Silk Roads - Peter Frankopan
-- [ ]  The China Study - T. Colin Campbell
-- [ ]  The History Of Love by Nicole Krauss
+
 
 - [ ]  Writing Tools - Roy Peter Clarke
 - [ ]  Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease and How to Fight It - Benjamin Bikman
 - [ ]  We Zebras Don’t Get Ulcers - Robert sapolsky
-
-
-
-
-
-- [ ]  1776 - David McCullough
-
-
-
-
-
-
-
-
-
-
-- [ ]  Food - Mark Hyman
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- [ ]  Mathematics: A Very Short Introduction by Timothy Gowers
-- [ ]  Philosophy of Mathematics by Øystein Linnebo 
-- [ ]  The Oxford Handbook of Philosophy of Mathematics and Logic
-- [ ]  Introduction to Mathematical Philosophy by Bertrand Russell
-- [ ]  Thinking about Mathematics by Stewart Shapiro
-- [ ]  The Woman Who Knew Too Much, Revised Ed.: Alice Stewart and the Secrets of Radiation - Gayle Greene
-- [ ]  Logicomix an Epic Search for Trurh: An Epic Search for Truth
-- [ ]  Destined For War - Graham Allison
-- [ ]  Innovators by Walter Isaacson.
-- [ ]  The Lives of the Most Excellent Painters, Sculptors, and Architects by Giorgio Vasari
-- [ ]  The Mosquito: A Human History of Our Deadliest Predator by Timothy C. Winegard
-- [ ]  Hacking Darwin: Genetic Engineering and the Future of Humanity by Jamie Metzl
-- [ ]  Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do by Jennifer L. Eberhardt
-- [ ]  Range: Why Generalists Triumph in a Specialized World by David Epstein
-
-- [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence, by Ajay Agrawal, Joshua Gans and Avi Goldfarb
-- [ ]  Seeing Like a State by James C. Scott
-
-- [ ]  De Gaulle –Julian Jackson
-- [ ]  Meet You in Hell: Andrew Carnegie, Henry Clay Frick, and the Bitter Partnership That Changed America -- Les Standiford
-- [ ]  Estee: A Success Story Hardcover – Estee Lauder
-
-- [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
-
-
-
 - [ ]  Why We're Polarized -- Ezra Klein
 - [ ]  When breathe becomes air - By Paul Kalanithi
 - [ ]  What everybody is saying - Joe Navarro
@@ -760,11 +700,17 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  War and Peace and War: The Rise and Fall of Empires - Peter Turchin
 - [ ]  Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists -  Antony Sutton
 - [ ]  Wall Street and the Rise of Hitler - Antony Sutton
+- [ ]  What I Talk About When I Talk About Running - Haruki Murakami.
+- [ ]  What Happened To You - Dr Bruce Perry
+
+
 
 - [ ]  Yuganta - Irawati Karve
 
 - [ ]  Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
 - [ ]  Zero to One  - Blake Masters and Peter Thiel
+- [ ]  Zen In The Art Of Writing - Ray Bradbury
+- [ ]  Zen And The Art of Motorcycle - Robert Pising
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
