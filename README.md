@@ -31,9 +31,39 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  A Little History of the World - E. H. Gombrich
 - [ ]  Atlas Shrugged
 - [ ]  A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
+- [ ]  Akbar - Ira Mukhoty 
+- [ ]  Andha Yug by Dharamvir Bharati
+- [ ]  A Spy Among Friends : Philby and the Great Betrayal - Ben Macintyre
+- [ ]  Alice in Wonderland - Lewis Carroll
+- [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
+- [ ]  Atonement - Ian Mcewan
+- [ ]  A Girl is a Half-formed Thing -Eimear McBride
+- [ ]  Americanah - Chimamanda Ngozi Adichie
+- [ ]  An Ancestor’s Tale - Richard Dawkins
+- [ ]  A People's History of the United States - Howard Zinn
+- [ ]  A Song Of Ice and Fire - George Martin
+- [ ]  All of Mark Twain’s Letters (5 Volumes) 
+- [ ]  As a Man Thinketh - James Allen
+- [ ]  A Gentleman in Moscow - Amor Towles
+- [ ]  A Wrinkle in Time - Madeleine L'Engle
+- [ ]  Antking - Charlie Kaufman
 
-
-
+- [ ]  Buyology - Martin Lindstrom
+- [ ]  Build - Tony Fadell
+- [ ]  Benjamin Franklin - Walter Isaacson
+- [ ]  Blue Ocean Strategy - W. Chan Kim
+- [ ]  Beloved - Toni Morrison
+- [ ]  Bad Blood - John Carreyrou
+- [ ]  Bill Bernbach's Book: A History of Advertising That Changed the History of Advertising by Bob Levenson
+- [ ]  Benjamin Franklin by Edmund Morgan 
+- [ ]  Benjamin Franklin by Carl Van Doren
+- [ ]  Beyond Good And Evil - Friedrich Nietzsche
+- [ ]  Bird by Bird - Anne Lamott
+- [ ]  Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do by Jennifer L. Eberhardt
+- [ ]  Bury My Heart At Wounded Knee - Dee Brown
+- [ ]  Boundless - Ben Greenfield
+- [ ]  Breath - James Nestor
+- [ ]  Being Mortal - Atul Gawande
 - [ ]  Blind Willow, Sleeping Woman - Haruki Murakami
 - [ ]  Breath - James Nestor
 - [ ]  Blue Skinned Gods - SJ Sindu
@@ -46,9 +76,27 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
 - [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
 - [ ]  ChanakyaNeeti - B. K. Chaturvedi
+- [ ]  Cat’s Cradle by Kurt Vonnegut
+- [ ]  Catching Fire - Richard Wrangham
+- [ ]  Cosmocomics by Italo Calvino
+- [ ]  City of Glass by Paul Auster
+- [ ]  Civilization and Its Discontents by Sigmund Freud 
+- [ ]  Cold Earth - Sarah Moss
+- [ ]  Coolidge by Amity Shlaes
+- [ ]  Carnegie by Peter Krass 
+- [ ]  Conversations with Lee Kuan Yew: Citizen Singapore: How to Build a Nation by Tom Plate
+- [ ]  Consider This - Chuck Palahniuk
+- [ ]  Clear and Simple as the Truth - Francis-Noël Thomas
 
-
-
+- [ ]  Daily Rituals - Mason Currey
+- [ ]  Disruptor - Arwen Elys Dayton
+- [ ]  DeepWork - Cal Newport
+- [ ]  Daughters of the Sun: Empresses, Queens and Begums of the Mughal Empire - Ira Mukhtoy
+- [ ]  Diary and Autobiography of John Adams
+- [ ]  David Sarnoff: A Biography by Eugene Lyons 
+- [ ]  Do I Make Myself Clear - Harold Evans
+- [ ]  Destined For War - Graham Allison
+- [ ]  De Gaulle –Julian Jackson
 - [ ]  Deep Down Things The Breathtaking Beauty of Particle Physics - Bruce A Schumm
 - [ ]  Dreams of a Final Theory - Steven Weinberg
 
@@ -63,7 +111,22 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Eat Fat Get Thin - Mark Hyman
 - [ ]  Emotional Intelligence - Daniel Goleman
 - [ ]  Empire of Ants - Sussane Foitzik and Olaf Frit
+- [ ]  Edison – A Biography by Matthew Josephson
+- [ ]  East of Eden - John Steinbeck 
+- [ ]  Eugene Meyer by Merlo John Pusey
+- [ ]  Einstein: Life and Times by Ronald W. Clark
+- [ ]  Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
+- [ ]  Empire of Pain - Patrick Radden Keefe
+- [ ]  Everybody Writes - Ann Handley
+- [ ]  Estee: A Success Story Hardcover – Estee Lauder
 
+- [ ]  Food - Mark Hyman
+- [ ]  From Third World to First - Lee Kuan Yew
+- [ ]  Financial Intelligence - Karen Berman, Joe Knight and John Case.
+- [ ]  Four Thousand Weeks - Oliver Burkeman
+- [ ]  Freedom at Midnight - Dominique Lapierre and Larry Collins
+- [ ]  Fahrenheit 451 by Ray Bradbury
+- [ ]  Franklin of Philadelphia by Edmond Wright 
 - [ ]  Finish what you start - Peter Hollins
 - [ ]  Finite and Infinite Games - James Carse
 - [ ]  Food Rules - Michael Pollan
@@ -75,7 +138,37 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Galileo's Error - Philip Goff
 - [ ]  Grit - Angela Duckworth
 - [ ]  Gut - Giulia Enders
+- [ ]  Generations - William Strauss
+- [ ]  Giving Good Weight - John McPhee
+- [ ]  Game of Thrones Book Series
+- [ ]  Gulliver's Travels
+- [ ]  Gerrard: My Autobiography by Steven Gerrard
+- [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
+- [ ]  Gone Girl by Gillian Flynn
+- [ ]  Glengarry Glen Ross by David Mamet
+- [ ]  Genghis Khan and the Making of the Modern World - Jack Weatherford
+- [ ]  Good Calories, Bad Calories  - Gary Taubes
 
+- [ ]  Hacking Darwin: Genetic Engineering and the Future of Humanity by Jamie Metzl
+- [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
+- [ ]  How to Write Short - Roy Peter Clarke
+- [ ]  How to Hide an Empire - Daniel Immerwahr
+- [ ]  How Not to Die: Discover the Foods Scientifically Proven to Prevent and - [ ]  Reverse Disease - Michael Greger
+- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
+- [ ]  Hard-Boiled Wonderland and the End of the World by Haruki Murakami
+- [ ]  Heroines: Powerful Indian Women of Myth and History - Ira Mukhoty 
+- [ ]  House of Sleep - Jonathan Coe
+- [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
+- [ ]  Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+- [ ]  Hey, Whipple, Squeeze This by Luke Sullivan and Sam Bennett 
+- [ ]  Henry J. Kaiser: Builder in the Modern American West by Mark Foster
+- [ ]  High Output Management - Andy Grove
+- [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
+- [ ]  History Has Begun - Bruno Maçães
+- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
+- [ ]  How to Live - Sarah Bakewell
+- [ ]  How To Stop Time - Matt Haig
+- [ ]  Herbert Hoover: A Public Life by David Burner
 - [ ]  How to Win friends and Influence People - Dale Carnegie
 - [ ]  Hillbilly Elegy - J D Vance
 - [ ]  How to lie with statistics - Darrel Huff
@@ -88,16 +181,45 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  In the praise of shadows - Vintage Tanizaki
 - [ ]  Influence - Robert Cialdini
 - [ ]  Introduction To Indian Histroy - Ibrahim Aerali
+- [ ]  Ivan Pavlov: A Russian Life in Science by Daniel Todes 
+- [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences - John Allen Paulos
+- [ ]  Indistractable - Nir Eyal
+- [ ]  I Contain Multitudes - Ed Yong
+- [ ]  Inner Presence - Antii Revonsuo
+- [ ]  India Before Gandhi - Ramachandra Guha
+- [ ]  India After Gandhi - Ramachandra Guha
+- [ ]  Intuition Pumps and Other Tools for Thinking by Daniel Dennett 
+- [ ]  India in the Persianate Age - Richard M Eaton
+- [ ]  Invisible Women - Caroline Criado Perez
+- [ ]  Imagining India by Nandan Nilekani
+- [ ]  Indira: The Life of Indira Nehru Gandhi by Katherine Frank
+- [ ]  "I Never Wanted to be Vice-President of Anything!": An Investigative Biography of Nelson Rockefeller by Michael Kramer and Sam Roberts 
+- [ ]  If You Want To Write - Brenda Ueland
+- [ ]  In Defense of Food - Michael Pollan
+- [ ]  Introduction to Mathematical Philosophy by Bertrand Russell
+- [ ]  Innovators by Walter Isaacson.
 
-
-
+- [ ]  Jonathan Livingston Seagull - Richard Bach
+- [ ]  JED Mckenna's Notebook
+- [ ]  Journey under the midnight sun - Keigo Higashimo
+- [ ]  Joe Cinque's Consolation - Helen Garner
+- [ ]  Jokes and Their Relation to the Unconscious by Sigmund Freud
+- [ ]  John D. Rockefeller Interviews by William O. Inglis 1917-1920
 - [ ]  Justice - Michael  Sandel
 - [ ]  Just Keep Buying - Nick Maggiulli
 
 
 - [ ]  Karl Max - Das Kapital
+- [ ]  Kill Decision - Daniel Suarez
 
+- [ ]  Letters From A Stoic - Seneca
+- [ ]  Lies My Teacher Told Me - James W Loewen
+- [ ]  Logicomix an Epic Search for Trurh: An Epic Search for Truth
+- [ ]  Life Is Elsewhere - Milan Kundera
+- [ ]  Launch - Jeff Walker
+- [ ]  Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore
 
+- [ ]  Mathematics: A Very Short Introduction by Timothy Gowers
 - [ ]  Lady Doctor - Kavitha Rao
 - [ ]  Lifespan - David Sinclair
 - [ ]  Laws of Human Nature - Robert Greene
@@ -112,20 +234,75 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Metazoa : Animal minds and the birth of consciousness - Peter Godfrey-Smith
 - [ ]  Metabolical : Dr Robert lustig - Its about what process food does to our body.
 - [ ]  Models of the mind - Grace Lindsay
+- [ ]  Metabolical - Robert Lustig
+- [ ]  Meet You in Hell: Andrew Carnegie, Henry Clay Frick, and the Bitter Partnership That Changed America -- Les Standiford
+- [ ]  More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin
+- [ ]  Merchants of Truth - Jill Abramson
+- [ ]  Man’s Search for Meaning - Viktor E.Frankl
+- [ ]  Mandate: Will of the People by Vir Sanghvi
+- [ ]  My Lady Jane by Book by Brodi Ashton, Cynthia Hand, and Jodi Meadows
+- [ ]  Max Planck: Driven by Vision, Broken by War by Brandon Brown
 
+- [ ]  Nobody Wants to Read Your Sh*t - Steven Pressfield
+- [ ]  No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model - Richard Schwartz
+- [ ]  Not Your Usual Founding Father: Selected Readings from Benjamin Franklin by Ben Franklin and Edmund Morgan 
+- [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
 - [ ]  Narcopolis - Jeet Thayil
 
 
 - [ ]  Open - Andre Agassi
 - [ ]  Origin Story - David Christain
+- [ ]  On Writing Well - William Zinsser
+- [ ]  On Writing: A Memoir of the Craft - Stephen King
+- [ ]  Only the Paranoid Survive - Andy Grove
+- [ ]  One Hundred Years of Solitude - Gabriel Garcia Marquez and Gregory Rabassa
+- [ ]  Ogilvy on Advertising in the Digital Age by Miles Young
 
+- [ ]  Pandeymonium: Piyush Pandey On Advertising by Piyush Pandey
+- [ ]  Pet Sematary by Stephen King
+- [ ]  Purple Cow by Seth Godin
+- [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
+- [ ]  Peter Pan - James Barrie
+- [ ]  Princeton Companion of Mathematics - Timothy Gowers
+- [ ]  Prisoners of Geography - Tim Marshall
+- [ ]  Physics for Scientists and Engineers - Paul Tipler
+- [ ]  Pride and Prejudice - Jane Austen
+- [ ]  Philosophy of Mathematics by Øystein Linnebo
+- [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence, by Ajay Agrawal, Joshua Gans and Avi Goldfarb
 - [ ]  Probably Approximately Correct - Leslie Valiant
 - [ ]  Prisoners of Geography - Tim Marshall
 
 - [ ]  Quantum Mechanics The Theoretical Minimum - Leonard Susskind & Art Friedman
 
 - [ ]  Rebuild - Dr. Robert Zembroski
+- [ ]  Rashmirathi By Dinkar in Hindi (Book on Mahabharat's Karn)
+- [ ]  Range: Why Generalists Triumph in a Specialized World by David Epstein
+- [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA - Daniel Carpenter
+- [ ]  Rules for Radicals - Saul Alinsky
+- [ ]  Ready Player One - Ernest Cline
+- [ ]  Richard Feynman’s Lectures - Richard Feynman
+- [ ]  Reflections in a sacred pond - Murad Ali Balg
+- [ ]  Rama's Last Act by Bhavabhuti
+- [ ]  Ready Player One by Ernest Cline
+- [ ]  Reasons of Belonging: Fourteen Contemporary Indian Poets
+- [ ]  Red Rising Series by Pierce Brown 
 
+- [ ]  Scalped (American Novel Series) by Jason Aaron
+- [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
+- [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
+- [ ]  Shining by Stephen King
+- [ ]  Social Animal by David Brooks
+- [ ]  Song Of Drapaudi - Ira Mukhoty 
+- [ ]  Shuggie Bain - Douglas Stuart
+- [ ]  Socratic Selling - Kevin Daley
+- [ ]  Schaum's Outlines - Joel Lerner and James Cashin
+- [ ]  Sputnik Sweetheart - Haruki Murakami
+- [ ]  Seeing Like a State - James C. Scott
+- [ ]  So Good They Can’t Ignore You - Cal Newport
+- [ ]  Shantaram: A Novel - Gregory David Roberts
+- [ ]  Shogun - James Clavell
+- [ ]  SPQR - Mary Beard
+- [ ]  Seeing Like a State by James C. Scott
 - [ ]  Sapiens Graphic Novel - David VanderMeulen and Yuval Noah Harari
 - [ ]  Stranger in a Strange Land - Robert Heinlein
 - [ ]  Snow Crash - Neal Stephenson
@@ -321,6 +498,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Train To Pakistan - Khushwant Singh
 - [ ]  Theory Of Everything - JED McKenna
 - [ ]  The Enlightment Triology - JED Mckenna
+- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
+- [ ]  Titan: The Life of John D. Rockefeller - Ron Cherow
 
 - [ ]  UNIX: A History and a Memoir - Brian W Kernighan
 - [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
@@ -329,301 +508,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Visual Complex Analysis - Tristan Needham
 - [ ]  Visual Complex Functions - Elias Wegert
 
-
-
-
 - [ ]  White Mughals - William Dalrymple
 - [ ]  Why I Write - George Orwell
 - [ ]  Who Moved My Cheese - Dr Spencer Johnson
-
-
-
-- [ ]  Akbar - Ira Mukhoty 
-- [ ]  Andha Yug by Dharamvir Bharati
-- [ ]  A Spy Among Friends : Philby and the Great Betrayal - Ben Macintyre
-- [ ]  Alice in Wonderland - Lewis Carroll
-- [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
-- [ ]  Atonement - Ian Mcewan
-- [ ]  A Girl is a Half-formed Thing -Eimear McBride
-- [ ]  Americanah - Chimamanda Ngozi Adichie
-- [ ]  An Ancestor’s Tale - Richard Dawkins
-- [ ]  A People's History of the United States - Howard Zinn
-- [ ]  A Song Of Ice and Fire - George Martin
-- [ ]  All of Mark Twain’s Letters (5 Volumes) 
-- [ ]  As a Man Thinketh - James Allen
-- [ ]  A Gentleman in Moscow - Amor Towles
-- [ ]  A Wrinkle in Time - Madeleine L'Engle
-- [ ]  Antking - Charlie Kaufman
-
-- [ ]  Buyology - Martin Lindstrom
-- [ ]  Build - Tony Fadell
-- [ ]  Benjamin Franklin - Walter Isaacson
-- [ ]  Blue Ocean Strategy - W. Chan Kim
-- [ ]  Beloved - Toni Morrison
-- [ ]  Bad Blood - John Carreyrou
-- [ ]  Bill Bernbach's Book: A History of Advertising That Changed the History of Advertising by Bob Levenson
-- [ ]  Benjamin Franklin by Edmund Morgan 
-- [ ]  Benjamin Franklin by Carl Van Doren
-- [ ]  Beyond Good And Evil - Friedrich Nietzsche
-- [ ]  Bird by Bird - Anne Lamott
-- [ ]  Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do by Jennifer L. Eberhardt
-- [ ]  Bury My Heart At Wounded Knee - Dee Brown
-- [ ]  Boundless - Ben Greenfield
-- [ ]  Breath - James Nestor
-- [ ]  Being Mortal - Atul Gawande
-
-
-- [ ]  Cat’s Cradle by Kurt Vonnegut
-- [ ]  Catching Fire - Richard Wrangham
-- [ ]  Cosmocomics by Italo Calvino
-- [ ]  City of Glass by Paul Auster
-- [ ]  Civilization and Its Discontents by Sigmund Freud 
-- [ ]  Cold Earth - Sarah Moss
-- [ ]  Coolidge by Amity Shlaes
-- [ ]  Carnegie by Peter Krass 
-- [ ]  Conversations with Lee Kuan Yew: Citizen Singapore: How to Build a Nation by Tom Plate
-- [ ]  Consider This - Chuck Palahniuk
-- [ ]  Clear and Simple as the Truth - Francis-Noël Thomas
-
-- [ ]  Daily Rituals - Mason Currey
-- [ ]  Disruptor - Arwen Elys Dayton
-- [ ]  DeepWork - Cal Newport
-- [ ]  Daughters of the Sun: Empresses, Queens and Begums of the Mughal Empire - Ira Mukhtoy
-- [ ]  Diary and Autobiography of John Adams
-- [ ]  David Sarnoff: A Biography by Eugene Lyons 
-
-
-
-
-- [ ]  Edison – A Biography by Matthew Josephson
-- [ ]  East of Eden - John Steinbeck 
-- [ ]  Eugene Meyer by Merlo John Pusey
-- [ ]  Einstein: Life and Times by Ronald W. Clark
-- [ ]  Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
-- [ ]  Empire of Pain - Patrick Radden Keefe
-- [ ]  Everybody Writes - Ann Handley
-- [ ]  Estee: A Success Story Hardcover – Estee Lauder
-
-- [ ]  From Third World to First - Lee Kuan Yew
-- [ ]  Financial Intelligence - Karen Berman, Joe Knight and John Case.
-- [ ]  Four Thousand Weeks - Oliver Burkeman
-- [ ]  Freedom at Midnight - Dominique Lapierre and Larry Collins
-- [ ]  Fahrenheit 451 by Ray Bradbury
-- [ ]  Franklin of Philadelphia by Edmond Wright 
-
-- [ ]  Generations - William Strauss
-- [ ]  Giving Good Weight - John McPhee
-- [ ]  Game of Thrones Book Series
-- [ ]  Gulliver's Travels
-- [ ]  Gerrard: My Autobiography by Steven Gerrard
-- [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
-- [ ]  Gone Girl by Gillian Flynn
-- [ ]  Glengarry Glen Ross by David Mamet
-
-
-- [ ]  Hard-Boiled Wonderland and the End of the World by Haruki Murakami
-- [ ]  Heroines: Powerful Indian Women of Myth and History - Ira Mukhoty 
-- [ ]  House of Sleep - Jonathan Coe
-- [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
-- [ ]  Harry Potter and the Prisoner of Azkaban by J.K. Rowling
-- [ ]  Hey, Whipple, Squeeze This by Luke Sullivan and Sam Bennett 
-- [ ]  Henry J. Kaiser: Builder in the Modern American West by Mark Foster
-- [ ]  High Output Management - Andy Grove
-- [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
-- [ ]  History Has Begun - Bruno Maçães
-- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
-- [ ]  How to Live - Sarah Bakewell
-- [ ]  How To Stop Time - Matt Haig
-- [ ]  Herbert Hoover: A Public Life by David Burner 
- 
-- [ ]  Ivan Pavlov: A Russian Life in Science by Daniel Todes 
-- [ ]  Innumeracy: Mathematical Illiteracy and Its Consequences - John Allen Paulos
-- [ ]  Indistractable - Nir Eyal
-- [ ]  I Contain Multitudes - Ed Yong
-- [ ]  Inner Presence - Antii Revonsuo
-- [ ]  India Before Gandhi - Ramachandra Guha
-- [ ]  India After Gandhi - Ramachandra Guha
-- [ ]  Intuition Pumps and Other Tools for Thinking by Daniel Dennett 
-- [ ]  India in the Persianate Age - Richard M Eaton
-- [ ]  Invisible Women - Caroline Criado Perez
-- [ ]  Imagining India by Nandan Nilekani
-- [ ]  Indira: The Life of Indira Nehru Gandhi by Katherine Frank
-- [ ]  "I Never Wanted to be Vice-President of Anything!": An Investigative Biography of Nelson Rockefeller by Michael Kramer and Sam Roberts 
-
-- [ ]  Jonathan Livingston Seagull - Richard Bach
-- [ ]  JED Mckenna's Notebook
-- [ ]  Journey under the midnight sun - Keigo Higashimo
-- [ ]  Joe Cinque's Consolation - Helen Garner
-- [ ]  Jokes and Their Relation to the Unconscious by Sigmund Freud
-- [ ]  John D. Rockefeller Interviews by William O. Inglis 1917-1920
-
-- [ ]  Kill Decision - Daniel Suarez
-
-- [ ]  Life Is Elsewhere - Milan Kundera
-- [ ]  Launch - Jeff Walker
-- [ ]  Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore
-
-- [ ]  Merchants of Truth - Jill Abramson
-- [ ]  Man’s Search for Meaning - Viktor E.Frankl
-- [ ]  Mandate: Will of the People by Vir Sanghvi
-- [ ]  My Lady Jane by Book by Brodi Ashton, Cynthia Hand, and Jodi Meadows
-- [ ]  Max Planck: Driven by Vision, Broken by War by Brandon Brown
-
-- [ ]  Nobody Wants to Read Your Sh*t - Steven Pressfield
-- [ ]  No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model - Richard Schwartz
-- [ ]  Not Your Usual Founding Father: Selected Readings from Benjamin Franklin by Ben Franklin and Edmund Morgan 
-- [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
-
-- [ ]  On Writing: A Memoir of the Craft - Stephen King
-- [ ]  Only the Paranoid Survive - Andy Grove
-- [ ]  One Hundred Years of Solitude - Gabriel Garcia Marquez and Gregory Rabassa
-- [ ]  Ogilvy on Advertising in the Digital Age by Miles Young
-
-- [ ]  Pandeymonium: Piyush Pandey On Advertising by Piyush Pandey
-- [ ]  Pet Sematary by Stephen King
-- [ ]  Purple Cow by Seth Godin
-- [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
-- [ ]  Peter Pan - James Barrie
-- [ ]  Princeton Companion of Mathematics - Timothy Gowers
-- [ ]  Prisoners of Geography - Tim Marshall
-- [ ]  Physics for Scientists and Engineers - Paul Tipler
-- [ ]  Pride and Prejudice - Jane Austen
-
-- [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA - Daniel Carpenter
-- [ ]  Rules for Radicals - Saul Alinsky
-- [ ]  Ready Player One - Ernest Cline
-- [ ]  Richard Feynman’s Lectures - Richard Feynman
-- [ ]  Reflections in a sacred pond - Murad Ali Balg
-- [ ]  Rama's Last Act by Bhavabhuti
-- [ ]  Ready Player One by Ernest Cline
-- [ ]  Reasons of Belonging: Fourteen Contemporary Indian Poets
-- [ ]  Red Rising Series by Pierce Brown 
-
-- [ ]  Scalped (American Novel Series) by Jason Aaron
-- [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
-- [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
-- [ ]  Shining by Stephen King
-- [ ]  Social Animal by David Brooks
-- [ ]  Song Of Drapaudi - Ira Mukhoty 
-- [ ]  Shuggie Bain - Douglas Stuart
-- [ ]  Socratic Selling - Kevin Daley
-- [ ]  Schaum's Outlines - Joel Lerner and James Cashin
-- [ ]  Sputnik Sweetheart - Haruki Murakami
-- [ ]  Seeing Like a State - James C. Scott
-- [ ]  So Good They Can’t Ignore You - Cal Newport
-- [ ]  Shantaram: A Novel - Gregory David Roberts
-- [ ]  Shogun - James Clavell
-
-- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
-- [ ]  Titan: The Life of John D. Rockefeller - Ron Cherow
-
-
-
-
-
-
-- [ ]  What Makes Sammy Run? - Budd Schulberg
-- [ ]  Wilderness Essays - Epictitus
-
-
-- [ ]  You Are a Badmass at Making Money - Jen Sincero 
-
-
-- [ ]  1000 Exercises in Probability - Geoffrey Grimmett and David Stirzaker
-
-
-### Authors to explore
-
-- [ ]  Roald Dahl Books
-- [ ]  Enid Blyton Books
-- [ ]  Agatha Cristie Books
-- [ ]  Lee Child Book Series
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- [ ]  On Writing Well - William Zinsser
-
-
-
 - [ ]  Woodrow Wilson by H.W. Brands 
 - [ ]  Walden - Henry David Thoreau
-
-
-
-
- 
-
-
-
-
-
-
-
-- [ ]  Do I Make Myself Clear - Harold Evans
-- [ ]  Destined For War - Graham Allison
-- [ ]  De Gaulle –Julian Jackson
-
-
-
-- [ ]  Food - Mark Hyman
-
-- [ ]  Genghis Khan and the Making of the Modern World - Jack Weatherford
-- [ ]  Good Calories, Bad Calories  - Gary Taubes
-
-- [ ]  Hacking Darwin: Genetic Engineering and the Future of Humanity by Jamie Metzl
-- [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
-- [ ]  How to Write Short - Roy Peter Clarke
-- [ ]  How to Hide an Empire - Daniel Immerwahr
-- [ ]  How Not to Die: Discover the Foods Scientifically Proven to Prevent and - [ ]  Reverse Disease - Michael Greger
-- [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
-
-- [ ]  If You Want To Write - Brenda Ueland
-- [ ]  In Defense of Food - Michael Pollan
-- [ ]  Introduction to Mathematical Philosophy by Bertrand Russell
-- [ ]  Innovators by Walter Isaacson.
-
-- [ ]  Letters From A Stoic - Seneca
-- [ ]  Lies My Teacher Told Me - James W Loewen
-- [ ]  Logicomix an Epic Search for Trurh: An Epic Search for Truth
-
-- [ ]  Mathematics: A Very Short Introduction by Timothy Gowers
-- [ ]  Metabolical - Robert Lustig
-- [ ]  Meet You in Hell: Andrew Carnegie, Henry Clay Frick, and the Bitter Partnership That Changed America -- Les Standiford
-- [ ]  More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin
-
-- [ ]  Philosophy of Mathematics by Øystein Linnebo
-- [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence, by Ajay Agrawal, Joshua Gans and Avi Goldfarb
-
-- [ ]  Rashmirathi By Dinkar in Hindi (Book on Mahabharat's Karn)
-- [ ]  Range: Why Generalists Triumph in a Specialized World by David Epstein
-
-- [ ]  SPQR - Mary Beard
-- [ ]  Seeing Like a State by James C. Scott
-
-
-
 - [ ]  Writing Tools - Roy Peter Clarke
 - [ ]  Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease and How to Fight It - Benjamin Bikman
 - [ ]  We Zebras Don’t Get Ulcers - Robert sapolsky
@@ -643,14 +532,23 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  What Happened To You - Dr Bruce Perry
 - [ ]  We Know It When We See It - Richard Masland
 - [ ]  Win Without Pitching Manifesto - Blair Enns
-
+- [ ]  What Makes Sammy Run? - Budd Schulberg
+- [ ]  Wilderness Essays - Epictitus
 
 - [ ]  Yuganta - Irawati Karve
+- [ ]  You Are a Badmass at Making Money - Jen Sincero
 
 - [ ]  Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
 - [ ]  Zero to One  - Blake Masters and Peter Thiel
 - [ ]  Zen In The Art Of Writing - Ray Bradbury
 - [ ]  Zen And The Art of Motorcycle - Robert Pising
+
+### Authors to explore
+
+- [ ]  Roald Dahl Books
+- [ ]  Enid Blyton Books
+- [ ]  Agatha Cristie Books
+- [ ]  Lee Child Book Series
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
