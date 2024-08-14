@@ -48,46 +48,42 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Awareness - Anthony De Mello
 - [ ]  A Wrinkle in Time - Madeleine L'Engle
 
-
-- [ ]  Buyology - Martin Lindstrom
-- [ ]  Build - Tony Fadell
-- [ ]  Benjamin Franklin - Walter Isaacson
-- [ ]  Blue Ocean Strategy - W. Chan Kim
-- [ ]  Beloved - Toni Morrison
 - [ ]  Bad Blood - John Carreyrou
-- [ ]  Bill Bernbach's Book: A History of Advertising That Changed the History of Advertising by Bob Levenson
-- [ ]  Benjamin Franklin by Edmund Morgan 
+- [ ]  Beloved - Toni Morrison
 - [ ]  Benjamin Franklin by Carl Van Doren
+- [ ]  Benjamin Franklin by Edmund Morgan 
+- [ ]  Benjamin Franklin - Walter Isaacson
 - [ ]  Beyond Good And Evil - Friedrich Nietzsche
-- [ ]  Bird by Bird - Anne Lamott
+- [ ]  Being Mortal - Atul Gawande
 - [ ]  Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do by Jennifer L. Eberhardt
-- [ ]  Bury My Heart At Wounded Knee - Dee Brown
+- [ ]  Bill Bernbach's Book: A History of Advertising That Changed the History of Advertising by Bob Levenson
+- [ ]  Bird by Bird - Anne Lamott
+- [ ]  Blind Willow, Sleeping Woman - Haruki Murakami
+- [ ]  Blink - Malcom Gladwell
+- [ ]  Blue Ocean Strategy - W. Chan Kim
+- [ ]  Blue Skinned Gods - SJ Sindu
 - [ ]  Boundless - Ben Greenfield
 - [ ]  Breath - James Nestor
-- [ ]  Being Mortal - Atul Gawande
-- [ ]  Blind Willow, Sleeping Woman - Haruki Murakami
-- [ ]  Breath - James Nestor
-- [ ]  Blue Skinned Gods - SJ Sindu
-- [ ]  Blink - Malcom Gladwell
+- [ ]  Build - Tony Fadell
 - [ ]  Building a Second Brain Book - Tiago Forte
-- [ ]  Beyond Good and Evil - Friedrich Nietzsche
+- [ ]  Bury My Heart At Wounded Knee - Dee Brown
+- [ ]  Buyology - Martin Lindstrom
 
-
-- [ ]  Chatter - Ethan Kross
-- [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
-- [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
-- [ ]  ChanakyaNeeti - B. K. Chaturvedi
 - [ ]  Cat’s Cradle by Kurt Vonnegut
 - [ ]  Catching Fire - Richard Wrangham
-- [ ]  Cosmocomics by Italo Calvino
-- [ ]  City of Glass by Paul Auster
-- [ ]  Civilization and Its Discontents by Sigmund Freud 
-- [ ]  Cold Earth - Sarah Moss
-- [ ]  Coolidge by Amity Shlaes
 - [ ]  Carnegie by Peter Krass 
-- [ ]  Conversations with Lee Kuan Yew: Citizen Singapore: How to Build a Nation by Tom Plate
-- [ ]  Consider This - Chuck Palahniuk
+- [ ]  ChanakyaNeeti - B. K. Chaturvedi
+- [ ]  Chatter - Ethan Kross
 - [ ]  Clear and Simple as the Truth - Francis-Noël Thomas
+- [ ]  City of Glass by Paul Auster
+- [ ]  Civilization and Its Discontents by Sigmund Freud
+- [ ]  Cold Earth - Sarah Moss
+- [ ]  Consider This - Chuck Palahniuk
+- [ ]  Conversations with Lee Kuan Yew: Citizen Singapore: How to Build a Nation by Tom Plate 
+- [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
+- [ ]  Coolidge by Amity Shlaes
+- [ ]  Cosmocomics by Italo Calvino
+- [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
 
 - [ ]  Daily Rituals - Mason Currey
 - [ ]  Disruptor - Arwen Elys Dayton
