@@ -315,30 +315,36 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Art of Readable Writing: With the Flesch Readability Formula
 - [ ]  The Art of Strategy - Avinash J Dixit & Barry J Nalebuff
 - [ ]  The Art of War - Sun Tzu
+- [ ]  The Automatic Millionaire - David Bach
 
+- [ ]  The Barefoot Investor - Scott Pape
 - [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
 - [ ]  The Beautiful Trouble - Andrew Boyd
+- [ ]  The Bhagavad Gita translated - Eknath Easwaran - The Bhagavad Gita is one of the most famous and influential texts in Indian philosophy. This translation is highly regarded for its clarity and accessibility.
 - [ ]  The Book Of Dust - Philip Pullman
 - [ ]  The Body - Bill Bryson
 - [ ]  The Body Keeps The Score - Bessel Van Der Kolk
-
-
 - [ ]  The Big Picture - Sean Carrol
 - [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
 - [ ]  The Brief History of Nearly Everthing - Bill Bryson
 
 - [ ]  The Choice - Dr. Edith Eger
+- [ ]  The Collected Schizoprenias - Esme Weijun Wang
+- [ ]  The Collected Works of Ramana Maharshi edited - Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
 - [ ]  The Communication Book - Mikael Krogerus and Roman Tschappler.
 - [ ]  The Control of Nature - John McPhee
 - [ ]  The Cold Start Problem - Andrew Chen
 - [ ]  The Craft - John Dickie
 
 - [ ]  The E-Myth Revisted - Michael E. Gerber
+- [ ]  The End oF Everthing - Katie Mack
 - [ ]  The Entrepreneur Mind - Kevin D. Johnson
 - [ ]  The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
 - [ ]  The Evolution of Everything: How New Ideas Emerge -- Matt Ridley
 
 - [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
+- [ ]  The First Cell - Azra Raza
+- [ ]  The Foundations of Indian Philosophy - A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
 - [ ]  The Fountainhead - Ayn Rand
 - [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny - William Straus and Neil Howe
 
@@ -348,6 +354,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Gulag Archipelago - Aleksandr I. Solzhenitsyn
 
 - [ ]  The Handmaid's Tale - Margaret Atwood
+- [ ]  The Happiness Hypothesis - Jonathan Haidt
+- [ ]  The Happiest man on Earth - Eddie Jaku
+- [ ]  The Heart of Hinduism - Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
 - [ ]  The Hitchhiker's Guide to the Galaxy - Douglas Adams
 - [ ]  The House of Government: A Saga of the Russian Revolution - Yuri Slezkine
 - [ ]  The Hungry Brain - Stephan J Guyeney
@@ -359,30 +368,38 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Last Question - Isaac Asimov
 - [ ]  The Lessons of History -- Will & Ariel Durant
 - [ ]  The Lean Startup - Eric Ries
+- [ ]  The little book that beats the market - Joel Greenblatt
 - [ ]  The Lord of the Rings - JRR Tolkien
 
 - [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
 - [ ]  The Martian - Andy Weir
 - [ ]  The Master and the Margarita - Mikhail Bulgakov
+- [ ]  The Millionaire Next Door - Thomas J. Stanley
+- [ ]  The Mind is Flat - Nick Chater
 - [ ]  The Mom Test - Rob Fitzpatrick
 - [ ]  The Mountain Is You - Brianna Wiest.
 
 - [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
 
 - [ ]  The Painted Bird - Jerzy Kosinski
+- [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
+- [ ]  The Pricipice - Toby Ord
+- [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
 - [ ]  The Psychedelic Explorer’s Guide - James Fadiman
 
 - [ ]  The Rational Optimist: How Prosperity Evolves -- Matt Ridley
 - [ ]  The Red Queen: Sex and the Evolution of Human Nature -- Matt Ridley
 - [ ]  The Remains of the day - Kazuo Ishiguro
-- [ ]  The ride of a lifetime - Robert Iger
+- [ ]  The Ride of a lifetime - Robert Iger
 - [ ]  The Rise of Superman - Steven Kotler
+- [ ]  The Road Less Travelled - M. Scott Peck
 
 - [ ]  The School of Life: An Emotional Education - Alain De Botton
 - [ ]  The Selfish Gene - Richard Dawkins
 - [ ]  The Singularity Is Near: When Humans Transcend Biology - Ray Kurzweil
-- [ ]  The Soul of Marionette - John Gray
+- [ ]  The Social Animal - David Brook
 - [ ]  The Song of Achilles - Madelline Miller
+- [ ]  The Soul of Marionette - John Gray
 - [ ]  The Sovereign Individual: Mastering the Transition to the Information Age -- James Dale Davidson and Lord William Rees-Mogg
 - [ ]  The Spy and the Traitor: The Greatest Espionage Story of the Cold War by Ben Macintyre
 - [ ]  The Spike : An epic journey through the brain in 2.1 seconds - Mark Humphries
@@ -390,6 +407,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  The Three Body Problem Triology - Liu Cixin
 - [ ]  The Top Five Regrets of The Dying - Bronnie Ware
+- [ ]  The Total Money Makeover - Dave Ramsay
 - [ ]  The Truth Machine - Michael Casey & Paul Vigna
 
 - [ ]  The Tyranny of Merit - Michael J Sandel
@@ -403,65 +421,68 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Thinking Fast and Slow - Daniel Kahneman
 - [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
 - [ ]  Things Hidden Since the Foundation of the World - René Girard
+- [ ]  This Is How It Always Is - Laurie Frankel
 - [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
 - [ ]  Tiny Habits - BJ Fogg
 - [ ]  Trick Mirror: Reflections on Self-Delusion by Jia Tolentino
+- [ ]  Toba Tek Singh by Saadat Hasan Manto
+- [ ]  To Kill a Mockingbird by Harper Lee 
 - [ ]  Tough Jews - Rich Cohen
+- [ ]  Tuesdays With Morrie - Mitch Albom
 - [ ]  Turn The Ship Around - L. David Marquet
 
 
 
 
-
-
-
-- [ ]  The Road Less Travelled - M. Scott Peck
-- [ ]  The Social Animal - David Brook
-- [ ]  The Happiness Hypothesis - Jonathan Haidt
-- [ ]  The Collected Schizoprenias - Esme Weijun Wang
-- [ ]  The End oF Everthing - Katie Mack
-- [ ]  The First Cell - Azra Raza
-- [ ]  The Pricipice - Toby Ord
-- [ ]  The Happiest man on Earth - Eddie Jaku
-- [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
-- [ ]  The Bhagavad Gita translated - Eknath Easwaran - The Bhagavad Gita is one of the most famous and influential texts in Indian philosophy. This translation is highly regarded for its clarity and accessibility.
-- [ ]  The Collected Works of Ramana Maharshi edited - Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
-- [ ]  The Heart of Hinduism - Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
-- [ ]  The Foundations of Indian Philosophy - A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
-- [ ]  The Mind is Flat - Nick Chater
-- [ ]  The Barefoot Investor - Scott Pape
-- [ ]  The little book that beats the market - Joel Greenblatt
-- [ ]  The Total Money Makeover - Dave Ramsay
-- [ ]  The Automatic Millionaire - David Bach
-- [ ]  The Millionaire Next Door - Thomas J. Stanley
-- [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
-- [ ]  The First Three Minutes - Steven Weinberg
-- [ ]  The Order of Time - Carlo Rovelli
-- [ ]  The Science of Can and Can't - Chiara Marletto
-- [ ]  The Interpretation of Dreams - Sigmund Freud
-- [ ]  This House of Grief - Helen Garner
-- [ ]  The Left Hand of Darkness - Ursula K. Le Guin
-- [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
-- [ ]  The Glass Bead Game - Hermann Hesse
-- [ ]  The First Fifteen Lives of Harry August - Claire North
-- [ ]  The History of the Peloponnesian War - Thucydides
 - [ ]  The Ayatollah Begs to Differ by Hooman Majd
-- [ ]  The Science of Storytelling - Will Storr
-- [ ]  The Hero's Journey - Joseph Campbell
-- [ ]  The Tipping Point by Malcolm Gladwell
-- [ ]  Tuesdays With Morrie - Mitch Albom
-- [ ]  The Copy Book by Rotovision
-- [ ]  Toba Tek Singh by Saadat Hasan Manto
-- [ ]  To Kill a Mockingbird by Harper Lee 
-- [ ]  The Catcher in the Rye by J. D. Salinger
-- [ ]  The Complete Hitchiker Series by Douglas Adams
+
 - [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
-- [ ]  The Haunting of Alma Fielding - Kate Summerscale
-- [ ]  The Year of Magical Thinking - Joan Didion
-- [ ]  The Tibetan Book of the Dead - Grahan Coleman
-- [ ]  The Coaching Habit - Michael Bungay Stanier
-- [ ]  This Is How It Always Is - Laurie Frankel
 - [ ]  The Brand Flip - Marty Neumeier
+
+- [ ]  The Catcher in the Rye by J. D. Salinger
+- [ ]  The Coaching Habit - Michael Bungay Stanier
+- [ ]  The Complete Hitchiker Series by Douglas Adams
+- [ ]  The Copy Book by Rotovision
+
+
+- [ ]  The Interpretation of Dreams - Sigmund Freud
+
+- [ ]  The Order of Time - Carlo Rovelli
+
+- [ ]  The Science of Can and Can't - Chiara Marletto
+- [ ]  The Science of Storytelling - Will Storr
+
+- [ ]  The Haunting of Alma Fielding - Kate Summerscale
+- [ ]  The Hero's Journey - Joseph Campbell
+- [ ]  The History of the Peloponnesian War - Thucydides
+- [ ]  This House of Grief - Helen Garner
+
+- [ ]  The Left Hand of Darkness - Ursula K. Le Guin
+
+- [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
+
+- [ ]  The Glass Bead Game - Hermann Hesse
+
+- [ ]  The First Three Minutes - Steven Weinberg
+- [ ]  The First Fifteen Lives of Harry August - Claire North
+
+
+
+
+- [ ]  The Tipping Point by Malcolm Gladwell
+- [ ]  The Tibetan Book of the Dead - Grahan Coleman
+
+
+- [ ]  The Year of Magical Thinking - Joan Didion
+
+
+
+
+
+
+
+
+
 - [ ]  The Conversations: Walter Murch and the Art of Editing Film by Michael Ondaatje
 - [ ]  The Stiglitz Report by Joseph E Stiglitz
 - [ ]  The Argumentative Indian by Amartya Sen
