@@ -300,124 +300,121 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
 
 - [ ]  Talent is Never Enough - John C. Maxwell
+- [ ]  Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell
+- [ ]  Tao Te Ching: Text Only Edition Translated - Gia-fu feng and Jane English 
 - [ ]  Technological Revolutions and Financial Capital - Carlota Perez
 - [ ]  Trillion Dollar Coach: The Leadership Playbook That Builds Elite Teams - Eric Schmidt, Jonathan Rosenberg, and Alan Eagle
 - [ ]  The 100$ Startup - Chris Guillebeau
-- [ ]  The Adventures of Johnny Bunko - Daniel H. Pink
+
+ 
+- [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need - Daniel H. Pink
 - [ ]  The Alchemist - Paulo Coelho
+- [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
+- [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
+- [ ]  The Art of Possibility - Benjamin Zander & Rosamund Zander
+- [ ]  The Art of Readable Writing: With the Flesch Readability Formula
+- [ ]  The Art of Strategy - Avinash J Dixit & Barry J Nalebuff
+- [ ]  The Art of War - Sun Tzu
 
+- [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
+- [ ]  The Beautiful Trouble - Andrew Boyd
 - [ ]  The Book Of Dust - Philip Pullman
+- [ ]  The Body - Bill Bryson
+- [ ]  The Body Keeps The Score - Bessel Van Der Kolk
 
+
+- [ ]  The Big Picture - Sean Carrol
+- [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
+- [ ]  The Brief History of Nearly Everthing - Bill Bryson
+
+- [ ]  The Choice - Dr. Edith Eger
 - [ ]  The Communication Book - Mikael Krogerus and Roman Tschappler.
+- [ ]  The Control of Nature - John McPhee
 - [ ]  The Cold Start Problem - Andrew Chen
 - [ ]  The Craft - John Dickie
 
-- [ ]  The Entrepreneur Mind - Kevin D. Johnson
 - [ ]  The E-Myth Revisted - Michael E. Gerber
+- [ ]  The Entrepreneur Mind - Kevin D. Johnson
+- [ ]  The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
+- [ ]  The Evolution of Everything: How New Ideas Emerge -- Matt Ridley
 
+- [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
 - [ ]  The Fountainhead - Ayn Rand
-- [ ]  The Fourth Turning: An American Prophecy - William Strauss and Neil Howe
+- [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny - William Straus and Neil Howe
 
 - [ ]  The Great CEO Within - Matt Mochary
+- [ ]  The Goal - Eliyahu Goldratt
 - [ ]  The Gray Lady Winked - Ashley Rindsberg
 - [ ]  The Gulag Archipelago - Aleksandr I. Solzhenitsyn
 
+- [ ]  The Handmaid's Tale - Margaret Atwood
 - [ ]  The Hitchhiker's Guide to the Galaxy - Douglas Adams
 - [ ]  The House of Government: A Saga of the Russian Revolution - Yuri Slezkine
+- [ ]  The Hungry Brain - Stephan J Guyeney
 
 - [ ]  The Internet of Money Volume 1 - Andreas Antonopolous
 
 - [ ]  The Journalist and the Murderer + Janet Malcolm
 
+- [ ]  The Last Question - Isaac Asimov
+- [ ]  The Lessons of History -- Will & Ariel Durant
+- [ ]  The Lean Startup - Eric Ries
 - [ ]  The Lord of the Rings - JRR Tolkien
 
+- [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
 - [ ]  The Martian - Andy Weir
 - [ ]  The Master and the Margarita - Mikhail Bulgakov
+- [ ]  The Mom Test - Rob Fitzpatrick
+- [ ]  The Mountain Is You - Brianna Wiest.
 
+- [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
+
+- [ ]  The Painted Bird - Jerzy Kosinski
 - [ ]  The Psychedelic Explorer’s Guide - James Fadiman
 
+- [ ]  The Rational Optimist: How Prosperity Evolves -- Matt Ridley
+- [ ]  The Red Queen: Sex and the Evolution of Human Nature -- Matt Ridley
 - [ ]  The Remains of the day - Kazuo Ishiguro
+- [ ]  The ride of a lifetime - Robert Iger
+- [ ]  The Rise of Superman - Steven Kotler
 
+- [ ]  The School of Life: An Emotional Education - Alain De Botton
+- [ ]  The Selfish Gene - Richard Dawkins
+- [ ]  The Singularity Is Near: When Humans Transcend Biology - Ray Kurzweil
 - [ ]  The Soul of Marionette - John Gray
 - [ ]  The Song of Achilles - Madelline Miller
-- [ ]  The Sovereign Individual - James Dale Davidson and Lord William Rees-Mogg.
-
-- [ ]  The Truth Machine - Michael Casey & Paul Vigna
-
-
-
-
-
-
-
-- [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
-
-
-
-
-
-
-- [ ]  Things Hidden Since the Foundation of the World - René Girard
-- [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
-- [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
-- [ ]  Tough Jews - Rich Cohen
-- [ ]  The Control of Nature - John McPhee
-- [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
-- [ ]  The Painted Bird - Jerzy Kosinski
-- [ ]  The Tyranny of Merit - Michael J Sandel
-- [ ]  The War of Art - Steven Pressfield
-- [ ]  The Spirit of St. Louis - Charles A.Lindbergh
-- [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
-- [ ]  The Singularity Is Near - Ray Kurzweil
-- [ ]  The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
-- [ ]  The Rise of Superman - Steven Kotler
-- [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
-- [ ]  The Red Queen: Sex and the Evolution of Human Nature -- Matt Ridley
-- [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
-- [ ]  The Evolution of Everything: How New Ideas Emerge -- Matt Ridley
-- [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
-- [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
-- [ ]  The Lessons of History -- Will & Ariel Durant
-- [ ]  The Brief History of Nearly Everthing - Bill Bryson
-- [ ]  The Spike : An epic journey through the brain in 2.1 seconds - Mark Humphries
-- [ ]  The ride of a lifetime - Robert Iger
-- [ ]  The Hungry Brain - Stephan J Guyeney
-- [ ]  The Art of Strategy - Avinash J Dixit & Barry J Nalebuff
-- [ ]  Think Again - Adam Grunt
-- [ ]  Thinking Fast and Slow - Daniel Kahneman
-- [ ]  Tiny Habits - BJ Fogg
-- [ ]  The Art of War - Sun Tzu
-- [ ]  The Big Picture - Sean Carrol
-- [ ]  The Unabomber Manifesto
-- [ ]  The Selfish Gene - Richard Dawkins
-- [ ]  The Art of Readable Writing: With the Flesch Readability Formula
-- [ ]  The Rational Optimist: How Prosperity Evolves -- Matt Ridley
 - [ ]  The Sovereign Individual: Mastering the Transition to the Information Age -- James Dale Davidson and Lord William Rees-Mogg
 - [ ]  The Spy and the Traitor: The Greatest Espionage Story of the Cold War by Ben Macintyre
-- [ ]  Trick Mirror: Reflections on Self-Delusion by Jia Tolentino
-- [ ]  Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell 
-- [ ]  The Journalist and the Murderer - Janet Malcolm
-- [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need
-- [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny - William Straus and Neil Howe
-- [ ]  The Beautiful Trouble - Andrew Boyd
-- [ ]  The Spirit of St. Louis - Charles A. Lindbergh
-- [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
-- [ ]  The Singularity Is Near: When Humans Transcend Biology - Ray Kurzweil
-- [ ]  Tao Te Ching: Text Only Edition Translated - Gia-fu feng and Jane English
+- [ ]  The Spike : An epic journey through the brain in 2.1 seconds - Mark Humphries
+- [ ]  The Spirit of St. Louis - Charles A.Lindbergh
+
 - [ ]  The Three Body Problem Triology - Liu Cixin
-- [ ]  The Handmaid's Tale - Margaret Atwood
-- [ ]  The School of Life: An Emotional Education - Alain De Botton
-- [ ]  The Last Question - Isaac Asimov
-- [ ]  The Mom Test - Rob Fitzpatrick
-- [ ]  The Body - Bill Bryson
-- [ ]  The Lean Startup - Eric Ries
-- [ ]  The Body Keeps The Score - Bessel Van Der Kolk
-- [ ]  The Choice - Dr. Edith Eger
-- [ ]  The Art of Possibility - Benjamin Zander & Rosamund Zander
-- [ ]  Turn The Ship Around - L. David Marquet
 - [ ]  The Top Five Regrets of The Dying - Bronnie Ware
-- [ ]  The Mountain Is You - Brianna Wiest.
-- [ ]  The Goal - Eliyahu Goldratt
+- [ ]  The Truth Machine - Michael Casey & Paul Vigna
+
+- [ ]  The Tyranny of Merit - Michael J Sandel
+
+- [ ]  The Unabomber Manifesto
+
+- [ ]  The War of Art - Steven Pressfield
+
+
+- [ ]  Think Again - Adam Grunt
+- [ ]  Thinking Fast and Slow - Daniel Kahneman
+- [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
+- [ ]  Things Hidden Since the Foundation of the World - René Girard
+- [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
+- [ ]  Tiny Habits - BJ Fogg
+- [ ]  Trick Mirror: Reflections on Self-Delusion by Jia Tolentino
+- [ ]  Tough Jews - Rich Cohen
+- [ ]  Turn The Ship Around - L. David Marquet
+
+
+
+
+
+
+
 - [ ]  The Road Less Travelled - M. Scott Peck
 - [ ]  The Social Animal - David Brook
 - [ ]  The Happiness Hypothesis - Jonathan Haidt
