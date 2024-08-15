@@ -316,6 +316,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Art of Strategy - Avinash J Dixit & Barry J Nalebuff
 - [ ]  The Art of War - Sun Tzu
 - [ ]  The Automatic Millionaire - David Bach
+- [ ]  The Argumentative Indian by Amartya Sen
+- [ ]  The Ayatollah Begs to Differ by Hooman Majd
 
 - [ ]  The Barefoot Investor - Scott Pape
 - [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
@@ -327,6 +329,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Big Picture - Sean Carrol
 - [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
 - [ ]  The Brief History of Nearly Everthing - Bill Bryson
+- [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
+- [ ]  The Blue Zones Kitchen - Dan Buettner
+- [ ]  The Brand Flip - Marty Neumeier
+- [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
 
 - [ ]  The Choice - Dr. Edith Eger
 - [ ]  The Collected Schizoprenias - Esme Weijun Wang
@@ -335,24 +341,50 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Control of Nature - John McPhee
 - [ ]  The Cold Start Problem - Andrew Chen
 - [ ]  The Craft - John Dickie
+- [ ]  The Catcher in the Rye by J. D. Salinger
+- [ ]  The China Study - T. Colin Campbell
+- [ ]  The Coaching Habit - Michael Bungay Stanier
+- [ ]  The Collected Works of Abraham Lincoln; 8 volumes by Roy Balser
+- [ ]  The Complete Hitchiker Series by Douglas Adams
+- [ ]  The Conversations: Walter Murch and the Art of Editing Film by Michael Ondaatje
+- [ ]  The Copy Book by Rotovision
+
+- [ ]  The Dawn of Everything - David Graeber and David Wengrow
+- [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
+- [ ]  The Dip - Seth Godin
 
 - [ ]  The E-Myth Revisted - Michael E. Gerber
 - [ ]  The End oF Everthing - Katie Mack
 - [ ]  The Entrepreneur Mind - Kevin D. Johnson
 - [ ]  The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
 - [ ]  The Evolution of Everything: How New Ideas Emerge -- Matt Ridley
+- [ ]  The Elements of Style - Shrunk and White
+- [ ]  The Elements of Eloquence - Mark Forsyth
+- [ ]  The Emperor of Maladies Heretics - Siddhartha
+- [ ]  The Enlightment Triology - JED Mckenna
 
 - [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
 - [ ]  The First Cell - Azra Raza
 - [ ]  The Foundations of Indian Philosophy - A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
 - [ ]  The Fountainhead - Ayn Rand
 - [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny - William Straus and Neil Howe
+- [ ]  The First Three Minutes - Steven Weinberg
+- [ ]  The First Fifteen Lives of Harry August - Claire North
+
 
 - [ ]  The Great CEO Within - Matt Mochary
 - [ ]  The Goal - Eliyahu Goldratt
 - [ ]  The Gray Lady Winked - Ashley Rindsberg
 - [ ]  The Gulag Archipelago - Aleksandr I. Solzhenitsyn
+- [ ]  The Glass Bead Game - Hermann Hesse
+- [ ]  The Guns of August - Barbara W. Tuchman
 
+- [ ]  The Haunting of Alma Fielding - Kate Summerscale
+- [ ]  The Hero's Journey - Joseph Campbell
+- [ ]  The History of the Peloponnesian War - Thucydides
+- [ ]  The History Of Love by Nicole Krauss
+- [ ]  This House of Grief - Helen Garner
+- [ ]  The Humans - Matt Haig
 - [ ]  The Handmaid's Tale - Margaret Atwood
 - [ ]  The Happiness Hypothesis - Jonathan Haidt
 - [ ]  The Happiest man on Earth - Eddie Jaku
@@ -361,7 +393,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The House of Government: A Saga of the Russian Revolution - Yuri Slezkine
 - [ ]  The Hungry Brain - Stephan J Guyeney
 
+
 - [ ]  The Internet of Money Volume 1 - Andreas Antonopolous
+- [ ]  The Interpretation of Dreams - Sigmund Freud
+- [ ]  The Invention of Nature - Andrea Wulf
 
 - [ ]  The Journalist and the Murderer + Janet Malcolm
 
@@ -370,6 +405,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Lean Startup - Eric Ries
 - [ ]  The little book that beats the market - Joel Greenblatt
 - [ ]  The Lord of the Rings - JRR Tolkien
+- [ ]  The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965 by Paul Reid and William Manchester
+- [ ]  The Left Hand of Darkness - Ursula K. Le Guin
+- [ ]  The Life of Sir William Osler by Harvey Cushing
+- [ ]  The Lives of the Most Excellent Painters, Sculptors, and Architects by Giorgio Vasari
+- [ ]  The Lessons of History - Ariel Durant & Will Durant
 
 - [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
 - [ ]  The Martian - Andy Weir
@@ -378,18 +418,32 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Mind is Flat - Nick Chater
 - [ ]  The Mom Test - Rob Fitzpatrick
 - [ ]  The Mountain Is You - Brianna Wiest.
+- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
+- [ ]  The Man from Monticello: An Intimate Life of Thomas Jefferson by Thomas Fleming 
+- [ ]  The March of Folly - Barbara W. Tuchman
+- [ ]  The Mosquito: A Human History of Our Deadliest Predator by Timothy C. Winegard
+- [ ]  The Midnight Library - Matt Haig
+
+- [ ]  The Nature of Mathematical Modeling - Neil Gershenfeld
+- [ ]  The Nicomachean Ethics - Aristotle
 
 - [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
+- [ ]  Theory Of Everything - JED McKenna
+- [ ]  The Order of Time - Carlo Rovelli
+- [ ]  The Oxford Handbook of Philosophy of Mathematics and Logic
 
 - [ ]  The Painted Bird - Jerzy Kosinski
 - [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
 - [ ]  The Pricipice - Toby Ord
 - [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
 - [ ]  The Psychedelic Explorer’s Guide - James Fadiman
+- [ ]  The Prophet by Kahlil Gibran
+- [ ]  The Push Man and Other Stories by Yoshihiro Tatsumi
 
 - [ ]  The Rational Optimist: How Prosperity Evolves -- Matt Ridley
 - [ ]  The Red Queen: Sex and the Evolution of Human Nature -- Matt Ridley
 - [ ]  The Remains of the day - Kazuo Ishiguro
+- [ ]  The Republic - Plato
 - [ ]  The Ride of a lifetime - Robert Iger
 - [ ]  The Rise of Superman - Steven Kotler
 - [ ]  The Road Less Travelled - M. Scott Peck
@@ -404,26 +458,42 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Spy and the Traitor: The Greatest Espionage Story of the Cold War by Ben Macintyre
 - [ ]  The Spike : An epic journey through the brain in 2.1 seconds - Mark Humphries
 - [ ]  The Spirit of St. Louis - Charles A.Lindbergh
+- [ ]  The Silk Roads - Peter Frankopan
+- [ ]  The Stiglitz Report by Joseph E Stiglitz
+- [ ]  The Story-life of Lincoln: A Biography Composed of Five Hundred True Stories Told by Abraham Lincoln and his Friends by Wayne Whipple 
+- [ ]  The Story Of Philosophy - Will Durant
+- [ ]  The Science of Can and Can't - Chiara Marletto
+- [ ]  The Science of Storytelling - Will Storr
+- [ ]  The Strange Library - Haruki Murakami
 
 - [ ]  The Three Body Problem Triology - Liu Cixin
 - [ ]  The Top Five Regrets of The Dying - Bronnie Ware
 - [ ]  The Total Money Makeover - Dave Ramsay
 - [ ]  The Truth Machine - Michael Casey & Paul Vigna
-
+- [ ]  The Tao Of Pooh - Benjamin Hoff
+- [ ]  The Tipping Point by Malcolm Gladwell
+- [ ]  The Tibetan Book of the Dead - Grahan Coleman
 - [ ]  The Tyranny of Merit - Michael J Sandel
 
 - [ ]  The Unabomber Manifesto
 
 - [ ]  The War of Art - Steven Pressfield
-
+- [ ]  The Warmth of Other Suns - Isabel Wilkerson
+- [ ]  The Wizard and the Prophet by Charles Mann 
+- [ ]  The Woman Who Knew Too Much, Revised Ed.: Alice Stewart and the Secrets of Radiation - Gayle Greene
 
 - [ ]  Think Again - Adam Grunt
+- [ ]  Thinking about Mathematics by Stewart Shapiro
 - [ ]  Thinking Fast and Slow - Daniel Kahneman
 - [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
 - [ ]  Things Hidden Since the Foundation of the World - René Girard
 - [ ]  This Is How It Always Is - Laurie Frankel
 - [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
+- [ ]  Thus Spoke Zarathustra - Friedrich Nietzsche
+- [ ]  Tintin and the Secret of Literature by Tom McCarthy
 - [ ]  Tiny Habits - BJ Fogg
+- [ ]  Titan: The Life of John D. Rockefeller - Ron Cherow
+- [ ]  Train To Pakistan - Khushwant Singh
 - [ ]  Trick Mirror: Reflections on Self-Delusion by Jia Tolentino
 - [ ]  Toba Tek Singh by Saadat Hasan Manto
 - [ ]  To Kill a Mockingbird by Harper Lee 
@@ -431,106 +501,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Tuesdays With Morrie - Mitch Albom
 - [ ]  Turn The Ship Around - L. David Marquet
 
-
-
-
-- [ ]  The Ayatollah Begs to Differ by Hooman Majd
-
-- [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
-- [ ]  The Brand Flip - Marty Neumeier
-
-- [ ]  The Catcher in the Rye by J. D. Salinger
-- [ ]  The Coaching Habit - Michael Bungay Stanier
-- [ ]  The Complete Hitchiker Series by Douglas Adams
-- [ ]  The Copy Book by Rotovision
-
-
-- [ ]  The Interpretation of Dreams - Sigmund Freud
-
-- [ ]  The Order of Time - Carlo Rovelli
-
-- [ ]  The Science of Can and Can't - Chiara Marletto
-- [ ]  The Science of Storytelling - Will Storr
-
-- [ ]  The Haunting of Alma Fielding - Kate Summerscale
-- [ ]  The Hero's Journey - Joseph Campbell
-- [ ]  The History of the Peloponnesian War - Thucydides
-- [ ]  This House of Grief - Helen Garner
-
-- [ ]  The Left Hand of Darkness - Ursula K. Le Guin
-
-- [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
-
-- [ ]  The Glass Bead Game - Hermann Hesse
-
-- [ ]  The First Three Minutes - Steven Weinberg
-- [ ]  The First Fifteen Lives of Harry August - Claire North
-
-
-
-
-- [ ]  The Tipping Point by Malcolm Gladwell
-- [ ]  The Tibetan Book of the Dead - Grahan Coleman
-
-
 - [ ]  The Year of Magical Thinking - Joan Didion
 
-
-
-
-
-
-
-
-
-- [ ]  The Conversations: Walter Murch and the Art of Editing Film by Michael Ondaatje
-- [ ]  The Stiglitz Report by Joseph E Stiglitz
-- [ ]  The Argumentative Indian by Amartya Sen
-- [ ]  The Story-life of Lincoln: A Biography Composed of Five Hundred True Stories Told by Abraham Lincoln and his Friends by Wayne Whipple 
-- [ ]  The Collected Works of Abraham Lincoln; 8 volumes by Roy Balser 
-- [ ]  The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965 by Paul Reid and William Manchester 
-- [ ]  The Man from Monticello: An Intimate Life of Thomas Jefferson by Thomas Fleming 
-- [ ]  The Life of Sir William Osler by Harvey Cushing 
-- [ ]  The Wizard and the Prophet by Charles Mann 
-- [ ]  Thus Spoke Zarathustra - Friedrich Nietzsche
-- [ ]  The Tao Of Pooh - Benjamin Hoff
-- [ ]  The Story Of Philosophy - Will Durant
-- [ ]  The Republic - Plato
-- [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
-- [ ]  The Nicomachean Ethics - Aristotle
-- [ ]  The Blue Zones Kitchen - Dan Buettner
-- [ ]  The Elements of Style - Shrunk and White
-- [ ]  The Invention of Nature - Andrea Wulf
-- [ ]  The Elements of Eloquence - Mark Forsyth
-- [ ]  The War of Art - Steven Pressfield
-- [ ]  The Lessons of History - Ariel Durant & Will Durant
-- [ ]  The Guns of August - Barbara W. Tuchman
-- [ ]  The Warmth of Other Suns - Isabel Wilkerson
-- [ ]  The Dawn of Everything - David Graeber and David Wengrow
-- [ ]  The March of Folly - Barbara W. Tuchman
-- [ ]  The Silk Roads - Peter Frankopan
-- [ ]  The China Study - T. Colin Campbell
-- [ ]  The History Of Love by Nicole Krauss
-- [ ]  The Lives of the Most Excellent Painters, Sculptors, and Architects by Giorgio Vasari
-- [ ]  The Mosquito: A Human History of Our Deadliest Predator by Timothy C. Winegard
-- [ ]  The Oxford Handbook of Philosophy of Mathematics and Logic
-- [ ]  Thinking about Mathematics by Stewart Shapiro
-- [ ]  The Woman Who Knew Too Much, Revised Ed.: Alice Stewart and the Secrets of Radiation - Gayle Greene
-- [ ]  The Push Man and Other Stories by Yoshihiro Tatsumi 
-- [ ]  Tintin and the Secret of Literature by Tom McCarthy
-- [ ]  The Emperor of Maladies Heretics - Siddhartha
-- [ ]  The Dip - Seth Godin
-- [ ]  The Fourth Turning book - Neil Howe and William Strauss
-- [ ]  The Prophet by Kahlil Gibran
-- [ ]  The Humans - Matt Haig
-- [ ]  The Midnight Library - Matt Haig
-- [ ]  The Nature of Mathematical Modeling - Neil Gershenfeld
-- [ ]  The Strange Library - Haruki Murakami
-- [ ]  Train To Pakistan - Khushwant Singh
-- [ ]  Theory Of Everything - JED McKenna
-- [ ]  The Enlightment Triology - JED Mckenna
-- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
-- [ ]  Titan: The Life of John D. Rockefeller - Ron Cherow
 
 - [ ]  UNIX: A History and a Memoir - Brian W Kernighan
 - [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
