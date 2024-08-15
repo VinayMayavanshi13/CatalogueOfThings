@@ -299,37 +299,64 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
 - [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
 
-- [ ]  The 100$ Startup - Chris Guillebeau
-- [ ]  The Entrepreneur Mind - Kevin D. Johnson
-- [ ]  The Alchemist - Paulo Coelho
-- [ ]  The Soul of Marionette - John Gray
-- [ ]  The Boys Graphic Novel - Garth Ennis
-- [ ]  The Communication Book - Mikael Krogerus and Roman Tschappler.
-- [ ]  The Hitchhiker's Guide to the Galaxy - Douglas Adams
-- [ ]  The Remains of the day - Kazuo Ishiguro
-- [ ]  The Lord of the Rings - JRR Tolkien
-- [ ]  The Martian - Andy Weir
-- [ ]  The Book Of Dust - Philip Pullman
-- [ ]  The Fountainhead - Ayn Rand
-- [ ]  The Song of Achilles - Madelline Miller
-- [ ]  The Master and the Margarita - Mikhail Bulgakov
-- [ ]  The E-Myth Revisted - Michael E. Gerber
 - [ ]  Talent is Never Enough - John C. Maxwell
-- [ ]  The Great CEO Within - Matt Mochary
-- [ ]  The Sovereign Individual - James Dale Davidson and Lord William Rees-Mogg.
-- [ ]  The Cold Start Problem - Andrew Chen
-- [ ]  The Gray Lady Winked - Ashley Rindsberg
 - [ ]  Technological Revolutions and Financial Capital - Carlota Perez
-- [ ]  The Truth Machine - Michael Casey & Paul Vigna
-- [ ]  The Internet of Money Volume 1 - Andreas Antonopolous
-- [ ]  The Craft - John Dickie
-- [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
-- [ ]  The Fourth Turning: An American Prophecy - William Strauss and Neil Howe
-- [ ]  The Gulag Archipelago - Aleksandr I. Solzhenitsyn
-- [ ]  The House of Government: A Saga of the Russian Revolution - Yuri Slezkine
-- [ ]  The Journalist and the Murderer + Janet Malcolm
-- [ ]  The Psychedelic Explorer’s Guide - James Fadiman
+- [ ]  Trillion Dollar Coach: The Leadership Playbook That Builds Elite Teams - Eric Schmidt, Jonathan Rosenberg, and Alan Eagle
+- [ ]  The 100$ Startup - Chris Guillebeau
 - [ ]  The Adventures of Johnny Bunko - Daniel H. Pink
+- [ ]  The Alchemist - Paulo Coelho
+
+- [ ]  The Book Of Dust - Philip Pullman
+
+- [ ]  The Communication Book - Mikael Krogerus and Roman Tschappler.
+- [ ]  The Cold Start Problem - Andrew Chen
+- [ ]  The Craft - John Dickie
+
+- [ ]  The Entrepreneur Mind - Kevin D. Johnson
+- [ ]  The E-Myth Revisted - Michael E. Gerber
+
+- [ ]  The Fountainhead - Ayn Rand
+- [ ]  The Fourth Turning: An American Prophecy - William Strauss and Neil Howe
+
+- [ ]  The Great CEO Within - Matt Mochary
+- [ ]  The Gray Lady Winked - Ashley Rindsberg
+- [ ]  The Gulag Archipelago - Aleksandr I. Solzhenitsyn
+
+- [ ]  The Hitchhiker's Guide to the Galaxy - Douglas Adams
+- [ ]  The House of Government: A Saga of the Russian Revolution - Yuri Slezkine
+
+- [ ]  The Internet of Money Volume 1 - Andreas Antonopolous
+
+- [ ]  The Journalist and the Murderer + Janet Malcolm
+
+- [ ]  The Lord of the Rings - JRR Tolkien
+
+- [ ]  The Martian - Andy Weir
+- [ ]  The Master and the Margarita - Mikhail Bulgakov
+
+- [ ]  The Psychedelic Explorer’s Guide - James Fadiman
+
+- [ ]  The Remains of the day - Kazuo Ishiguro
+
+- [ ]  The Soul of Marionette - John Gray
+- [ ]  The Song of Achilles - Madelline Miller
+- [ ]  The Sovereign Individual - James Dale Davidson and Lord William Rees-Mogg.
+
+- [ ]  The Truth Machine - Michael Casey & Paul Vigna
+
+
+
+
+
+
+
+- [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
+
+
+
+
+
+
 - [ ]  Things Hidden Since the Foundation of the World - René Girard
 - [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
 - [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
@@ -528,6 +555,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Zero to One  - Blake Masters and Peter Thiel
 - [ ]  Zen In The Art Of Writing - Ray Bradbury
 - [ ]  Zen And The Art of Motorcycle - Robert Pising
+
+### Graphic Novels
+- [ ]  The Boys - Garth Ennis
 
 ### Authors to explore
 
