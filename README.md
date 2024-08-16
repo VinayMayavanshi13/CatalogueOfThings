@@ -554,89 +554,118 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Lee Child Book Series
 - [ ]  Roald Dahl Books
 
+
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
+
+- [ ]  3 Idiots
+- [ ]  500 Days of Summer 
+
+- [ ]  Aakrosh
+- [ ]  Andaz Apna Apna
+- [ ]  Awara Pagal Dewana
+
+- [ ]  Babel
+- [ ]  Bahubali - The Beginning and Conclusion
+- [ ]  Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
+- [ ]  Black Friday - Anurag Kashyap
+- [ ]  Bhaag Milkha Bhaag
+
+- [ ]  Chak De India
+- [ ]  Chandni Chowk to China
+- [ ]  Coherence
+- [ ]  Court (Marathi)
+
+- [ ]  Dear Dad
+- [ ]  De Dana dhan
+
+- [ ]  Eternal Sunshine of a Spotless Mind
+
+- [ ]  Few Good Men
+- [ ]  Force
+
+- [ ]  Good Fellas
+- [ ]  Go Goa Gone
+- [ ]  Garam Masala
+- [ ]  Gone Girl
+
+- [ ]  Half Moon (Iranian Movie)
+- [ ]  Harry Potter Movie Series
+- [ ]  Heat
+- [ ]  Her
+
+
 - [ ]  Interstellar
 - [ ]  Inception
-- [ ]  The Dark Knight Trilogy
-- [ ]  The Shawshank Redemption
-- [ ]  V
-- [ ]  Go Goa Gone
-- [ ]  Garam Masala 
-- [ ]  New York
-- [ ]  Force
-- [ ]  Munnabhai MBBS
-- [ ]  3 Idiots
-- [ ]  PK
-- [ ]  Chakde India
-- [ ]  Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
-- [ ]  Coherence
-- [ ]  Her
-- [ ]  Babel
-- [ ]  Shame (2011 )
-- [ ]  Spotlight 
-- [ ]  Sicario 
-- [ ]  The Great Indian Kitchen
-- [ ]  500 Days of Summer 
-- [ ]  Stronger 
-- [ ]  Too Old To Die Young
-- [ ]  13 Reasons Why
-- [ ]  Few Good Men
-- [ ]  The American President
-- [ ]  Luck By Chance
-- [ ]  Mother India
-- [ ]  No Smoking 
-- [ ]  Mughal E Azam
-- [ ]  Pihu 
-- [ ]  The Legend of Bhagat Singh
-- [ ]  Shor in the City
-- [ ]  Shutter Island 
-- [ ]  Sicario 
+- [ ]  Irreversible
+
+- [ ]  Kai Po Chhe
+- [ ]  Kaminey
+- [ ]  Khatta Meetha
 - [ ]  Khamosh (1985)
 - [ ]  Khosla ka Ghosla
-- [ ]  Rocket Singh Salesman of the year
-- [ ]  The Da Vinci Code
-- [ ]  Gone Girl
-- [ ]  Irreversible
-- [ ]  Raajneeti
-- [ ]  Talvar
-- [ ]  Eternal Sunshine of a Spotless Mind
+
+- [ ]  Luck
 - [ ]  Lucy 
 - [ ]  Limitless
 - [ ]  Lord of the Rings
-- [ ]  Court (Marathi)
-- [ ]  Harry Potter Movie Series
-- [ ]  Andaz Apna Apna
-- [ ]  Black Friday - Anurag Kashyab
-- [ ]  Swades
-- [ ]  Rang De Basanti 
-- [ ]  Madras Cafe
-- [ ]  The Irishman
-- [ ]  Zero Dark Thirty
-- [ ]  Half Moon (Iranian Movie)
-- [ ]  Parmanu
-- [ ]  Shootout at Lokhandwala
-- [ ]  De Dana dhan
-- [ ]  Luck
-- [ ]  Awara Pagal Dewana
-- [ ]  Khatta Meetha
-- [ ]  Bhaag Milkha Bhaag
-- [ ]  Kai Po Chhe
-- [ ]  Dear Dad
-- [ ]  Murder 2
-- [ ]  Bahubali 1, 2
-- [ ]  Moneyball 
 - [ ]  Love and Other Drugs
-- [ ]  Kaminey
-- [ ]  Kuttey
+- [ ]  Luck By Chance
+
+- [ ]  Madras Cafe
+- [ ]  Moneyball 
+- [ ]  Mother India
+- [ ]  Mughal E Azam
+- [ ]  Munnabhai MBBS
+- [ ]  Murder 2
+
+- [ ]  New York
+- [ ]  No Smoking
+
 - [ ]  Operation Romeo
-- [ ]  Aakrosh
-- [ ]  Chandni Chowk to China 
+
+- [ ]  Parmanu
+- [ ]  Pihu
+- [ ]  PK
+
 - [ ]  Queen
-- [ ]  Scent of a Woman 
-- [ ]  The Curious Case of Benjamin Button 
+
+- [ ]  Raajneeti
+- [ ]  Rang De Basanti 
+- [ ]  Rocket Singh Salesman of the year
+
 - [ ]  Scarface
-- [ ]  Heat
-- [ ]  Good Fellas
+- [ ]  Scent of a Woman 
+- [ ]  Sicario I & II
+- [ ]  Shame (2011)
+- [ ]  Shor in the City
+- [ ]  Shootout at Lokhandwala
+- [ ]  Shutter Island 
+- [ ]  Spotlight
+- [ ]  Stronger
+- [ ]  Swades
+
+- [ ]  Talvar
+- [ ]  The American President
+- [ ]  The Curious Case of Benjamin Button 
+- [ ]  The Dark Knight Trilogy - (Batman Begins, The Dark Knight, The Dark Knight Rises)
+- [ ]  The Da Vinci Code
+- [ ]  The Great Indian Kitchen
+- [ ]  The Irishman
+- [ ]  The Legend of Bhagat Singh
+- [ ]  The Shawshank Redemption
+- [ ]  Too Old To Die Young
+
+- [ ]  V
+ 
+
+- [ ]  Zero Dark Thirty
+
+
+
+
+
+
+
 - [ ]  Joker
 - [ ]  Lakshya
 - [ ]  Raazi
@@ -953,8 +982,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Oasis (2002)
 - [ ]  Peppermint Candy
 
+
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 
+- [ ]  13 Reasons Why
 - [ ]  1899
 
 - [ ]  Aspirants
@@ -1030,12 +1061,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 - [ ]  BR Chopra's Mahabharat
+- [ ]  Brooklyn Nine Nine
+- [ ]  Ozark
 - [ ]  Ramanand Sagar's Ramayan
 - [ ]  Rick And Morty - Animated Show
 - [ ]  The Office
 - [ ]  The Big Bang Theory
-- [ ]  Brooklyn Nine Nine
-- [ ]  Ozark
+
 
 ## [Documentaries](https://github.com/VinayMayavanshi13/CatalogueOfThings#Documentaries)
 - [ ]  14 Peaks
