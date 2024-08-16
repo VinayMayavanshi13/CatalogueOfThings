@@ -557,8 +557,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 
+- [ ]  13 (2010)
 - [ ]  2001: A Space Odyssey
 - [ ]  3 Idiots
+- [ ]  4 Months, 3 Weeks and 2 Days (2007)
 - [ ]  7 Boxes
 - [ ]  500 Days of Summer 
 - [ ]  96
@@ -580,6 +582,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  A Separation (2011) 
 - [ ]  Asoka
 - [ ]  Awara Pagal Dewana
+- [ ]  Aamir
+- [ ]  About Elly (2009)
+- [ ]  A Girl Walks Home Alone at Night (2014)
+- [ ]  A Prophet
+- [ ]  An Given Sunday
+- [ ]  Ardh Satya
+- [ ]  A Separation (2011)
+- [ ]  A Quiet Place (2018)
 
 - [ ]  Babel
 - [ ]  Bahubali - The Beginning and Conclusion
@@ -593,7 +603,24 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Birth
 - [ ]  Bridge of Spies
 - [ ]  Buddha Collapsed Out Of Shame (2007)
+- [ ]  Bashu, The Little Stranger (1989)
+- [ ]  Being Cyrus
+- [ ]  Black Swan (2010)
+- [ ]  Bombay
+- [ ]  Blue Valentine (2010)
+- [ ]  Bacurau (2019)
+- [ ]  Blade Runner 2049 (2017)
+- [ ]  Bullhead (2011)
+- [ ]  Being John Malkovich
 
+- [ ]  Character (1997)
+- [ ]  City of God (2002)
+- [ ]  Confessions (2010)
+- [ ]  Central Station (1998)
+- [ ]  Crouching Tiger, Hidden Dragon (2000)
+- [ ]  Carlos (2010)
+- [ ]  Chhapa Kurishu
+- [ ]  Climates (2006)
 - [ ]  Captain America 
 - [ ]  Captain America - Civil War
 - [ ]  Captain America - Winter Soldier
@@ -622,7 +649,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Dil Se
 - [ ]  Do Dooni Char 
 - [ ]  Don't Look Up
+- [ ]  Deewar
+- [ ]  Drive (2011)
+- [ ]  Dogtooth
 
+- [ ]  Elite Squad (2007)
+- [ ]  Ek Haseena thi
 - [ ]  Eternal Sunshine of a Spotless Mind
 - [ ]  Ek Deewana tha
 - [ ]  English Vinglish 
@@ -632,7 +664,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Forensic
 - [ ]  Freddy
 - [ ]  Fury
+- [ ]  Fast and Furious Franchise Movies (from Initial Years)
+- [ ]  Fight Club
+- [ ]  Fireworks Wednesday (2006)
+- [ ]  Fargo (1996)
+- [ ]  Fantastic Mr. Fox (2009)
 
+- [ ]  Gali Guleiyan
 - [ ]  Gangs of Wasseypur 1,2
 - [ ]  Good Will Hunting
 - [ ]  Guardians of the Galaxy Vol. 1 and 2
@@ -645,7 +683,19 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Glengarry Glen Ross
 - [ ]  Gulaal - Anurag Kashyap
 - [ ]  Gurgaon
+- [ ]  Gett: The Trial of Viviane Amsalem (2014)
+- [ ]  Gomorrah (2008)
+- [ ]  Grandmother (2009)
 
+- [ ]  Han Gong-ju (2013)
+- [ ]  Happy Together (1997)
+- [ ]  Hacksaw Ridge
+- [ ]  Haider
+- [ ]  Haasil
+- [ ]  Hazaaron Khwaishey Aisi
+- [ ]  Head-On (2004)
+- [ ]  Heartbeats
+- [ ]  Hey Ram
 - [ ]  Half Moon (Iranian Movie)
 - [ ]  Harry Potter Movie Series
 - [ ]  Heat
@@ -658,7 +708,17 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Indie Game
 - [ ]  Iron Man
 - [ ]  Irreversible
+- [ ]  Icendies
+- [ ]  I killed my mother
+- [ ]  Invictus
+- [ ]  Ilo Ilo (2013)
+- [ ]  Il Divo (2008)
+- [ ]  Inside Out (2015)
+- [ ]  I Saw the Devil (2010)
+- [ ]  In the Mood for Love (2000)
 
+- [ ]  Johnny Gaddar
+- [ ]  Jackie Brown (1997)
 - [ ]  Jay Bhim
 - [ ]  Jersey (Original Starring Nani)
 - [ ]  Jodha Akbar
@@ -669,10 +729,18 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Kaminey
 - [ ]  Kahani 1, 2
 - [ ]  Kantara
+- [ ]  Kinatay (2009)
 - [ ]  Khatta Meetha
 - [ ]  Khamosh (1985)
 - [ ]  Khosla ka Ghosla
+- [ ]  Khamoshi
+- [ ]  Khaamosh
 
+- [ ]  Let the Right One In (2008)
+- [ ]  Life and a Day (2016)
+- [ ]  Life is Beautiful (1997)
+- [ ]  Leon : The Professional
+- [ ]  Lion
 - [ ]  Lagaan
 - [ ]  Lakshya
 - [ ]  Lone Survivor
@@ -683,6 +751,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Lord of the Rings
 - [ ]  Love and Other Drugs
 - [ ]  Luck By Chance
+- [ ]  Lock, Stock and Two Smoking Barrels (1998)
+- [ ]  La Haine (1995)
 
 - [ ]  Madras Cafe
 - [ ]  Moneyball 
@@ -693,20 +763,55 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Mullholland Drive
 - [ ]  Munnabhai MBBS
 - [ ]  Murder 2
+- [ ]  Manorama Six Feet Under
+- [ ]  Major
+- [ ]  Maqbool
+- [ ]  Martian
+- [ ]  Margin Call
+- [ ]  Manorama : Six Feet Under
+- [ ]  Memories of Murder (2003)
+- [ ]  Mission: Impossible Movie Series
+- [ ]  Monsoon Shootout
+- [ ]  Mesrine: Killer Instinct (2008)
+- [ ]  Mad Max: Fury Road (2015)
 
+- [ ]  Neighboring Sounds (2012)
+- [ ]  Nine Queens (2000)
 - [ ]  New York
 - [ ]  No Smoking
+- [ ]  Now You See Me 1 and 2
+- [ ]  No Country for Old Men (2007)
+- [ ]  Nightcrawler (2014)
 
+- [ ]  October
+- [ ]  Oldboy (2003)
+- [ ]  Offside (2006)
+- [ ]  Oppenheimer
+- [ ]  Oasis (2002)
 - [ ]  Operation Romeo
 
+- [ ]  Pan’s Labyrinth (2006)
+- [ ]  Phantom Thread (2017)
 - [ ]  Parmanu
 - [ ]  Phantom
 - [ ]  Ponniyin Selvan I & II
 - [ ]  Pihu
 - [ ]  PK
+- [ ]  Peppermint Candy
+- [ ]  Paheli by Amol Palekar
+- [ ]  Parasite
+- [ ]  Pi (1998)
+- [ ]  Pulp Fiction
 
 - [ ]  Queen
 
+- [ ]  Raw (2016)
+- [ ]  Requiem for a Dream (2000)
+- [ ]  Run Lola Run (1998)
+- [ ]  Raajneeti
+- [ ]  Return to Seoul
+- [ ]  Roja
+- [ ]  Run (2020 Aneesh Chaganty)
 - [ ]  Raajneeti
 - [ ]  Rang De Basanti 
 - [ ]  Rocket Singh Salesman of the year
@@ -734,7 +839,29 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Spotlight
 - [ ]  Stronger
 - [ ]  Swades
+- [ ]  Shershah
+- [ ]  Sardar Uddham Singh
+- [ ]  Salaam Bombay
+- [ ]  Shangai
+- [ ]  Shool
+- [ ]  Ship of thesus
+- [ ]  Spiderman - No Way Home
+- [ ]  Sweet Sixteen (2002)
+- [ ]  Snatch (2000)
+- [ ]  Snowtown (2011)
+- [ ]  Sympathy for Mr. Vengeance (2002)
 
+- [ ]  Taare Zameen Par
+- [ ]  The Chaser (2008)
+- [ ]  The Devil’s Backbone (2001)
+- [ ]  The Gangster, the Cop, the Devil (2019)
+- [ ]  The Master (2012)
+- [ ]  The Platform (2019)
+- [ ]  The Sixth Sense
+- [ ]  The Yellow Sea (2010)
+- [ ]  The Wolf of Wall Street (2013)
+- [ ]  There Will Be Blood (2007)
+- [ ]  Tom at the farm
 - [ ]  Talvar
 - [ ]  Taste Of Cherry (1997)
 - [ ]  Taxi (2015)
@@ -794,167 +921,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The X files
 - [ ]  The Wolf of Wall Street
 - [ ]  The World at War
-- [ ]  Thor Ragnarok
-- [ ]  Titanic 
-- [ ]  Top Gun Maverick
-- [ ]  Too Old To Die Young
-
-- [ ]  Udaan
-- [ ]  Uri : The Surgical Strike
-
-- [ ]  V
-- [ ]  Vicky Donor
-- [ ]  Vikram
-
-- [ ]  Wall Street 
-- [ ]  War
-
-- [ ]  Yashoda
-
-- [ ]  Zero Dark Thirty
-- [ ]  Zindagi Na Milegi Dobara 
-
-
-- [ ]  Aamir
-- [ ]  About Elly (2009)
-- [ ]  A Girl Walks Home Alone at Night (2014)
-- [ ]  A Prophet
-- [ ]  An Given Sunday
-- [ ]  Ardh Satya
-- [ ]  A Separation (2011)
-
-
-- [ ]  Bashu, The Little Stranger (1989)
-- [ ]  Being Cyrus
-- [ ]  Black Swan (2010)
-- [ ]  Bombay
-
-- [ ]  Carlos (2010)
-- [ ]  Chhapa Kurishu
-- [ ]  Climates (2006)
-
-
-- [ ]  Deewar
-- [ ]  Drive (2011)
-
-- [ ]  Ek Haseena thi
-
-- [ ]  Fast and Furious Franchise Movies (from Initial Years)
-- [ ]  Fight Club
-- [ ]  Fireworks Wednesday (2006)
-
-- [ ]  Gali Guleiyan
-
-
-- [ ]  Hacksaw Ridge
-- [ ]  Haider
-- [ ]  Haasil
-- [ ]  Hazaaron Khwaishey Aisi
-- [ ]  Head-On (2004)
-- [ ]  Heartbeats
-- [ ]  Hey Ram
-
-- [ ]  Icendies
-- [ ]  I killed my mother
-- [ ]  Invictus
-
-- [ ]  Johnny Gaddar
-- [ ]  Jackie Brown (1997)
-
-- [ ]  Khamoshi
-- [ ]  Khaamosh
-
-- [ ]  Let the Right One In (2008)
-- [ ]  Life and a Day (2016)
-- [ ]  Life is Beautiful (1997)
-- [ ]  Leon : The Professional
-- [ ]  Lion
-
-- [ ]  Manorama Six Feet Under
-- [ ]  Major
-- [ ]  Maqbool
-- [ ]  Martian
-- [ ]  Margin Call
-- [ ]  Manorama : Six Feet Under
-- [ ]  Memories of Murder (2003)
-- [ ]  Mission: Impossible Movie Series
-- [ ]  Monsoon Shootout
-
-- [ ]  Now You See Me 1 and 2
-- [ ]  No Country for Old Men (2007)
-- [ ]  Nightcrawler (2014)
-
-- [ ]  October
-- [ ]  Oldboy (2003)
-- [ ]  Offside (2006)
-- [ ]  Oppenheimer
-
-- [ ]  Paheli by Amol Palekar
-- [ ]  Parasite
-- [ ]  Pi (1998)
-- [ ]  Pulp Fiction
-
-- [ ]  Raajneeti
-- [ ]  Return to Seoul
-- [ ]  Roja
-- [ ]  Run (2020 Aneesh Chaganty)
-
-- [ ]  Shershah
-- [ ]  Sardar Uddham Singh
-- [ ]  Salaam Bombay
-- [ ]  Shangai
-- [ ]  Shool
-- [ ]  Ship of thesus
-- [ ]  Spiderman - No Way Home
-
-- [ ]  Taare Zameen Par
-- [ ]  The Chaser (2008)
-- [ ]  The Devil’s Backbone (2001)
-- [ ]  The Gangster, the Cop, the Devil (2019)
-- [ ]  The Master (2012)
-- [ ]  The Platform (2019)
-- [ ]  The Sixth Sense
-- [ ]  The Yellow Sea (2010)
-- [ ]  The Wolf of Wall Street (2013)
-- [ ]  There Will Be Blood (2007)
-- [ ]  Tom at the farm
-
-- [ ]  Uzak
-
-- [ ]  Wake Up Sid
-- [ ]  Wall Street
-- [ ]  Where Is the Friend's House? (1987)
-- [ ]  Whiplash (2014)
-- [ ]  Women Talking
-
-- [ ]  Yuva
-
-
-
-- [ ]  City of God (2002)
-- [ ]  Confessions (2010)
-- [ ]  Central Station (1998)
-- [ ]  Crouching Tiger, Hidden Dragon (2000)
-
-- [ ]  Blue Valentine (2010)
-- [ ]  Bacurau (2019)
-
-- [ ]  Amores Perros (2000)
-
-- [ ]  Gomorrah (2008)
-- [ ]  Grandmother (2009)
-
-- [ ]  Ilo Ilo (2013)
-- [ ]  Il Divo (2008)
-- [ ]  Inside Out (2015)
-- [ ]  I Saw the Devil (2010)
-- [ ]  In the Mood for Love (2000)
-
-- [ ]  Lock, Stock and Two Smoking Barrels (1998)
-- [ ]  La Haine (1995)
-
-- [ ]  Elite Squad (2007)
-
 - [ ]  The Best of Youth (2003)
 - [ ]  The Consequences of Love (2004)
 - [ ]  Three Monkeys (2008)
@@ -967,66 +933,39 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Twilight Samurai (2002)
 - [ ]  The Hidden Blade (2004)
 - [ ]  The Usual Suspects (1995)
+- [ ]  The Witch (2015)
+- [ ]  The Truman Show
 - [ ]  Trainspotting (1996)
+- [ ]  Thor Ragnarok
+- [ ]  Titanic 
+- [ ]  Top Gun Maverick
+- [ ]  Too Old To Die Young
 
-- [ ]  Pan’s Labyrinth (2006)
-- [ ]  Phantom Thread (2017)
+- [ ]  Udaan
+- [ ]  Uri : The Surgical Strike
+- [ ]  Uzak
 
-- [ ]  Raw (2016)
-- [ ]  Requiem for a Dream (2000)
-- [ ]  Run Lola Run (1998)
+- [ ]  V
+- [ ]  Vicky Donor
+- [ ]  Vikram
 
-- [ ]  Mad Max: Fury Road (2015)
-
-- [ ]  Neighboring Sounds (2012)
-- [ ]  Nine Queens (2000)
-
-- [ ]  Han Gong-ju (2013)
-
-- [ ]  4 Months, 3 Weeks and 2 Days (2007)
-- [ ]  13 (2010)
-
-
-- [ ]  Kinatay (2009)
-
-- [ ]  Sweet Sixteen (2002)
-- [ ]  Snatch (2000)
-- [ ]  Snowtown (2011)
-- [ ]  Sympathy for Mr. Vengeance (2002)
-
+- [ ]  Wall Street 
+- [ ]  War
+- [ ]  Wake Up Sid
+- [ ]  Wall Street
+- [ ]  Where Is the Friend's House? (1987)
+- [ ]  Whiplash (2014)
+- [ ]  Women Talking
 - [ ]  White God (2014)
 - [ ]  White Material (2009)
-
+- [ ]  Wild Tales (2014)
 
 - [ ]  Y Tu Mamá También (2001)
 - [ ]  Yi Yi
+- [ ]  Yuva
 
-- [ ]  Happy Together (1997)
-
-
-
-
-
-
-
-
-
-
-- [ ]  Bullhead (2011)
-- [ ]  Gett: The Trial of Viviane Amsalem (2014)
-- [ ]  Wild Tales (2014)
-- [ ]  The Truman Show
-- [ ]  Fargo (1996)
-- [ ]  Character (1997)
-- [ ]  Mesrine: Killer Instinct (2008)
-- [ ]  Blade Runner 2049 (2017)
-- [ ]  Dogtooth
-- [ ]  Being John Malkovich
-- [ ]  Fantastic Mr. Fox (2009)
-- [ ]  A Quiet Place (2018)
-- [ ]  The Witch (2015)
-- [ ]  Oasis (2002)
-- [ ]  Peppermint Candy
+- [ ]  Zero Dark Thirty
+- [ ]  Zindagi Na Milegi Dobara 
 
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
