@@ -310,87 +310,86 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need - Daniel H. Pink
 - [ ]  The Alchemist - Paulo Coelho
 - [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
+- [ ]  The Argumentative Indian by Amartya Sen
 - [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
 - [ ]  The Art of Possibility - Benjamin Zander & Rosamund Zander
 - [ ]  The Art of Readable Writing: With the Flesch Readability Formula
 - [ ]  The Art of Strategy - Avinash J Dixit & Barry J Nalebuff
 - [ ]  The Art of War - Sun Tzu
 - [ ]  The Automatic Millionaire - David Bach
-- [ ]  The Argumentative Indian by Amartya Sen
 - [ ]  The Ayatollah Begs to Differ by Hooman Majd
 
 - [ ]  The Barefoot Investor - Scott Pape
-- [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
 - [ ]  The Beautiful Trouble - Andrew Boyd
+- [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
+- [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
 - [ ]  The Bhagavad Gita translated - Eknath Easwaran - The Bhagavad Gita is one of the most famous and influential texts in Indian philosophy. This translation is highly regarded for its clarity and accessibility.
-- [ ]  The Book Of Dust - Philip Pullman
+- [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
+- [ ]  The Blue Zones Kitchen - Dan Buettner
+- [ ]  The Big Picture - Sean Carrol
 - [ ]  The Body - Bill Bryson
 - [ ]  The Body Keeps The Score - Bessel Van Der Kolk
-- [ ]  The Big Picture - Sean Carrol
-- [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
-- [ ]  The Brief History of Nearly Everthing - Bill Bryson
-- [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
-- [ ]  The Blue Zones Kitchen - Dan Buettner
+- [ ]  The Book Of Dust - Philip Pullman
 - [ ]  The Brand Flip - Marty Neumeier
+- [ ]  The Brief History of Nearly Everthing - Bill Bryson
 - [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
 
-- [ ]  The Choice - Dr. Edith Eger
-- [ ]  The Collected Schizoprenias - Esme Weijun Wang
-- [ ]  The Collected Works of Ramana Maharshi edited - Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
-- [ ]  The Communication Book - Mikael Krogerus and Roman Tschappler.
-- [ ]  The Control of Nature - John McPhee
-- [ ]  The Cold Start Problem - Andrew Chen
-- [ ]  The Craft - John Dickie
 - [ ]  The Catcher in the Rye by J. D. Salinger
 - [ ]  The China Study - T. Colin Campbell
+- [ ]  The Choice - Dr. Edith Eger
 - [ ]  The Coaching Habit - Michael Bungay Stanier
+- [ ]  The Cold Start Problem - Andrew Chen
+- [ ]  The Collected Schizoprenias - Esme Weijun Wang
 - [ ]  The Collected Works of Abraham Lincoln; 8 volumes by Roy Balser
+- [ ]  The Collected Works of Ramana Maharshi edited - Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
+- [ ]  The Communication Book - Mikael Krogerus and Roman Tschappler.
 - [ ]  The Complete Hitchiker Series by Douglas Adams
+- [ ]  The Control of Nature - John McPhee
 - [ ]  The Conversations: Walter Murch and the Art of Editing Film by Michael Ondaatje
 - [ ]  The Copy Book by Rotovision
+- [ ]  The Craft - John Dickie
 
 - [ ]  The Dawn of Everything - David Graeber and David Wengrow
 - [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
 - [ ]  The Dip - Seth Godin
 
+- [ ]  The Elements of Eloquence - Mark Forsyth
+- [ ]  The Elements of Style - Shrunk and White
+- [ ]  The Emperor of Maladies Heretics - Siddhartha
 - [ ]  The E-Myth Revisted - Michael E. Gerber
+- [ ]  The Enlightment Triology - JED Mckenna
 - [ ]  The End oF Everthing - Katie Mack
 - [ ]  The Entrepreneur Mind - Kevin D. Johnson
 - [ ]  The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
 - [ ]  The Evolution of Everything: How New Ideas Emerge -- Matt Ridley
-- [ ]  The Elements of Style - Shrunk and White
-- [ ]  The Elements of Eloquence - Mark Forsyth
-- [ ]  The Emperor of Maladies Heretics - Siddhartha
-- [ ]  The Enlightment Triology - JED Mckenna
 
-- [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
 - [ ]  The First Cell - Azra Raza
+- [ ]  The First Fifteen Lives of Harry August - Claire North
+- [ ]  The First Three Minutes - Steven Weinberg
+- [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
 - [ ]  The Foundations of Indian Philosophy - A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
 - [ ]  The Fountainhead - Ayn Rand
 - [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny - William Straus and Neil Howe
-- [ ]  The First Three Minutes - Steven Weinberg
-- [ ]  The First Fifteen Lives of Harry August - Claire North
 
-
-- [ ]  The Great CEO Within - Matt Mochary
+- [ ]  The Glass Bead Game - Hermann Hesse
 - [ ]  The Goal - Eliyahu Goldratt
 - [ ]  The Gray Lady Winked - Ashley Rindsberg
+- [ ]  The Great CEO Within - Matt Mochary
 - [ ]  The Gulag Archipelago - Aleksandr I. Solzhenitsyn
-- [ ]  The Glass Bead Game - Hermann Hesse
 - [ ]  The Guns of August - Barbara W. Tuchman
 
+- [ ]  The Happiest man on Earth - Eddie Jaku
+- [ ]  The Happiness Hypothesis - Jonathan Haidt
+- [ ]  The Handmaid's Tale - Margaret Atwood
 - [ ]  The Haunting of Alma Fielding - Kate Summerscale
+- [ ]  The Heart of Hinduism - Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
 - [ ]  The Hero's Journey - Joseph Campbell
 - [ ]  The History of the Peloponnesian War - Thucydides
 - [ ]  The History Of Love by Nicole Krauss
-- [ ]  This House of Grief - Helen Garner
-- [ ]  The Humans - Matt Haig
-- [ ]  The Handmaid's Tale - Margaret Atwood
-- [ ]  The Happiness Hypothesis - Jonathan Haidt
-- [ ]  The Happiest man on Earth - Eddie Jaku
-- [ ]  The Heart of Hinduism - Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
 - [ ]  The Hitchhiker's Guide to the Galaxy - Douglas Adams
 - [ ]  The House of Government: A Saga of the Russian Revolution - Yuri Slezkine
+- [ ]  This House of Grief - Helen Garner
+- [ ]  The Humans - Matt Haig
 - [ ]  The Hungry Brain - Stephan J Guyeney
 
 
@@ -400,44 +399,43 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  The Journalist and the Murderer + Janet Malcolm
 
-- [ ]  The Last Question - Isaac Asimov
-- [ ]  The Lessons of History -- Will & Ariel Durant
-- [ ]  The Lean Startup - Eric Ries
-- [ ]  The little book that beats the market - Joel Greenblatt
-- [ ]  The Lord of the Rings - JRR Tolkien
 - [ ]  The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965 by Paul Reid and William Manchester
+- [ ]  The Last Question - Isaac Asimov
+- [ ]  The Lean Startup - Eric Ries
 - [ ]  The Left Hand of Darkness - Ursula K. Le Guin
-- [ ]  The Life of Sir William Osler by Harvey Cushing
-- [ ]  The Lives of the Most Excellent Painters, Sculptors, and Architects by Giorgio Vasari
 - [ ]  The Lessons of History - Ariel Durant & Will Durant
+- [ ]  The Life of Sir William Osler by Harvey Cushing
+- [ ]  The Little book that beats the market - Joel Greenblatt
+- [ ]  The Lives of the Most Excellent Painters, Sculptors, and Architects by Giorgio Vasari
+- [ ]  The Lord of the Rings - JRR Tolkien
 
-- [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
+- [ ]  The Man from Monticello: An Intimate Life of Thomas Jefferson by Thomas Fleming 
+- [ ]  The March of Folly - Barbara W. Tuchman
 - [ ]  The Martian - Andy Weir
+- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
+- [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
 - [ ]  The Master and the Margarita - Mikhail Bulgakov
+- [ ]  The Midnight Library - Matt Haig
 - [ ]  The Millionaire Next Door - Thomas J. Stanley
 - [ ]  The Mind is Flat - Nick Chater
 - [ ]  The Mom Test - Rob Fitzpatrick
-- [ ]  The Mountain Is You - Brianna Wiest.
-- [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
-- [ ]  The Man from Monticello: An Intimate Life of Thomas Jefferson by Thomas Fleming 
-- [ ]  The March of Folly - Barbara W. Tuchman
 - [ ]  The Mosquito: A Human History of Our Deadliest Predator by Timothy C. Winegard
-- [ ]  The Midnight Library - Matt Haig
+- [ ]  The Mountain Is You - Brianna Wiest.
 
 - [ ]  The Nature of Mathematical Modeling - Neil Gershenfeld
 - [ ]  The Nicomachean Ethics - Aristotle
 
-- [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
-- [ ]  Theory Of Everything - JED McKenna
 - [ ]  The Order of Time - Carlo Rovelli
+- [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
 - [ ]  The Oxford Handbook of Philosophy of Mathematics and Logic
+- [ ]  Theory Of Everything - JED McKenna
 
 - [ ]  The Painted Bird - Jerzy Kosinski
 - [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
 - [ ]  The Pricipice - Toby Ord
 - [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
-- [ ]  The Psychedelic Explorer’s Guide - James Fadiman
 - [ ]  The Prophet by Kahlil Gibran
+- [ ]  The Psychedelic Explorer’s Guide - James Fadiman
 - [ ]  The Push Man and Other Stories by Yoshihiro Tatsumi
 
 - [ ]  The Rational Optimist: How Prosperity Evolves -- Matt Ridley
@@ -449,44 +447,45 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Road Less Travelled - M. Scott Peck
 
 - [ ]  The School of Life: An Emotional Education - Alain De Botton
+- [ ]  The Science of Can and Can't - Chiara Marletto
+- [ ]  The Science of Storytelling - Will Storr
 - [ ]  The Selfish Gene - Richard Dawkins
+- [ ]  The Silk Roads - Peter Frankopan
 - [ ]  The Singularity Is Near: When Humans Transcend Biology - Ray Kurzweil
 - [ ]  The Social Animal - David Brook
 - [ ]  The Song of Achilles - Madelline Miller
 - [ ]  The Soul of Marionette - John Gray
 - [ ]  The Sovereign Individual: Mastering the Transition to the Information Age -- James Dale Davidson and Lord William Rees-Mogg
-- [ ]  The Spy and the Traitor: The Greatest Espionage Story of the Cold War by Ben Macintyre
 - [ ]  The Spike : An epic journey through the brain in 2.1 seconds - Mark Humphries
 - [ ]  The Spirit of St. Louis - Charles A.Lindbergh
-- [ ]  The Silk Roads - Peter Frankopan
+- [ ]  The Spy and the Traitor: The Greatest Espionage Story of the Cold War by Ben Macintyre
 - [ ]  The Stiglitz Report by Joseph E Stiglitz
 - [ ]  The Story-life of Lincoln: A Biography Composed of Five Hundred True Stories Told by Abraham Lincoln and his Friends by Wayne Whipple 
 - [ ]  The Story Of Philosophy - Will Durant
-- [ ]  The Science of Can and Can't - Chiara Marletto
-- [ ]  The Science of Storytelling - Will Storr
 - [ ]  The Strange Library - Haruki Murakami
 
+- [ ]  The Tao Of Pooh - Benjamin Hoff
 - [ ]  The Three Body Problem Triology - Liu Cixin
+- [ ]  The Tibetan Book of the Dead - Grahan Coleman
+- [ ]  The Tipping Point by Malcolm Gladwell
 - [ ]  The Top Five Regrets of The Dying - Bronnie Ware
 - [ ]  The Total Money Makeover - Dave Ramsay
 - [ ]  The Truth Machine - Michael Casey & Paul Vigna
-- [ ]  The Tao Of Pooh - Benjamin Hoff
-- [ ]  The Tipping Point by Malcolm Gladwell
-- [ ]  The Tibetan Book of the Dead - Grahan Coleman
 - [ ]  The Tyranny of Merit - Michael J Sandel
 
 - [ ]  The Unabomber Manifesto
 
-- [ ]  The War of Art - Steven Pressfield
 - [ ]  The Warmth of Other Suns - Isabel Wilkerson
+- [ ]  The War of Art - Steven Pressfield
 - [ ]  The Wizard and the Prophet by Charles Mann 
 - [ ]  The Woman Who Knew Too Much, Revised Ed.: Alice Stewart and the Secrets of Radiation - Gayle Greene
 
+- [ ]  Things Hidden Since the Foundation of the World - René Girard
 - [ ]  Think Again - Adam Grunt
 - [ ]  Thinking about Mathematics by Stewart Shapiro
 - [ ]  Thinking Fast and Slow - Daniel Kahneman
 - [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
-- [ ]  Things Hidden Since the Foundation of the World - René Girard
+
 - [ ]  This Is How It Always Is - Laurie Frankel
 - [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
 - [ ]  Thus Spoke Zarathustra - Friedrich Nietzsche
@@ -503,58 +502,57 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  The Year of Magical Thinking - Joan Didion
 
-
-- [ ]  UNIX: A History and a Memoir - Brian W Kernighan
-- [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
 - [ ]  Ulysses S. Grant: Triumph Over Adversity - Brooks D. Simpson
+- [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
+- [ ]  UNIX: A History and a Memoir - Brian W Kernighan
+
 
 - [ ]  Visual Complex Analysis - Tristan Needham
 - [ ]  Visual Complex Functions - Elias Wegert
 
-- [ ]  White Mughals - William Dalrymple
-- [ ]  Why I Write - George Orwell
-- [ ]  Who Moved My Cheese - Dr Spencer Johnson
-- [ ]  Woodrow Wilson by H.W. Brands 
 - [ ]  Walden - Henry David Thoreau
-- [ ]  Writing Tools - Roy Peter Clarke
-- [ ]  Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease and How to Fight It - Benjamin Bikman
-- [ ]  We Zebras Don’t Get Ulcers - Robert sapolsky
-- [ ]  Why We're Polarized -- Ezra Klein
-- [ ]  When breathe becomes air - By Paul Kalanithi
-- [ ]  What everybody is saying - Joe Navarro
-- [ ]  What we owe to the future - William MacAskill
-- [ ]  When we cease to understand the world - Benjamin Labatut
-- [ ]  Watchmen Graphic Novel - Alan Moore and Dave Gibbons
-- [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
-- [ ]  Where Is My Flying Car? - Josh Storrs Hall
-- [ ]  Who We Are and How We Got Here - David Reich
-- [ ]  War and Peace and War: The Rise and Fall of Empires - Peter Turchin
 - [ ]  Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists -  Antony Sutton
 - [ ]  Wall Street and the Rise of Hitler - Antony Sutton
-- [ ]  What I Talk About When I Talk About Running - Haruki Murakami.
-- [ ]  What Happened To You - Dr Bruce Perry
+- [ ]  War and Peace and War: The Rise and Fall of Empires - Peter Turchin
 - [ ]  We Know It When We See It - Richard Masland
-- [ ]  Win Without Pitching Manifesto - Blair Enns
+- [ ]  We Zebras Don’t Get Ulcers - Robert sapolsky
+- [ ]  What Everybody Is Saying - Joe Navarro
+- [ ]  What Happened To You - Dr Bruce Perry
+- [ ]  What I Talk About When I Talk About Running - Haruki Murakami.
 - [ ]  What Makes Sammy Run? - Budd Schulberg
+- [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
+- [ ]  What we owe to the future - William MacAskill
+- [ ]  When breathe becomes air - By Paul Kalanithi
+- [ ]  When we cease to understand the world - Benjamin Labatut
+- [ ]  Where Is My Flying Car? - Josh Storrs Hall
 - [ ]  Wilderness Essays - Epictitus
+- [ ]  Win Without Pitching Manifesto - Blair Enns
+- [ ]  White Mughals - William Dalrymple
+- [ ]  Who Moved My Cheese - Dr Spencer Johnson
+- [ ]  Who We Are and How We Got Here - David Reich
+- [ ]  Why I Write - George Orwell
+- [ ]  Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease and How to Fight It - Benjamin Bikman
+- [ ]  Why We're Polarized -- Ezra Klein
+- [ ]  Woodrow Wilson by H.W. Brands 
+- [ ]  Writing Tools - Roy Peter Clarke
 
 - [ ]  Yuganta - Irawati Karve
 - [ ]  You Are a Badmass at Making Money - Jen Sincero
 
-- [ ]  Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
-- [ ]  Zero to One  - Blake Masters and Peter Thiel
+- [ ]  Zen And the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
 - [ ]  Zen In The Art Of Writing - Ray Bradbury
-- [ ]  Zen And The Art of Motorcycle - Robert Pising
+- [ ]  Zero to One  - Blake Masters and Peter Thiel
 
 ### Graphic Novels
 - [ ]  The Boys - Garth Ennis
+- [ ]  Watchmen - Alan Moore and Dave Gibbons
 
-### Authors to explore
+### Authors To Explore
 
-- [ ]  Roald Dahl Books
-- [ ]  Enid Blyton Books
 - [ ]  Agatha Cristie Books
+- [ ]  Enid Blyton Books
 - [ ]  Lee Child Book Series
+- [ ]  Roald Dahl Books
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 - [ ]  Interstellar
