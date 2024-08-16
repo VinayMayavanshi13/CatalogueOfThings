@@ -954,63 +954,79 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Peppermint Candy
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
-- [ ]  Strangers Things - 4 Seasons.
-- [ ]  Scam 1992
-- [ ]  Manhunt Unabomber
-- [ ]  Stranger Things
-- [ ]  Mind Hunters
-- [ ]  Aspirants
-- [ ]  The Last of Us
-- [ ]  The West Wing
-- [ ]  Succession - HBO Max
-- [ ]  The Handmaid's Tale
-- [ ]  Curb your enthusiasm
-- [ ]  Black Mirror
-- [ ]  Fleabag 
-- [ ]  Supernatural
-- [ ]  The Terminal List
-- [ ]  Kota Factory
-- [ ]  Special Ops 1,1.5
-- [ ]  Asur
-- [ ]  Dahan
-- [ ]  Rudra
-- [ ]  Fauda
-- [ ]  The Boys
-- [ ]  Better Call Saul
-- [ ]  Dark
-- [ ]  Criminal Injustice 
-- [ ]  The Sopranos
-- [ ]  Money Heist
-- [ ]  Mirzapur
-- [ ]  The Family Man
+
 - [ ]  1899
-- [ ]  Mr Robot
-- [ ]  Olive Kitteridge
+
+- [ ]  Aspirants
+- [ ]  Asur
+
+- [ ]  Barry
+- [ ]  Better Call Saul
+- [ ]  Black Mirror
+- [ ]  Breaking bad
+- [ ]  Broadchurch
+
 - [ ]  CAT
-- [ ]  Silicon Valley
+- [ ]  Chernobyl
+- [ ]  Criminal Injustice 
+- [ ]  Curb your enthusiasm
+
+- [ ]  Dahan
+- [ ]  Dark
+
+- [ ]  Entourage
+- [ ]  Euphoria
+
+- [ ]  Fauda
+- [ ]  Fleabag
+- [ ]  From 
+
+- [ ]  Game of thrones
+
+- [ ]  Jack Ryan
+
+- [ ]  Kota Factory
+
+- [ ]  Mad Men
+- [ ]  Maharani
+- [ ]  Mare of Easttown
+- [ ]  Manhunt Unabomber
+- [ ]  Mind Hunters
+- [ ]  Mirzapur
+- [ ]  Money Heist
+- [ ]  Mr Robot
+
+- [ ]  Olive Kitteridge
+
+- [ ]  Rectify
+- [ ]  Rocket Boys
+- [ ]  Rudra
+
+- [ ]  Scam 1992
 - [ ]  Severance 
 - [ ]  Sharp Objects
-- [ ]  Euphoria
-- [ ]  Mad Men
-- [ ]  Entourage
-- [ ]  The Undoing
-- [ ]  Breaking bad
-- [ ]  Chernobyl
-- [ ]  The Wire
-- [ ]  The leftovers
-- [ ]  Mare of Easttown
-- [ ]  Maharani
-- [ ]  Rocket Boys
-- [ ]  Jack Ryan
-- [ ]  Game of thrones
-- [ ]  The Man in the High Castle
-- [ ]  Broadchurch 
-- [ ]  The Lost Room
+- [ ]  Silicon Valley
 - [ ]  Sliders
+- [ ]  Special Ops 1,1.5
+- [ ]  Stranger Things
+- [ ]  Succession - HBO Max
+- [ ]  Supernatural
+
+- [ ]  The Boys
+- [ ]  The Family Man
+- [ ]  The Handmaid's Tale
 - [ ]  The Knick
-- [ ]  Rectify
-- [ ]  Barry
+- [ ]  The Last of Us
+- [ ]  The Leftovers
+- [ ]  The Lost Room
+- [ ]  The Man in the High Castle
 - [ ]  The Night off
+- [ ]  The Sopranos
+- [ ]  The Terminal List
+- [ ]  The Undoing
+- [ ]  The West Wing
+- [ ]  The Wire
+
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 - [ ]  BR Chopra's Mahabharat
