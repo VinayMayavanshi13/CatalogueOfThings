@@ -1055,29 +1055,64 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 ## [Documentaries](https://github.com/VinayMayavanshi13/CatalogueOfThings#Documentaries)
+
+
 - [ ]  14 Peaks
+
+- [ ]  A Playbook : A Coach Rules For Life
+- [ ]  Abstract : The Art Of Design
+
+- [ ]  Connecting
+
+- [ ]  Deep Web
+
+- [ ]  Expedition Happiness
+
+- [ ]  Formula 1 Drive to Survive
+
+- [ ]  I Am Not Your Guru - Tony Robbins
+
+- [ ]  Living On One Dollar
+
+- [ ]  Minimalism - A documentary about important things
+
+- [ ]  My Octopus Teacher
+
+- [ ]  Objectified
+
+- [ ]  Planet Earth 1 and 2
+
+- [ ]  Return To Space
+
 - [ ]  Seaspiracy
+
+- [ ]  The Mind, Explained
 - [ ]  The Mystery of Marilyn Munroe
 - [ ]  The Elephant Whisperers
-- [ ]  We are Legion
-- [ ]  Deep Web
-- [ ]  Planet Earth 1 and 2
-- [ ]  Formula 1 Drive to Survive
-- [ ]  Living On One Dollar
-- [ ]  Expedition Happiness
-- [ ]  Minimalism - A documentary about important things
 - [ ]  The Last Dance
 - [ ]  The Magic Pill
-- [ ]  I Am Not Your Guru - Tony Robbins
-- [ ]  My Octopus Teacher
-- [ ]  The Tinder Swindler
-- [ ]  A Playbook : A Coach Rules For Life
-- [ ]  Return To Space
 - [ ]  The Minimalists : Less Is Now
-- [ ]  Abstract : The Art Of Design
-- [ ]  The Mind, Explained
-- [ ]  Connecting
-- [ ]  Objectified
+- [ ]  The Tinder Swindler
+
+- [ ]  We are Legion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - [ ]  Phantoms in the Brain
 - [ ]  Atari : Game Over
 - [ ]  Helvetica
@@ -1115,11 +1150,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - A breathtakingly expansive, six-part portrait of a legend chronicles the remarkable life of Andy Warhol from the intimate vantage point offered by the artist’s own posthumously published diaries.
 - [ ]  Jean-Michel Basquiat: The Radiant Child <br/>
 - A documentary about the legendary New York painter Jean-Michel Basquiat. It explores Basquiat's rise in the art world, his close relationship with Warhol, and looks at how he coped with scrutiny and fame.
+
 - [ ]  Banksy Does New York <br/>
 - An eye-opening documentary that follows elusive street artist Banksy as he attempts to create 31 unique pieces of art in 31 days in New York while constantly evading the NYPD.
-- [ ]  Who is America
+
 - [ ]  The Jinx: The Life and Deaths of Robert Durst
 - [ ]  The Last Dance
+
+- [ ]  Who is America
 
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
