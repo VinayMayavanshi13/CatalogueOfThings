@@ -673,6 +673,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Gali Guleiyan
 - [ ]  Gangs of Wasseypur 1,2
 - [ ]  Good Will Hunting
+- [ ]  Goliyon Ki Raasleela Ram-Leela
 - [ ]  Guardians of the Galaxy Vol. 1 and 2
 - [ ]  Gully Boy
 - [ ]  Good Fellas
@@ -754,69 +755,72 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Lock, Stock and Two Smoking Barrels (1998)
 - [ ]  La Haine (1995)
 
+- [ ]  Mad Max: Fury Road (2015)
 - [ ]  Madras Cafe
-- [ ]  Moneyball 
-- [ ]  Mother India
-- [ ]  Mughal E Azam
+- [ ]  Major
+- [ ]  Manorama Six Feet Under
+- [ ]  Maqbool
+- [ ]  Margin Call
+- [ ]  Martian
 - [ ]  Masaan
+- [ ]  Memories of Murder (2003)
+- [ ]  Mesrine: Killer Instinct (2008)
+- [ ]  Mission: Impossible Movie Series
+- [ ]  Moneyball 
 - [ ]  Monica O My Darling
+- [ ]  Monsoon Shootout
+- [ ]  Mother India
 - [ ]  Mullholland Drive
 - [ ]  Munnabhai MBBS
 - [ ]  Murder 2
-- [ ]  Manorama Six Feet Under
-- [ ]  Major
-- [ ]  Maqbool
-- [ ]  Martian
-- [ ]  Margin Call
-- [ ]  Manorama : Six Feet Under
-- [ ]  Memories of Murder (2003)
-- [ ]  Mission: Impossible Movie Series
-- [ ]  Monsoon Shootout
-- [ ]  Mesrine: Killer Instinct (2008)
-- [ ]  Mad Max: Fury Road (2015)
+- [ ]  Mughal E Azam
 
 - [ ]  Neighboring Sounds (2012)
-- [ ]  Nine Queens (2000)
 - [ ]  New York
+- [ ]  Nightcrawler (2014)
+- [ ]  Nine Queens (2000)
+- [ ]  No Country for Old Men (2007)
 - [ ]  No Smoking
 - [ ]  Now You See Me 1 and 2
-- [ ]  No Country for Old Men (2007)
-- [ ]  Nightcrawler (2014)
 
-- [ ]  October
-- [ ]  Oldboy (2003)
-- [ ]  Offside (2006)
-- [ ]  Oppenheimer
 - [ ]  Oasis (2002)
+- [ ]  October
+- [ ]  Offside (2006)
+- [ ]  Oldboy (2003)
 - [ ]  Operation Romeo
+- [ ]  Oppenheimer
 
+- [ ]  Paheli by Amol Palekar
 - [ ]  Pan’s Labyrinth (2006)
-- [ ]  Phantom Thread (2017)
+- [ ]  Parasite
 - [ ]  Parmanu
+- [ ]  Peppermint Candy
 - [ ]  Phantom
-- [ ]  Ponniyin Selvan I & II
+- [ ]  Phantom Thread (2017)
+- [ ]  Pi (1998)
 - [ ]  Pihu
 - [ ]  PK
-- [ ]  Peppermint Candy
-- [ ]  Paheli by Amol Palekar
-- [ ]  Parasite
-- [ ]  Pi (1998)
+- [ ]  Ponniyin Selvan I & II
 - [ ]  Pulp Fiction
 
 - [ ]  Queen
 
+
+- [ ]  Raajneeti
+- [ ]  Raazi
+- [ ]  Rakht Charitra
+- [ ]  Rang De Basanti
 - [ ]  Raw (2016)
 - [ ]  Requiem for a Dream (2000)
-- [ ]  Run Lola Run (1998)
-- [ ]  Raajneeti
 - [ ]  Return to Seoul
 - [ ]  Roja
 - [ ]  Run (2020 Aneesh Chaganty)
-- [ ]  Raajneeti
-- [ ]  Rang De Basanti 
+- [ ]  Run Lola Run (1998)
+
+ 
 - [ ]  Rocket Singh Salesman of the year
-- [ ]  Raazi
-- [ ]  Rakht Charitra
+
+
 - [ ]  Rush
 
 - [ ]  Satya
@@ -850,7 +854,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Snatch (2000)
 - [ ]  Snowtown (2011)
 - [ ]  Sympathy for Mr. Vengeance (2002)
-
 - [ ]  Taare Zameen Par
 - [ ]  Table No. 21 
 - [ ]  Talvar
@@ -880,14 +883,17 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Gangster, the Cop, the Devil (2019)
 - [ ]  The Godfather I & II
 - [ ]  The Girl With the Dragon Tattoo
+- [ ]  The Great Beauty (2013)
 - [ ]  The Great Indian Kitchen
 - [ ]  The Great Hack
 - [ ]  The Green Mile
+- [ ]  The Hidden Blade (2004)
 - [ ]  The Imitation Game
 - [ ]  The Intern 
 - [ ]  The Internship
 - [ ]  The Irishman
 - [ ]  The Last Samurai
+- [ ]  The Last King of Scotland (2006)
 - [ ]  The Legend of Bhagat Singh
 - [ ]  The Lizard (2004)
 - [ ]  The Man From Earth
@@ -900,8 +906,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Pirates of Silicon Valley
 - [ ]  The Platform (2019)
 - [ ]  The Prestige
+- [ ]  The Proposition (2005)
 - [ ]  The Pursuit of Happyness
 - [ ]  The Raid (Part 1 & 2)
+- [ ]  The Revenant (2015)
 - [ ]  The Runner (1984) 
 - [ ]  The Salesman (2006)
 - [ ]  The Secret rules of modern living : the algorithms
@@ -910,39 +918,28 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Songs Of Sparrows (2008)
 - [ ]  The Stoneman Murders
 - [ ]  The Stoning of Soroya M. (2008)
-- [ ]  The Time Traveler's Wife 
+- [ ]  The Time Traveler's Wife
+- [ ]  The Truman Show
+- [ ]  The Twilight Samurai (2002) 
+- [ ]  The Usual Suspects (1995)
 - [ ]  The X files
-- [ ]  The Yellow Sea (2010)
 - [ ]  The White Balloon (1995)
 - [ ]  The White Meadows (2009)
 - [ ]  The Wind Will Carry Us (1999)
+- [ ]  The Witch (2015)
 - [ ]  The Wolf of Wall Street (2013)
-
+- [ ]  The Yellow Sea (2010)
 - [ ]  There Will Be Blood (2007)
 - [ ]  The World at War
+- [ ]  Thor Ragnarok
 - [ ]  Three Monkeys (2008)
 - [ ]  Through the Olive Trees (1994)
-- [ ]  Tom at the farm
-- [ ]  Turtles Can Fly (2005)
-
-
-
-
-
-- [ ]  The Revenant (2015)
-- [ ]  The Great Beauty (2013)
-- [ ]  The Proposition (2005)
-- [ ]  The Last King of Scotland (2006)
-- [ ]  The Twilight Samurai (2002)
-- [ ]  The Hidden Blade (2004)
-- [ ]  The Usual Suspects (1995)
-- [ ]  The Witch (2015)
-- [ ]  The Truman Show
-- [ ]  Trainspotting (1996)
-- [ ]  Thor Ragnarok
 - [ ]  Titanic 
-- [ ]  Top Gun Maverick
+- [ ]  Tom at the farm
 - [ ]  Too Old To Die Young
+- [ ]  Top Gun Maverick
+- [ ]  Trainspotting (1996)
+- [ ]  Turtles Can Fly (2005)
 
 - [ ]  Udaan
 - [ ]  Uri : The Surgical Strike
