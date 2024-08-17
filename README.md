@@ -852,80 +852,83 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Sympathy for Mr. Vengeance (2002)
 
 - [ ]  Taare Zameen Par
-- [ ]  The Chaser (2008)
-- [ ]  The Devil’s Backbone (2001)
-- [ ]  The Gangster, the Cop, the Devil (2019)
-- [ ]  The Master (2012)
-- [ ]  The Platform (2019)
-- [ ]  The Sixth Sense
-- [ ]  The Yellow Sea (2010)
-- [ ]  The Wolf of Wall Street (2013)
-- [ ]  There Will Be Blood (2007)
-- [ ]  Tom at the farm
+- [ ]  Table No. 21 
 - [ ]  Talvar
 - [ ]  Taste Of Cherry (1997)
+- [ ]  Tasveer 8x10
 - [ ]  Taxi (2015)
+- [ ]  Terms and Conditions may apply
+- [ ]  Tenet
+- [ ]  The American President
+- [ ]  The Attacks Of 26/11
+- [ ]  The Batman (2022)
+- [ ]  The Beautiful Mind 
+- [ ]  The Best of Youth (2003)
+- [ ]  The Big Lebowski (1998)
+- [ ]  The Big Shot
+- [ ]  The Chaser (2008)
 - [ ]  The Circle (2000) 
 - [ ]  The Color Of Paradise (1999)
+- [ ]  The Consequences of Love (2004)
 - [ ]  The Cow (1969)
+- [ ]  The Curious Case of Benjamin Button 
+- [ ]  The Dark Knight Trilogy - (Batman Begins, The Dark Knight, The Dark Knight Rises)
+- [ ]  The Da Vinci Code
+- [ ]  The Devil’s Backbone (2001)
+- [ ]  The Edge of Heaven (2007)
+- [ ]  The Founder 
+- [ ]  The Gangster, the Cop, the Devil (2019)
+- [ ]  The Godfather I & II
 - [ ]  The Girl With the Dragon Tattoo
+- [ ]  The Great Indian Kitchen
+- [ ]  The Great Hack
 - [ ]  The Green Mile
+- [ ]  The Imitation Game
+- [ ]  The Intern 
+- [ ]  The Internship
+- [ ]  The Irishman
+- [ ]  The Last Samurai
+- [ ]  The Legend of Bhagat Singh
 - [ ]  The Lizard (2004)
 - [ ]  The Man From Earth
+- [ ]  The Man Who Knew Infinity
+- [ ]  The Master (2012)
+- [ ]  The Matrix 
 - [ ]  The Patience Stone (2013)
+- [ ]  The Perks of Being a Wallflower
 - [ ]  The Pianist
+- [ ]  The Pirates of Silicon Valley
+- [ ]  The Platform (2019)
+- [ ]  The Prestige
+- [ ]  The Pursuit of Happyness
 - [ ]  The Raid (Part 1 & 2)
 - [ ]  The Runner (1984) 
 - [ ]  The Salesman (2006)
+- [ ]  The Secret rules of modern living : the algorithms
+- [ ]  The Shawshank Redemption
+- [ ]  The Sixth Sense
 - [ ]  The Songs Of Sparrows (2008)
 - [ ]  The Stoneman Murders
 - [ ]  The Stoning of Soroya M. (2008)
 - [ ]  The Time Traveler's Wife 
-- [ ]  The Pirates of Silicon Valley
+- [ ]  The X files
+- [ ]  The Yellow Sea (2010)
 - [ ]  The White Balloon (1995)
 - [ ]  The White Meadows (2009)
 - [ ]  The Wind Will Carry Us (1999)
-- [ ]  Through the Olive Trees (1994)
-- [ ]  Turtles Can Fly (2005)
-- [ ]  The American President
-- [ ]  The Curious Case of Benjamin Button 
-- [ ]  The Dark Knight Trilogy - (Batman Begins, The Dark Knight, The Dark Knight Rises)
-- [ ]  The Da Vinci Code
-- [ ]  The Great Indian Kitchen
-- [ ]  The Irishman
-- [ ]  The Legend of Bhagat Singh
-- [ ]  The Shawshank Redemption
-- [ ]  Tasveer 8x10
-- [ ]  Table No. 21 
-- [ ]  Terms and Conditions may apply
-- [ ]  Tenet
-- [ ]  The Attacks Of 26/11
-- [ ]  The Batman (2022)
-- [ ]  The Beautiful Mind 
-- [ ]  The Big Shot
-- [ ]  The Da Vinci Code
-- [ ]  The Founder 
-- [ ]  The Godfather I & II
-- [ ]  The Great Hack
-- [ ]  The Imitation Game
-- [ ]  The Intern 
-- [ ]  The Internship
-- [ ]  The Kashmir Files
-- [ ]  The Last Samurai
-- [ ]  The Man Who Knew Infinity
-- [ ]  The Matrix 
-- [ ]  The Perks of Being a Wallflower
-- [ ]  The Prestige
-- [ ]  The Pursuit of Happyness
-- [ ]  The Secret rules of modern living : the algorithms
-- [ ]  The X files
-- [ ]  The Wolf of Wall Street
+- [ ]  The Wolf of Wall Street (2013)
+
+- [ ]  There Will Be Blood (2007)
 - [ ]  The World at War
-- [ ]  The Best of Youth (2003)
-- [ ]  The Consequences of Love (2004)
 - [ ]  Three Monkeys (2008)
-- [ ]  The Edge of Heaven (2007)
-- [ ]  The Big Lebowski (1998)
+- [ ]  Through the Olive Trees (1994)
+- [ ]  Tom at the farm
+- [ ]  Turtles Can Fly (2005)
+
+
+
+
+
 - [ ]  The Revenant (2015)
 - [ ]  The Great Beauty (2013)
 - [ ]  The Proposition (2005)
@@ -950,18 +953,18 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Vikram
 
 - [ ]  Wall Street 
-- [ ]  War
 - [ ]  Wake Up Sid
-- [ ]  Wall Street
+- [ ]  War
 - [ ]  Where Is the Friend's House? (1987)
-- [ ]  Whiplash (2014)
-- [ ]  Women Talking
 - [ ]  White God (2014)
 - [ ]  White Material (2009)
+- [ ]  Whiplash (2014)
 - [ ]  Wild Tales (2014)
+- [ ]  Women Talking
 
-- [ ]  Y Tu Mamá También (2001)
+
 - [ ]  Yi Yi
+- [ ]  Y Tu Mamá También (2001)
 - [ ]  Yuva
 
 - [ ]  Zero Dark Thirty
@@ -1045,6 +1048,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
+
 - [ ]  BR Chopra's Mahabharat
 - [ ]  Brooklyn Nine Nine
 - [ ]  Ozark
@@ -1056,13 +1060,23 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [Documentaries](https://github.com/VinayMayavanshi13/CatalogueOfThings#Documentaries)
 
-
 - [ ]  14 Peaks
 
 - [ ]  A Playbook : A Coach Rules For Life
-- [ ]  Abstract : The Art Of Design
 
+- [ ]  Abstract : The Art Of Design
+- [ ]  American Factory <br/>
+- A Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.
+- [ ]  Atari : Game Over
+
+- [ ]  Banksy Does New York <br/>
+- An eye-opening documentary that follows elusive street artist Banksy as he attempts to create 31 unique pieces of art in 31 days in New York while constantly evading the NYPD.
+
+- [ ]  Chasing Ice <br/>
+- Follow National Geographic photographer James Balog across the Arctic as he deploys time-lapse cameras designed for one purpose: to capture a multi-year record of the world's changing glaciers.
 - [ ]  Connecting
+- [ ]  Cooked  <br/>
+- Watch acclaimed food writer Michael Pollan explore how cooking transforms food and shapes our world. Each episode focuses on a different natural element and its relationship to both ancient and modern cooking methods.
 
 - [ ]  Deep Web
 
@@ -1070,93 +1084,63 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Formula 1 Drive to Survive
 
-- [ ]  I Am Not Your Guru - Tony Robbins
+- [ ]  Helvetica
+- [ ]  Human Harvest <br/>
+- Nobel Peace Prize nominees David Matas and David Kilgour investigate the organ harvesting trade in China and uncover one of the world’s worst crimes against humanity.
+- [ ]  HyperNormalisation
 
+- [ ]  I Am Not Your Guru - Tony Robbins
+- [ ]  Into the Inferno <br/>
+- A 2016 documentary film directed by Werner Herzog. In it, Herzog explores active volcanoes from around the world and the people who risk everything living near them.
+
+- [ ]  Jean-Michel Basquiat: The Radiant Child <br/>
+- A documentary about the legendary New York painter Jean-Michel Basquiat. It explores Basquiat's rise in the art world, his close relationship with Warhol, and looks at how he coped with scrutiny and fame.
+
+- [ ]  Last Breath <br/>
+- A deep-sea diver is stranded on the seabed with 5 minutes of oxygen and no hope of rescue. With access to an amazing archive, this is the story of one man's impossible fight for survival.
 - [ ]  Living On One Dollar
 
+- [ ]  Meru <br/>
+- Three elite climbers struggle to find their way through obsession and loss as they attempt to climb Mount Meru, one of the most coveted prizes in the high stakes game of Himalayan big wall climbing.
 - [ ]  Minimalism - A documentary about important things
-
 - [ ]  My Octopus Teacher
 
 - [ ]  Objectified
+- [ ]  One Child Nation <br/>
+- A stunning look into how a nation prioritizes its national agenda over human life and tells the truth about China's "population war" and its one-child policy.
 
+- [ ]  Particle Fever <br/>
+- As the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time, or perhaps their greatest failure.
 - [ ]  Planet Earth 1 and 2
+- [ ]  Phantoms in the Brain
 
 - [ ]  Return To Space
 
 - [ ]  Seaspiracy
+- [ ]  Sir Alex Ferguson <br/>
+- A look at how Sir Alex Ferguson became one of the greatest football coaches of all time while recovering from a cerebral hemorrhage.
 
-- [ ]  The Mind, Explained
-- [ ]  The Mystery of Marilyn Munroe
+- [ ]  The Andy Warhol Diaries <br/>
+- A breathtakingly expansive, six-part portrait of a legend chronicles the remarkable life of Andy Warhol from the intimate vantage point offered by the artist’s own posthumously published diaries.
+- [ ]  The Beatles Get Back <br/>
+- Watch as the Beatles work to write and rehearse 14 new songs for their first live show in more than two years; including their unforgettable rooftop concert at London's Savile Row.
+- [ ]  The Dissident <br/>
+- When Washington Post journalist Jamal Khashoggi disappears in Istanbul, his fiancée and dissidents around the world piece together the clues to his murder and expose a global cover-up.
 - [ ]  The Elephant Whisperers
+- [ ]  The Jinx: The Life and Deaths of Robert Durst
+- [ ]  The King of Kong <br/>
+- In 1999, Billy Mitchell set a record score in "Donkey Kong" that many felt would never be broken. In 2003 Steve Wiebe set out to beat it. Watch as both men battle for the title of the supreme king of gaming.
 - [ ]  The Last Dance
 - [ ]  The Magic Pill
+- [ ]  The Men Who Made Us Spend
 - [ ]  The Minimalists : Less Is Now
+- [ ]  The Mind, Explained
+- [ ]  The Mystery of Marilyn Munroe
+- [ ]  The Summit <br/>
+- In August 2008, 22 climbers met on High Camp of K2, the last stop before the summit. 48 hours later, 11 had been killed. At the heart of the film is a mystery about one extraordinary man–Ger McDonnell, the first Irishman to summit K2.
 - [ ]  The Tinder Swindler
 
 - [ ]  We are Legion
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- [ ]  Phantoms in the Brain
-- [ ]  Atari : Game Over
-- [ ]  Helvetica
-- [ ]  The Men Who Made Us Spend
-- [ ]  HyperNormalisation
-- [ ]  The Dissident <br/>
-- When Washington Post journalist Jamal Khashoggi disappears in Istanbul, his fiancée and dissidents around the world piece together the clues to his murder and expose a global cover-up.
-- [ ]  American Factory <br/>
-- A Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.
-- [ ]  The Summit <br/>
-- In August 2008, 22 climbers met on High Camp of K2, the last stop before the summit. 48 hours later, 11 had been killed. At the heart of the film is a mystery about one extraordinary man–Ger McDonnell, the first Irishman to summit K2.
-- [ ]  The Beatles Get Back <br/>
-- Watch as the Beatles work to write and rehearse 14 new songs for their first live show in more than two years; including their unforgettable rooftop concert at London's Savile Row.
-- [ ]  The King of Kong <br/>
-- In 1999, Billy Mitchell set a record score in "Donkey Kong" that many felt would never be broken. In 2003 Steve Wiebe set out to beat it. Watch as both men battle for the title of the supreme king of gaming.
-- [ ]  Sir Alex Ferguson <br/>
-- A look at how Sir Alex Ferguson became one of the greatest football coaches of all time while recovering from a cerebral hemorrhage.
-- [ ]  Chasing Ice <br/>
-- Follow National Geographic photographer James Balog across the Arctic as he deploys time-lapse cameras designed for one purpose: to capture a multi-year record of the world's changing glaciers.
-- [ ]  Last Breath <br/>
-- A deep-sea diver is stranded on the seabed with 5 minutes of oxygen and no hope of rescue. With access to an amazing archive, this is the story of one man's impossible fight for survival.
-- [ ]  Cooked  <br/>
-- Watch acclaimed food writer Michael Pollan explore how cooking transforms food and shapes our world. Each episode focuses on a different natural element and its relationship to both ancient and modern cooking methods.
-- [ ]  One Child Nation <br/>
-- A stunning look into how a nation prioritizes its national agenda over human life and tells the truth about China's "population war" and its one-child policy.
-- [ ]  Particle Fever <br/>
-- As the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time, or perhaps their greatest failure.
-- [ ]  Meru <br/>
-- Three elite climbers struggle to find their way through obsession and loss as they attempt to climb Mount Meru, one of the most coveted prizes in the high stakes game of Himalayan big wall climbing.
-- [ ]  Into the Inferno <br/>
-- A 2016 documentary film directed by Werner Herzog. In it, Herzog explores active volcanoes from around the world and the people who risk everything living near them.
-- [ ]  Human Harvest <br/>
-- Nobel Peace Prize nominees David Matas and David Kilgour investigate the organ harvesting trade in China and uncover one of the world’s worst crimes against humanity.
-- [ ]  The Andy Warhol Diaries <br/>
-- A breathtakingly expansive, six-part portrait of a legend chronicles the remarkable life of Andy Warhol from the intimate vantage point offered by the artist’s own posthumously published diaries.
-- [ ]  Jean-Michel Basquiat: The Radiant Child <br/>
-- A documentary about the legendary New York painter Jean-Michel Basquiat. It explores Basquiat's rise in the art world, his close relationship with Warhol, and looks at how he coped with scrutiny and fame.
-
-- [ ]  Banksy Does New York <br/>
-- An eye-opening documentary that follows elusive street artist Banksy as he attempts to create 31 unique pieces of art in 31 days in New York while constantly evading the NYPD.
-
-- [ ]  The Jinx: The Life and Deaths of Robert Durst
-- [ ]  The Last Dance
-
 - [ ]  Who is America
 
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
@@ -1164,43 +1148,38 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ] Death Note
 
 ## [Internet Rabbit Holes](https://github.com/VinayMayavanshi13/CatalogueOfThings#Internet-Rabbit-Holes)
-- [folklore.org](https://www.folklore.org/) : Stories about the development of the original Macintosh.
-
-- [HackerNews](https://news.ycombinator.com/) : A good suggestion for anyone looking for interesting articles
-
-- [waitbutwhy](https://waitbutwhy.com/)
-
-- [@ribbonfarm](https://twitter.com/ribbonfarm)
--  [meaningness](https://meaningness.com/)
-
-- [scp-wiki.net ](https://scp-wiki.wikidot.com/) : a massive collective writing project that documents a fictional foundation’s contained anomalies (things that can’t be explained by science) and it’s really cool. There are thousands of articles and tales that’ll keep you busy for a very long time.
-
-- [fs.blog](https://fs.blog/) :Timeless lessons and insights that will help you think better, learn faster, and make smarter decisions
-
-- [nav.al](https://nav.al/)
-
-- [perell.com](https://perell.com/)
-
-- [balajis.com](https://balajis.com/)
-
-- [sriramk.com](https://sriramk.com/)
-
-- [manassaloi.com](https://manassaloi.com/)
-
-- [nithinkamath.me](https://nithinkamath.me/)
-
-- [patrickcollison](https://patrickcollison.com/)
-
-- [Inverted-Passion](https://invertedpassion.com)
 
 - [Andrew-Chen](https://andrewchen.com/)
 
-- [ReadSomethingGreat](https://www.readsomethinggreat.com/)
-
+- [balajis.com](https://balajis.com/)
 - [Blakeir](https://blakeir.com/)
 
+- [folklore.org](https://www.folklore.org/) : Stories about the development of the original Macintosh.
+- [fs.blog](https://fs.blog/) :Timeless lessons and insights that will help you think better, learn faster, and make smarter decisions
+
+- [HackerNews](https://news.ycombinator.com/) : A good suggestion for anyone looking for interesting articles
+
+- [Idle Words](https://idlewords.com/)
+- [Inverted-Passion](https://invertedpassion.com)
+
+- [manassaloi.com](https://manassaloi.com/)
+- [meaningness](https://meaningness.com/)
 - [Melting Asphalt](https://meltingasphalt.com/)
+
+- [nav.al](https://nav.al/)
+- [nithinkamath.me](https://nithinkamath.me/)
+
+- [patrickcollison](https://patrickcollison.com/)
+- [perell.com](https://perell.com/)
+
+- [ReadSomethingGreat](https://www.readsomethinggreat.com/)
+
+- [Ribbon Farm](https://twitter.com/ribbonfarm)
+
+- [scp-wiki.net ](https://scp-wiki.wikidot.com/) : a massive collective writing project that documents a fictional foundation’s contained anomalies (things that can’t be explained by science) and it’s really cool. There are thousands of articles and tales that’ll keep you busy for a very long time.
+
+- [sriramk.com](https://sriramk.com/)
 
 - [Stratchery](https://stratechery.com/)
 
-- [Idle Words](https://idlewords.com/)
+- [waitbutwhy](https://waitbutwhy.com/)
