@@ -97,8 +97,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Do I Make Myself Clear - Harold Evans
 - [ ]  Dreams of a Final Theory - Steven Weinberg
 
-
-
 - [ ]  East of Eden - John Steinbeck 
 - [ ]  Eat, drink and be healthy : the Harvard Medical  School guide to healthy eating - Patrick J Skerrett
 - [ ]  Eat Fat Get Thin - Mark Hyman
@@ -115,7 +113,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Estee: A Success Story Hardcover – Estee Lauder
 - [ ]  Eugene Meyer by Merlo John Pusey
 - [ ]  Everybody Writes - Ann Handley
-
 
 - [ ]  Fahrenheit 451 by Ray Bradbury
 - [ ]  Financial Intelligence - Karen Berman, Joe Knight and John Case.
@@ -306,7 +303,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Technological Revolutions and Financial Capital - Carlota Perez
 - [ ]  Trillion Dollar Coach: The Leadership Playbook That Builds Elite Teams - Eric Schmidt, Jonathan Rosenberg, and Alan Eagle
 - [ ]  The 100$ Startup - Chris Guillebeau
-
  
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need - Daniel H. Pink
 - [ ]  The Alchemist - Paulo Coelho
@@ -392,7 +388,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  This House of Grief - Helen Garner
 - [ ]  The Humans - Matt Haig
 - [ ]  The Hungry Brain - Stephan J Guyeney
-
 
 - [ ]  The Internet of Money Volume 1 - Andreas Antonopolous
 - [ ]  The Interpretation of Dreams - Sigmund Freud
@@ -507,7 +502,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
 - [ ]  UNIX: A History and a Memoir - Brian W Kernighan
 
-
 - [ ]  Visual Complex Analysis - Tristan Needham
 - [ ]  Visual Complex Functions - Elias Wegert
 
@@ -551,9 +545,16 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 ### Authors To Explore
 
 - [ ]  Agatha Cristie Books
+- [ ]  Bhawani Prasad Mishra
 - [ ]  Enid Blyton Books
+- [ ]  Gabriel Marquez
 - [ ]  Lee Child Book Series
+- [ ]  Margaret Atwood
+- [ ]  Rahi Masoom Raza
 - [ ]  Roald Dahl Books
+- [ ]  Sareshwar Dayal Saxena
+- [ ]  Ted Chiang
+- [ ]  Vinod Kumar Shukla
 
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
