@@ -571,7 +571,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Aamir
 - [ ]  About Elly (2009)
 - [ ]  A Death In The Gunj
+- [ ]  Aligarh
 - [ ]  A Girl Walks Home Alone at Night (2014)
+- [ ]  All India Rank
+- [ ]  All Quite on the Western Front (2022)
+- [ ]  Amar Singh Chamkila
 - [ ]  American Psycho (2000)
 - [ ]  A Moment Of Innocence (1996)
 - [ ]  Amores Perros 
@@ -580,6 +584,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  And Life Goes On (1992)
 - [ ]  An Given Sunday
 - [ ]  Annihilation 
+- [ ]  Article 15
 - [ ]  A Separation (2011)
 - [ ]  Asoka
 - [ ]  Asuran
@@ -603,8 +608,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Bhool Bhulaiyaa
 - [ ]  Big Fish
 - [ ]  Birth
+- [ ]  BlackBerry
 - [ ]  Black Friday - Anurag Kashyap
 - [ ]  Black Swan (2010)
+- [ ]  Blade Runner (1982)
 - [ ]  Blade Runner 2049 (2017)
 - [ ]  Blue Valentine (2010)
 - [ ]  Bombay
@@ -621,6 +628,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Central Station (1998)
 - [ ]  Character (1997)
 - [ ]  Chak De India
+- [ ]  Challengers (2024)
 - [ ]  Chandni Chowk to China
 - [ ]  Chhapa Kurishu
 - [ ]  Children Of Heaven (1997)
@@ -632,6 +640,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Coded Bias
 - [ ]  Coherence
 - [ ]  Confessions (2010)
+- [ ]  Conjuring Franchise - Thought I am missing out on something, glad I was wrong. Can avoid this.
 - [ ]  Court (Marathi)
 - [ ]  Creation
 - [ ]  Crouching Tiger, Hidden Dragon (2000)
@@ -641,6 +650,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Dear Dad
 - [ ]  De Dana dhan
 - [ ]  Deewar
+- [ ]  Delhi Belly (2011)
 - [ ]  Dev D
 - [ ]  Dhrishyam
 - [ ]  Dil Chahta hai
@@ -656,6 +666,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Ek Deewana tha
 - [ ]  Ek Haseena thi
 - [ ]  Elite Squad (2007)
+- [ ]  Enemy (2014)
 - [ ]  English Vinglish 
 - [ ]  Eternal Sunshine of a Spotless Mind
 
@@ -676,6 +687,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Gett: The Trial of Viviane Amsalem (2014)
 - [ ]  Ghazi Attack
 - [ ]  Ghuspaith between Borders (2023)
+- [ ]  Gifted
 - [ ]  Glengarry Glen Ross
 - [ ]  Go Goa Gone
 - [ ]  Goliyon Ki Raasleela Ram-Leela
@@ -730,11 +742,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Kahani 1, 2
 - [ ]  Kai Po Chhe
+- [ ]  Kalki 2898 AD
 - [ ]  Kaminey
 - [ ]  Kantara
 - [ ]  Khamosh (1985)
 - [ ]  Khamoshi
 - [ ]  Khatta Meetha
+- [ ]  Kho Gaye Hum Kahaan
 - [ ]  Kill (2024)
 - [ ]  Kinatay (2009)
 
@@ -759,6 +773,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
  
 - [ ]  Mad Max: Fury Road (2015)
 - [ ]  Madras Cafe
+- [ ]  Madgaon Express (2024)
 - [ ]  Major
 - [ ]  Malamaal Weekly
 - [ ]  Manorama Six Feet Under
@@ -767,6 +782,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Martian
 - [ ]  Masaan
 - [ ]  May December (2023)
+- [ ]  Meet Joe Black (1998)
 - [ ]  Memories of Murder (2003)
 - [ ]  Merry Christmas
 - [ ]  Mesrine: Killer Instinct (2008)
@@ -779,6 +795,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Munnabhai MBBS
 - [ ]  Murder 2
 - [ ]  Mughal E Azam
+- [ ]  Mystic River (2003)
 
 - [ ]  Neighboring Sounds (2012)
 - [ ]  New York
@@ -799,6 +816,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Pan’s Labyrinth (2006)
 - [ ]  Parasite
 - [ ]  Parmanu
+- [ ]  Past Lives (2023)
 - [ ]  Peppermint Candy
 - [ ]  Phantom
 - [ ]  Phantom Thread (2017)
@@ -806,6 +824,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Pihu
 - [ ]  PK
 - [ ]  Ponniyin Selvan I & II
+- [ ]  Prisoner (2013)
 - [ ]  Pulp Fiction
 
 - [ ]  Queen
@@ -823,15 +842,19 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Run Lola Run (1998)
 - [ ]  Rush
 
-- [ ]  Sardar Udhham Singh
 - [ ]  Sadgati (1981)
 - [ ]  Salaam Venky
 - [ ]  Salaam Bombay
-- [ ]  Satya
+- [ ]  Sapta Sagaradaache Ello Side A & Side B (2023)
+- [ ]  Sardar Udhham Singh
 - [ ]  Sarkar
+- [ ]  Satya
 - [ ]  Scarface
 - [ ]  Scent of a Woman 
 - [ ]  Schindler's List
+- [ ]  Se7en
+- [ ]  Shadow Assasins (2022)
+- [ ]  Shahid (2013)
 - [ ]  Shame (2011)
 - [ ]  Shangai
 - [ ]  Shershah
@@ -841,8 +864,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Shor in the City
 - [ ]  Shutter Island 
 - [ ]  Sicario I & II
+- [ ]  Side Effects (2013)
 - [ ]  Silicon Cowboys
 - [ ]  Sita Raman
+- [ ]  Siya (2022)
 - [ ]  Snatch (2000)
 - [ ]  Snowden
 - [ ]  Snowtown (2011)
@@ -861,6 +886,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Taste Of Cherry (1997)
 - [ ]  Tasveer 8x10
 - [ ]  Taxi (2015)
+- [ ]  Taxi Driver (2017)
 - [ ]  Terms and Conditions may apply
 - [ ]  Tenet
 - [ ]  The American President
@@ -878,29 +904,34 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Curious Case of Benjamin Button 
 - [ ]  The Dark Knight Trilogy - (Batman Begins, The Dark Knight, The Dark Knight Rises)
 - [ ]  The Da Vinci Code
+- [ ]  The Departed
 - [ ]  The Devil’s Backbone (2001)
 - [ ]  The Edge of Heaven (2007)
 - [ ]  The Founder 
 - [ ]  The Gangster, the Cop, the Devil (2019)
 - [ ]  The Godfather I & II
+- [ ]  The Girl Next Door - It's a fun movie.
 - [ ]  The Girl With the Dragon Tattoo
 - [ ]  The Great Beauty (2013)
 - [ ]  The Great Indian Kitchen
 - [ ]  The Great Hack
 - [ ]  The Green Mile
 - [ ]  The Hidden Blade (2004)
+- [ ]  The Hunt (2012)
 - [ ]  The Imitation Game
 - [ ]  The Intern 
 - [ ]  The Internship
 - [ ]  The Irishman
+- [ ]  The Killer
 - [ ]  The Last Samurai
 - [ ]  The Last King of Scotland (2006)
 - [ ]  The Legend of Bhagat Singh
+- [ ]  The Lighthouse (2019) - Do not f*#%ing understood it.
 - [ ]  The Lizard (2004)
 - [ ]  The Man From Earth
 - [ ]  The Man Who Knew Infinity
 - [ ]  The Master (2012)
-- [ ]  The Matrix 
+- [ ]  The Matrix Franchise
 - [ ]  The Patience Stone (2013)
 - [ ]  The Perks of Being a Wallflower
 - [ ]  The Pianist
@@ -913,6 +944,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Revenant (2015)
 - [ ]  The Runner (1984) 
 - [ ]  The Salesman (2006)
+- [ ]  The Secret in their eyes (2009)
 - [ ]  The Secret rules of modern living : the algorithms
 - [ ]  The Shawshank Redemption
 - [ ]  The Sixth Sense
@@ -947,7 +979,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Uzak
 
 - [ ]  V
+- [ ]  Vash (2023)
 - [ ]  Vicky Donor
+- [ ]  Viduthalai (2023)
 - [ ]  Vikram
 - [ ]  Visaranai (2015)
 
@@ -968,7 +1002,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Zero Dark Thirty
 - [ ]  Zindagi Na Milegi Dobara 
-
+- [ ]  Zodiac
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 
@@ -979,9 +1013,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Asur
 
 - [ ]  Barry
+- [ ]  Baby Reinder 
 - [ ]  Better Call Saul
 - [ ]  Black Mirror
-- [ ]  Breaking bad
+- [ ]  Breaking Bad
 - [ ]  Broadchurch
 
 - [ ]  CAT
@@ -991,6 +1026,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Dahan
 - [ ]  Dark
+- [ ]  Dark Matter
 
 - [ ]  Entourage
 - [ ]  Euphoria
@@ -1030,6 +1066,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Succession - HBO Max
 - [ ]  Supernatural
 
+- [ ]  The 3 Body Problem
+- [ ]  The Bear
 - [ ]  The Boys
 - [ ]  The Family Man
 - [ ]  The Handmaid's Tale
