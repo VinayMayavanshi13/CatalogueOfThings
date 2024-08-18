@@ -250,6 +250,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Origin Story - David Christain
 
 - [ ]  Pandeymonium: Piyush Pandey On Advertising by Piyush Pandey
+- [ ]  Perfectly Reasonable Deviations from the Beaten Track by Richard Feynman
 - [ ]  Peter Pan - James Barrie
 - [ ]  Pet Sematary by Stephen King
 - [ ]  Philosophy of Mathematics by Øystein Linnebo
@@ -561,132 +562,128 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  2001: A Space Odyssey
 - [ ]  3 Idiots
 - [ ]  4 Months, 3 Weeks and 2 Days (2007)
-- [ ]  7 Boxes
 - [ ]  500 Days of Summer 
+- [ ]  7 Boxes
 - [ ]  96
 
 - [ ]  Aakrosh
-- [ ]  AlphaGo
+- [ ]  Aamir
+- [ ]  About Elly (2009)
+- [ ]  A Death In The Gunj
+- [ ]  A Girl Walks Home Alone at Night (2014)
+- [ ]  A Moment Of Innocence (1996)
+- [ ]  Amores Perros 
 - [ ]  Andadhun
-- [ ]  Annihilation 
 - [ ]  Andaz Apna Apna
+- [ ]  And Life Goes On (1992)
+- [ ]  An Given Sunday
+- [ ]  Annihilation 
+- [ ]  A Separation (2011)
+- [ ]  Asoka
 - [ ]  Asuran
-- [ ]  Athena
+- [ ]  Athena 
 - [ ]  Avatar
 - [ ]  Avengers End Game
 - [ ]  Avengers Infinity War
-- [ ]  A Death In The Gunj
-- [ ]  Amores Perros 
-- [ ]  A Moment Of Innocence (1996)
-- [ ]  And Life Goes On (1992)
-- [ ]  A Separation (2011) 
-- [ ]  Asoka
 - [ ]  Awara Pagal Dewana
-- [ ]  Aamir
-- [ ]  About Elly (2009)
-- [ ]  A Girl Walks Home Alone at Night (2014)
-- [ ]  A Prophet
-- [ ]  An Given Sunday
-- [ ]  Ardh Satya
-- [ ]  A Separation (2011)
-- [ ]  A Quiet Place (2018)
 
 - [ ]  Babel
+- [ ]  Bacurau (2019)
 - [ ]  Bahubali - The Beginning and Conclusion
+- [ ]  Baran (2001)
+- [ ]  Bashu, The Little Stranger (1989)
+- [ ]  Beautiful City (2004)
 - [ ]  Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
-- [ ]  Black Friday - Anurag Kashyap
+- [ ]  Being Cyrus
+- [ ]  Being John Malkovich
 - [ ]  Bhaag Milkha Bhaag
 - [ ]  Big Fish
-- [ ]  Braveheart
-- [ ]  Baran (2001)
-- [ ]  Beautiful City (2004)
 - [ ]  Birth
+- [ ]  Black Friday - Anurag Kashyap
+- [ ]  Black Swan (2010)
+- [ ]  Blade Runner 2049 (2017)
+- [ ]  Blue Valentine (2010)
+- [ ]  Bombay
+- [ ]  Braveheart
 - [ ]  Bridge of Spies
 - [ ]  Buddha Collapsed Out Of Shame (2007)
-- [ ]  Bashu, The Little Stranger (1989)
-- [ ]  Being Cyrus
-- [ ]  Black Swan (2010)
-- [ ]  Bombay
-- [ ]  Blue Valentine (2010)
-- [ ]  Bacurau (2019)
-- [ ]  Blade Runner 2049 (2017)
 - [ ]  Bullhead (2011)
-- [ ]  Being John Malkovich
 
-- [ ]  Character (1997)
-- [ ]  City of God (2002)
-- [ ]  Confessions (2010)
-- [ ]  Central Station (1998)
-- [ ]  Crouching Tiger, Hidden Dragon (2000)
-- [ ]  Carlos (2010)
-- [ ]  Chhapa Kurishu
-- [ ]  Climates (2006)
 - [ ]  Captain America 
 - [ ]  Captain America - Civil War
 - [ ]  Captain America - Winter Soldier
+- [ ]  Carlos (2010)
 - [ ]  Catch Me If You Can
-- [ ]  Chup
-- [ ]  Coded Bias
-- [ ]  Citizenfour
+- [ ]  Central Station (1998)
+- [ ]  Character (1997)
 - [ ]  Chak De India
 - [ ]  Chandni Chowk to China
-- [ ]  Coherence
-- [ ]  Court (Marathi)
+- [ ]  Chhapa Kurishu
 - [ ]  Children Of Heaven (1997)
+- [ ]  Chup
+- [ ]  Citizenfour
+- [ ]  City of God (2002)
+- [ ]  Climates (2006)
 - [ ]  Close-Up (1990)
+- [ ]  Coded Bias
+- [ ]  Coherence
+- [ ]  Confessions (2010)
+- [ ]  Court (Marathi)
 - [ ]  Creation
+- [ ]  Crouching Tiger, Hidden Dragon (2000)
 
 - [ ]  Darlings
 - [ ]  D Company
-- [ ]  Dev D
-- [ ]  Dil Chahta hai
-- [ ]  Dhrishyam
-- [ ]  Doctor Strange
-- [ ]  Donnie Darko
-- [ ]  Dunkirk 
 - [ ]  Dear Dad
 - [ ]  De Dana dhan
-- [ ]  Dil Se
-- [ ]  Do Dooni Char 
-- [ ]  Don't Look Up
 - [ ]  Deewar
+- [ ]  Dev D
+- [ ]  Dhrishyam
+- [ ]  Dil Chahta hai
+- [ ]  Dil Se
+- [ ]  Doctor Strange
+- [ ]  Do Dooni Char
+- [ ]  Dogtooth 
+- [ ]  Donnie Darko
+- [ ]  Don't Look Up
 - [ ]  Drive (2011)
-- [ ]  Dogtooth
+- [ ]  Dunkirk 
 
-- [ ]  Elite Squad (2007)
-- [ ]  Ek Haseena thi
-- [ ]  Eternal Sunshine of a Spotless Mind
+
 - [ ]  Ek Deewana tha
+- [ ]  Ek Haseena thi
+- [ ]  Elite Squad (2007)
 - [ ]  English Vinglish 
+- [ ]  Eternal Sunshine of a Spotless Mind
 
+- [ ]  Fantastic Mr. Fox (2009)
+- [ ]  Fargo (1996)
+- [ ]  Fast and Furious Franchise Movies (from Initial Years)
 - [ ]  Few Good Men
+- [ ]  Fight Club
+- [ ]  Fireworks Wednesday (2006)
 - [ ]  Force
 - [ ]  Forensic
 - [ ]  Freddy
 - [ ]  Fury
-- [ ]  Fast and Furious Franchise Movies (from Initial Years)
-- [ ]  Fight Club
-- [ ]  Fireworks Wednesday (2006)
-- [ ]  Fargo (1996)
-- [ ]  Fantastic Mr. Fox (2009)
 
 - [ ]  Gali Guleiyan
 - [ ]  Gangs of Wasseypur 1,2
-- [ ]  Good Will Hunting
-- [ ]  Goliyon Ki Raasleela Ram-Leela
-- [ ]  Guardians of the Galaxy Vol. 1 and 2
-- [ ]  Gully Boy
-- [ ]  Good Fellas
-- [ ]  Go Goa Gone
 - [ ]  Garam Masala
-- [ ]  Gone Girl
+- [ ]  Gett: The Trial of Viviane Amsalem (2014)
 - [ ]  Ghazi Attack
 - [ ]  Glengarry Glen Ross
-- [ ]  Gulaal - Anurag Kashyap
-- [ ]  Gurgaon
-- [ ]  Gett: The Trial of Viviane Amsalem (2014)
+- [ ]  Go Goa Gone
+- [ ]  Goliyon Ki Raasleela Ram-Leela
 - [ ]  Gomorrah (2008)
+- [ ]  Gone Girl
+- [ ]  Good Fellas
+- [ ]  Good Will Hunting
 - [ ]  Grandmother (2009)
+- [ ]  Gulaal - Anurag Kashyap
+- [ ]  Gully Boy
+- [ ]  Guardians of the Galaxy Vol. 1 and 2
+- [ ]  Gurgaon
 
 - [ ]  Han Gong-ju (2013)
 - [ ]  Happy Together (1997)
@@ -730,6 +727,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Kaminey
 - [ ]  Kahani 1, 2
 - [ ]  Kantara
+- [ ]  Kill (2024)
 - [ ]  Kinatay (2009)
 - [ ]  Khatta Meetha
 - [ ]  Khamosh (1985)
@@ -763,6 +761,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Margin Call
 - [ ]  Martian
 - [ ]  Masaan
+- [ ]  May December (2023)
 - [ ]  Memories of Murder (2003)
 - [ ]  Mesrine: Killer Instinct (2008)
 - [ ]  Mission: Impossible Movie Series
@@ -952,6 +951,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Wall Street 
 - [ ]  Wake Up Sid
 - [ ]  War
+- [ ]  Watchmen
 - [ ]  Where Is the Friend's House? (1987)
 - [ ]  White God (2014)
 - [ ]  White Material (2009)
@@ -1043,14 +1043,17 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The West Wing
 - [ ]  The Wire
 
+- [ ]  Watchmen
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 
+- [ ]  Bharat Ek Khoj (Directed by Shyam Benegal) - is a historical drama based on Jawaharlal Nehru's book The Discovery of India.
 - [ ]  BR Chopra's Mahabharat
 - [ ]  Brooklyn Nine Nine
 - [ ]  Ozark
 - [ ]  Ramanand Sagar's Ramayan
 - [ ]  Rick And Morty - Animated Show
+
 - [ ]  The Office
 - [ ]  The Big Bang Theory
 
@@ -1077,6 +1080,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Deep Web
 
+- [ ]  Exit Through Gift Shop (2010)
 - [ ]  Expedition Happiness
 
 - [ ]  Formula 1 Drive to Survive
@@ -1110,9 +1114,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - As the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time, or perhaps their greatest failure.
 - [ ]  Planet Earth 1 and 2
 - [ ]  Phantoms in the Brain
+- [ ]  Pradhanmantri - Directed by Puneet Sharma and Pradhuman Singh, hosted by Shekhar Kapur
 
 - [ ]  Return To Space
 
+- [ ]  Samvidhaan (Directed by Shyam Benegal)
 - [ ]  Seaspiracy
 - [ ]  Sir Alex Ferguson <br/>
 - A look at how Sir Alex Ferguson became one of the greatest football coaches of all time while recovering from a cerebral hemorrhage.
