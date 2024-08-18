@@ -135,6 +135,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Glengarry Glen Ross by David Mamet
 - [ ]  Giving Good Weight - John McPhee
 - [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
+- [ ]  God is Not Great - Christopher Hitchens
 - [ ]  Good Calories, Bad Calories  - Gary Taubes
 - [ ]  Gone Girl by Gillian Flynn
 - [ ]  Grit - Angela Duckworth
@@ -153,6 +154,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  High Output Management - Andy Grove
 - [ ]  Hillbilly Elegy - J D Vance
 - [ ]  History Has Begun - Bruno Maçães
+- [ ]  Hitch-22 - Christopher Hitchens
 - [ ]  Hitchcock/Truffaut - Francois Truffaut
 - [ ]  House of Sleep - Jonathan Coe
 - [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
@@ -168,8 +170,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  How To Stop Time - Matt Haig
 - [ ]  How to Win friends and Influence People - Dale Carnegie
 - [ ]  How to Write Short - Roy Peter Clarke
+- [ ]  Humiliation and The Anatomy of Disgust - William Ian Miller
 - [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
 
+- [ ]  I Am That - Nisargadatta Maharaj
 - [ ]  I Contain Multitudes - Ed Yong
 - [ ]  If You Want To Write - Brenda Ueland
 - [ ]  Imagining India by Nandan Nilekani
@@ -200,6 +204,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Just Keep Buying - Nick Maggiulli
 - [ ]  Justice - Michael  Sandel
 
+- [ ]  Kaikeyi - Vaishnavi Patel
 - [ ]  Karl Max - Das Kapital
 - [ ]  Kill Decision - Daniel Suarez
 
@@ -214,6 +219,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Logicomix an Epic Search for Trurh: An Epic Search for Truth
 - [ ]  Loonshots - Safi Bahcall
 
+- [ ]  Machete Season - Jean Hatzfeld (A short book about the Rwandan genocide)
 - [ ]  Man And His Symbols - Carl Jung
 - [ ]  Mandate: Will of the People by Vir Sanghvi
 - [ ]  Man’s Search for Meaning - Viktor E.Frankl
@@ -233,6 +239,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  My Lady Jane by Book by Brodi Ashton, Cynthia Hand, and Jodi Meadows
 
 - [ ]  Narcopolis - Jeet Thayil
+- [ ]  Narrative Economics - Robert J. Shiller
 - [ ]  No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model - Richard Schwartz
 - [ ]  Nobody Wants to Read Your Sh*t - Steven Pressfield
 - [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
@@ -245,6 +252,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  On Writing Well - William Zinsser
 - [ ]  Open - Andre Agassi
 - [ ]  Origin Story - David Christain
+- [ ]  Our Final Invention - James Barrat
 
 - [ ]  Pandeymonium: Piyush Pandey On Advertising by Piyush Pandey
 - [ ]  Perfectly Reasonable Deviations from the Beaten Track by Richard Feynman
@@ -266,6 +274,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Range: Why Generalists Triumph in a Specialized World by David Epstein
 - [ ]  Rashmirathi By Dinkar in Hindi (Book on Mahabharat's Karn)
 - [ ]  Ready Player One - Ernest Cline
+- [ ]  Reasons and Persons - Derek Parfit
 - [ ]  Reasons of Belonging: Fourteen Contemporary Indian Poets
 - [ ]  Rebuild - Dr. Robert Zembroski
 - [ ]  Red Rising Series by Pierce Brown
@@ -292,18 +301,22 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Snow Leopard - Nicolas Cole
 - [ ]  Start At The End - David Lavinsky 
 - [ ]  Stranger in a Strange Land - Robert Heinlein
+- [ ]  Stumbling Upon Happiness - Daniel Gilbert
 - [ ]  SPQR - Mary Beard
 - [ ]  Sputnik Sweetheart - Haruki Murakami
 - [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
 - [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
+- [ ]  Super Intelligence - Nick Bostrom
 
 - [ ]  Talent is Never Enough - John C. Maxwell
 - [ ]  Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell
-- [ ]  Tao Te Ching: Text Only Edition Translated - Gia-fu feng and Jane English 
+- [ ]  Tao Te Ching: Text Only Edition Translated - Gia-fu feng and Jane English
+- [ ]  Tarkash - Javed Akhtar 
 - [ ]  Technological Revolutions and Financial Capital - Carlota Perez
 - [ ]  Trillion Dollar Coach: The Leadership Playbook That Builds Elite Teams - Eric Schmidt, Jonathan Rosenberg, and Alan Eagle
 - [ ]  The 100$ Startup - Chris Guillebeau
  
+- [ ]  The 48 Laws Of Power - Robert Greene
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need - Daniel H. Pink
 - [ ]  The Alchemist - Paulo Coelho
 - [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
@@ -329,6 +342,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Book Of Dust - Philip Pullman
 - [ ]  The Brand Flip - Marty Neumeier
 - [ ]  The Brief History of Nearly Everthing - Bill Bryson
+- [ ]  The Brilliant life of Eudona Lioneysett - Annie Lyons
 - [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
 
 - [ ]  The Catcher in the Rye by J. D. Salinger
@@ -356,6 +370,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The E-Myth Revisted - Michael E. Gerber
 - [ ]  The Enlightment Triology - JED Mckenna
 - [ ]  The End oF Everthing - Katie Mack
+- [ ]  The End of Faith - Sam Harris
 - [ ]  The Entrepreneur Mind - Kevin D. Johnson
 - [ ]  The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
 - [ ]  The Evolution of Everything: How New Ideas Emerge -- Matt Ridley
@@ -363,7 +378,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The First Cell - Azra Raza
 - [ ]  The First Fifteen Lives of Harry August - Claire North
 - [ ]  The First Three Minutes - Steven Weinberg
-- [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King -y Rich Cohen
+- [ ]  The Fish That Ate the Whale: The Life and Times of America’s Banana King - Rich Cohen
+- [ ]  The Flight of the Garuda translated by Keith Dowman
 - [ ]  The Foundations of Indian Philosophy - A. C. Das - This book provides an overview of the major schools of Indian philosophy, including Vedanta, Yoga, Buddhism, and Jainism.
 - [ ]  The Fountainhead - Ayn Rand
 - [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny - William Straus and Neil Howe
@@ -380,6 +396,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Handmaid's Tale - Margaret Atwood
 - [ ]  The Haunting of Alma Fielding - Kate Summerscale
 - [ ]  The Heart of Hinduism - Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
+- [ ]  The Henna Artist -  Alka Joshi
 - [ ]  The Hero's Journey - Joseph Campbell
 - [ ]  The History of the Peloponnesian War - Thucydides
 - [ ]  The History Of Love by Nicole Krauss
@@ -397,6 +414,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965 by Paul Reid and William Manchester
 - [ ]  The Last Question - Isaac Asimov
+- [ ]  The Last Word and Mortal Questions - Thomas Nagel
 - [ ]  The Lean Startup - Eric Ries
 - [ ]  The Left Hand of Darkness - Ursula K. Le Guin
 - [ ]  The Lessons of History - Ariel Durant & Will Durant
@@ -502,6 +520,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
 - [ ]  UNIX: A History and a Memoir - Brian W Kernighan
 
+- [ ]  Verity - Colleen Hoover
 - [ ]  Visual Complex Analysis - Tristan Needham
 - [ ]  Visual Complex Functions - Elias Wegert
 
@@ -539,8 +558,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Zero to One  - Blake Masters and Peter Thiel
 
 ### Graphic Novels
+
+- [ ]  The Buddha Box Set - Osamu Tezuka
 - [ ]  The Boys - Garth Ennis
 - [ ]  Watchmen - Alan Moore and Dave Gibbons
+- [ ]  Habibi - Craig Thompson
+- [ ]  Sapiens - David VanderMeulen and Yuval Noah Harari 
 
 ### Authors To Explore
 
