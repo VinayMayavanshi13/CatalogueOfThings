@@ -558,6 +558,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 
+- [ ]  12th Fail
 - [ ]  13 (2010)
 - [ ]  2001: A Space Odyssey
 - [ ]  3 Idiots
@@ -571,6 +572,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  About Elly (2009)
 - [ ]  A Death In The Gunj
 - [ ]  A Girl Walks Home Alone at Night (2014)
+- [ ]  American Psycho (2000)
 - [ ]  A Moment Of Innocence (1996)
 - [ ]  Amores Perros 
 - [ ]  Andadhun
@@ -597,6 +599,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Being Cyrus
 - [ ]  Being John Malkovich
 - [ ]  Bhaag Milkha Bhaag
+- [ ]  Bhagham Bhag
+- [ ]  Bhool Bhulaiyaa
 - [ ]  Big Fish
 - [ ]  Birth
 - [ ]  Black Friday - Anurag Kashyap
@@ -620,7 +624,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Chandni Chowk to China
 - [ ]  Chhapa Kurishu
 - [ ]  Children Of Heaven (1997)
-- [ ]  Chup
+- [ ]  Chup Chup Ke
 - [ ]  Citizenfour
 - [ ]  City of God (2002)
 - [ ]  Climates (2006)
@@ -649,7 +653,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Drive (2011)
 - [ ]  Dunkirk 
 
-
 - [ ]  Ek Deewana tha
 - [ ]  Ek Haseena thi
 - [ ]  Elite Squad (2007)
@@ -672,6 +675,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Garam Masala
 - [ ]  Gett: The Trial of Viviane Amsalem (2014)
 - [ ]  Ghazi Attack
+- [ ]  Ghuspaith between Borders (2023)
 - [ ]  Glengarry Glen Ross
 - [ ]  Go Goa Gone
 - [ ]  Goliyon Ki Raasleela Ram-Leela
@@ -698,6 +702,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Heat
 - [ ]  Hellaro
 - [ ]  Her
+- [ ]  Hera Pheri
 - [ ]  Hey Ram
 - [ ]  HIT 1 and 2 (Telegu Version)
 
@@ -723,39 +728,39 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  John Wick
 - [ ]  Joker
 
+- [ ]  Kahani 1, 2
 - [ ]  Kai Po Chhe
 - [ ]  Kaminey
-- [ ]  Kahani 1, 2
 - [ ]  Kantara
+- [ ]  Khamosh (1985)
+- [ ]  Khamoshi
+- [ ]  Khatta Meetha
 - [ ]  Kill (2024)
 - [ ]  Kinatay (2009)
-- [ ]  Khatta Meetha
-- [ ]  Khamosh (1985)
-- [ ]  Khosla ka Ghosla
-- [ ]  Khamoshi
-- [ ]  Khaamosh
 
+- [ ]  Lagaan
+- [ ]  La Haine (1995)
+- [ ]  Laila Majnu
+- [ ]  Lakshya
+- [ ]  Leon : The Professional
 - [ ]  Let the Right One In (2008)
 - [ ]  Life and a Day (2016)
 - [ ]  Life is Beautiful (1997)
-- [ ]  Leon : The Professional
-- [ ]  Lion
-- [ ]  Lagaan
-- [ ]  Lakshya
-- [ ]  Lone Survivor
-- [ ]  Lucknow Central
-- [ ]  Luck
-- [ ]  Lucy 
 - [ ]  Limitless
+- [ ]  Lion
+- [ ]  Lock, Stock and Two Smoking Barrels (1998)
+- [ ]  Lone Survivor
 - [ ]  Lord of the Rings
 - [ ]  Love and Other Drugs
+- [ ]  Luck
 - [ ]  Luck By Chance
-- [ ]  Lock, Stock and Two Smoking Barrels (1998)
-- [ ]  La Haine (1995)
-
+- [ ]  Lucknow Central
+- [ ]  Lucy
+ 
 - [ ]  Mad Max: Fury Road (2015)
 - [ ]  Madras Cafe
 - [ ]  Major
+- [ ]  Malamaal Weekly
 - [ ]  Manorama Six Feet Under
 - [ ]  Maqbool
 - [ ]  Margin Call
@@ -763,6 +768,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Masaan
 - [ ]  May December (2023)
 - [ ]  Memories of Murder (2003)
+- [ ]  Merry Christmas
 - [ ]  Mesrine: Killer Instinct (2008)
 - [ ]  Mission: Impossible Movie Series
 - [ ]  Moneyball 
@@ -804,7 +810,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Queen
 
-
 - [ ]  Raajneeti
 - [ ]  Raazi
 - [ ]  Rakht Charitra
@@ -812,47 +817,44 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Raw (2016)
 - [ ]  Requiem for a Dream (2000)
 - [ ]  Return to Seoul
+- [ ]  Rocket Singh Salesman of the year
 - [ ]  Roja
 - [ ]  Run (2020 Aneesh Chaganty)
 - [ ]  Run Lola Run (1998)
-
- 
-- [ ]  Rocket Singh Salesman of the year
-
-
 - [ ]  Rush
 
+- [ ]  Sardar Udhham Singh
+- [ ]  Sadgati (1981)
+- [ ]  Salaam Venky
+- [ ]  Salaam Bombay
 - [ ]  Satya
 - [ ]  Sarkar
-- [ ]  Salaam Venky
+- [ ]  Scarface
+- [ ]  Scent of a Woman 
 - [ ]  Schindler's List
+- [ ]  Shame (2011)
+- [ ]  Shangai
+- [ ]  Shershah
+- [ ]  Ship of Theseus (2012)
+- [ ]  Shool
+- [ ]  Shootout at Lokhandwala
+- [ ]  Shor in the City
+- [ ]  Shutter Island 
+- [ ]  Sicario I & II
 - [ ]  Silicon Cowboys
 - [ ]  Sita Raman
+- [ ]  Snatch (2000)
 - [ ]  Snowden
+- [ ]  Snowtown (2011)
 - [ ]  Soorarai Pottru 
 - [ ]  Special 26
 - [ ]  Spider Man - No Way Home
-- [ ]  Scarface
-- [ ]  Scent of a Woman 
-- [ ]  Sicario I & II
-- [ ]  Shame (2011)
-- [ ]  Shor in the City
-- [ ]  Shootout at Lokhandwala
-- [ ]  Shutter Island 
 - [ ]  Spotlight
 - [ ]  Stronger
 - [ ]  Swades
-- [ ]  Shershah
-- [ ]  Sardar Uddham Singh
-- [ ]  Salaam Bombay
-- [ ]  Shangai
-- [ ]  Shool
-- [ ]  Ship of thesus
-- [ ]  Spiderman - No Way Home
 - [ ]  Sweet Sixteen (2002)
-- [ ]  Snatch (2000)
-- [ ]  Snowtown (2011)
 - [ ]  Sympathy for Mr. Vengeance (2002)
+
 - [ ]  Taare Zameen Par
 - [ ]  Table No. 21 
 - [ ]  Talvar
@@ -947,6 +949,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  V
 - [ ]  Vicky Donor
 - [ ]  Vikram
+- [ ]  Visaranai (2015)
 
 - [ ]  Wall Street 
 - [ ]  Wake Up Sid
@@ -958,7 +961,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Whiplash (2014)
 - [ ]  Wild Tales (2014)
 - [ ]  Women Talking
-
 
 - [ ]  Yi Yi
 - [ ]  Y Tu Mamá También (2001)
@@ -1142,6 +1144,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Summit <br/>
 - In August 2008, 22 climbers met on High Camp of K2, the last stop before the summit. 48 hours later, 11 had been killed. At the heart of the film is a mystery about one extraordinary man–Ger McDonnell, the first Irishman to summit K2.
 - [ ]  The Tinder Swindler
+- [ ]  Ticked (2016)
 
 - [ ]  We are Legion
 - [ ]  Who is America
