@@ -770,6 +770,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Inception
 - [ ]  Indie Game
 - [ ]  Inside Out (2015)
+- [ ]  Inside Out 2
 - [ ]  Interstellar
 - [ ]  In the Mood for Love (2000)
 - [ ]  Invictus
@@ -786,6 +787,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Joker
 - [ ]  Joyland
 
+- [ ]  Kadaisi Vivasayi
 - [ ]  Kahani 1, 2
 - [ ]  Kai Po Chhe
 - [ ]  Kalki 2898 AD
@@ -822,6 +824,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Madras Cafe
 - [ ]  Madgaon Express (2024)
 - [ ]  Maestro (Brad Pitt)
+- [ ]  Maharaja
 - [ ]  Major
 - [ ]  Malamaal Weekly
 - [ ]  Manorama Six Feet Under
@@ -841,6 +844,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Monsoon Shootout
 - [ ]  Monster (by Koreeda)
 - [ ]  Mother India
+- [ ]  Mukundan Unnin Associates
 - [ ]  Mullholland Drive
 - [ ]  Munnabhai MBBS
 - [ ]  Murder 2
