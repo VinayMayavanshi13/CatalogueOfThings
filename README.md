@@ -592,9 +592,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  7 Boxes
 - [ ]  96
 
+- [ ]  Aadujeevitham : The Goat Life
 - [ ]  Aakrosh
 - [ ]  Aamir
+- [ ]  Aandi (1975)
 - [ ]  About Elly (2009)
+- [ ]  About Time
 - [ ]  A Death In The Gunj
 - [ ]  Aftersun
 - [ ]  Aligarh
@@ -609,9 +612,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Andaz Apna Apna
 - [ ]  And Life Goes On (1992)
 - [ ]  An Given Sunday
+- [ ]  Ankur
 - [ ]  Annihilation 
 - [ ]  Article 15
 - [ ]  A Separation (2011)
+- [ ]  A Serbian Film (2010)
 - [ ]  Asoka
 - [ ]  Asuran
 - [ ]  Athena 
@@ -623,6 +628,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Babel
 - [ ]  Bacurau (2019)
 - [ ]  Bahubali - The Beginning and Conclusion
+- [ ]  Bandit Queen (1994)
 - [ ]  Baran (2001)
 - [ ]  Barbarian
 - [ ]  Bashu, The Little Stranger (1989)
@@ -630,6 +636,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
 - [ ]  Being Cyrus
 - [ ]  Being John Malkovich
+- [ ]  Beyond Utopia
 - [ ]  Bhaag Milkha Bhaag
 - [ ]  Bhagham Bhag
 - [ ]  Bhool Bhulaiyaa
@@ -643,10 +650,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Blue Valentine (2010)
 - [ ]  Bombay
 - [ ]  Braveheart
+- [ ]  Brick (2005)
 - [ ]  Bridge of Spies
 - [ ]  Buddha Collapsed Out Of Shame (2007)
+- [ ]  Bullet Train
 - [ ]  Bullhead (2011)
 
+- [ ]  Cannibal Holocaust (1980)
 - [ ]  Captain America 
 - [ ]  Captain America - Civil War
 - [ ]  Captain America - Winter Soldier
@@ -658,6 +668,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Challengers (2024)
 - [ ]  Chandni Chowk to China
 - [ ]  Chhapa Kurishu
+- [ ]  Chhoti Si Baat
 - [ ]  Children Of Heaven (1997)
 - [ ]  Chup Chup Ke
 - [ ]  Citizenfour
@@ -667,7 +678,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Coded Bias
 - [ ]  Coherence
 - [ ]  Confessions (2010)
-- [ ]  Conjuring Franchise - Thought I am missing out on something, glad I was wrong. Can avoid this.
+- [ ]  Conjuring Franchise
+- [ ]  Constantine
 - [ ]  Cotton Tail
 - [ ]  Court (Marathi)
 - [ ]  Creation
@@ -698,14 +710,18 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  English Vinglish 
 - [ ]  Eternal Sunshine of a Spotless Mind
 
+- [ ]  Fahrenheit 9/11 (2004)
 - [ ]  Fantastic Mr. Fox (2009)
 - [ ]  Fargo (1996)
 - [ ]  Fast and Furious Franchise Movies (from Initial Years)
 - [ ]  Few Good Men
 - [ ]  Fight Club
+- [ ]  Fire (1996)
 - [ ]  Fireworks Wednesday (2006)
+- [ ]  Following (Christopher Nolan)
 - [ ]  Force
 - [ ]  Forensic
+- [ ]  Four Daughters
 - [ ]  Freddy
 - [ ]  Fury
 
@@ -1046,6 +1062,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  13 Reasons Why
 - [ ]  1899
 
+- [ ]  Altered Carbon
 - [ ]  Aspirants
 - [ ]  Asur
 
@@ -1062,8 +1079,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Curb your enthusiasm
 
 - [ ]  Dahan
+- [ ]  Daredevil
 - [ ]  Dark
 - [ ]  Dark Matter
+- [ ]  Dexter
 
 - [ ]  Entourage
 - [ ]  Euphoria
@@ -1073,10 +1092,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  From 
 
 - [ ]  Game of thrones
+- [ ]  Gotham
 
 - [ ]  Jack Ryan
 
 - [ ]  Kota Factory
+
+- [ ]  Love Death & Robots
+- [ ]  Line Of Duty
 
 - [ ]  Mad Men
 - [ ]  Maharani
@@ -1090,6 +1113,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Olive Kitteridge
 
 - [ ]  Prison Break
+- [ ]  Presumed Innocent
 
 - [ ]  Rectify
 - [ ]  Rocket Boys
@@ -1100,6 +1124,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Sharp Objects
 - [ ]  Silicon Valley
 - [ ]  Sliders
+- [ ]  Slow Horses
 - [ ]  Special Ops 1,1.5
 - [ ]  Stranger Things
 - [ ]  Succession - HBO Max
@@ -1108,20 +1133,26 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The 3 Body Problem
 - [ ]  The Bear
 - [ ]  The Boys
+- [ ]  The Bridge
+- [ ]  The Curse Een
 - [ ]  The Family Man
+- [ ]  The Good Doctor
 - [ ]  The Handmaid's Tale
 - [ ]  The House Of Dragon
 - [ ]  The Knick
+- [ ]  The Last Kingdom
 - [ ]  The Last of Us
 - [ ]  The Leftovers
 - [ ]  The Lost Room
 - [ ]  The Man in the High Castle
 - [ ]  The Night off
+- [ ]  The Rehearsal
 - [ ]  The Sopranos
 - [ ]  The Terminal List
 - [ ]  The Undoing
 - [ ]  The West Wing
 - [ ]  The Wire
+- [ ]  True Detective
 
 - [ ]  Watchmen
 
@@ -1141,6 +1172,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 ## [Documentaries](https://github.com/VinayMayavanshi13/CatalogueOfThings#Documentaries)
 
 - [ ]  14 Peaks
+- [ ]  20 Days in Mariopul 
 
 - [ ]  A Playbook : A Coach Rules For Life
 
@@ -1157,6 +1189,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Connecting
 - [ ]  Cooked  <br/>
 - Watch acclaimed food writer Michael Pollan explore how cooking transforms food and shapes our world. Each episode focuses on a different natural element and its relationship to both ancient and modern cooking methods.
+- [ ]  Cosmos by Carl Sagan
 
 - [ ]  Deep Web
 
@@ -1189,6 +1222,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Objectified
 - [ ]  One Child Nation <br/>
 - A stunning look into how a nation prioritizes its national agenda over human life and tells the truth about China's "population war" and its one-child policy.
+- [ ]  One Strange Rock
 
 - [ ]  Particle Fever <br/>
 - As the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time, or perhaps their greatest failure.
