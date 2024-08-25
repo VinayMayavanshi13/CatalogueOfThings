@@ -539,6 +539,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  When breathe becomes air - By Paul Kalanithi
 - [ ]  When we cease to understand the world - Benjamin Labatut
 - [ ]  Where Is My Flying Car? - Josh Storrs Hall
+- [ ]  White Nights - Fyodor Dostoevsky
 - [ ]  Wilderness Essays - Epictitus
 - [ ]  Win Without Pitching Manifesto - Blair Enns
 - [ ]  White Mughals - William Dalrymple
@@ -595,6 +596,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Aamir
 - [ ]  About Elly (2009)
 - [ ]  A Death In The Gunj
+- [ ]  Aftersun
 - [ ]  Aligarh
 - [ ]  A Girl Walks Home Alone at Night (2014)
 - [ ]  All India Rank
@@ -622,6 +624,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Bacurau (2019)
 - [ ]  Bahubali - The Beginning and Conclusion
 - [ ]  Baran (2001)
+- [ ]  Barbarian
 - [ ]  Bashu, The Little Stranger (1989)
 - [ ]  Beautiful City (2004)
 - [ ]  Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
@@ -665,6 +668,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Coherence
 - [ ]  Confessions (2010)
 - [ ]  Conjuring Franchise - Thought I am missing out on something, glad I was wrong. Can avoid this.
+- [ ]  Cotton Tail
 - [ ]  Court (Marathi)
 - [ ]  Creation
 - [ ]  Crouching Tiger, Hidden Dragon (2000)
@@ -741,6 +745,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hera Pheri
 - [ ]  Hey Ram
 - [ ]  HIT 1 and 2 (Telegu Version)
+- [ ]  Hiroshima Mon Amour
 
 - [ ]  Icendies
 - [ ]  Il Divo (2008)
@@ -763,6 +768,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Jodha Akbar
 - [ ]  John Wick
 - [ ]  Joker
+- [ ]  Joyland
 
 - [ ]  Kahani 1, 2
 - [ ]  Kai Po Chhe
@@ -788,6 +794,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Lion
 - [ ]  Lock, Stock and Two Smoking Barrels (1998)
 - [ ]  Lone Survivor
+- [ ]  Lost in Translation (Sofia Cappola)
 - [ ]  Lord of the Rings
 - [ ]  Love and Other Drugs
 - [ ]  Luck
@@ -798,6 +805,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Mad Max: Fury Road (2015)
 - [ ]  Madras Cafe
 - [ ]  Madgaon Express (2024)
+- [ ]  Maestro (Brad Pitt)
 - [ ]  Major
 - [ ]  Malamaal Weekly
 - [ ]  Manorama Six Feet Under
@@ -813,7 +821,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Mission: Impossible Movie Series
 - [ ]  Moneyball 
 - [ ]  Monica O My Darling
+- [ ]  Monk and the Gun
 - [ ]  Monsoon Shootout
+- [ ]  Monster (by Koreeda)
 - [ ]  Mother India
 - [ ]  Mullholland Drive
 - [ ]  Munnabhai MBBS
@@ -897,6 +907,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Snowtown (2011)
 - [ ]  Soorarai Pottru 
 - [ ]  Special 26
+- [ ]  Spider Man - Across the Spider Verse
 - [ ]  Spider Man - No Way Home
 - [ ]  Spotlight
 - [ ]  Stronger
@@ -956,6 +967,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Man Who Knew Infinity
 - [ ]  The Master (2012)
 - [ ]  The Matrix Franchise
+- [ ]  The Old Oak
 - [ ]  The Patience Stone (2013)
 - [ ]  The Perks of Being a Wallflower
 - [ ]  The Pianist
@@ -990,6 +1002,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The World at War
 - [ ]  Thor Ragnarok
 - [ ]  Three Monkeys (2008)
+- [ ]  Three Of Us
 - [ ]  Through the Olive Trees (1994)
 - [ ]  Titanic 
 - [ ]  Tom at the farm
@@ -1076,6 +1089,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Olive Kitteridge
 
+- [ ]  Prison Break
+
 - [ ]  Rectify
 - [ ]  Rocket Boys
 - [ ]  Rudra
@@ -1095,6 +1110,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Boys
 - [ ]  The Family Man
 - [ ]  The Handmaid's Tale
+- [ ]  The House Of Dragon
 - [ ]  The Knick
 - [ ]  The Last of Us
 - [ ]  The Leftovers
