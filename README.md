@@ -283,7 +283,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Richard Feynman’s Lectures - Richard Feynman
 - [ ]  Rules for Radicals - Saul Alinsky
 
-- [ ]  Sapiens Graphic Novel - David VanderMeulen and Yuval Noah Harari
+- [ ]  Sapiens - Yuval Noah Harari
 - [ ]  Scalped (American Novel Series) by Jason Aaron
 - [ ]  Schaum's Outlines - Joel Lerner and James Cashin
 - [ ]  Secrets of Millionaire Mind - T. Harv Eker
@@ -307,6 +307,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
 - [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
 - [ ]  Super Intelligence - Nick Bostrom
+- [ ]  Suraj Ka Saatva Ghoda - Dharamveer Bharti
 
 - [ ]  Talent is Never Enough - John C. Maxwell
 - [ ]  Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell
@@ -778,11 +779,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Irreversible
 - [ ]  I Saw the Devil (2010)
 
-- [ ]  Johnny Gaddar
 - [ ]  Jackie Brown (1997)
 - [ ]  Jay Bhim
 - [ ]  Jersey (Original Starring Nani)
 - [ ]  Jodha Akbar
+- [ ]  Johnny Gaddar
 - [ ]  John Wick
 - [ ]  Joker
 - [ ]  Joyland
@@ -907,6 +908,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Scent of a Woman 
 - [ ]  Schindler's List
 - [ ]  Se7en
+- [ ]  Sehar (2005)
 - [ ]  Shadow Assasins (2022)
 - [ ]  Shahid (2013)
 - [ ]  Shame (2011)
@@ -931,6 +933,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Spider Man - No Way Home
 - [ ]  Spotlight
 - [ ]  Stronger
+- [ ]  Suraj Ka Saatva Ghoda
 - [ ]  Swades
 - [ ]  Sweet Sixteen (2002)
 - [ ]  Sympathy for Mr. Vengeance (2002)
