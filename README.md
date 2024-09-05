@@ -307,7 +307,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
 - [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
 - [ ]  Super Intelligence - Nick Bostrom
-- [ ]  Suraj Ka Saatva Ghoda - Dharamveer Bharti
+- [ ]  Suraj Ka Saatva Ghoda - Dharamvir Bharati
 
 - [ ]  Talent is Never Enough - John C. Maxwell
 - [ ]  Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell
@@ -727,6 +727,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fury
 
 - [ ]  Gali Guleiyan
+- [ ]  Gangaajal
 - [ ]  Gangs of Wasseypur 1,2
 - [ ]  Garam Masala
 - [ ]  Gett: The Trial of Viviane Amsalem (2014)
@@ -1179,7 +1180,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 ## [Documentaries](https://github.com/VinayMayavanshi13/CatalogueOfThings#Documentaries)
 
 - [ ]  14 Peaks
-- [ ]  20 Days in Mariopul 
+- [ ]  20 Days in Mariupol 
 
 - [ ]  A Playbook : A Coach Rules For Life
 
