@@ -16,7 +16,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  100 Ways to Improve Your Writing - Gary Provost
 - [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
 - [ ]  1776 - David McCullough
-- [ ]  1984 by George Orwell
+- [ ]  1984 - George Orwell
+- [ ]  1Q84 - Murakami
 - [ ]  7 Strategies for Wealth & Happiness - Jim Rohn
 
 - [ ]  A complaint free world - Will Bowen
@@ -45,6 +46,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
 - [ ]  A Thousand Brains - Jeff Hawkins
 - [ ]  Atonement - Ian Mcewan
+- [ ]  Autobiography of a Yogi - Paramhansa Yogananda
 - [ ]  Awareness - Anthony De Mello
 - [ ]  A Wrinkle in Time - Madeleine L'Engle
 
@@ -53,6 +55,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Benjamin Franklin by Carl Van Doren
 - [ ]  Benjamin Franklin by Edmund Morgan 
 - [ ]  Benjamin Franklin - Walter Isaacson
+- [ ]  Beyond A Boundary - C.L.R. James
 - [ ]  Beyond Good And Evil - Friedrich Nietzsche
 - [ ]  Being Mortal - Atul Gawande
 - [ ]  Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do by Jennifer L. Eberhardt
@@ -147,6 +150,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hard-Boiled Wonderland and the End of the World by Haruki Murakami
 - [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
 - [ ]  Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+- [ ]  Hell Yeah or No - Derek Sivers
 - [ ]  Henry J. Kaiser: Builder in the Modern American West by Mark Foster  
 - [ ]  Heroines: Powerful Indian Women of Myth and History - Ira Mukhoty
 - [ ]  Herbert Hoover: A Public Life by David Burner
@@ -175,6 +179,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  I Am That - Nisargadatta Maharaj
 - [ ]  I Contain Multitudes - Ed Yong
+- [ ]  I Don't Want To Talk About It - Terrence Real
 - [ ]  If You Want To Write - Brenda Ueland
 - [ ]  Imagining India by Nandan Nilekani
 - [ ]  "I Never Wanted to be Vice-President of Anything!": An Investigative Biography of Nelson Rockefeller by Michael Kramer and Sam Roberts
@@ -220,6 +225,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Loonshots - Safi Bahcall
 
 - [ ]  Machete Season - Jean Hatzfeld (A short book about the Rwandan genocide)
+- [ ]  Mad Money Journey - Mehrab Irani
 - [ ]  Man And His Symbols - Carl Jung
 - [ ]  Mandate: Will of the People by Vir Sanghvi
 - [ ]  Man’s Search for Meaning - Viktor E.Frankl
@@ -279,6 +285,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Rebuild - Dr. Robert Zembroski
 - [ ]  Red Rising Series by Pierce Brown
 - [ ]  Reflections in a sacred pond - Murad Ali Balg 
+- [ ]  Rene Girard's Mimetic Theory - Wolfgang Palaver
 - [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA - Daniel Carpenter
 - [ ]  Richard Feynman’s Lectures - Richard Feynman
 - [ ]  Rules for Radicals - Saul Alinsky
@@ -497,6 +504,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Things Hidden Since the Foundation of the World - René Girard
 - [ ]  Think Again - Adam Grunt
+- [ ]  Think On These Things - Jiddu Krishnamurti
 - [ ]  Thinking about Mathematics by Stewart Shapiro
 - [ ]  Thinking Fast and Slow - Daniel Kahneman
 - [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
@@ -615,6 +623,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  An Given Sunday
 - [ ]  Ankur
 - [ ]  Annihilation 
+- [ ]  Apollo 13
 - [ ]  Article 15
 - [ ]  A Separation (2011)
 - [ ]  A Serbian Film (2010)
@@ -662,6 +671,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Captain America - Civil War
 - [ ]  Captain America - Winter Soldier
 - [ ]  Carlos (2010)
+- [ ]  Casino Royale
 - [ ]  Catch Me If You Can
 - [ ]  Central Station (1998)
 - [ ]  Character (1997)
@@ -692,6 +702,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  De Dana dhan
 - [ ]  Deewar
 - [ ]  Delhi Belly (2011)
+- [ ]  Deliverance
 - [ ]  Dev D
 - [ ]  Dhrishyam
 - [ ]  Dil Chahta hai
@@ -790,6 +801,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Joyland
 
 - [ ]  Kadaisi Vivasayi
+- [ ]  Kagaaz Ke Phool
 - [ ]  Kahani 1, 2
 - [ ]  Kai Po Chhe
 - [ ]  Kalki 2898 AD
@@ -863,6 +875,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Oasis (2002)
 - [ ]  October
+- [ ]  October Sky (1999)
 - [ ]  Offside (2006)
 - [ ]  Oldboy (2003)
 - [ ]  Operation Romeo
@@ -874,6 +887,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Parmanu
 - [ ]  Past Lives (2023)
 - [ ]  Peppermint Candy
+- [ ]  Perfect Sense (2011)
 - [ ]  Phantom
 - [ ]  Phantom Thread (2017)
 - [ ]  Pi (1998)
@@ -883,6 +897,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Prisoner (2013)
 - [ ]  Pulp Fiction
 
+- [ ]  Quantum Of Solace
 - [ ]  Queen
 
 - [ ]  Raajneeti
@@ -925,6 +940,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Silicon Cowboys
 - [ ]  Sita Raman
 - [ ]  Siya (2022)
+- [ ]  Skyfall
 - [ ]  Snatch (2000)
 - [ ]  Snowden
 - [ ]  Snowtown (2011)
@@ -982,8 +998,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Internship
 - [ ]  The Irishman
 - [ ]  The Killer
-- [ ]  The Last Samurai
+- [ ]  The Last House on the Left
 - [ ]  The Last King of Scotland (2006)
+- [ ]  The Last Samurai
 - [ ]  The Legend of Bhagat Singh
 - [ ]  The Lighthouse (2019) - Do not f*#%ing understood it.
 - [ ]  The Lizard (2004)
@@ -1050,6 +1067,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Wake Up Sid
 - [ ]  War
 - [ ]  Watchmen
+- [ ]  What Comes Around (2023)
 - [ ]  Where Is the Friend's House? (1987)
 - [ ]  White God (2014)
 - [ ]  White Material (2009)
@@ -1101,6 +1119,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Game of thrones
 - [ ]  Gotham
+
+- [ ]  Industry
 
 - [ ]  Jack Ryan
 
@@ -1172,7 +1192,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Ozark
 - [ ]  Ramanand Sagar's Ramayan
 - [ ]  Rick And Morty - Animated Show
-
 - [ ]  The Office
 - [ ]  The Big Bang Theory
 
@@ -1182,11 +1201,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  14 Peaks
 - [ ]  20 Days in Mariupol 
 
-- [ ]  A Playbook : A Coach Rules For Life
-
 - [ ]  Abstract : The Art Of Design
 - [ ]  American Factory <br/>
 - A Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.
+- [ ]  A Playbook : A Coach Rules For Life
+- [ ]  Apollo 13
 - [ ]  Atari : Game Over
 
 - [ ]  Banksy Does New York <br/>
