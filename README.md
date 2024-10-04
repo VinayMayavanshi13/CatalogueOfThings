@@ -321,6 +321,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Tao Te Ching: Text Only Edition Translated - Gia-fu feng and Jane English
 - [ ]  Tarkash - Javed Akhtar 
 - [ ]  Technological Revolutions and Financial Capital - Carlota Perez
+- [ ]  Teradyne the First Forty Years - Frederick Van Veen
 - [ ]  Trillion Dollar Coach: The Leadership Playbook That Builds Elite Teams - Eric Schmidt, Jonathan Rosenberg, and Alan Eagle
 - [ ]  The 100$ Startup - Chris Guillebeau
  
@@ -450,6 +451,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Order of Time - Carlo Rovelli
 - [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
 - [ ]  The Oxford Handbook of Philosophy of Mathematics and Logic
+- [ ]  The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success - William N. Thorndike
 - [ ]  Theory Of Everything - JED McKenna
 
 - [ ]  The Painted Bird - Jerzy Kosinski
@@ -499,6 +501,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  The Warmth of Other Suns - Isabel Wilkerson
 - [ ]  The War of Art - Steven Pressfield
+- [ ]  The Warren Buffett Way - Robert G. Hagstrom
 - [ ]  The Wizard and the Prophet by Charles Mann 
 - [ ]  The Woman Who Knew Too Much, Revised Ed.: Alice Stewart and the Secrets of Radiation - Gayle Greene
 
@@ -515,11 +518,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Tintin and the Secret of Literature by Tom McCarthy
 - [ ]  Tiny Habits - BJ Fogg
 - [ ]  Titan: The Life of John D. Rockefeller - Ron Cherow
-- [ ]  Train To Pakistan - Khushwant Singh
-- [ ]  Trick Mirror: Reflections on Self-Delusion by Jia Tolentino
 - [ ]  Toba Tek Singh by Saadat Hasan Manto
 - [ ]  To Kill a Mockingbird by Harper Lee 
 - [ ]  Tough Jews - Rich Cohen
+- [ ]  Train To Pakistan - Khushwant Singh
+- [ ]  Trick Mirror: Reflections on Self-Delusion by Jia Tolentino
+- [ ]  Trust Me, I am Lying - Ryan Holiday
 - [ ]  Tuesdays With Morrie - Mitch Albom
 - [ ]  Turn The Ship Around - L. David Marquet
 
@@ -775,6 +779,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hey Ram
 - [ ]  HIT 1 and 2 (Telegu Version)
 - [ ]  Hiroshima Mon Amour
+- [ ]  Hotel Mumbai
 
 - [ ]  Icendies
 - [ ]  Il Divo (2008)
@@ -865,6 +870,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Mughal E Azam
 - [ ]  Mystic River (2003)
 
+- [ ]  Naan Kadavul (2009)
 - [ ]  Neighboring Sounds (2012)
 - [ ]  New York
 - [ ]  Nightcrawler (2014)
@@ -994,6 +1000,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Hidden Blade (2004)
 - [ ]  The Hunt (2012)
 - [ ]  The Imitation Game
+- [ ]  The Impossible (2012)
 - [ ]  The Intern 
 - [ ]  The Internship
 - [ ]  The Irishman
