@@ -94,6 +94,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Deep Down Things The Breathtaking Beauty of Particle Physics - Bruce A Schumm
 - [ ]  DeepWork - Cal Newport
 - [ ]  De Gaulle –Julian Jackson
+- [ ]  Demons - Dostoevsky
 - [ ]  Destined For War - Graham Allison
 - [ ]  Diary and Autobiography of John Adams
 - [ ]  Disruptor - Arwen Elys Dayton
@@ -209,6 +210,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Just Keep Buying - Nick Maggiulli
 - [ ]  Justice - Michael  Sandel
 
+- [ ]  Kafan - Premchand 
+- [ ]  Kai Chaand The Sar-e-asman - Shamsur Rahman Faruqi
 - [ ]  Kaikeyi - Vaishnavi Patel
 - [ ]  Karl Max - Das Kapital
 - [ ]  Kill Decision - Daniel Suarez
@@ -532,6 +535,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Ulysses S. Grant: Triumph Over Adversity - Brooks D. Simpson
 - [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
 - [ ]  UNIX: A History and a Memoir - Brian W Kernighan
+- [ ]  Usne Kaha Tha Aur Anya Kahaniyaan - Charndradhar Sharma Guleri
 
 - [ ]  Verity - Colleen Hoover
 - [ ]  Visual Complex Analysis - Tristan Needham
@@ -552,6 +556,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  When breathe becomes air - By Paul Kalanithi
 - [ ]  When we cease to understand the world - Benjamin Labatut
 - [ ]  Where Is My Flying Car? - Josh Storrs Hall
+- [ ]  White Lotus - Osho
 - [ ]  White Nights - Fyodor Dostoevsky
 - [ ]  Wilderness Essays - Epictitus
 - [ ]  Win Without Pitching Manifesto - Blair Enns
@@ -573,11 +578,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ### Graphic Novels
 
-- [ ]  The Buddha Box Set - Osamu Tezuka
-- [ ]  The Boys - Garth Ennis
-- [ ]  Watchmen - Alan Moore and Dave Gibbons
 - [ ]  Habibi - Craig Thompson
+- [ ]  The Arrival Graphic Novel - Shaun Tan
+- [ ]  The Boys - Garth Ennis
+- [ ]  The Buddha Box Set - Osamu Tezuka
+- [ ]  The Illustrated Mahabharat - Bibek Debroy
 - [ ]  Sapiens - David VanderMeulen and Yuval Noah Harari 
+- [ ]  Watchmen - Alan Moore and Dave Gibbons
 
 ### Authors To Explore
 
