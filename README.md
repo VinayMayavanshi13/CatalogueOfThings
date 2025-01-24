@@ -632,12 +632,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Andaz Apna Apna
 - [ ]  And Life Goes On (1992)
 - [ ]  An Given Sunday
+- [ ]  Ankhon Dekhi
 - [ ]  Ankur
 - [ ]  Annihilation 
 - [ ]  Apollo 13
+- [ ]  A Prophet (2009)
 - [ ]  Article 15
 - [ ]  A Separation (2011)
 - [ ]  A Serbian Film (2010)
+- [ ]  A Serious Man(2009)
 - [ ]  Asoka
 - [ ]  Asuran
 - [ ]  Athena 
@@ -678,6 +681,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Bullhead (2011)
 
 - [ ]  Cannibal Holocaust (1980)
+- [ ]  Capernaum
 - [ ]  Captain America 
 - [ ]  Captain America - Civil War
 - [ ]  Captain America - Winter Soldier
@@ -689,6 +693,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Chak De India
 - [ ]  Challengers (2024)
 - [ ]  Chandni Chowk to China
+- [ ]  Chef (2014)
 - [ ]  Chhapa Kurishu
 - [ ]  Chhoti Si Baat
 - [ ]  Children Of Heaven (1997)
@@ -699,6 +704,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Close-Up (1990)
 - [ ]  Coded Bias
 - [ ]  Coherence
+- [ ]  Columbus
 - [ ]  Confessions (2010)
 - [ ]  Conjuring Franchise
 - [ ]  Constantine
@@ -708,6 +714,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Crouching Tiger, Hidden Dragon (2000)
 
 - [ ]  Darlings
+- [ ]  Days Of Heaven(1978)
 - [ ]  D Company
 - [ ]  Dear Dad
 - [ ]  De Dana dhan
@@ -726,6 +733,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Drive (2011)
 - [ ]  Dunkirk 
 
+- [ ]  EE.MA.YAU
 - [ ]  Ek Deewana tha
 - [ ]  Ek Haseena thi
 - [ ]  Elite Squad (2007)
@@ -749,6 +757,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fury
 
 - [ ]  Gali Guleiyan
+- [ ]  Gandu(2010)
 - [ ]  Gangaajal
 - [ ]  Gangs of Wasseypur 1,2
 - [ ]  Garam Masala
@@ -760,7 +769,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Go Goa Gone
 - [ ]  Goliyon Ki Raasleela Ram-Leela
 - [ ]  Gomorrah (2008)
+- [ ]  Gone Baby Gone (2007)
 - [ ]  Gone Girl
+- [ ]  Gone in sixty seconds 
 - [ ]  Good Fellas
 - [ ]  Good Will Hunting
 - [ ]  Grandmother (2009)
@@ -787,6 +798,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  HIT 1 and 2 (Telegu Version)
 - [ ]  Hiroshima Mon Amour
 - [ ]  Hotel Mumbai
+- [ ]  How to make millions before grandma dies
 
 - [ ]  Icendies
 - [ ]  Il Divo (2008)
@@ -802,6 +814,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Iron Man
 - [ ]  Irreversible
 - [ ]  I Saw the Devil (2010)
+- [ ]  It's a Wonderful life (1946)
 
 - [ ]  Jackie Brown (1997)
 - [ ]  Jay Bhim
@@ -853,6 +866,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Maharaja
 - [ ]  Major
 - [ ]  Malamaal Weekly
+- [ ]  Manchester by the Sea
 - [ ]  Manorama Six Feet Under
 - [ ]  Maqbool
 - [ ]  Margin Call
@@ -891,6 +905,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  October Sky (1999)
 - [ ]  Offside (2006)
 - [ ]  Oldboy (2003)
+- [ ]  One Hour Photo
 - [ ]  Operation Romeo
 - [ ]  Oppenheimer
 
@@ -909,6 +924,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Ponniyin Selvan I & II
 - [ ]  Prisoner (2013)
 - [ ]  Pulp Fiction
+- [ ]  Pyasa
 
 - [ ]  Quantum Of Solace
 - [ ]  Queen
@@ -925,10 +941,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Run (2020 Aneesh Chaganty)
 - [ ]  Run Lola Run (1998)
 - [ ]  Rush
+- [ ]  Rust and Bone (2012)
 
 - [ ]  Sadgati (1981)
 - [ ]  Salaam Venky
 - [ ]  Salaam Bombay
+- [ ]  Salo or the 120 days of Sodom(1975)
 - [ ]  Sapta Sagaradaache Ello Side A & Side B (2023)
 - [ ]  Sardar Udhham Singh
 - [ ]  Sarkar
@@ -947,16 +965,19 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Shool
 - [ ]  Shootout at Lokhandwala
 - [ ]  Shor in the City
+- [ ]  Showgirls(1995)
 - [ ]  Shutter Island 
 - [ ]  Sicario I & II
 - [ ]  Side Effects (2013)
 - [ ]  Silicon Cowboys
+- [ ]  Sins(2005)
 - [ ]  Sita Raman
 - [ ]  Siya (2022)
 - [ ]  Skyfall
 - [ ]  Snatch (2000)
 - [ ]  Snowden
 - [ ]  Snowtown (2011)
+- [ ]  Somewhere (Sofia Coppola)
 - [ ]  Soorarai Pottru 
 - [ ]  Special 26
 - [ ]  Spider Man - Across the Spider Verse
@@ -979,11 +1000,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Tenet
 - [ ]  The American President
 - [ ]  The Attacks Of 26/11
+- [ ]  The Banshees Of Inisherin(2022)
 - [ ]  The Batman (2022)
 - [ ]  The Beautiful Mind 
+- [ ]  The Beat That My Heart Skipped (2005)
 - [ ]  The Best of Youth (2003)
 - [ ]  The Big Lebowski (1998)
 - [ ]  The Big Shot
+- [ ]  The Birth of a nation(1915)
 - [ ]  The Chaser (2008)
 - [ ]  The Circle (2000) 
 - [ ]  The Color Of Paradise (1999)
@@ -1005,19 +1029,25 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Great Hack
 - [ ]  The Green Mile
 - [ ]  The Hidden Blade (2004)
+- [ ]  The Holdovers 
 - [ ]  The Hunt (2012)
 - [ ]  The Imitation Game
 - [ ]  The Impossible (2012)
 - [ ]  The Intern 
 - [ ]  The Internship
 - [ ]  The Irishman
+- [ ]  The Jungle Book (2016)
 - [ ]  The Killer
 - [ ]  The Last House on the Left
+- [ ]  The Last Jedi
 - [ ]  The Last King of Scotland (2006)
 - [ ]  The Last Samurai
+- [ ]  The Last Temptation Of Christ(1988)
 - [ ]  The Legend of Bhagat Singh
 - [ ]  The Lighthouse (2019) - Do not f*#%ing understood it.
+- [ ]  The Lives of Others (2006)
 - [ ]  The Lizard (2004)
+
 - [ ]  The Man From Earth
 - [ ]  The Man Who Knew Infinity
 - [ ]  The Master (2012)
@@ -1036,16 +1066,21 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Runner (1984) 
 - [ ]  The Salesman (2006)
 - [ ]  The Secret in their eyes (2009)
+- [ ]  The Secret Life Of Walter Witty
 - [ ]  The Secret rules of modern living : the algorithms
 - [ ]  The Shawshank Redemption
 - [ ]  The Sixth Sense
+- [ ]  The Skin I Live In
 - [ ]  The Songs Of Sparrows (2008)
 - [ ]  The Stoneman Murders
 - [ ]  The Stoning of Soroya M. (2008)
+- [ ]  The Texas Chainsaw Massacre(1974)
+- [ ]  The Thing
 - [ ]  The Time Traveler's Wife
 - [ ]  The Truman Show
 - [ ]  The Twilight Samurai (2002) 
 - [ ]  The Usual Suspects (1995)
+- [ ]  The Vanishing(1998)
 - [ ]  The X files
 - [ ]  The White Balloon (1995)
 - [ ]  The White Meadows (2009)
@@ -1053,6 +1088,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Witch (2015)
 - [ ]  The Wolf of Wall Street (2013)
 - [ ]  The Yellow Sea (2010)
+- [ ]  The Zone of Interest
 - [ ]  There Will Be Blood (2007)
 - [ ]  The World at War
 - [ ]  Thor Ragnarok
@@ -1060,6 +1096,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Three Of Us
 - [ ]  Through the Olive Trees (1994)
 - [ ]  Titanic 
+- [ ]  Titane
 - [ ]  Tom at the farm
 - [ ]  Too Old To Die Young
 - [ ]  Top Gun Maverick
@@ -1073,6 +1110,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  V
 - [ ]  Vash (2023)
 - [ ]  Vicky Donor
+- [ ]  Videodrome(1983)
 - [ ]  Viduthalai (2023)
 - [ ]  Vikram
 - [ ]  Visaranai (2015)
@@ -1090,6 +1128,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Women Talking
 
 - [ ]  Yi Yi
+- [ ]  Yu Hota Toh Kya Hota
 - [ ]  Y Tu Mamá También (2001)
 - [ ]  Yuva
 
@@ -1164,6 +1203,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Scam 1992
 - [ ]  Severance 
 - [ ]  Sharp Objects
+- [ ]  Shantaram
 - [ ]  Silicon Valley
 - [ ]  Sliders
 - [ ]  Slow Horses
@@ -1176,6 +1216,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Bear
 - [ ]  The Boys
 - [ ]  The Bridge
+- [ ]  The Chef Show
 - [ ]  The Curse Een
 - [ ]  The Family Man
 - [ ]  The Good Doctor
@@ -1282,6 +1323,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - A breathtakingly expansive, six-part portrait of a legend chronicles the remarkable life of Andy Warhol from the intimate vantage point offered by the artist’s own posthumously published diaries.
 - [ ]  The Beatles Get Back <br/>
 - Watch as the Beatles work to write and rehearse 14 new songs for their first live show in more than two years; including their unforgettable rooftop concert at London's Savile Row.
+- [ ]  The Century of the Self (2002)
+- [ ] The Cruise by Bennet Millers(1998)
 - [ ]  The Dissident <br/>
 - When Washington Post journalist Jamal Khashoggi disappears in Istanbul, his fiancée and dissidents around the world piece together the clues to his murder and expose a global cover-up.
 - [ ]  The Elephant Whisperers
@@ -1294,6 +1337,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Minimalists : Less Is Now
 - [ ]  The Mind, Explained
 - [ ]  The Mystery of Marilyn Munroe
+- [ ]  The Power of Nightmares 
 - [ ]  The Summit <br/>
 - In August 2008, 22 climbers met on High Camp of K2, the last stop before the summit. 48 hours later, 11 had been killed. At the heart of the film is a mystery about one extraordinary man–Ger McDonnell, the first Irishman to summit K2.
 - [ ]  The Tinder Swindler
@@ -1304,7 +1348,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
+- [ ] Blue Samurai
 - [ ] Death Note
+- [ ] Scavenger Reign
+- [ ] The Young Justice
 
 ## [Internet Rabbit Holes](https://github.com/VinayMayavanshi13/CatalogueOfThings#Internet-Rabbit-Holes)
 
