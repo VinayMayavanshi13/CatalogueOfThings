@@ -305,6 +305,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Social Animal by David Brooks
 - [ ]  Socratic Selling - Kevin Daley
 - [ ]  So Good They Can’t Ignore You - Cal Newport
+- [ ]  Some Main Problems of Philosophy - G.E.Moore
 - [ ]  Song Of Drapaudi - Ira Mukhoty 
 - [ ]  Sophie's World - Jostein Gaarder
 - [ ]  Snow Crash - Neal Stephenson
@@ -607,6 +608,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  13 (2010)
 - [ ]  2001: A Space Odyssey
 - [ ]  3 Idiots
+- [ ]  3 Iron
 - [ ]  4 Months, 3 Weeks and 2 Days (2007)
 - [ ]  500 Days of Summer 
 - [ ]  7 Boxes
@@ -618,6 +620,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Aandi (1975)
 - [ ]  About Elly (2009)
 - [ ]  About Time
+- [ ]  Acopalypse Now
 - [ ]  A Death In The Gunj
 - [ ]  Aftersun
 - [ ]  Aligarh
@@ -660,6 +663,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
 - [ ]  Being Cyrus
 - [ ]  Being John Malkovich
+- [ ]  Ben-hur
 - [ ]  Beyond Utopia
 - [ ]  Bhaag Milkha Bhaag
 - [ ]  Bhagham Bhag
@@ -679,6 +683,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Buddha Collapsed Out Of Shame (2007)
 - [ ]  Bullet Train
 - [ ]  Bullhead (2011)
+- [ ]  Burning
 
 - [ ]  Cannibal Holocaust (1980)
 - [ ]  Capernaum
@@ -705,6 +710,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Coded Bias
 - [ ]  Coherence
 - [ ]  Columbus
+- [ ]  Conclave
 - [ ]  Confessions (2010)
 - [ ]  Conjuring Franchise
 - [ ]  Constantine
@@ -717,6 +723,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Days Of Heaven(1978)
 - [ ]  D Company
 - [ ]  Dear Dad
+- [ ]  Decision To Leave
 - [ ]  De Dana dhan
 - [ ]  Deewar
 - [ ]  Delhi Belly (2011)
@@ -794,6 +801,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hellaro
 - [ ]  Her
 - [ ]  Hera Pheri
+- [ ]  Heretic
 - [ ]  Hey Ram
 - [ ]  HIT 1 and 2 (Telegu Version)
 - [ ]  Hiroshima Mon Amour
@@ -843,6 +851,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  La Haine (1995)
 - [ ]  Laila Majnu
 - [ ]  Lakshya
+- [ ]  Lawrence Of Arabia
 - [ ]  Leon : The Professional
 - [ ]  Let the Right One In (2008)
 - [ ]  Life and a Day (2016)
@@ -874,9 +883,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Masaan
 - [ ]  May December (2023)
 - [ ]  Meet Joe Black (1998)
+- [ ]  Meiyazhagan
 - [ ]  Memories of Murder (2003)
 - [ ]  Merry Christmas
 - [ ]  Mesrine: Killer Instinct (2008)
+- [ ]  Minari
 - [ ]  Mission: Impossible Movie Series
 - [ ]  Moneyball 
 - [ ]  Monica O My Darling
@@ -1047,7 +1058,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Lighthouse (2019) - Do not f*#%ing understood it.
 - [ ]  The Lives of Others (2006)
 - [ ]  The Lizard (2004)
-
 - [ ]  The Man From Earth
 - [ ]  The Man Who Knew Infinity
 - [ ]  The Master (2012)
@@ -1068,6 +1078,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Secret in their eyes (2009)
 - [ ]  The Secret Life Of Walter Witty
 - [ ]  The Secret rules of modern living : the algorithms
+- [ ]  The Seed of the Sacred Fig
 - [ ]  The Shawshank Redemption
 - [ ]  The Sixth Sense
 - [ ]  The Skin I Live In
