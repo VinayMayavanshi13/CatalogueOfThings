@@ -634,15 +634,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 
-- [ ]  12th Fail
+- [x]  12th Fail
 - [ ]  13 (2010)
 - [ ]  2001: A Space Odyssey
-- [ ]  3 Idiots
+- [x]  3 Idiots
 - [ ]  3 Iron
 - [ ]  4 Months, 3 Weeks and 2 Days (2007)
 - [ ]  500 Days of Summer 
 - [ ]  7 Boxes
-- [ ]  96
+- [x]  96
 
 - [ ]  Aadujeevitham : The Goat Life
 - [ ]  Aakrosh
@@ -653,15 +653,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Acopalypse Now
 - [ ]  A Death In The Gunj
 - [ ]  Aftersun
-- [ ]  Aligarh
+- [x]  Aligarh
 - [ ]  A Girl Walks Home Alone at Night (2014)
-- [ ]  All India Rank
-- [ ]  All Quite on the Western Front (2022)
-- [ ]  Amar Singh Chamkila
-- [ ]  American Psycho (2000)
+- [x]  All India Rank
+- [x]  All Quite on the Western Front (2022)
+- [x]  Amar Singh Chamkila
+- [x]  American Psycho (2000)
 - [ ]  A Moment Of Innocence (1996)
 - [ ]  Amores Perros 
-- [ ]  Andadhun
+- [x]  Andadhun
 - [ ]  Andaz Apna Apna
 - [ ]  And Life Goes On (1992)
 - [ ]  An Given Sunday
@@ -670,21 +670,21 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Annihilation 
 - [ ]  Apollo 13
 - [ ]  A Prophet (2009)
-- [ ]  Article 15
+- [x]  Article 15
 - [ ]  A Separation (2011)
 - [ ]  A Serbian Film (2010)
 - [ ]  A Serious Man(2009)
 - [ ]  Asoka
-- [ ]  Asuran
+- [x]  Asuran
 - [ ]  Athena 
-- [ ]  Avatar
-- [ ]  Avengers End Game
-- [ ]  Avengers Infinity War
-- [ ]  Awara Pagal Dewana
+- [x]  Avatar
+- [x]  Avengers End Game
+- [x]  Avengers Infinity War
+- [x]  Awara Pagal Dewana
 
 - [ ]  Babel
 - [ ]  Bacurau (2019)
-- [ ]  Bahubali - The Beginning and Conclusion
+- [x]  Bahubali - The Beginning and Conclusion
 - [ ]  Bandit Queen (1994)
 - [ ]  Baran (2001)
 - [ ]  Barbarian
@@ -695,15 +695,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Being John Malkovich
 - [ ]  Ben-hur
 - [ ]  Beyond Utopia
-- [ ]  Bhaag Milkha Bhaag
-- [ ]  Bhagham Bhag
-- [ ]  Bhool Bhulaiyaa
+- [x]  Bhaag Milkha Bhaag
+- [x]  Bhagham Bhag
+- [x]  Bhool Bhulaiyaa
 - [ ]  Big Fish
 - [ ]  Birth
-- [ ]  BlackBerry
-- [ ]  Black Friday - Anurag Kashyap
+- [x]  BlackBerry
+- [x]  Black Friday - Anurag Kashyap
 - [ ]  Black Swan (2010)
-- [ ]  Blade Runner (1982)
+- [x]  Blade Runner (1982)
 - [ ]  Blade Runner 2049 (2017)
 - [ ]  Blue Valentine (2010)
 - [ ]  Bombay
@@ -717,22 +717,22 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Cannibal Holocaust (1980)
 - [ ]  Capernaum
-- [ ]  Captain America 
-- [ ]  Captain America - Civil War
-- [ ]  Captain America - Winter Soldier
+- [x]  Captain America 
+- [x]  Captain America - Civil War
+- [x]  Captain America - Winter Soldier
 - [ ]  Carlos (2010)
 - [ ]  Casino Royale
-- [ ]  Catch Me If You Can
+- [x]  Catch Me If You Can
 - [ ]  Central Station (1998)
 - [ ]  Character (1997)
-- [ ]  Chak De India
-- [ ]  Challengers (2024)
-- [ ]  Chandni Chowk to China
+- [x]  Chak De India
+- [x]  Challengers (2024)
+- [x]  Chandni Chowk to China
 - [ ]  Chef (2014)
 - [ ]  Chhapa Kurishu
 - [ ]  Chhoti Si Baat
 - [ ]  Children Of Heaven (1997)
-- [ ]  Chup Chup Ke
+- [x]  Chup Chup Ke
 - [ ]  Citizenfour
 - [ ]  City of God (2002)
 - [ ]  Climates (2006)
@@ -749,20 +749,20 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Creation
 - [ ]  Crouching Tiger, Hidden Dragon (2000)
 
-- [ ]  Darlings
+- [x]  Darlings
 - [ ]  Days Of Heaven(1978)
-- [ ]  D Company
-- [ ]  Dear Dad
+- [x]  D Company
+- [x]  Dear Dad
 - [ ]  Decision To Leave
-- [ ]  De Dana dhan
+- [x]  De Dana dhan
 - [ ]  Deewar
-- [ ]  Delhi Belly (2011)
+- [x]  Delhi Belly (2011)
 - [ ]  Deliverance
 - [ ]  Dev D
-- [ ]  Dhrishyam
-- [ ]  Dil Chahta hai
+- [x]  Dhrishyam
+- [x]  Dil Chahta hai
 - [ ]  Dil Se
-- [ ]  Doctor Strange
+- [x]  Doctor Strange
 - [ ]  Do Dooni Char
 - [ ]  Dogtooth 
 - [ ]  Donnie Darko
@@ -771,55 +771,55 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Dunkirk 
 
 - [ ]  EE.MA.YAU
-- [ ]  Ek Deewana tha
+- [x]  Ek Deewana tha
 - [ ]  Ek Haseena thi
 - [ ]  Elite Squad (2007)
 - [ ]  Enemy (2014)
 - [ ]  English Vinglish 
-- [ ]  Eternal Sunshine of a Spotless Mind
+- [x]  Eternal Sunshine of a Spotless Mind
 
 - [ ]  Fahrenheit 9/11 (2004)
 - [ ]  Fantastic Mr. Fox (2009)
 - [ ]  Fargo (1996)
 - [ ]  Fast and Furious Franchise Movies (from Initial Years)
 - [ ]  Few Good Men
-- [ ]  Fight Club
+- [x]  Fight Club
 - [ ]  Fire (1996)
 - [ ]  Fireworks Wednesday (2006)
 - [ ]  Following (Christopher Nolan)
-- [ ]  Force
-- [ ]  Forensic
+- [x]  Force
+- [x]  Forensic
 - [ ]  Four Daughters
 - [ ]  Freddy
 - [ ]  Fury
 
 - [ ]  Gali Guleiyan
 - [ ]  Gandu(2010)
-- [ ]  Gangaajal
-- [ ]  Gangs of Wasseypur 1,2
-- [ ]  Garam Masala
+- [x]  Gangaajal
+- [x]  Gangs of Wasseypur 1,2
+- [x]  Garam Masala
 - [ ]  Gett: The Trial of Viviane Amsalem (2014)
-- [ ]  Ghazi Attack
-- [ ]  Ghuspaith between Borders (2023)
-- [ ]  Gifted
+- [x]  Ghazi Attack
+- [x]  Ghuspaith between Borders (2023)
+- [x]  Gifted
 - [ ]  Glengarry Glen Ross
-- [ ]  Go Goa Gone
-- [ ]  Goliyon Ki Raasleela Ram-Leela
+- [x]  Go Goa Gone
+- [x]  Goliyon Ki Raasleela Ram-Leela
 - [ ]  Gomorrah (2008)
 - [ ]  Gone Baby Gone (2007)
 - [ ]  Gone Girl
 - [ ]  Gone in sixty seconds 
 - [ ]  Good Fellas
-- [ ]  Good Will Hunting
+- [x]  Good Will Hunting
 - [ ]  Grandmother (2009)
-- [ ]  Gulaal - Anurag Kashyap
-- [ ]  Gully Boy
-- [ ]  Guardians of the Galaxy Vol. 1 and 2
+- [x]  Gulaal - Anurag Kashyap
+- [x]  Gully Boy
+- [x]  Guardians of the Galaxy Vol. 1 and 2
 - [ ]  Gurgaon
 
 - [ ]  Haasil
-- [ ]  Hacksaw Ridge
-- [ ]  Haider
+- [x]  Hacksaw Ridge
+- [x]  Haider
 - [ ]  Half Moon (Iranian Movie)
 - [ ]  Han Gong-ju (2013)
 - [ ]  Happy Together (1997)
@@ -830,59 +830,59 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Heat
 - [ ]  Hellaro
 - [ ]  Her
-- [ ]  Hera Pheri
+- [x]  Hera Pheri
 - [ ]  Heretic
-- [ ]  Hey Ram
+- [x]  Hey Ram
 - [ ]  HIT 1 and 2 (Telegu Version)
 - [ ]  Hiroshima Mon Amour
 - [ ]  Hotel Mumbai
 - [ ]  How to make millions before grandma dies
 
-- [ ]  Icendies
+- [x]  Icendies
 - [ ]  Il Divo (2008)
 - [ ]  Ilo Ilo (2013)
 - [ ]  I killed my mother
-- [ ]  Inception
+- [x]  Inception
 - [ ]  Indie Game
 - [ ]  Inside Out (2015)
 - [ ]  Inside Out 2
-- [ ]  Interstellar
+- [x]  Interstellar
 - [ ]  In the Mood for Love (2000)
-- [ ]  Invictus
-- [ ]  Iron Man
+- [x]  Invictus
+- [x]  Iron Man
 - [ ]  Irreversible
 - [ ]  I Saw the Devil (2010)
 - [ ]  It's a Wonderful life (1946)
 
 - [ ]  Jackie Brown (1997)
-- [ ]  Jay Bhim
-- [ ]  Jersey (Original Starring Nani)
-- [ ]  Jodha Akbar
-- [ ]  Johnny Gaddar
-- [ ]  John Wick
+- [x]  Jay Bhim
+- [x]  Jersey (Original Starring Nani)
+- [x]  Jodha Akbar
+- [x]  Johnny Gaddar
+- [x]  John Wick
 - [ ]  Joker
 - [ ]  Joyland
 
 - [ ]  Kadaisi Vivasayi
-- [ ]  Kagaaz Ke Phool
-- [ ]  Kahani 1, 2
-- [ ]  Kai Po Chhe
-- [ ]  Kalki 2898 AD
+- [x]  Kagaaz Ke Phool
+- [x]  Kahani 1, 2
+- [x]  Kai Po Chhe
+- [x]  Kalki 2898 AD
 - [ ]  Kaminey
-- [ ]  Kantara
+- [x]  Kantara
 - [ ]  Khamosh (1985)
 - [ ]  Khamoshi
-- [ ]  Khatta Meetha
-- [ ]  Kho Gaye Hum Kahaan
-- [ ]  Kill (2024)
+- [x]  Khatta Meetha
+- [x]  Kho Gaye Hum Kahaan
+- [x]  Kill (2024)
 - [ ]  Kinatay (2009)
 
-- [ ]  Lagaan
+- [x]  Lagaan
 - [ ]  La Haine (1995)
-- [ ]  Laila Majnu
-- [ ]  Lakshya
+- [x]  Laila Majnu
+- [x]  Lakshya
 - [ ]  Lawrence Of Arabia
-- [ ]  Leon : The Professional
+- [x]  Leon : The Professional
 - [ ]  Let the Right One In (2008)
 - [ ]  Life and a Day (2016)
 - [ ]  Life is Beautiful (1997)
@@ -893,157 +893,157 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Lost in Translation (Sofia Cappola)
 - [ ]  Lord of the Rings
 - [ ]  Love and Other Drugs
-- [ ]  Luck
+- [x]  Luck
 - [ ]  Luck By Chance
 - [ ]  Lucknow Central
 - [ ]  Lucy
  
 - [ ]  Mad Max: Fury Road (2015)
-- [ ]  Madras Cafe
-- [ ]  Madgaon Express (2024)
+- [x]  Madras Cafe
+- [x]  Madgaon Express (2024)
 - [ ]  Maestro (Brad Pitt)
-- [ ]  Maharaja
-- [ ]  Major
-- [ ]  Malamaal Weekly
+- [x]  Maharaja
+- [x]  Major
+- [x]  Malamaal Weekly
 - [ ]  Manchester by the Sea
 - [ ]  Manorama Six Feet Under
-- [ ]  Maqbool
-- [ ]  Margin Call
+- [x]  Maqbool
+- [x]  Margin Call
 - [ ]  Martian
-- [ ]  Masaan
+- [x]  Masaan
 - [ ]  May December (2023)
-- [ ]  Meet Joe Black (1998)
+- [x]  Meet Joe Black (1998)
 - [ ]  Meiyazhagan
-- [ ]  Memories of Murder (2003)
-- [ ]  Merry Christmas
+- [x]  Memories of Murder (2003)
+- [x]  Merry Christmas
 - [ ]  Mesrine: Killer Instinct (2008)
 - [ ]  Minari
 - [ ]  Mission: Impossible Movie Series
 - [ ]  Moneyball 
-- [ ]  Monica O My Darling
+- [x]  Monica O My Darling
 - [ ]  Monk and the Gun
-- [ ]  Monsoon Shootout
+- [x]  Monsoon Shootout
 - [ ]  Monster (by Koreeda)
 - [ ]  Mother India
 - [ ]  Mukundan Unnin Associates
 - [ ]  Mullholland Drive
-- [ ]  Munnabhai MBBS
-- [ ]  Murder 2
+- [x]  Munnabhai MBBS
+- [x]  Murder 2
 - [ ]  Mughal E Azam
-- [ ]  Mystic River (2003)
+- [x]  Mystic River (2003)
 
 - [ ]  Naan Kadavul (2009)
 - [ ]  Neighboring Sounds (2012)
-- [ ]  New York
+- [x]  New York
 - [ ]  Nightcrawler (2014)
 - [ ]  Nine Queens (2000)
 - [ ]  No Country for Old Men (2007)
-- [ ]  No Smoking
+- [x]  No Smoking
 - [ ]  Now You See Me 1 and 2
 
 - [ ]  Oasis (2002)
-- [ ]  October
+- [x]  October
 - [ ]  October Sky (1999)
 - [ ]  Offside (2006)
-- [ ]  Oldboy (2003)
+- [x]  Oldboy (2003)
 - [ ]  One Hour Photo
 - [ ]  Operation Romeo
-- [ ]  Oppenheimer
+- [x]  Oppenheimer
 
 - [ ]  Paheli by Amol Palekar
 - [ ]  Pan’s Labyrinth (2006)
-- [ ]  Parasite
-- [ ]  Parmanu
-- [ ]  Past Lives (2023)
+- [x]  Parasite
+- [x]  Parmanu
+- [x]  Past Lives (2023)
 - [ ]  Peppermint Candy
-- [ ]  Perfect Sense (2011)
-- [ ]  Phantom
+- [x]  Perfect Sense (2011)
+- [x]  Phantom
 - [ ]  Phantom Thread (2017)
 - [ ]  Pi (1998)
 - [ ]  Pihu
-- [ ]  PK
-- [ ]  Ponniyin Selvan I & II
-- [ ]  Prisoner (2013)
-- [ ]  Pulp Fiction
+- [x]  PK
+- [x]  Ponniyin Selvan I & II
+- [x]  Prisoner (2013)
+- [x]  Pulp Fiction
 - [ ]  Pyasa
 
 - [ ]  Quantum Of Solace
 - [ ]  Queen
 
-- [ ]  Raajneeti
-- [ ]  Raazi
-- [ ]  Rakht Charitra
-- [ ]  Rang De Basanti
+- [x]  Raajneeti
+- [x]  Raazi
+- [x]  Rakht Charitra
+- [x]  Rang De Basanti
 - [ ]  Raw (2016)
 - [ ]  Requiem for a Dream (2000)
 - [ ]  Return to Seoul
 - [ ]  Rocket Singh Salesman of the year
 - [ ]  Roja
-- [ ]  Run (2020 Aneesh Chaganty)
+- [x]  Run (2020 Aneesh Chaganty)
 - [ ]  Run Lola Run (1998)
 - [ ]  Rush
 - [ ]  Rust and Bone (2012)
 
-- [ ]  Sadgati (1981)
-- [ ]  Salaam Venky
+- [x]  Sadgati (1981)
+- [x]  Salaam Venky
 - [ ]  Salaam Bombay
 - [ ]  Salo or the 120 days of Sodom(1975)
-- [ ]  Sapta Sagaradaache Ello Side A & Side B (2023)
-- [ ]  Sardar Udhham Singh
-- [ ]  Sarkar
-- [ ]  Satya
-- [ ]  Scarface
+- [x]  Sapta Sagaradaache Ello Side A & Side B (2023)
+- [x]  Sardar Udhham
+- [x]  Sarkar
+- [x]  Satya
+- [x]  Scarface
 - [ ]  Scent of a Woman 
-- [ ]  Schindler's List
-- [ ]  Se7en
-- [ ]  Sehar (2005)
-- [ ]  Shadow Assasins (2022)
-- [ ]  Shahid (2013)
+- [x]  Schindler's List
+- [x]  Se7en
+- [x]  Sehar (2005)
+- [x]  Shadow Assasins (2022)
+- [x]  Shahid (2013)
 - [ ]  Shame (2011)
-- [ ]  Shangai
-- [ ]  Shershah
-- [ ]  Ship of Theseus (2012)
+- [x]  Shangai
+- [x]  Shershah
+- [x]  Ship of Theseus (2012)
 - [ ]  Shool
-- [ ]  Shootout at Lokhandwala
+- [x]  Shootout at Lokhandwala
 - [ ]  Shor in the City
 - [ ]  Showgirls(1995)
-- [ ]  Shutter Island 
-- [ ]  Sicario I & II
-- [ ]  Side Effects (2013)
+- [x]  Shutter Island 
+- [x]  Sicario I & II
+- [x]  Side Effects (2013)
 - [ ]  Silicon Cowboys
 - [ ]  Sins(2005)
-- [ ]  Sita Raman
-- [ ]  Siya (2022)
+- [x]  Sita Raman
+- [x]  Siya (2022)
 - [ ]  Skyfall
 - [ ]  Snatch (2000)
-- [ ]  Snowden
+- [x]  Snowden
 - [ ]  Snowtown (2011)
 - [ ]  Somewhere (Sofia Coppola)
-- [ ]  Soorarai Pottru 
-- [ ]  Special 26
+- [x]  Soorarai Pottru 
+- [x]  Special 26
 - [ ]  Spider Man - Across the Spider Verse
-- [ ]  Spider Man - No Way Home
+- [x]  Spider Man - No Way Home
 - [ ]  Spotlight
 - [ ]  Stronger
-- [ ]  Suraj Ka Saatva Ghoda
+- [x]  Suraj Ka Saatva Ghoda
 - [ ]  Swades
 - [ ]  Sweet Sixteen (2002)
 - [ ]  Sympathy for Mr. Vengeance (2002)
 
-- [ ]  Taare Zameen Par
-- [ ]  Table No. 21 
-- [ ]  Talvar
+- [x]  Taare Zameen Par
+- [x]  Table No. 21 
+- [x]  Talvar
 - [ ]  Taste Of Cherry (1997)
-- [ ]  Tasveer 8x10
+- [x]  Tasveer 8x10
 - [ ]  Taxi (2015)
-- [ ]  Taxi Driver (2017)
+- [x]  Taxi Driver (2017)
 - [ ]  Terms and Conditions may apply
-- [ ]  Tenet
+- [x]  Tenet
 - [ ]  The American President
-- [ ]  The Attacks Of 26/11
+- [x]  The Attacks Of 26/11
 - [ ]  The Banshees Of Inisherin(2022)
-- [ ]  The Batman (2022)
-- [ ]  The Beautiful Mind 
+- [x]  The Batman (2022)
+- [x]  The Beautiful Mind 
 - [ ]  The Beat That My Heart Skipped (2005)
 - [ ]  The Best of Youth (2003)
 - [ ]  The Big Lebowski (1998)
@@ -1055,65 +1055,65 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Consequences of Love (2004)
 - [ ]  The Cow (1969)
 - [ ]  The Curious Case of Benjamin Button 
-- [ ]  The Dark Knight Trilogy - (Batman Begins, The Dark Knight, The Dark Knight Rises)
+- [x]  The Dark Knight Trilogy - (Batman Begins, The Dark Knight, The Dark Knight Rises)
 - [ ]  The Da Vinci Code
-- [ ]  The Departed
+- [x]  The Departed
 - [ ]  The Devil’s Backbone (2001)
 - [ ]  The Edge of Heaven (2007)
 - [ ]  The Founder 
 - [ ]  The Gangster, the Cop, the Devil (2019)
-- [ ]  The Godfather I & II
-- [ ]  The Girl Next Door - It's a fun movie.
-- [ ]  The Girl With the Dragon Tattoo
+- [x]  The Godfather I & II
+- [x]  The Girl Next Door - It's a fun movie.
+- [x]  The Girl With the Dragon Tattoo
 - [ ]  The Great Beauty (2013)
 - [ ]  The Great Indian Kitchen
 - [ ]  The Great Hack
-- [ ]  The Green Mile
+- [x]  The Green Mile
 - [ ]  The Hidden Blade (2004)
 - [ ]  The Holdovers 
-- [ ]  The Hunt (2012)
-- [ ]  The Imitation Game
+- [x]  The Hunt (2012)
+- [x]  The Imitation Game
 - [ ]  The Impossible (2012)
 - [ ]  The Intern 
 - [ ]  The Internship
 - [ ]  The Irishman
 - [ ]  The Jungle Book (2016)
-- [ ]  The Killer
+- [x]  The Killer
 - [ ]  The Last House on the Left
 - [ ]  The Last Jedi
 - [ ]  The Last King of Scotland (2006)
 - [ ]  The Last Samurai
 - [ ]  The Last Temptation Of Christ(1988)
 - [ ]  The Legend of Bhagat Singh
-- [ ]  The Lighthouse (2019) - Do not f*#%ing understood it.
+- [x]  The Lighthouse (2019) - Do not f*#%ing understood it.
 - [ ]  The Lives of Others (2006)
 - [ ]  The Lizard (2004)
 - [ ]  The Man From Earth
 - [ ]  The Man Who Knew Infinity
 - [ ]  The Master (2012)
-- [ ]  The Matrix Franchise
+- [x]  The Matrix Franchise
 - [ ]  The Old Oak
 - [ ]  The Patience Stone (2013)
-- [ ]  The Perks of Being a Wallflower
+- [x]  The Perks of Being a Wallflower
 - [ ]  The Pianist
 - [ ]  The Pirates of Silicon Valley
 - [ ]  The Platform (2019)
-- [ ]  The Prestige
+- [x]  The Prestige
 - [ ]  The Proposition (2005)
 - [ ]  The Pursuit of Happyness
 - [ ]  The Raid (Part 1 & 2)
 - [ ]  The Revenant (2015)
 - [ ]  The Runner (1984) 
 - [ ]  The Salesman (2006)
-- [ ]  The Secret in their eyes (2009)
+- [x]  The Secret in their eyes (2009)
 - [ ]  The Secret Life Of Walter Witty
 - [ ]  The Secret rules of modern living : the algorithms
 - [ ]  The Seed of the Sacred Fig
-- [ ]  The Shawshank Redemption
+- [x]  The Shawshank Redemption
 - [ ]  The Sixth Sense
 - [ ]  The Skin I Live In
 - [ ]  The Songs Of Sparrows (2008)
-- [ ]  The Stoneman Murders
+- [x]  The Stoneman Murders
 - [ ]  The Stoning of Soroya M. (2008)
 - [ ]  The Texas Chainsaw Massacre(1974)
 - [ ]  The Thing
@@ -1127,78 +1127,78 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The White Meadows (2009)
 - [ ]  The Wind Will Carry Us (1999)
 - [ ]  The Witch (2015)
-- [ ]  The Wolf of Wall Street (2013)
+- [x]  The Wolf of Wall Street (2013)
 - [ ]  The Yellow Sea (2010)
 - [ ]  The Zone of Interest
 - [ ]  There Will Be Blood (2007)
 - [ ]  The World at War
-- [ ]  Thor Ragnarok
+- [x]  Thor Ragnarok
 - [ ]  Three Monkeys (2008)
 - [ ]  Three Of Us
 - [ ]  Through the Olive Trees (1994)
-- [ ]  Titanic 
+- [x]  Titanic 
 - [ ]  Titane
 - [ ]  Tom at the farm
 - [ ]  Too Old To Die Young
-- [ ]  Top Gun Maverick
+- [x]  Top Gun Maverick
 - [ ]  Trainspotting (1996)
 - [ ]  Turtles Can Fly (2005)
 
-- [ ]  Udaan
-- [ ]  Uri : The Surgical Strike
+- [x]  Udaan
+- [x]  Uri : The Surgical Strike
 - [ ]  Uzak
 
-- [ ]  V
-- [ ]  Vash (2023)
+- [x]  V
+- [x]  Vash (2023)
 - [ ]  Vicky Donor
 - [ ]  Videodrome(1983)
-- [ ]  Viduthalai (2023)
-- [ ]  Vikram
-- [ ]  Visaranai (2015)
+- [x]  Viduthalai (2023)
+- [x]  Vikram
+- [x]  Visaranai (2015)
 
-- [ ]  Wall Street 
+- []  Wall Street 
 - [ ]  Wake Up Sid
-- [ ]  War
+- [x]  War
 - [ ]  Watchmen
 - [ ]  What Comes Around (2023)
 - [ ]  Where Is the Friend's House? (1987)
 - [ ]  White God (2014)
 - [ ]  White Material (2009)
-- [ ]  Whiplash (2014)
+- [x]  Whiplash (2014)
 - [ ]  Wild Tales (2014)
-- [ ]  Women Talking
+- [x]  Women Talking
 
 - [ ]  Yi Yi
 - [ ]  Yu Hota Toh Kya Hota
 - [ ]  Y Tu Mamá También (2001)
 - [ ]  Yuva
 
-- [ ]  Zero Dark Thirty
-- [ ]  Zindagi Na Milegi Dobara 
-- [ ]  Zodiac
+- [x]  Zero Dark Thirty
+- [x]  Zindagi Na Milegi Dobara 
+- [x]  Zodiac
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 
 - [ ]  13 Reasons Why
-- [ ]  1899
+- [x]  1899
 
 - [ ]  Altered Carbon
-- [ ]  Aspirants
-- [ ]  Asur
+- [x]  Aspirants
+- [x]  Asur
 
 - [ ]  Barry
-- [ ]  Baby Reinder 
+- [x]  Baby Reinder 
 - [ ]  Better Call Saul
 - [ ]  Black Mirror
-- [ ]  Breaking Bad
+- [x]  Breaking Bad
 - [ ]  Broadchurch
 
 - [ ]  CAT
 - [ ]  Chernobyl
-- [ ]  Criminal Injustice 
+- [x]  Criminal Injustice 
 - [ ]  Curb your enthusiasm
 
-- [ ]  Dahan
+- [x]  Dahan
 - [ ]  Daredevil
 - [ ]  Dark
 - [ ]  Dark Matter
@@ -1209,64 +1209,64 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Fauda
 - [ ]  Fleabag
-- [ ]  From 
+- [x]  From 
 
 - [ ]  Game of thrones
 - [ ]  Gotham
 
-- [ ]  Industry
+- [x]  Industry
 
 - [ ]  Jack Ryan
 
-- [ ]  Kota Factory
+- [x]  Kota Factory
 
 - [ ]  Love Death & Robots
 - [ ]  Line Of Duty
 
 - [ ]  Mad Men
-- [ ]  Maharani
-- [ ]  Mare of Easttown
-- [ ]  Manhunt Unabomber
-- [ ]  Mind Hunters
-- [ ]  Mirzapur
-- [ ]  Money Heist
+- [x]  Maharani
+- [x]  Mare of Easttown
+- [x]  Manhunt Unabomber
+- [x]  Mind Hunters
+- [x]  Mirzapur
+- [x]  Money Heist
 - [ ]  Mr Robot
 
-- [ ]  Olive Kitteridge
+- [x]  Olive Kitteridge
 
 - [ ]  Prison Break
 - [ ]  Presumed Innocent
 
 - [ ]  Rectify
-- [ ]  Rocket Boys
+- [x]  Rocket Boys
 - [ ]  Rudra
 
-- [ ]  Scam 1992
+- [x]  Scam 1992
 - [ ]  Severance 
 - [ ]  Sharp Objects
 - [ ]  Shantaram
 - [ ]  Silicon Valley
 - [ ]  Sliders
 - [ ]  Slow Horses
-- [ ]  Special Ops 1,1.5
-- [ ]  Stranger Things
-- [ ]  Succession - HBO Max
+- [x]  Special Ops 1,1.5
+- [x]  Stranger Things
+- [x]  Succession - HBO Max
 - [ ]  Supernatural
 
-- [ ]  The 3 Body Problem
-- [ ]  The Bear
-- [ ]  The Boys
+- [x]  The 3 Body Problem
+- [x]  The Bear
+- [x]  The Boys
 - [ ]  The Bridge
 - [ ]  The Chef Show
 - [ ]  The Curse Een
-- [ ]  The Family Man
+- [x]  The Family Man
 - [ ]  The Good Doctor
 - [ ]  The Handmaid's Tale
 - [ ]  The House Of Dragon
-- [ ]  The Knick
+- [x]  The Knick
 - [ ]  The Last Kingdom
-- [ ]  The Last of Us
-- [ ]  The Leftovers
+- [x]  The Last of Us
+- [x]  The Leftovers
 - [ ]  The Lost Room
 - [ ]  The Man in the High Castle
 - [ ]  The Night off
@@ -1275,7 +1275,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Terminal List
 - [ ]  The Undoing
 - [ ]  The West Wing
-- [ ]  The Wire
+- [x]  The Wire
 - [ ]  True Detective
 
 - [ ]  Watchmen
@@ -1283,10 +1283,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 
 - [ ]  Bharat Ek Khoj (Directed by Shyam Benegal) - is a historical drama based on Jawaharlal Nehru's book The Discovery of India.
-- [ ]  BR Chopra's Mahabharat
+- [x]  BR Chopra's Mahabharat
 - [ ]  Brooklyn Nine Nine
 - [ ]  Ozark
-- [ ]  Ramanand Sagar's Ramayan
+- [x]  Ramanand Sagar's Ramayan
 - [ ]  Rick And Morty - Animated Show
 - [ ]  The Office
 - [ ]  The Big Bang Theory
@@ -1295,7 +1295,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 ## [Documentaries](https://github.com/VinayMayavanshi13/CatalogueOfThings#Documentaries)
 
 - [ ]  14 Peaks
-- [ ]  20 Days in Mariupol 
+- [x]  20 Days in Mariupol 
 
 - [ ]  Abstract : The Art Of Design
 - [ ]  American Factory <br/>
@@ -1316,7 +1316,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Deep Web
 
-- [ ]  Exit Through Gift Shop (2010)
+- [x]  Exit Through Gift Shop (2010)
 - [ ]  Expedition Happiness
 
 - [ ]  Formula 1 Drive to Survive
@@ -1382,10 +1382,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Summit <br/>
 - In August 2008, 22 climbers met on High Camp of K2, the last stop before the summit. 48 hours later, 11 had been killed. At the heart of the film is a mystery about one extraordinary man–Ger McDonnell, the first Irishman to summit K2.
 - [ ]  The Tinder Swindler
-- [ ]  Ticked (2016)
+- [x]  Ticked (2016)
 
 - [ ]  We are Legion
-- [ ]  Who is America
+- [x]  Who is America
 
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
