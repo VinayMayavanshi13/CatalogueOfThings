@@ -20,6 +20,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  1Q84 - Murakami
 - [ ]  7 Strategies for Wealth & Happiness - Jim Rohn
 
+- [ ]  A Brief History of Intelligence_ Evolution, AI, and the Five Break - Max Bennet
 - [ ]  A complaint free world - Will Bowen
 - [ ]  Against the Odds: An Autobiography -- James Dyson
 - [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
@@ -44,9 +45,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Atlas Shrugged
 - [ ]  A Thousand Splendid Suns - Khaled Hosseini
 - [ ]  A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
-- [ ]  A Thousand Brains - Jeff Hawkins
 - [ ]  Atonement - Ian Mcewan
-- [ ]  Autobiography of a Yogi - Paramhansa Yogananda
+- [x]  Autobiography of a Yogi - Paramhansa Yogananda
 - [ ]  Awareness - Anthony De Mello
 - [ ]  A Wrinkle in Time - Madeleine L'Engle
 
@@ -75,7 +75,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Cat’s Cradle by Kurt Vonnegut
 - [ ]  Catching Fire - Richard Wrangham
 - [ ]  Carnegie by Peter Krass 
-- [ ]  ChanakyaNeeti - B. K. Chaturvedi
+- [x]  ChanakyaNeeti - B. K. Chaturvedi
+- [x]  Chanakya Neeti - Radhakrishnan Pillai
 - [ ]  Chatter - Ethan Kross
 - [ ]  Clear and Simple as the Truth - Francis-Noël Thomas
 - [ ]  City of Glass by Paul Auster
@@ -86,6 +87,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Conversations with Wilder - Billy Wilder and Cameron Crowe
 - [ ]  Coolidge by Amity Shlaes
 - [ ]  Cosmocomics by Italo Calvino
+- [x]  Courage to be Disliked - Fumitake Koga and Ichiro Kishimi
 - [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
 
 - [ ]  Daily Rituals - Mason Currey
@@ -167,14 +169,16 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
 - [ ]  How to avoid a climate disaster - Bill Gates
 - [ ]  How to bake π - Eugenia Cheng
+- [x]  How to Be Miserable in Your Twenties - Randy J. Paterson
 - [ ]  How to build this - Guy Raz
 - [ ]  How To Fail At Almost Everything & Still Win Big - Scott Adams
 - [ ]  How to Hide an Empire - Daniel Immerwahr
 - [ ]  How to lie with statistics - Darrel Huff
 - [ ]  How to Live - Sarah Bakewell
 - [ ]  How To Stop Time - Matt Haig
-- [ ]  How to Win friends and Influence People - Dale Carnegie
+- [x]  How to Win friends and Influence People - Dale Carnegie
 - [ ]  How to Write Short - Roy Peter Clarke
+- [x]  How Will You Measure Your Life? - Clayton Christensen, James Allworth, and Karen Dillon
 - [ ]  Humiliation and The Anatomy of Disgust - William Ian Miller
 - [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
 
@@ -220,18 +224,22 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore
 - [ ]  Launch - Jeff Walker
 - [ ]  Laws of Human Nature - Robert Greene
+- [x]  Let's Talk Mutual Funds - Monika Halan
 - [ ]  Letters From A Stoic - Seneca
 - [ ]  Lies My Teacher Told Me - James W Loewen
 - [ ]  Life Is Elsewhere - Milan Kundera
 - [ ]  Lifespan - David Sinclair
+- [x]  Lisbeth Salander : Secrets Of The Girl With The Dragon Tattoo - Oxbrow, Mark Hellstrom and Kyra
 - [ ]  Logicomix an Epic Search for Trurh: An Epic Search for Truth
 - [ ]  Loonshots - Safi Bahcall
 
 - [ ]  Machete Season - Jean Hatzfeld (A short book about the Rwandan genocide)
 - [ ]  Mad Money Journey - Mehrab Irani
+- [ ]  Make it Stick - Henry L. Roediger III, Mark A. McDaniel, and Peter C. Brown
 - [ ]  Man And His Symbols - Carl Jung
 - [ ]  Mandate: Will of the People by Vir Sanghvi
 - [ ]  Man’s Search for Meaning - Viktor E.Frankl
+- [ ]  Masala Lab : The Science of Indian Cooking - Krish Ashok
 - [ ]  Masters of Doom - David Kushner 
 - [ ]  Mathematics: A Very Short Introduction by Timothy Gowers
 - [ ]  Max Planck: Driven by Vision, Broken by War by Brandon Brown
@@ -252,16 +260,20 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model - Richard Schwartz
 - [ ]  Nobody Wants to Read Your Sh*t - Steven Pressfield
 - [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
+- [x]  No One Belongs Here More Than You - Miranda July
 - [ ]  Not Your Usual Founding Father: Selected Readings from Benjamin Franklin by Ben Franklin and Edmund Morgan 
 
 - [ ]  Ogilvy on Advertising in the Digital Age by Miles Young
+- [x]  On Earth We're Briefly Gorgeous Novel - Ocean Vuong
 - [ ]  One Hundred Years of Solitude - Gabriel Garcia Marquez and Gregory Rabassa
 - [ ]  Only the Paranoid Survive - Andy Grove
+- [x]  Onn The Shortness Of Life Seneca
 - [ ]  On Writing: A Memoir of the Craft - Stephen King
 - [ ]  On Writing Well - William Zinsser
 - [ ]  Open - Andre Agassi
 - [ ]  Origin Story - David Christain
 - [ ]  Our Final Invention - James Barrat
+- [x]  Outlive - Peter Attia
 
 - [ ]  Pandeymonium: Piyush Pandey On Advertising by Piyush Pandey
 - [ ]  Perfectly Reasonable Deviations from the Beaten Track by Richard Feynman
@@ -275,6 +287,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
 - [ ]  Prisoners of Geography - Tim Marshall
 - [ ]  Probably Approximately Correct - Leslie Valiant
+- [x]  Psychology - Peter O. Gray
 - [ ]  Purple Cow by Seth Godin
 
 - [ ]  Quantum Mechanics The Theoretical Minimum - Leonard Susskind & Art Friedman
@@ -304,6 +317,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Shuggie Bain - Douglas Stuart
 - [ ]  Social Animal by David Brooks
 - [ ]  Socratic Selling - Kevin Daley
+- [x]  Soft Skills The Software Developer's Life Manual - John Sonmez
 - [ ]  So Good They Can’t Ignore You - Cal Newport
 - [ ]  Some Main Problems of Philosophy - G.E.Moore
 - [ ]  Song Of Drapaudi - Ira Mukhoty 
@@ -329,16 +343,17 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Trillion Dollar Coach: The Leadership Playbook That Builds Elite Teams - Eric Schmidt, Jonathan Rosenberg, and Alan Eagle
 - [ ]  The 100$ Startup - Chris Guillebeau
  
-- [ ]  The 48 Laws Of Power - Robert Greene
+- [x]  The 48 Laws Of Power - Robert Greene
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need - Daniel H. Pink
 - [ ]  The Alchemist - Paulo Coelho
-- [ ]  The Almanack Of Naval Ravikant - Eric Jorgenson
+- [x]  The Almanack Of Naval Ravikant - Eric Jorgenson
 - [ ]  The Argumentative Indian by Amartya Sen
 - [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
 - [ ]  The Art of Possibility - Benjamin Zander & Rosamund Zander
 - [ ]  The Art of Readable Writing: With the Flesch Readability Formula
 - [ ]  The Art of Strategy - Avinash J Dixit & Barry J Nalebuff
 - [ ]  The Art of War - Sun Tzu
+- [ ]  The Astavakra Mahageeta, Vol 1
 - [ ]  The Automatic Millionaire - David Bach
 - [ ]  The Ayatollah Begs to Differ by Hooman Majd
 
@@ -351,10 +366,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Blue Zones Kitchen - Dan Buettner
 - [ ]  The Big Picture - Sean Carrol
 - [ ]  The Body - Bill Bryson
-- [ ]  The Body Keeps The Score - Bessel Van Der Kolk
+- [x]  The Body Keeps The Score - Bessel Van Der Kolk
 - [ ]  The Book Of Dust - Philip Pullman
 - [ ]  The Brand Flip - Marty Neumeier
-- [ ]  The Brief History of Nearly Everthing - Bill Bryson
+- [x]  The Brief History of Nearly Everthing - Bill Bryson
 - [ ]  The Brilliant life of Eudona Lioneysett - Annie Lyons
 - [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
 
@@ -374,6 +389,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Craft - John Dickie
 
 - [ ]  The Dawn of Everything - David Graeber and David Wengrow
+- [x]  The Diabetes Code - Dr Jason Fung
 - [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
 - [ ]  The Dip - Seth Godin
 
@@ -397,6 +413,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Fountainhead - Ayn Rand
 - [ ]  The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny - William Straus and Neil Howe
 
+- [x]  The Garuda Purana - Ernest Wood
 - [ ]  The Glass Bead Game - Hermann Hesse
 - [ ]  The Goal - Eliyahu Goldratt
 - [ ]  The Gray Lady Winked - Ashley Rindsberg
@@ -419,11 +436,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Humans - Matt Haig
 - [ ]  The Hungry Brain - Stephan J Guyeney
 
+- [x]  The Immortals Of Meluha - Amish Tripathi
 - [ ]  The Internet of Money Volume 1 - Andreas Antonopolous
 - [ ]  The Interpretation of Dreams - Sigmund Freud
 - [ ]  The Invention of Nature - Andrea Wulf
 
 - [ ]  The Journalist and the Murderer + Janet Malcolm
+- [x]  The Kautilya Arthashastra - Professor Kangle
 
 - [ ]  The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965 by Paul Reid and William Manchester
 - [ ]  The Last Question - Isaac Asimov
@@ -431,7 +450,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Lean Startup - Eric Ries
 - [ ]  The Left Hand of Darkness - Ursula K. Le Guin
 - [ ]  The Lessons of History - Ariel Durant & Will Durant
-- [ ]  The Life of Sir William Osler by Harvey Cushing
+- [ ]  The Life of Sir William Osler - Harvey Cushing
+- [x]  The Little Book of Common Sense Investing - John Bogle
 - [ ]  The Little book that beats the market - Joel Greenblatt
 - [ ]  The Lives of the Most Excellent Painters, Sculptors, and Architects by Giorgio Vasari
 - [ ]  The Lord of the Rings - JRR Tolkien
@@ -448,10 +468,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Mom Test - Rob Fitzpatrick
 - [ ]  The Mosquito: A Human History of Our Deadliest Predator by Timothy C. Winegard
 - [ ]  The Mountain Is You - Brianna Wiest.
+- [x]  The Mythical Man-Month Essays on Software Engineering - Fred Brooks.
 
 - [ ]  The Nature of Mathematical Modeling - Neil Gershenfeld
 - [ ]  The Nicomachean Ethics - Aristotle
+- [x]  The Norton Psychology Reader
 
+- [x]  The Obesity Code - Dr Jason Fung
 - [ ]  The Order of Time - Carlo Rovelli
 - [ ]  The Origins of Virtue: Human Instincts and the Evolution of Cooperation -- Matt Ridley
 - [ ]  The Oxford Handbook of Philosophy of Mathematics and Logic
@@ -464,12 +487,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
 - [ ]  The Prophet by Kahlil Gibran
 - [ ]  The Psychedelic Explorer’s Guide - James Fadiman
+- [x]  The Psychology of Money - Morgan Housel
 - [ ]  The Push Man and Other Stories by Yoshihiro Tatsumi
 
 - [ ]  The Rational Optimist: How Prosperity Evolves -- Matt Ridley
 - [ ]  The Red Queen: Sex and the Evolution of Human Nature -- Matt Ridley
 - [ ]  The Remains of the day - Kazuo Ishiguro
 - [ ]  The Republic - Plato
+- [x]  The Richest Man in Babylon - George S. Clason
 - [ ]  The Ride of a lifetime - Robert Iger
 - [ ]  The Rise of Superman - Steven Kotler
 - [ ]  The Road Less Travelled - M. Scott Peck
@@ -517,6 +542,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
 
 - [ ]  This Is How It Always Is - Laurie Frankel
+- [ ]  This Will Make You Smarter - John Brockman
 - [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
 - [ ]  Thus Spoke Zarathustra - Friedrich Nietzsche
 - [ ]  Tintin and the Secret of Literature by Tom McCarthy
@@ -524,6 +550,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Titan: The Life of John D. Rockefeller - Ron Cherow
 - [ ]  Toba Tek Singh by Saadat Hasan Manto
 - [ ]  To Kill a Mockingbird by Harper Lee 
+- [x]  Tools Of Titans - Tim Ferris
 - [ ]  Tough Jews - Rich Cohen
 - [ ]  Train To Pakistan - Khushwant Singh
 - [ ]  Trick Mirror: Reflections on Self-Delusion by Jia Tolentino
@@ -539,6 +566,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Usne Kaha Tha Aur Anya Kahaniyaan - Charndradhar Sharma Guleri
 
 - [ ]  Verity - Colleen Hoover
+- [x]  Vishnu Purana - Bibek Debroy
 - [ ]  Visual Complex Analysis - Tristan Needham
 - [ ]  Visual Complex Functions - Elias Wegert
 
@@ -552,6 +580,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  What Happened To You - Dr Bruce Perry
 - [ ]  What I Talk About When I Talk About Running - Haruki Murakami.
 - [ ]  What Makes Sammy Run? - Budd Schulberg
+- [x]  What Smart Students Know - Adam Robinson
 - [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
 - [ ]  What we owe to the future - William MacAskill
 - [ ]  When breathe becomes air - By Paul Kalanithi
@@ -560,6 +589,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  White Lotus - Osho
 - [ ]  White Nights - Fyodor Dostoevsky
 - [ ]  Wilderness Essays - Epictitus
+- [x]  Wings Of Fire - APJ Abdul Kalam and Arun Tiwari
 - [ ]  Win Without Pitching Manifesto - Blair Enns
 - [ ]  White Mughals - William Dalrymple
 - [ ]  Who Moved My Cheese - Dr Spencer Johnson
@@ -575,7 +605,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Zen And the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
 - [ ]  Zen In The Art Of Writing - Ray Bradbury
-- [ ]  Zero to One  - Blake Masters and Peter Thiel
+- [x]  Zero to One  - Blake Masters and Peter Thiel
 
 ### Graphic Novels
 
