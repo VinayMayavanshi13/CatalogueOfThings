@@ -20,7 +20,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  1Q84 - Murakami
 - [ ]  7 Strategies for Wealth & Happiness - Jim Rohn
 
-- [ ]  A Brief History of Intelligence_ Evolution, AI, and the Five Break - Max Bennet
+- [x]  A Brief History of Intelligence_ Evolution, AI, and the Five Break - Max Bennet
 - [ ]  A complaint free world - Will Bowen
 - [ ]  Against the Odds: An Autobiography -- James Dyson
 - [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
@@ -118,6 +118,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Essence of Indian Art - B. N. Goswamy
 - [ ]  Estee: A Success Story Hardcover – Estee Lauder
 - [ ]  Eugene Meyer by Merlo John Pusey
+- [x]  Everybody Lies - Seth Stephens-Davidowitz
 - [ ]  Everybody Writes - Ann Handley
 
 - [ ]  Fahrenheit 451 by Ray Bradbury
@@ -175,6 +176,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  How to Hide an Empire - Daniel Immerwahr
 - [ ]  How to lie with statistics - Darrel Huff
 - [ ]  How to Live - Sarah Bakewell
+- [x]  How to read a book - Mortimer J Adler and Charles Van Doren
 - [ ]  How To Stop Time - Matt Haig
 - [x]  How to Win friends and Influence People - Dale Carnegie
 - [ ]  How to Write Short - Roy Peter Clarke
@@ -183,6 +185,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hyperion (Hyperion Cantos Book 1) - Dan Simmons
 
 - [ ]  I Am That - Nisargadatta Maharaj
+- [x]  I Can Read You Like A Book - Gregory Hartley
 - [ ]  I Contain Multitudes - Ed Yong
 - [ ]  I Don't Want To Talk About It - Terrence Real
 - [ ]  If You Want To Write - Brenda Ueland
@@ -235,11 +238,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Machete Season - Jean Hatzfeld (A short book about the Rwandan genocide)
 - [ ]  Mad Money Journey - Mehrab Irani
-- [ ]  Make it Stick - Henry L. Roediger III, Mark A. McDaniel, and Peter C. Brown
+- [x]  Make it Stick - Henry L. Roediger III, Mark A. McDaniel, and Peter C. Brown
 - [ ]  Man And His Symbols - Carl Jung
 - [ ]  Mandate: Will of the People by Vir Sanghvi
 - [ ]  Man’s Search for Meaning - Viktor E.Frankl
-- [ ]  Masala Lab : The Science of Indian Cooking - Krish Ashok
+- [x]  Masala Lab : The Science of Indian Cooking - Krish Ashok
 - [ ]  Masters of Doom - David Kushner 
 - [ ]  Mathematics: A Very Short Introduction by Timothy Gowers
 - [ ]  Max Planck: Driven by Vision, Broken by War by Brandon Brown
@@ -333,6 +336,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Superforecasting: The Art and Science of Prediction by Dan Gardner and Philip E. Tetlock
 - [ ]  Super Intelligence - Nick Bostrom
 - [ ]  Suraj Ka Saatva Ghoda - Dharamvir Bharati
+- [x]  Surrounded by Idiots - Thomas Erikson
+- [x]  Surrounded by Psychopaths - Thomas Erikson
 
 - [ ]  Talent is Never Enough - John C. Maxwell
 - [ ]  Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell
@@ -342,18 +347,21 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Teradyne the First Forty Years - Frederick Van Veen
 - [ ]  Trillion Dollar Coach: The Leadership Playbook That Builds Elite Teams - Eric Schmidt, Jonathan Rosenberg, and Alan Eagle
 - [ ]  The 100$ Startup - Chris Guillebeau
+- [x]  The 108 Upanishads - Roshen Dalal
  
 - [x]  The 48 Laws Of Power - Robert Greene
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need - Daniel H. Pink
 - [ ]  The Alchemist - Paulo Coelho
 - [x]  The Almanack Of Naval Ravikant - Eric Jorgenson
 - [ ]  The Argumentative Indian by Amartya Sen
+- [x]  The Art and Craft of Problem Solving - Paul Zietz
 - [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
 - [ ]  The Art of Possibility - Benjamin Zander & Rosamund Zander
+- [x]  The Art Of Public Speaking - Dale Carnegie
 - [ ]  The Art of Readable Writing: With the Flesch Readability Formula
 - [ ]  The Art of Strategy - Avinash J Dixit & Barry J Nalebuff
 - [ ]  The Art of War - Sun Tzu
-- [ ]  The Astavakra Mahageeta, Vol 1
+- [x]  The Astavakra Mahageeta, Vol 1
 - [ ]  The Automatic Millionaire - David Bach
 - [ ]  The Ayatollah Begs to Differ by Hooman Majd
 
@@ -482,6 +490,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Theory Of Everything - JED McKenna
 
 - [ ]  The Painted Bird - Jerzy Kosinski
+- [x]  The Phoenix Project - Gene Kim
 - [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
 - [ ]  The Pricipice - Toby Ord
 - [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
@@ -603,7 +612,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Yuganta - Irawati Karve
 - [ ]  You Are a Badmass at Making Money - Jen Sincero
 
-- [ ]  Zen And the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
+- [x]  Zen And the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
 - [ ]  Zen In The Art Of Writing - Ray Bradbury
 - [x]  Zero to One  - Blake Masters and Peter Thiel
 
@@ -634,6 +643,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 
+- [ ]  12 O Clock
 - [x]  12th Fail
 - [ ]  13 (2010)
 - [ ]  2001: A Space Odyssey
@@ -648,13 +658,16 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Aakrosh
 - [ ]  Aamir
 - [ ]  Aandi (1975)
+- [ ]  Aavesham
 - [ ]  About Elly (2009)
 - [ ]  About Time
 - [ ]  Acopalypse Now
 - [ ]  A Death In The Gunj
 - [ ]  Aftersun
+- [ ]  A Few Good Men
 - [x]  Aligarh
 - [ ]  A Girl Walks Home Alone at Night (2014)
+- [x]  Alita: Battle Angel
 - [x]  All India Rank
 - [x]  All Quite on the Western Front (2022)
 - [x]  Amar Singh Chamkila
@@ -667,7 +680,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  An Given Sunday
 - [ ]  Ankhon Dekhi
 - [ ]  Ankur
-- [ ]  Annihilation 
+- [ ]  Annihilation
+- [x]  Anora 
 - [ ]  Apollo 13
 - [ ]  A Prophet (2009)
 - [x]  Article 15
@@ -676,7 +690,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  A Serious Man(2009)
 - [ ]  Asoka
 - [x]  Asuran
-- [ ]  Athena 
+- [ ]  Athena
+- [ ]  Atonement 
 - [x]  Avatar
 - [x]  Avengers End Game
 - [x]  Avengers Infinity War
@@ -707,9 +722,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Blade Runner 2049 (2017)
 - [ ]  Blue Valentine (2010)
 - [ ]  Bombay
+- [x]  Boyhood
 - [ ]  Braveheart
 - [ ]  Brick (2005)
-- [ ]  Bridge of Spies
+- [x]  Bridge of Spies
 - [ ]  Buddha Collapsed Out Of Shame (2007)
 - [ ]  Bullet Train
 - [ ]  Bullhead (2011)
@@ -742,7 +758,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Columbus
 - [ ]  Conclave
 - [ ]  Confessions (2010)
-- [ ]  Conjuring Franchise
+- [x]  Conjuring Franchise
 - [ ]  Constantine
 - [ ]  Cotton Tail
 - [ ]  Court (Marathi)
@@ -773,8 +789,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  EE.MA.YAU
 - [x]  Ek Deewana tha
 - [ ]  Ek Haseena thi
+- [ ]  Ek thi Daayan
 - [ ]  Elite Squad (2007)
-- [ ]  Enemy (2014)
+- [x]  Enemy (2014)
 - [ ]  English Vinglish 
 - [x]  Eternal Sunshine of a Spotless Mind
 
@@ -782,12 +799,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fantastic Mr. Fox (2009)
 - [ ]  Fargo (1996)
 - [ ]  Fast and Furious Franchise Movies (from Initial Years)
-- [ ]  Few Good Men
 - [x]  Fight Club
 - [ ]  Fire (1996)
 - [ ]  Fireworks Wednesday (2006)
 - [ ]  Following (Christopher Nolan)
 - [x]  Force
+- [ ]  Ford V Ferrari
 - [x]  Forensic
 - [ ]  Four Daughters
 - [ ]  Freddy
@@ -807,7 +824,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Goliyon Ki Raasleela Ram-Leela
 - [ ]  Gomorrah (2008)
 - [ ]  Gone Baby Gone (2007)
-- [ ]  Gone Girl
+- [x]  Gone Girl
 - [ ]  Gone in sixty seconds 
 - [ ]  Good Fellas
 - [x]  Good Will Hunting
@@ -833,7 +850,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Hera Pheri
 - [ ]  Heretic
 - [x]  Hey Ram
-- [ ]  HIT 1 and 2 (Telegu Version)
+- [x]  HIT 1 and 2 (Telegu Version)
 - [ ]  Hiroshima Mon Amour
 - [ ]  Hotel Mumbai
 - [ ]  How to make millions before grandma dies
@@ -851,7 +868,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Invictus
 - [x]  Iron Man
 - [ ]  Irreversible
-- [ ]  I Saw the Devil (2010)
+- [x]  I Saw the Devil (2010)
 - [ ]  It's a Wonderful life (1946)
 
 - [ ]  Jackie Brown (1997)
@@ -874,6 +891,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Khamoshi
 - [x]  Khatta Meetha
 - [x]  Kho Gaye Hum Kahaan
+- [ ]  Khosla Ka Ghosla
 - [x]  Kill (2024)
 - [ ]  Kinatay (2009)
 
@@ -892,17 +910,19 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Lone Survivor
 - [ ]  Lost in Translation (Sofia Cappola)
 - [ ]  Lord of the Rings
-- [ ]  Love and Other Drugs
+- [x]  Love and Other Drugs
+- [x]  Love Sonia
 - [x]  Luck
 - [ ]  Luck By Chance
 - [ ]  Lucknow Central
 - [ ]  Lucy
  
-- [ ]  Mad Max: Fury Road (2015)
+- [x]  Mad Max: Fury Road (2015)
 - [x]  Madras Cafe
 - [x]  Madgaon Express (2024)
 - [ ]  Maestro (Brad Pitt)
 - [x]  Maharaja
+- [ ]  Main Aur Charles
 - [x]  Major
 - [x]  Malamaal Weekly
 - [ ]  Manchester by the Sea
@@ -933,6 +953,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Mystic River (2003)
 
 - [ ]  Naan Kadavul (2009)
+- [x]  Nay Varan Bhat Loncha Kon Nai Koncha
 - [ ]  Neighboring Sounds (2012)
 - [x]  New York
 - [ ]  Nightcrawler (2014)
@@ -1041,7 +1062,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Tenet
 - [ ]  The American President
 - [x]  The Attacks Of 26/11
-- [ ]  The Banshees Of Inisherin(2022)
+- [x]  The Banshees Of Inisherin(2022)
 - [x]  The Batman (2022)
 - [x]  The Beautiful Mind 
 - [ ]  The Beat That My Heart Skipped (2005)
@@ -1061,7 +1082,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Devil’s Backbone (2001)
 - [ ]  The Edge of Heaven (2007)
 - [ ]  The Founder 
-- [ ]  The Gangster, the Cop, the Devil (2019)
+- [x]  The Gangster, the Cop, the Devil (2019)
 - [x]  The Godfather I & II
 - [x]  The Girl Next Door - It's a fun movie.
 - [x]  The Girl With the Dragon Tattoo
@@ -1118,7 +1139,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Texas Chainsaw Massacre(1974)
 - [ ]  The Thing
 - [ ]  The Time Traveler's Wife
-- [ ]  The Truman Show
+- [x]  The Truman Show
 - [ ]  The Twilight Samurai (2002) 
 - [ ]  The Usual Suspects (1995)
 - [ ]  The Vanishing(1998)
@@ -1142,10 +1163,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Too Old To Die Young
 - [x]  Top Gun Maverick
 - [ ]  Trainspotting (1996)
+- [ ]  Train To Busan
 - [ ]  Turtles Can Fly (2005)
 
 - [x]  Udaan
 - [x]  Uri : The Surgical Strike
+- [ ]  Ustad Hotel
 - [ ]  Uzak
 
 - [x]  V
@@ -1156,7 +1179,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Vikram
 - [x]  Visaranai (2015)
 
-- []  Wall Street 
+- [x]  Wall Street 
 - [ ]  Wake Up Sid
 - [x]  War
 - [ ]  Watchmen
@@ -1194,7 +1217,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Broadchurch
 
 - [ ]  CAT
-- [ ]  Chernobyl
+- [x]  Chernobyl
 - [x]  Criminal Injustice 
 - [ ]  Curb your enthusiasm
 
@@ -1205,7 +1228,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Dexter
 
 - [ ]  Entourage
-- [ ]  Euphoria
+- [x]  Euphoria
 
 - [ ]  Fauda
 - [ ]  Fleabag
@@ -1213,6 +1236,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Game of thrones
 - [ ]  Gotham
+
+- [ ]  House Of The Dragon
 
 - [x]  Industry
 
@@ -1245,6 +1270,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Severance 
 - [ ]  Sharp Objects
 - [ ]  Shantaram
+- [ ]  Shogun
 - [ ]  Silicon Valley
 - [ ]  Sliders
 - [ ]  Slow Horses
@@ -1270,8 +1296,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Lost Room
 - [ ]  The Man in the High Castle
 - [ ]  The Night off
+- [x]  The Penguin
 - [ ]  The Rehearsal
-- [ ]  The Sopranos
+- [x]  The Sopranos
 - [ ]  The Terminal List
 - [ ]  The Undoing
 - [ ]  The West Wing
