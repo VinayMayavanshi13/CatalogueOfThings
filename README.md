@@ -13,6 +13,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [Books](https://github.com/VinayMayavanshi13/CatalogueOfThings#Books)
 
+- [x]  $100M Offers - Alex Hormozi
 - [ ]  100 Ways to Improve Your Writing - Gary Provost
 - [ ]  13 Things Mentally Strong People Don't Do - Amy Morin
 - [ ]  1776 - David McCullough
@@ -206,7 +207,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Introduction To Indian Histroy - Ibrahim Aerali
 - [ ]  Introduction to Mathematical Philosophy by Bertrand Russell
 - [ ]  Intuition Pumps and Other Tools for Thinking by Daniel Dennett
-- [ ]  Ivan Pavlov: A Russian Life in Science by Daniel Todes 
+- [ ]  Ivan Pavlov: A Russian Life in Science by Daniel Todes
+- [x]  I Will Teach You To Be Rich - Ramit Sethi 
 
 - [ ]  JED Mckenna's Notebook
 - [ ]  Joe Cinque's Consolation - Helen Garner
@@ -602,6 +604,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Win Without Pitching Manifesto - Blair Enns
 - [ ]  White Mughals - William Dalrymple
 - [ ]  Who Moved My Cheese - Dr Spencer Johnson
+- [ ]  Whose Samosa is it Anyway - Sonal Ved
 - [ ]  Who We Are and How We Got Here - David Reich
 - [ ]  Why I Write - George Orwell
 - [ ]  Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease and How to Fight It - Benjamin Bikman
@@ -658,7 +661,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Aakrosh
 - [ ]  Aamir
 - [ ]  Aandi (1975)
-- [ ]  Aavesham
+- [x]  Aavesham
 - [ ]  About Elly (2009)
 - [ ]  About Time
 - [ ]  Acopalypse Now
@@ -691,7 +694,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Asoka
 - [x]  Asuran
 - [ ]  Athena
-- [ ]  Atonement 
+- [x]  Atonement 
 - [x]  Avatar
 - [x]  Avengers End Game
 - [x]  Avengers Infinity War
@@ -789,7 +792,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  EE.MA.YAU
 - [x]  Ek Deewana tha
 - [ ]  Ek Haseena thi
-- [ ]  Ek thi Daayan
+- [x]  Ek thi Daayan
 - [ ]  Elite Squad (2007)
 - [x]  Enemy (2014)
 - [ ]  English Vinglish 
@@ -804,7 +807,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fireworks Wednesday (2006)
 - [ ]  Following (Christopher Nolan)
 - [x]  Force
-- [ ]  Ford V Ferrari
+- [x]  Ford V Ferrari
 - [x]  Forensic
 - [ ]  Four Daughters
 - [ ]  Freddy
@@ -891,7 +894,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Khamoshi
 - [x]  Khatta Meetha
 - [x]  Kho Gaye Hum Kahaan
-- [ ]  Khosla Ka Ghosla
+- [x]  Khosla Ka Ghosla
 - [x]  Kill (2024)
 - [ ]  Kinatay (2009)
 
@@ -922,11 +925,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Madgaon Express (2024)
 - [ ]  Maestro (Brad Pitt)
 - [x]  Maharaja
-- [ ]  Main Aur Charles
+- [x]  Main Aur Charles
 - [x]  Major
 - [x]  Malamaal Weekly
 - [ ]  Manchester by the Sea
 - [ ]  Manorama Six Feet Under
+- [x]  Manotstaan
 - [x]  Maqbool
 - [x]  Margin Call
 - [ ]  Martian
@@ -1163,7 +1167,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Too Old To Die Young
 - [x]  Top Gun Maverick
 - [ ]  Trainspotting (1996)
-- [ ]  Train To Busan
+- [x]  Train To Busan
 - [ ]  Turtles Can Fly (2005)
 
 - [x]  Udaan
