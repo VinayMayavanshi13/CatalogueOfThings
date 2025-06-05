@@ -102,6 +102,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Diary and Autobiography of John Adams
 - [ ]  Disruptor - Arwen Elys Dayton
 - [ ]  Do I Make Myself Clear - Harold Evans
+- [x]  Dr. Cuterus - Dr Tanya Narendra
 - [ ]  Dreams of a Final Theory - Steven Weinberg
 
 - [ ]  East of Eden - John Steinbeck 
@@ -309,6 +310,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Rene Girard's Mimetic Theory - Wolfgang Palaver
 - [ ]  Reputation and Power: Organizational Image and Pharmaceutical Regulation at the FDA - Daniel Carpenter
 - [ ]  Richard Feynman’s Lectures - Richard Feynman
+- [x]  Rich Dad Poor Dad - Robert Kiyosaki
 - [ ]  Rules for Radicals - Saul Alinsky
 
 - [ ]  Sapiens - Yuval Noah Harari
@@ -467,10 +469,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Lord of the Rings - JRR Tolkien
 
 - [ ]  The Man from Monticello: An Intimate Life of Thomas Jefferson by Thomas Fleming 
-- [ ]  The March of Folly - Barbara W. Tuchman
-- [ ]  The Martian - Andy Weir
 - [ ]  The Man Who Knew Infinity: A Life of the Genius Ramanujan - Robert Kanigel
 - [ ]  The Man Who Sold the Moon and Orphans of the Sky - Robert Heinlein
+- [ ]  The March of Folly - Barbara W. Tuchman
+- [x]  The Markandeya Puran - Bibek Debroy
+- [ ]  The Martian - Andy Weir
 - [ ]  The Master and the Margarita - Mikhail Bulgakov
 - [ ]  The Midnight Library - Matt Haig
 - [ ]  The Millionaire Next Door - Thomas J. Stanley
@@ -493,6 +496,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  The Painted Bird - Jerzy Kosinski
 - [x]  The Phoenix Project - Gene Kim
+- [x]  The Politics Book - DK London
 - [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
 - [ ]  The Pricipice - Toby Ord
 - [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
@@ -503,6 +507,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  The Rational Optimist: How Prosperity Evolves -- Matt Ridley
 - [ ]  The Red Queen: Sex and the Evolution of Human Nature -- Matt Ridley
+- [x]  The Religion Book - DK London
 - [ ]  The Remains of the day - Kazuo Ishiguro
 - [ ]  The Republic - Plato
 - [x]  The Richest Man in Babylon - George S. Clason
@@ -547,6 +552,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Things Hidden Since the Foundation of the World - René Girard
 - [ ]  Think Again - Adam Grunt
+- [x]  Think and Grow Rich - Napoleon Hill
 - [ ]  Think On These Things - Jiddu Krishnamurti
 - [ ]  Thinking about Mathematics by Stewart Shapiro
 - [ ]  Thinking Fast and Slow - Daniel Kahneman
@@ -650,6 +656,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  12th Fail
 - [ ]  13 (2010)
 - [ ]  2001: A Space Odyssey
+- [ ]  28 Days Later
+- [ ]  28 Weeks Later
+- [ ]  28 Years Later
+- [x]  300
 - [x]  3 Idiots
 - [ ]  3 Iron
 - [ ]  4 Months, 3 Weeks and 2 Days (2007)
@@ -690,7 +700,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Article 15
 - [ ]  A Separation (2011)
 - [ ]  A Serbian Film (2010)
-- [ ]  A Serious Man(2009)
+- [ ]  A Serious Man (2009)
+- [x]  A Time To Kill (1996)
 - [ ]  Asoka
 - [x]  Asuran
 - [ ]  Athena
@@ -701,6 +712,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Awara Pagal Dewana
 
 - [ ]  Babel
+- [x]  Baby Driver
 - [ ]  Bacurau (2019)
 - [x]  Bahubali - The Beginning and Conclusion
 - [ ]  Bandit Queen (1994)
@@ -730,16 +742,19 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Brick (2005)
 - [x]  Bridge of Spies
 - [ ]  Buddha Collapsed Out Of Shame (2007)
+- [x]  Buddha: The Great Departure
 - [ ]  Bullet Train
 - [ ]  Bullhead (2011)
 - [ ]  Burning
 
 - [ ]  Cannibal Holocaust (1980)
+- [ ]  Capefear (1991)
 - [ ]  Capernaum
 - [x]  Captain America 
 - [x]  Captain America - Civil War
 - [x]  Captain America - Winter Soldier
 - [ ]  Carlos (2010)
+- [x]  Casino (1995)
 - [ ]  Casino Royale
 - [x]  Catch Me If You Can
 - [ ]  Central Station (1998)
@@ -835,7 +850,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Gulaal - Anurag Kashyap
 - [x]  Gully Boy
 - [x]  Guardians of the Galaxy Vol. 1 and 2
-- [ ]  Gurgaon
+- [x]  Gurgaon
 
 - [ ]  Haasil
 - [x]  Hacksaw Ridge
@@ -864,6 +879,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  I killed my mother
 - [x]  Inception
 - [ ]  Indie Game
+- [x]  Inglourious Basterds (2009)
 - [ ]  Inside Out (2015)
 - [ ]  Inside Out 2
 - [x]  Interstellar
@@ -891,10 +907,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Kaminey
 - [x]  Kantara
 - [ ]  Khamosh (1985)
-- [ ]  Khamoshi
+- [x]  Khamoshi : The Musical (1996)
 - [x]  Khatta Meetha
 - [x]  Kho Gaye Hum Kahaan
 - [x]  Khosla Ka Ghosla
+- [ ]  Kid (by Larry Clark)
 - [x]  Kill (2024)
 - [ ]  Kinatay (2009)
 
@@ -911,14 +928,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Lion
 - [ ]  Lock, Stock and Two Smoking Barrels (1998)
 - [ ]  Lone Survivor
-- [ ]  Lost in Translation (Sofia Cappola)
+- [x]  Lost in Translation (Sofia Cappola)
 - [ ]  Lord of the Rings
 - [x]  Love and Other Drugs
 - [x]  Love Sonia
 - [x]  Luck
 - [ ]  Luck By Chance
-- [ ]  Lucknow Central
-- [ ]  Lucy
+- [x]  Lucknow Central
+- [x]  Lucy
  
 - [x]  Mad Max: Fury Road (2015)
 - [x]  Madras Cafe
@@ -929,6 +946,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Major
 - [x]  Malamaal Weekly
 - [ ]  Manchester by the Sea
+- [x]  Manjummel Boys
+- [x]  Man Of Steel
 - [ ]  Manorama Six Feet Under
 - [x]  Manotstaan
 - [x]  Maqbool
@@ -949,7 +968,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Monsoon Shootout
 - [ ]  Monster (by Koreeda)
 - [ ]  Mother India
-- [ ]  Mukundan Unnin Associates
+- [x]  Mukundan Unnin Associates
 - [ ]  Mullholland Drive
 - [x]  Munnabhai MBBS
 - [x]  Murder 2
@@ -968,9 +987,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Oasis (2002)
 - [x]  October
-- [ ]  October Sky (1999)
+- [x]  October Sky (1999)
 - [ ]  Offside (2006)
 - [x]  Oldboy (2003)
+- [x]  One Day (2011)
 - [ ]  One Hour Photo
 - [ ]  Operation Romeo
 - [x]  Oppenheimer
@@ -1011,7 +1031,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  Sadgati (1981)
 - [x]  Salaam Venky
-- [ ]  Salaam Bombay
+- [x]  Salaam Bombay
 - [ ]  Salo or the 120 days of Sodom(1975)
 - [x]  Sapta Sagaradaache Ello Side A & Side B (2023)
 - [x]  Sardar Udhham
@@ -1115,6 +1135,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Lizard (2004)
 - [ ]  The Man From Earth
 - [ ]  The Man Who Knew Infinity
+- [x]  The Martian
 - [ ]  The Master (2012)
 - [x]  The Matrix Franchise
 - [ ]  The Old Oak
@@ -1137,6 +1158,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Shawshank Redemption
 - [ ]  The Sixth Sense
 - [ ]  The Skin I Live In
+- [ ]  The Silence Of the Lambs
 - [ ]  The Songs Of Sparrows (2008)
 - [x]  The Stoneman Murders
 - [ ]  The Stoning of Soroya M. (2008)
@@ -1168,11 +1190,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Top Gun Maverick
 - [ ]  Trainspotting (1996)
 - [x]  Train To Busan
+- [x]  Tron: Legacy
 - [ ]  Turtles Can Fly (2005)
 
 - [x]  Udaan
 - [x]  Uri : The Surgical Strike
-- [ ]  Ustad Hotel
+- [x]  Ustad Hotel
 - [ ]  Uzak
 
 - [x]  V
@@ -1193,6 +1216,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  White Material (2009)
 - [x]  Whiplash (2014)
 - [ ]  Wild Tales (2014)
+- [ ]  Wind River
 - [x]  Women Talking
 
 - [ ]  Yi Yi
