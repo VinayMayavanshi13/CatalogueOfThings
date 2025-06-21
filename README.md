@@ -512,6 +512,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Republic - Plato
 - [x]  The Richest Man in Babylon - George S. Clason
 - [ ]  The Ride of a lifetime - Robert Iger
+- [ ]  The Right Kind of Crazy: A True Story of Teamwork, Leadership, and High-Stakes Innovation - Adam Steltzner and William Patrick
 - [ ]  The Rise of Superman - Steven Kotler
 - [ ]  The Road Less Travelled - M. Scott Peck
 
@@ -1287,7 +1288,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  Olive Kitteridge
 
-- [ ]  Prison Break
+- [x]  Prison Break
 - [ ]  Presumed Innocent
 
 - [ ]  Rectify
