@@ -102,6 +102,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Diary and Autobiography of John Adams
 - [ ]  Disruptor - Arwen Elys Dayton
 - [ ]  Do I Make Myself Clear - Harold Evans
+- [x]  Don't Sweat The Small Stuff And It's All Small Stuff - Richard Carlson
 - [x]  Dr. Cuterus - Dr Tanya Narendra
 - [ ]  Dreams of a Final Theory - Steven Weinberg
 
@@ -259,6 +260,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Money : Master The Game - Tony Robbins
 - [ ]  More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin
 - [ ]  Musashi - Eiji Yoshikawa
+- [x]  My Gita - Devdutt Pattanaik
 - [ ]  My Lady Jane by Book by Brodi Ashton, Cynthia Hand, and Jodi Meadows
 
 - [ ]  Narcopolis - Jeet Thayil
@@ -547,7 +549,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  The Warmth of Other Suns - Isabel Wilkerson
 - [ ]  The War of Art - Steven Pressfield
-- [ ]  The Warren Buffett Way - Robert G. Hagstrom
+- [x]  The Warren Buffett Way - Robert G. Hagstrom
 - [ ]  The Wizard and the Prophet by Charles Mann 
 - [ ]  The Woman Who Knew Too Much, Revised Ed.: Alice Stewart and the Secrets of Radiation - Gayle Greene
 
@@ -749,7 +751,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Burning
 
 - [ ]  Cannibal Holocaust (1980)
-- [ ]  Capefear (1991)
+- [x]  Capefear (1991)
 - [ ]  Capernaum
 - [x]  Captain America 
 - [x]  Captain America - Civil War
@@ -953,7 +955,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Manotstaan
 - [x]  Maqbool
 - [x]  Margin Call
-- [ ]  Martian
 - [x]  Masaan
 - [ ]  May December (2023)
 - [x]  Meet Joe Black (1998)
@@ -1238,6 +1239,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Aspirants
 - [x]  Asur
 
+- [ ]  Band Of Brothers
 - [ ]  Barry
 - [x]  Baby Reinder 
 - [ ]  Better Call Saul
@@ -1263,7 +1265,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fleabag
 - [x]  From 
 
-- [ ]  Game of thrones
+- [x]  Game of thrones
 - [ ]  Gotham
 
 - [ ]  House Of The Dragon
@@ -1293,7 +1295,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Rectify
 - [x]  Rocket Boys
-- [ ]  Rudra
+- [x]  Rudra
 
 - [x]  Scam 1992
 - [ ]  Severance 
