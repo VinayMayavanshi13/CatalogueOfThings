@@ -1043,6 +1043,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Scent of a Woman 
 - [x]  Schindler's List
 - [x]  Se7en
+- [x]  Section 375
 - [x]  Sehar (2005)
 - [x]  Shadow Assasins (2022)
 - [x]  Shahid (2013)
