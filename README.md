@@ -103,6 +103,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Disruptor - Arwen Elys Dayton
 - [ ]  Do I Make Myself Clear - Harold Evans
 - [x]  Don't Sweat The Small Stuff And It's All Small Stuff - Richard Carlson
+- [x]  Dopamine Nation - Dr Anna Lembke
 - [x]  Dr. Cuterus - Dr Tanya Narendra
 - [ ]  Dreams of a Final Theory - Steven Weinberg
 
@@ -123,6 +124,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Eugene Meyer by Merlo John Pusey
 - [x]  Everybody Lies - Seth Stephens-Davidowitz
 - [ ]  Everybody Writes - Ann Handley
+- [x]  Everything Is Out Of Syllabus - Varun Duggirala
 
 - [ ]  Fahrenheit 451 by Ray Bradbury
 - [ ]  Financial Intelligence - Karen Berman, Joe Knight and John Case.
@@ -556,7 +558,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Things Hidden Since the Foundation of the World - René Girard
 - [ ]  Think Again - Adam Grunt
 - [x]  Think and Grow Rich - Napoleon Hill
-- [ ]  Think On These Things - Jiddu Krishnamurti
+- [x]  Think On These Things - Jiddu Krishnamurti
 - [ ]  Thinking about Mathematics by Stewart Shapiro
 - [ ]  Thinking Fast and Slow - Daniel Kahneman
 - [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
@@ -613,8 +615,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Win Without Pitching Manifesto - Blair Enns
 - [ ]  White Mughals - William Dalrymple
 - [ ]  Who Moved My Cheese - Dr Spencer Johnson
-- [ ]  Whose Samosa is it Anyway - Sonal Ved
+- [x]  Whose Samosa is it Anyway - Sonal Ved
 - [ ]  Who We Are and How We Got Here - David Reich
+- [x]  Why A Students Work For C Students - Robert Kiyosaki
 - [ ]  Why I Write - George Orwell
 - [ ]  Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease and How to Fight It - Benjamin Bikman
 - [ ]  Why We're Polarized -- Ezra Klein
@@ -1081,6 +1084,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Taare Zameen Par
 - [x]  Table No. 21 
 - [x]  Talvar
+- [x]  Taken
 - [ ]  Taste Of Cherry (1997)
 - [x]  Tasveer 8x10
 - [ ]  Taxi (2015)
@@ -1240,7 +1244,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Aspirants
 - [x]  Asur
 
-- [ ]  Band Of Brothers
+- [x]  Band Of Brothers
 - [ ]  Barry
 - [x]  Baby Reinder 
 - [ ]  Better Call Saul
