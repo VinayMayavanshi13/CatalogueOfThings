@@ -89,6 +89,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Coolidge by Amity Shlaes
 - [ ]  Cosmocomics by Italo Calvino
 - [x]  Courage to be Disliked - Fumitake Koga and Ichiro Kishimi
+- [x]  Crime And Punishment - Fyodor Dostoevsky
 - [ ]  Crucial Conversations - Kerry Patterson, Joseph Grenny, AI Switzler and Ron McMillan
 
 - [ ]  Daily Rituals - Mason Currey
@@ -661,8 +662,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  12 O Clock
 - [x]  12th Fail
 - [ ]  13 (2010)
+- [x]  13 Hours: The Secret Soldiers Of Benghazi
 - [ ]  2001: A Space Odyssey
-- [ ]  28 Days Later
+- [x]  28 Days Later
 - [ ]  28 Weeks Later
 - [ ]  28 Years Later
 - [x]  300
@@ -1273,7 +1275,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Game of thrones
 - [ ]  Gotham
 
-- [ ]  House Of The Dragon
+- [x]  House Of the Dragon
 
 - [x]  Industry
 
@@ -1324,7 +1326,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Family Man
 - [ ]  The Good Doctor
 - [ ]  The Handmaid's Tale
-- [ ]  The House Of Dragon
 - [x]  The Knick
 - [ ]  The Last Kingdom
 - [x]  The Last of Us
