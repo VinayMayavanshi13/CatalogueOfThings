@@ -21,8 +21,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  1Q84 - Murakami
 - [ ]  7 Strategies for Wealth & Happiness - Jim Rohn
 
-- [x]  A Brief History of Intelligence_ Evolution, AI, and the Five Break - Max Bennet
-- [ ]  A complaint free world - Will Bowen
+- [x]  A Brief History of Intelligence Evolution, AI, and the Five Break - Max Bennet
+- [x]  A Calendar Of Wisdom - Leo Tolstoy
+- [ ]  A Complaint Free World - Will Bowen
 - [ ]  Against the Odds: An Autobiography -- James Dyson
 - [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
 - [ ]  A Gentleman in Moscow - Amor Towles
@@ -172,6 +173,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hitchcock/Truffaut - Francois Truffaut
 - [ ]  House of Sleep - Jonathan Coe
 - [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
+- [x]  How Not To Be Wrong - Jordan Ellenberg
 - [ ]  How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease - Michael Greger
 - [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
 - [ ]  How to avoid a climate disaster - Bill Gates
@@ -358,6 +360,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The 100$ Startup - Chris Guillebeau
 - [x]  The 108 Upanishads - Roshen Dalal
  
+- [x]  The 38 Letters From JD Rockefeller To His Son
 - [x]  The 48 Laws Of Power - Robert Greene
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need - Daniel H. Pink
 - [ ]  The Alchemist - Paulo Coelho
