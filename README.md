@@ -813,7 +813,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Donnie Darko
 - [ ]  Don't Look Up
 - [ ]  Drive (2011)
-- [ ]  Dunkirk 
+- [x]  Dunkirk 
 
 - [ ]  EE.MA.YAU
 - [x]  Ek Deewana tha
@@ -879,6 +879,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Hera Pheri
 - [ ]  Heretic
 - [x]  Hey Ram
+- [x]  Hi Nanna
 - [x]  HIT 1 and 2 (Telegu Version)
 - [ ]  Hiroshima Mon Amour
 - [ ]  Hotel Mumbai
@@ -1120,6 +1121,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Founder 
 - [x]  The Gangster, the Cop, the Devil (2019)
 - [x]  The Godfather I & II
+- [x]  The Gorge
 - [x]  The Girl Next Door - It's a fun movie.
 - [x]  The Girl With the Dragon Tattoo
 - [ ]  The Great Beauty (2013)
@@ -1335,7 +1337,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Leftovers
 - [ ]  The Lost Room
 - [ ]  The Man in the High Castle
-- [ ]  The Night off
+- [ ]  The Night of
 - [x]  The Penguin
 - [ ]  The Rehearsal
 - [x]  The Sopranos
@@ -1343,7 +1345,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Undoing
 - [ ]  The West Wing
 - [x]  The Wire
-- [ ]  True Detective
+- [x]  True Detective
 
 - [ ]  Watchmen
 
