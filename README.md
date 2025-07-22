@@ -541,6 +541,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Story-life of Lincoln: A Biography Composed of Five Hundred True Stories Told by Abraham Lincoln and his Friends by Wayne Whipple 
 - [ ]  The Story Of Philosophy - Will Durant
 - [ ]  The Strange Library - Haruki Murakami
+- [x]  The Subtle Art Of Not Giving a F_ck - Mark Manson
 
 - [ ]  The Tao Of Pooh - Benjamin Hoff
 - [ ]  The Three Body Problem Triology - Liu Cixin
@@ -766,7 +767,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Captain America - Winter Soldier
 - [ ]  Carlos (2010)
 - [x]  Casino (1995)
-- [ ]  Casino Royale
+- [x]  Casino Royale (2006)
 - [x]  Catch Me If You Can
 - [ ]  Central Station (1998)
 - [ ]  Character (1997)
@@ -797,6 +798,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Darlings
 - [ ]  Days Of Heaven(1978)
 - [x]  D Company
+- [x]  Dawn Of The Planet Of The Apes(2014)
 - [x]  Dear Dad
 - [ ]  Decision To Leave
 - [x]  De Dana dhan
@@ -1018,6 +1020,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Pi (1998)
 - [ ]  Pihu
 - [x]  PK
+- [x]  Planet Of The Apes (2001)
 - [x]  Ponniyin Selvan I & II
 - [x]  Prisoner (2013)
 - [x]  Pulp Fiction
@@ -1033,6 +1036,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Raw (2016)
 - [ ]  Requiem for a Dream (2000)
 - [ ]  Return to Seoul
+- [x]  Rise Of The Planet Of Apes (2011)
 - [ ]  Rocket Singh Salesman of the year
 - [ ]  Roja
 - [x]  Run (2020 Aneesh Chaganty)
@@ -1097,6 +1101,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Taxi Driver (2017)
 - [ ]  Terms and Conditions may apply
 - [x]  Tenet
+- [x]  The Accountant (2016)
 - [ ]  The American President
 - [x]  The Attacks Of 26/11
 - [x]  The Banshees Of Inisherin(2022)
