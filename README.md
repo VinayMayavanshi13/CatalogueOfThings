@@ -928,6 +928,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Kid (by Larry Clark)
 - [x]  Kill (2024)
 - [ ]  Kinatay (2009)
+- [x]  Kingdom Of The Planet Of The Apes (2024)
 
 - [x]  Lagaan
 - [ ]  La Haine (1995)
@@ -992,6 +993,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Nay Varan Bhat Loncha Kon Nai Koncha
 - [ ]  Neighboring Sounds (2012)
 - [x]  New York
+- [ ]  Nickel Boys (2024)
 - [ ]  Nightcrawler (2014)
 - [ ]  Nine Queens (2000)
 - [ ]  No Country for Old Men (2007)
@@ -1026,7 +1028,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Pulp Fiction
 - [ ]  Pyasa
 
-- [ ]  Quantum Of Solace
+- [x]  Quantum Of Solace (2008)
 - [ ]  Queen
 
 - [x]  Raajneeti
@@ -1036,6 +1038,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Raw (2016)
 - [ ]  Requiem for a Dream (2000)
 - [ ]  Return to Seoul
+- [ ]  Revolutionary Road (2008)
 - [x]  Rise Of The Planet Of Apes (2011)
 - [ ]  Rocket Singh Salesman of the year
 - [ ]  Roja
@@ -1075,13 +1078,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Sins(2005)
 - [x]  Sita Raman
 - [x]  Siya (2022)
-- [ ]  Skyfall
+- [ ]  Skyfall (2012)
 - [ ]  Snatch (2000)
 - [x]  Snowden
 - [ ]  Snowtown (2011)
 - [ ]  Somewhere (Sofia Coppola)
 - [x]  Soorarai Pottru 
 - [x]  Special 26
+- [ ]  Spectre (2015)
 - [ ]  Spider Man - Across the Spider Verse
 - [x]  Spider Man - No Way Home
 - [ ]  Spotlight
@@ -1102,6 +1106,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Terms and Conditions may apply
 - [x]  Tenet
 - [x]  The Accountant (2016)
+- [ ]  The Accountant 2 (2025)
 - [ ]  The American President
 - [x]  The Attacks Of 26/11
 - [x]  The Banshees Of Inisherin(2022)
@@ -1116,6 +1121,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Circle (2000) 
 - [ ]  The Color Of Paradise (1999)
 - [ ]  The Consequences of Love (2004)
+- [ ]  The Count Of Monte Cristo (2024)
 - [ ]  The Cow (1969)
 - [ ]  The Curious Case of Benjamin Button 
 - [x]  The Dark Knight Trilogy - (Batman Begins, The Dark Knight, The Dark Knight Rises)
@@ -1123,6 +1129,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Departed
 - [ ]  The Devil’s Backbone (2001)
 - [ ]  The Edge of Heaven (2007)
+- [ ]  The Equalizer 
 - [ ]  The Founder 
 - [x]  The Gangster, the Cop, the Devil (2019)
 - [x]  The Godfather I & II
@@ -1228,6 +1235,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Wall Street 
 - [ ]  Wake Up Sid
 - [x]  War
+- [x]  War For The Planet Of The Apes (2017)
 - [ ]  Watchmen
 - [ ]  What Comes Around (2023)
 - [ ]  Where Is the Friend's House? (1987)
