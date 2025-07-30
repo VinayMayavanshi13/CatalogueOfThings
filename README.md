@@ -675,7 +675,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  3 Idiots
 - [ ]  3 Iron
 - [ ]  4 Months, 3 Weeks and 2 Days (2007)
-- [ ]  500 Days of Summer 
+- [x]  500 Days of Summer 
 - [ ]  7 Boxes
 - [x]  96
 
@@ -929,6 +929,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Kill (2024)
 - [ ]  Kinatay (2009)
 - [x]  Kingdom Of The Planet Of The Apes (2024)
+- [x]  King Kong (2005)
 
 - [x]  Lagaan
 - [ ]  La Haine (1995)
@@ -993,7 +994,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Nay Varan Bhat Loncha Kon Nai Koncha
 - [ ]  Neighboring Sounds (2012)
 - [x]  New York
-- [ ]  Nickel Boys (2024)
+- [x]  Nickel Boys (2024)
 - [ ]  Nightcrawler (2014)
 - [ ]  Nine Queens (2000)
 - [ ]  No Country for Old Men (2007)
@@ -1107,6 +1108,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Tenet
 - [x]  The Accountant (2016)
 - [ ]  The Accountant 2 (2025)
+- [x]  The Amateur (2025)
 - [ ]  The American President
 - [x]  The Attacks Of 26/11
 - [x]  The Banshees Of Inisherin(2022)
