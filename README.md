@@ -146,8 +146,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Genghis Khan and the Making of the Modern World - Jack Weatherford
 - [ ]  Genome: The Autobiography of a Species in 23 Chapters -- Matt Ridley
 - [ ]  Gerrard: My Autobiography by Steven Gerrard
-- [ ]  Glengarry Glen Ross by David Mamet
+- [x]  Ghachar Ghochar - Vivek Shanbhag
 - [ ]  Giving Good Weight - John McPhee
+- [ ]  Glengarry Glen Ross by David Mamet
 - [ ]  Gödel, Escher, Bach: An Eternal Golden Braid - Douglas Hofstadter
 - [ ]  God is Not Great - Christopher Hitchens
 - [ ]  Good Calories, Bad Calories  - Gary Taubes
@@ -709,6 +710,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Anora 
 - [ ]  Apollo 13
 - [ ]  A Prophet (2009)
+- [x]  Argo
 - [x]  Article 15
 - [ ]  A Separation (2011)
 - [ ]  A Serbian Film (2010)
@@ -1079,14 +1081,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Sins(2005)
 - [x]  Sita Raman
 - [x]  Siya (2022)
-- [ ]  Skyfall (2012)
+- [x]  Skyfall (2012)
 - [ ]  Snatch (2000)
 - [x]  Snowden
 - [ ]  Snowtown (2011)
 - [ ]  Somewhere (Sofia Coppola)
 - [x]  Soorarai Pottru 
 - [x]  Special 26
-- [ ]  Spectre (2015)
+- [x]  Spectre (2015)
 - [ ]  Spider Man - Across the Spider Verse
 - [x]  Spider Man - No Way Home
 - [ ]  Spotlight
@@ -1107,9 +1109,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Terms and Conditions may apply
 - [x]  Tenet
 - [x]  The Accountant (2016)
-- [ ]  The Accountant 2 (2025)
+- [x]  The Accountant 2 (2025)
 - [x]  The Amateur (2025)
 - [ ]  The American President
+- [x]  The Assassination Of Jesse James By The Coward Robert Ford
 - [x]  The Attacks Of 26/11
 - [x]  The Banshees Of Inisherin(2022)
 - [x]  The Batman (2022)
@@ -1123,7 +1126,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Circle (2000) 
 - [ ]  The Color Of Paradise (1999)
 - [ ]  The Consequences of Love (2004)
-- [ ]  The Count Of Monte Cristo (2024)
+- [x]  The Count Of Monte Cristo (2024)
 - [ ]  The Cow (1969)
 - [ ]  The Curious Case of Benjamin Button 
 - [x]  The Dark Knight Trilogy - (Batman Begins, The Dark Knight, The Dark Knight Rises)
@@ -1313,7 +1316,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Mind Hunters
 - [x]  Mirzapur
 - [x]  Money Heist
-- [ ]  Mr Robot
+- [x]  Mr Robot
 
 - [x]  Olive Kitteridge
 
