@@ -321,13 +321,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Rich Dad Poor Dad - Robert Kiyosaki
 - [ ]  Rules for Radicals - Saul Alinsky
 
-- [ ]  Sapiens - Yuval Noah Harari
+- [x]  Sapiens - Yuval Noah Harari
 - [ ]  Scalped (American Novel Series) by Jason Aaron
 - [ ]  Schaum's Outlines - Joel Lerner and James Cashin
 - [ ]  Secrets of Millionaire Mind - T. Harv Eker
 - [ ]  Seeing Like a State by James C. Scott
 - [ ]  Shantaram: A Novel - Gregory David Roberts
 - [ ]  Shining by Stephen King
+- [x]  Shiva Purana Three Volumes - Bibek Debroy 
 - [ ]  Shogun - James Clavell
 - [ ]  Shuggie Bain - Douglas Stuart
 - [ ]  Social Animal by David Brooks
@@ -382,7 +383,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Beautiful Trouble - Andrew Boyd
 - [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
 - [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
-- [ ]  The Bhagavad Gita translated - Eknath Easwaran - The Bhagavad Gita is one of the most famous and influential texts in Indian philosophy. This translation is highly regarded for its clarity and accessibility.
+- [ ]  The Bhagavad Gita translated - Eknath Easwaran.
 - [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
 - [ ]  The Blue Zones Kitchen - Dan Buettner
 - [ ]  The Big Picture - Sean Carrol
@@ -1001,6 +1002,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Nine Queens (2000)
 - [ ]  No Country for Old Men (2007)
 - [x]  No Smoking
+- [x]  No Time To Die (2021)
 - [ ]  Now You See Me 1 and 2
 
 - [ ]  Oasis (2002)
@@ -1331,7 +1333,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Severance 
 - [ ]  Sharp Objects
 - [ ]  Shantaram
-- [ ]  Shogun
+- [x]  Shogun
 - [ ]  Silicon Valley
 - [ ]  Sliders
 - [ ]  Slow Horses
