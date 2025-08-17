@@ -812,6 +812,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Dhrishyam
 - [x]  Dil Chahta hai
 - [ ]  Dil Se
+- [x]  Divergent
 - [x]  Doctor Strange
 - [ ]  Do Dooni Char
 - [ ]  Dogtooth 
@@ -979,7 +980,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Merry Christmas
 - [ ]  Mesrine: Killer Instinct (2008)
 - [ ]  Minari
-- [ ]  Mission: Impossible Movie Series
+- [ ]  Mission: Impossible Franchise
 - [ ]  Moneyball 
 - [x]  Monica O My Darling
 - [ ]  Monk and the Gun
@@ -1029,6 +1030,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  PK
 - [x]  Planet Of The Apes (2001)
 - [x]  Ponniyin Selvan I & II
+- [x]  Pride & Prejudice (2005)
 - [x]  Prisoner (2013)
 - [x]  Pulp Fiction
 - [ ]  Pyasa
@@ -1043,7 +1045,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Raw (2016)
 - [ ]  Requiem for a Dream (2000)
 - [ ]  Return to Seoul
-- [ ]  Revolutionary Road (2008)
+- [x]  Revolutionary Road (2008)
 - [x]  Rise Of The Planet Of Apes (2011)
 - [ ]  Rocket Singh Salesman of the year
 - [ ]  Roja
