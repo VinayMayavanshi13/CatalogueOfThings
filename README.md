@@ -155,6 +155,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Gone Girl by Gillian Flynn
 - [ ]  Grit - Angela Duckworth
 - [ ]  Gulliver's Travels
+- [x]  Gunahon Ka Devta - Dharamvir Bharati
 - [ ]  Guns, Germs and Steel - Jared Diamond
 - [ ]  Gut - Giulia Enders
 
@@ -1030,6 +1031,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  PK
 - [x]  Planet Of The Apes (2001)
 - [x]  Ponniyin Selvan I & II
+- [x]  Pretty Thing (2025)
 - [x]  Pride & Prejudice (2005)
 - [x]  Prisoner (2013)
 - [x]  Pulp Fiction
