@@ -932,6 +932,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Khosla Ka Ghosla
 - [ ]  Kid (by Larry Clark)
 - [x]  Kill (2024)
+- [x]  Kill Bill Vol. 1 (2003)
+- [x]  Kill Bill Vol. 2 (2004)
 - [ ]  Kinatay (2009)
 - [x]  Kingdom Of The Planet Of The Apes (2024)
 - [x]  King Kong (2005)
