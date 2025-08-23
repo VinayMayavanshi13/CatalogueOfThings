@@ -976,6 +976,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Maqbool
 - [x]  Margin Call
 - [x]  Masaan
+- [x]  Materialists (2025)
 - [ ]  May December (2023)
 - [x]  Meet Joe Black (1998)
 - [ ]  Meiyazhagan
@@ -1142,7 +1143,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Departed
 - [ ]  The Devil’s Backbone (2001)
 - [ ]  The Edge of Heaven (2007)
-- [ ]  The Equalizer 
+- [x]  The Equalizer 
 - [ ]  The Founder 
 - [x]  The Gangster, the Cop, the Devil (2019)
 - [x]  The Godfather I & II
@@ -1373,7 +1374,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Wire
 - [x]  True Detective
 
-- [ ]  Watchmen
+- [x]  Watchmen
 
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 
