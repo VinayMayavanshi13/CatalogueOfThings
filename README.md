@@ -101,6 +101,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  De Gaulle –Julian Jackson
 - [ ]  Demons - Dostoevsky
 - [ ]  Destined For War - Graham Allison
+- [x]  Deewar Me Ek Khirkee Rahati Thi - Vinod Kumar Shukla
 - [ ]  Diary and Autobiography of John Adams
 - [ ]  Disruptor - Arwen Elys Dayton
 - [ ]  Do I Make Myself Clear - Harold Evans
@@ -233,6 +234,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Kaikeyi - Vaishnavi Patel
 - [ ]  Karl Max - Das Kapital
 - [ ]  Kill Decision - Daniel Suarez
+- [x]  Know The Only Truth - Sebastian Santisteban
 
 - [ ]  Lady Doctor - Kavitha Rao
 - [ ]  Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore
@@ -492,6 +494,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Mom Test - Rob Fitzpatrick
 - [ ]  The Mosquito: A Human History of Our Deadliest Predator by Timothy C. Winegard
 - [ ]  The Mountain Is You - Brianna Wiest.
+- [x]  The Muqaddimah: An Introduction to History - Ibn Khaldun
 - [x]  The Mythical Man-Month Essays on Software Engineering - Fred Brooks.
 
 - [ ]  The Nature of Mathematical Modeling - Neil Gershenfeld
