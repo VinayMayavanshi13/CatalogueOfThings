@@ -691,6 +691,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  About Time
 - [ ]  Acopalypse Now
 - [ ]  A Death In The Gunj
+- [x]  Adore (2013)
 - [ ]  Aftersun
 - [ ]  A Few Good Men
 - [x]  Aligarh
@@ -735,7 +736,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Baran (2001)
 - [ ]  Barbarian
 - [ ]  Bashu, The Little Stranger (1989)
+- [x]  Batman V Superman: Dawn Of Justice (2016)
 - [ ]  Beautiful City (2004)
+- [x]  Beautiful Kate (2009)
 - [ ]  Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
 - [ ]  Being Cyrus
 - [ ]  Being John Malkovich
@@ -780,6 +783,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Chandni Chowk to China
 - [ ]  Chef (2014)
 - [ ]  Chhapa Kurishu
+- [x]  Chhaava (2025)
 - [ ]  Chhoti Si Baat
 - [ ]  Children Of Heaven (1997)
 - [x]  Chup Chup Ke
@@ -952,7 +956,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Lock, Stock and Two Smoking Barrels (1998)
 - [ ]  Lone Survivor
 - [x]  Lost in Translation (Sofia Cappola)
-- [ ]  Lord of the Rings
 - [x]  Love and Other Drugs
 - [x]  Love Sonia
 - [x]  Luck
@@ -991,6 +994,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Monsoon Shootout
 - [ ]  Monster (by Koreeda)
 - [ ]  Mother India
+- [x]  Mr. & Mrs. Smith (2005)
 - [x]  Mukundan Unnin Associates
 - [ ]  Mullholland Drive
 - [x]  Munnabhai MBBS
@@ -1003,7 +1007,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Neighboring Sounds (2012)
 - [x]  New York
 - [x]  Nickel Boys (2024)
-- [ ]  Nightcrawler (2014)
+- [x]  Nightcrawler (2014)
 - [ ]  Nine Queens (2000)
 - [ ]  No Country for Old Men (2007)
 - [x]  No Smoking
@@ -1019,6 +1023,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  One Hour Photo
 - [ ]  Operation Romeo
 - [x]  Oppenheimer
+- [x]  Oye Lucky! Lucky Oye! (2008)
 
 - [ ]  Paheli by Amol Palekar
 - [ ]  Pan’s Labyrinth (2006)
@@ -1068,7 +1073,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Sarkar
 - [x]  Satya
 - [x]  Scarface
-- [ ]  Scent of a Woman 
+- [x]  Scent of a Woman (1992)
 - [x]  Schindler's List
 - [x]  Se7en
 - [x]  Section 375
@@ -1131,6 +1136,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Big Lebowski (1998)
 - [ ]  The Big Shot
 - [ ]  The Birth of a nation(1915)
+- [x]  The Bourne Identity (2002)
+- [x]  The Bourne Legacy (2012)
+- [x]  The Bourne Supremacy (2004)
+- [x]  The Bourne Ultimatum (2007)
+
 - [ ]  The Chaser (2008)
 - [ ]  The Circle (2000) 
 - [ ]  The Color Of Paradise (1999)
@@ -1173,6 +1183,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Lighthouse (2019) - Do not f*#%ing understood it.
 - [ ]  The Lives of Others (2006)
 - [ ]  The Lizard (2004)
+- [x]  The Lord Of The Rings Triology (2001,2002, 2003)
 - [ ]  The Man From Earth
 - [ ]  The Man Who Knew Infinity
 - [x]  The Martian
