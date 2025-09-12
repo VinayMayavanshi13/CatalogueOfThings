@@ -669,6 +669,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 
+- [x]  12 Angry Men (1957)
 - [ ]  12 O Clock
 - [x]  12th Fail
 - [ ]  13 (2010)
@@ -718,6 +719,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  A Prophet (2009)
 - [x]  Argo
 - [x]  Article 15
+- [x]  Ascharya F*ck It (2018)
 - [ ]  A Separation (2011)
 - [ ]  A Serbian Film (2010)
 - [ ]  A Serious Man (2009)
@@ -858,6 +860,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Gangaajal
 - [x]  Gangs of Wasseypur 1,2
 - [x]  Garam Masala
+- [x]  Get Out (2017)
 - [ ]  Gett: The Trial of Viviane Amsalem (2014)
 - [x]  Ghazi Attack
 - [x]  Ghuspaith between Borders (2023)
@@ -944,6 +947,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Kinatay (2009)
 - [x]  Kingdom Of The Planet Of The Apes (2024)
 - [x]  King Kong (2005)
+- [x]  Knight And Day (2010)
 
 - [x]  Lagaan
 - [ ]  La Haine (1995)
@@ -975,9 +979,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Major
 - [x]  Malamaal Weekly
 - [ ]  Manchester by the Sea
+- [x]  Mangalavaaram (2023)
 - [x]  Manjummel Boys
 - [x]  Man Of Steel
-- [ ]  Manorama Six Feet Under
+- [x]  Manorama Six Feet Under (2007)
 - [x]  Manotstaan
 - [x]  Maqbool
 - [x]  Margin Call
@@ -1006,7 +1011,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Mystic River (2003)
 
 - [ ]  Naan Kadavul (2009)
-- [x]  Nay Varan Bhat Loncha Kon Nai Koncha
+- [x]  Nay Varan Bhat Loncha Kon Nai Koncha (2022)
 - [ ]  Neighboring Sounds (2012)
 - [x]  New York
 - [x]  Nickel Boys (2024)
@@ -1303,7 +1308,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  CAT
 - [x]  Chernobyl
 - [x]  Criminal Injustice 
-- [ ]  Curb your enthusiasm
+- [ ]  Curb Your Enthusiasm
 
 - [x]  Dahan
 - [ ]  Daredevil
@@ -1378,7 +1383,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Leftovers
 - [ ]  The Lost Room
 - [ ]  The Man in the High Castle
-- [ ]  The Night of
+- [x]  The Night of
 - [x]  The Penguin
 - [ ]  The Rehearsal
 - [x]  The Sopranos
@@ -1475,7 +1480,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Beatles Get Back <br/>
 - Watch as the Beatles work to write and rehearse 14 new songs for their first live show in more than two years; including their unforgettable rooftop concert at London's Savile Row.
 - [ ]  The Century of the Self (2002)
-- [ ] The Cruise by Bennet Millers(1998)
+- [ ]  The Cruise by Bennet Millers(1998)
 - [ ]  The Dissident <br/>
 - When Washington Post journalist Jamal Khashoggi disappears in Istanbul, his fiancée and dissidents around the world piece together the clues to his murder and expose a global cover-up.
 - [ ]  The Elephant Whisperers
@@ -1492,7 +1497,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Summit <br/>
 - In August 2008, 22 climbers met on High Camp of K2, the last stop before the summit. 48 hours later, 11 had been killed. At the heart of the film is a mystery about one extraordinary man–Ger McDonnell, the first Irishman to summit K2.
 - [ ]  The Tinder Swindler
-- [x]  Ticked (2016)
+- [x]  Tickled (2016)
 
 - [ ]  We are Legion
 - [x]  Who is America
