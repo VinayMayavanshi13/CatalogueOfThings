@@ -413,6 +413,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Copy Book by Rotovision
 - [ ]  The Craft - John Dickie
 
+- [x]  The Daily Pressfield - Steven Pressfield
 - [ ]  The Dawn of Everything - David Graeber and David Wengrow
 - [x]  The Diabetes Code - Dr Jason Fung
 - [ ]  The Dictator's Handbook by Alastair Smith and Bruce Bueno de Mesquita
@@ -705,6 +706,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  All India Rank
 - [x]  All Quite on the Western Front (2022)
 - [x]  Amar Singh Chamkila
+- [x]  American Pie (1999)
 - [x]  American Psycho (2000)
 - [ ]  A Moment Of Innocence (1996)
 - [ ]  Amores Perros 
@@ -1174,6 +1176,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Great Indian Kitchen
 - [ ]  The Great Hack
 - [x]  The Green Mile
+- [x]  The Hangover (2009)
 - [ ]  The Hidden Blade (2004)
 - [ ]  The Holdovers 
 - [x]  The Hunt (2012)
@@ -1209,7 +1212,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Proposition (2005)
 - [ ]  The Pursuit of Happyness
 - [ ]  The Raid (Part 1 & 2)
-- [ ]  The Revenant (2015)
+- [x]  The Revenant (2015)
 - [ ]  The Runner (1984) 
 - [ ]  The Salesman (2006)
 - [x]  The Secret in their eyes (2009)
