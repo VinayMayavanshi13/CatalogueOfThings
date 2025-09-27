@@ -299,7 +299,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Philosophy of Mathematics by Øystein Linnebo
 - [ ]  Physics for Scientists and Engineers - Paul Tipler
 - [ ]  Pride and Prejudice - Jane Austen
-- [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence, by Ajay Agrawal, Joshua Gans and Avi Goldfarb
+- [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence - Ajay Agrawal, Joshua Gans and Avi Goldfarb
 - [ ]  Princeton Companion of Mathematics - Timothy Gowers
 - [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
 - [ ]  Prisoners of Geography - Tim Marshall
@@ -313,6 +313,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Range: Why Generalists Triumph in a Specialized World by David Epstein
 - [ ]  Rashmirathi By Dinkar in Hindi (Book on Mahabharat's Karn)
 - [ ]  Ready Player One - Ernest Cline
+- [x]  Reality Is Not What It Seems - Carlo Rovelli
 - [ ]  Reasons and Persons - Derek Parfit
 - [ ]  Reasons of Belonging: Fourteen Contemporary Indian Poets
 - [ ]  Rebuild - Dr. Robert Zembroski
@@ -390,7 +391,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
 - [ ]  The Blue Zones Kitchen - Dan Buettner
 - [ ]  The Big Picture - Sean Carrol
-- [ ]  The Body - Bill Bryson
+- [x]  The Body - Bill Bryson
 - [x]  The Body Keeps The Score - Bessel Van Der Kolk
 - [ ]  The Book Of Dust - Philip Pullman
 - [ ]  The Brand Flip - Marty Neumeier
@@ -806,6 +807,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Confessions (2010)
 - [x]  Conjuring Franchise
 - [ ]  Constantine
+- [x]  Contagion (2011)
 - [ ]  Cotton Tail
 - [ ]  Court (Marathi)
 - [ ]  Creation
@@ -1266,7 +1268,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Vash (2023)
 - [ ]  Vicky Donor
 - [ ]  Videodrome(1983)
-- [x]  Viduthalai (2023)
+- [x]  Viduthalai Part 1 and 2 (2023 & 2024) 
 - [x]  Vikram
 - [x]  Visaranai (2015)
 
@@ -1363,7 +1365,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  Scam 1992
 - [ ]  Severance 
-- [ ]  Sharp Objects
+- [x]  Sharp Objects
 - [ ]  Shantaram
 - [x]  Shogun
 - [ ]  Silicon Valley
