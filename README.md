@@ -97,7 +97,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Daughters of the Sun: Empresses, Queens and Begums of the Mughal Empire - Ira Mukhtoy
 - [ ]  David Sarnoff: A Biography by Eugene Lyons 
 - [ ]  Deep Down Things The Breathtaking Beauty of Particle Physics - Bruce A Schumm
-- [ ]  DeepWork - Cal Newport
+- [x]  DeepWork - Cal Newport
 - [ ]  De Gaulle –Julian Jackson
 - [ ]  Demons - Dostoevsky
 - [ ]  Destined For War - Graham Allison
@@ -707,6 +707,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  All India Rank
 - [x]  All Quite on the Western Front (2022)
 - [x]  Amar Singh Chamkila
+- [x]  Ambulance (2022)
 - [x]  American Pie (1999)
 - [x]  American Psycho (2000)
 - [ ]  A Moment Of Innocence (1996)
@@ -954,9 +955,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  King Kong (2005)
 - [x]  Knight And Day (2010)
 
+- [x]  L.A. Confidential (1997)
 - [x]  Lagaan
 - [ ]  La Haine (1995)
 - [x]  Laila Majnu
+- [x]  L.A. Johns (1997)
 - [x]  Lakshya
 - [ ]  Lawrence Of Arabia
 - [x]  Leon : The Professional
@@ -965,6 +968,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Life is Beautiful (1997)
 - [ ]  Limitless
 - [ ]  Lion
+- [x]  Live By Night (2016)
 - [ ]  Lock, Stock and Two Smoking Barrels (1998)
 - [ ]  Lone Survivor
 - [x]  Lost in Translation (Sofia Cappola)
@@ -1106,6 +1110,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Sicario I & II
 - [x]  Side Effects (2013)
 - [ ]  Silicon Cowboys
+- [x]  Sinners (2025)
 - [ ]  Sins(2005)
 - [x]  Sita Raman
 - [x]  Siya (2022)
@@ -1148,7 +1153,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Beat That My Heart Skipped (2005)
 - [ ]  The Best of Youth (2003)
 - [ ]  The Big Lebowski (1998)
-- [ ]  The Big Shot
+- [x]  The Big Shot
 - [ ]  The Birth of a nation(1915)
 - [x]  The Bourne Identity (2002)
 - [x]  The Bourne Legacy (2012)
