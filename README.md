@@ -37,7 +37,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
 - [ ]  Americanah - Chimamanda Ngozi Adichie
 - [ ]  An Ancestor’s Tale - Richard Dawkins
-- [ ]  Andha Yug by Dharamvir Bharati
+- [x]  An Autobiography or My Experiments with Truth - M. K. Gandhi
+- [ ]  Andha Yug - Dharamvir Bharati
 - [ ]  Antking - Charlie Kaufman
 - [ ]  Anything You Want - Derek Sivers
 - [ ]  A People's History of the United States - Howard Zinn
@@ -674,26 +675,27 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  12 Angry Men (1957)
 - [ ]  12 O Clock
 - [x]  12th Fail
-- [ ]  13 (2010)
-- [x]  13 Hours: The Secret Soldiers Of Benghazi
+- [ ]  13 Thirteen (2010)
+- [x]  13 Hours: The Secret Soldiers Of Benghazi (2016)
 - [ ]  2001: A Space Odyssey
-- [x]  28 Days Later
+- [x]  28 Days Later (2002)
 - [ ]  28 Weeks Later
 - [ ]  28 Years Later
-- [x]  300
-- [x]  3 Idiots
+- [x]  300 (2006)
+- [x]  3 Idiots (2009)
 - [ ]  3 Iron
 - [ ]  4 Months, 3 Weeks and 2 Days (2007)
-- [x]  500 Days of Summer
+- [x]  500 Days of Summer (2009)
 - [x]  5 Centimeters Per Second (2007)
+- [x]  6 - 5 = 2 (2013)
 - [ ]  7 Boxes
-- [x]  96
+- [x]  96 (2018)
 
 - [ ]  Aadujeevitham : The Goat Life
 - [ ]  Aakrosh
 - [ ]  Aamir
 - [ ]  Aandi (1975)
-- [x]  Aavesham
+- [x]  Aavesham (2024)
 - [ ]  About Elly (2009)
 - [ ]  About Time
 - [ ]  Acopalypse Now
@@ -701,47 +703,47 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Adore (2013)
 - [ ]  Aftersun
 - [ ]  A Few Good Men
-- [x]  Aligarh
+- [x]  Aligarh (2015)
 - [ ]  A Girl Walks Home Alone at Night (2014)
-- [x]  Alita: Battle Angel
-- [x]  All India Rank
+- [x]  Alita: Battle Angel (2019)
+- [x]  All India Rank (2023)
 - [x]  All Quite on the Western Front (2022)
-- [x]  Amar Singh Chamkila
+- [x]  Amar Singh Chamkila (2024)
 - [x]  Ambulance (2022)
 - [x]  American Pie (1999)
 - [x]  American Psycho (2000)
 - [ ]  A Moment Of Innocence (1996)
 - [ ]  Amores Perros 
-- [x]  Andadhun
+- [x]  Andhadhun (2018)
 - [ ]  Andaz Apna Apna
 - [ ]  And Life Goes On (1992)
 - [ ]  An Given Sunday
 - [ ]  Ankhon Dekhi
 - [ ]  Ankur
 - [ ]  Annihilation
-- [x]  Anora 
+- [x]  Anora (2024)
 - [ ]  Apollo 13
 - [ ]  A Prophet (2009)
-- [x]  Argo
-- [x]  Article 15
+- [x]  Argo (2012)
+- [x]  Article 15 (2019)
 - [x]  Ascharya F*ck It (2018)
 - [ ]  A Separation (2011)
 - [ ]  A Serbian Film (2010)
 - [ ]  A Serious Man (2009)
 - [x]  A Time To Kill (1996)
 - [ ]  Asoka
-- [x]  Asuran
-- [ ]  Athena
-- [x]  Atonement 
-- [x]  Avatar
-- [x]  Avengers End Game
-- [x]  Avengers Infinity War
-- [x]  Awara Pagal Dewana
+- [x]  Asuran (2019)
+- [ ]  Athena (2022)
+- [x]  Atonement (2007) 
+- [x]  Avatar (2009)
+- [x]  Avengers : End Game (2019)
+- [x]  Avengers : Infinity War (2018)
+- [x]  Awara Pagaal Deewana (2002)
 
 - [ ]  Babel
-- [x]  Baby Driver
+- [x]  Baby Driver (2017)
 - [ ]  Bacurau (2019)
-- [x]  Bahubali - The Beginning and Conclusion
+- [x]  Bahubali - The Beginning (2015) and Conclusion (2017)
 - [ ]  Bandit Queen (1994)
 - [ ]  Baran (2001)
 - [ ]  Barbarian
@@ -879,6 +881,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Gone Girl
 - [ ]  Gone in sixty seconds 
 - [ ]  Good Fellas
+- [x]  Good Luck to You, Leo Grande (2022)
 - [x]  Good Will Hunting
 - [ ]  Grandmother (2009)
 - [x]  Gulaal - Anurag Kashyap
@@ -892,7 +895,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Half Moon (Iranian Movie)
 - [ ]  Han Gong-ju (2013)
 - [ ]  Happy Together (1997)
-- [ ]  Harry Potter Movie Series
+- [x]  Harry Potter and the Philosopher's Stone (2001)
 - [ ]  Hazaaron Khwaishey Aisi
 - [ ]  Head-On (2004)
 - [ ]  Heartbeats
@@ -1059,6 +1062,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Ponniyin Selvan I & II
 - [x]  Pretty Thing (2025)
 - [x]  Pride & Prejudice (2005)
+- [x]  Prince Of Persia: The Sands Of Time (2010)
 - [x]  Prisoner (2013)
 - [x]  Pulp Fiction
 - [ ]  Pyasa
@@ -1271,6 +1275,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  V
 - [x]  Vash (2023)
+- [x]  Vaazhai (2024)
 - [ ]  Vicky Donor
 - [ ]  Videodrome(1983)
 - [x]  Viduthalai Part 1 and 2 (2023 & 2024) 
@@ -1282,6 +1287,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  War
 - [x]  War For The Planet Of The Apes (2017)
 - [ ]  Watchmen
+- [x]  Welcome Home (2020)
 - [ ]  What Comes Around (2023)
 - [ ]  Where Is the Friend's House? (1987)
 - [ ]  White God (2014)
