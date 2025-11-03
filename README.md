@@ -37,7 +37,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
 - [ ]  Americanah - Chimamanda Ngozi Adichie
 - [ ]  An Ancestor’s Tale - Richard Dawkins
-- [x]  An Autobiography or My Experiments with Truth - M. K. Gandhi
+- [x]  An Autobiography or The Story My Experiments with Truth - M. K. Gandhi
 - [ ]  Andha Yug - Dharamvir Bharati
 - [ ]  Antking - Charlie Kaufman
 - [ ]  Anything You Want - Derek Sivers
@@ -128,6 +128,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Eugene Meyer by Merlo John Pusey
 - [x]  Everybody Lies - Seth Stephens-Davidowitz
 - [ ]  Everybody Writes - Ann Handley
+- [x]  Everything is Fu#ked - Mark Manson
 - [x]  Everything Is Out Of Syllabus - Varun Duggirala
 
 - [ ]  Fahrenheit 451 by Ray Bradbury
@@ -896,6 +897,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Han Gong-ju (2013)
 - [ ]  Happy Together (1997)
 - [x]  Harry Potter and the Philosopher's Stone (2001)
+- [x]  Harry Potter and the Chamber of Secrets (2002)
 - [ ]  Hazaaron Khwaishey Aisi
 - [ ]  Head-On (2004)
 - [ ]  Heartbeats
@@ -1143,7 +1145,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Tasveer 8x10
 - [ ]  Taxi (2015)
 - [x]  Taxi Driver (2017)
-- [ ]  Terms and Conditions may apply
+- [ ]  Terms and Conditions May Apply
 - [x]  Tenet
 - [x]  The Accountant (2016)
 - [x]  The Accountant 2 (2025)
@@ -1403,6 +1405,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Lost Room
 - [ ]  The Man in the High Castle
 - [x]  The Night of
+- [x]  The Outsider
 - [x]  The Penguin
 - [ ]  The Rehearsal
 - [x]  The Sopranos
