@@ -675,7 +675,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  12 Angry Men (1957)
 - [ ]  12 O Clock
-- [x]  12th Fail
+- [x]  12th Fail (2023)
 - [ ]  13 Thirteen (2010)
 - [x]  13 Hours: The Secret Soldiers Of Benghazi (2016)
 - [ ]  2001: A Space Odyssey
@@ -757,24 +757,24 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Being John Malkovich
 - [ ]  Ben-hur
 - [ ]  Beyond Utopia
-- [x]  Bhaag Milkha Bhaag
-- [x]  Bhagham Bhag
-- [x]  Bhool Bhulaiyaa
+- [x]  Bhaag Milkha Bhaag (2013)
+- [x]  Bhagham Bhag (2006)
+- [x]  Bhool Bhulaiyaa (2007)
 - [ ]  Big Fish
 - [ ]  Birth
-- [x]  BlackBerry
-- [x]  Black Friday - Anurag Kashyap
+- [x]  BlackBerry (2023)
+- [x]  Black Friday - Anurag Kashyap (2004)
 - [ ]  Black Swan (2010)
 - [x]  Blade Runner (1982)
 - [ ]  Blade Runner 2049 (2017)
 - [ ]  Blue Valentine (2010)
 - [ ]  Bombay
-- [x]  Boyhood
+- [x]  Boyhood (2014)
 - [ ]  Braveheart
 - [ ]  Brick (2005)
-- [x]  Bridge of Spies
+- [x]  Bridge of Spies (2015)
 - [ ]  Buddha Collapsed Out Of Shame (2007)
-- [x]  Buddha: The Great Departure
+- [x]  Buddha: The Great Departure (2011)
 - [ ]  Bullet Train
 - [ ]  Bullhead (2011)
 - [ ]  Burning
@@ -782,24 +782,24 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Cannibal Holocaust (1980)
 - [x]  Capefear (1991)
 - [ ]  Capernaum
-- [x]  Captain America 
-- [x]  Captain America - Civil War
-- [x]  Captain America - Winter Soldier
+- [x]  Captain America : The First Avenger (2011)
+- [x]  Captain America : Civil War (2016)
+- [x]  Captain America : The Winter Soldier (2014)
 - [ ]  Carlos (2010)
 - [x]  Casino (1995)
 - [x]  Casino Royale (2006)
-- [x]  Catch Me If You Can
+- [x]  Catch Me If You Can (2002)
 - [ ]  Central Station (1998)
 - [ ]  Character (1997)
-- [x]  Chak De India
+- [x]  Chak De India (2007)
 - [x]  Challengers (2024)
-- [x]  Chandni Chowk to China
+- [x]  Chandni Chowk to China (2009)
 - [ ]  Chef (2014)
 - [ ]  Chhapa Kurishu
 - [x]  Chhaava (2025)
 - [ ]  Chhoti Si Baat
 - [ ]  Children Of Heaven (1997)
-- [x]  Chup Chup Ke
+- [x]  Chup Chup Ke (2006)
 - [ ]  Citizenfour
 - [ ]  City of God (2002)
 - [ ]  Climates (2006)
@@ -807,9 +807,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Coded Bias
 - [ ]  Coherence
 - [ ]  Columbus
+- [x]  Company (2002)
 - [ ]  Conclave
 - [ ]  Confessions (2010)
-- [x]  Conjuring Franchise
+- [x]  Conjuring Franchise (2013 - 2025)
 - [ ]  Constantine
 - [x]  Contagion (2011)
 - [ ]  Cotton Tail
@@ -817,37 +818,36 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Creation
 - [ ]  Crouching Tiger, Hidden Dragon (2000)
 
-- [x]  Darlings
-- [ ]  Days Of Heaven(1978)
-- [x]  D Company
-- [x]  Dawn Of The Planet Of The Apes(2014)
-- [x]  Dear Dad
+- [x]  Darlings (2022)
+- [ ]  Days Of Heaven(1978) 
+- [x]  Dawn Of The Planet Of The Apes (2014)
+- [x]  Dear Dad (2016)
 - [ ]  Decision To Leave
-- [x]  De Dana dhan
+- [x]  De Dana Dan (2009) 
 - [ ]  Deewar
 - [x]  Delhi Belly (2011)
 - [ ]  Deliverance
 - [ ]  Dev D
-- [x]  Dhrishyam
-- [x]  Dil Chahta hai
+- [x]  Dhrishyam (2015)
+- [x]  Dil Chahta hai (2001)
 - [ ]  Dil Se
-- [x]  Divergent
-- [x]  Doctor Strange
+- [x]  Divergent (2014)
+- [x]  Doctor Strange (2016)
 - [ ]  Do Dooni Char
 - [ ]  Dogtooth 
 - [ ]  Donnie Darko
 - [ ]  Don't Look Up
 - [ ]  Drive (2011)
-- [x]  Dunkirk 
+- [x]  Dunkirk (2017)
 
 - [ ]  EE.MA.YAU
-- [x]  Ek Deewana tha
+- [x]  Ek Deewana tha (2012)
 - [ ]  Ek Haseena thi
-- [x]  Ek thi Daayan
+- [x]  Ek thi Daayan (2013)
 - [ ]  Elite Squad (2007)
 - [x]  Enemy (2014)
 - [ ]  English Vinglish 
-- [x]  Eternal Sunshine of a Spotless Mind
+- [x]  Eternal Sunshine of a Spotless Mind (2004)
 
 - [ ]  Fahrenheit 9/11 (2004)
 - [ ]  Fantastic Mr. Fox (2009)
@@ -898,6 +898,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Happy Together (1997)
 - [x]  Harry Potter and the Philosopher's Stone (2001)
 - [x]  Harry Potter and the Chamber of Secrets (2002)
+- [x]  Harry Potter and the Prisoner Of Azkaban (2004)
 - [ ]  Hazaaron Khwaishey Aisi
 - [ ]  Head-On (2004)
 - [ ]  Heartbeats
@@ -1028,20 +1029,21 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Naan Kadavul (2009)
 - [x]  Nay Varan Bhat Loncha Kon Nai Koncha (2022)
 - [ ]  Neighboring Sounds (2012)
-- [x]  New York
+- [x]  New York (2009)
 - [x]  Nickel Boys (2024)
 - [x]  Nightcrawler (2014)
 - [ ]  Nine Queens (2000)
 - [ ]  No Country for Old Men (2007)
-- [x]  No Smoking
+- [x]  No Smoking (2007)
 - [x]  No Time To Die (2021)
 - [ ]  Now You See Me 1 and 2
 
 - [ ]  Oasis (2002)
-- [x]  October
+- [x]  October (2018)
 - [x]  October Sky (1999)
 - [ ]  Offside (2006)
 - [x]  Oldboy (2003)
+- [x]  Once Upon a Time in America (1984)
 - [x]  One Day (2011)
 - [ ]  One Hour Photo
 - [ ]  Operation Romeo
@@ -1311,7 +1313,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 
 - [ ]  13 Reasons Why
-- [x]  1899
+- [x]  1899 ()
 
 - [ ]  Altered Carbon
 - [x]  Aspirants
@@ -1395,6 +1397,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Bridge
 - [ ]  The Chef Show
 - [ ]  The Curse Een
+- [x]  The Day Of the Jackal (2024)
 - [x]  The Family Man
 - [ ]  The Good Doctor
 - [ ]  The Handmaid's Tale
