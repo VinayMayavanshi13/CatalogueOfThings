@@ -389,7 +389,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Beautiful Trouble - Andrew Boyd
 - [ ]  The Beauty Myth: How Images of Beauty are Used Against Women - Naomi Wolf
 - [ ]  The Bed of Procrustes: Philosophical and Practical Aphorisms -- Nassim Taleb
-- [ ]  The Bhagavad Gita translated - Eknath Easwaran.
+- [x]  The Bhagavad Gita
 - [ ]  The Black Swan: Second Edition: The Impact of the Highly Improbable Fragility - Nassim Nicholas Taleb
 - [ ]  The Blue Zones Kitchen - Dan Buettner
 - [ ]  The Big Picture - Sean Carrol
@@ -700,9 +700,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  About Elly (2009)
 - [ ]  About Time
 - [ ]  Acopalypse Now
-- [ ]  A Death In The Gunj
+- [x]  A Death In The Gunj (2016)
 - [x]  Adore (2013)
-- [ ]  Aftersun
+- [x]  Aftersun
 - [ ]  A Few Good Men
 - [x]  Aligarh (2015)
 - [ ]  A Girl Walks Home Alone at Night (2014)
@@ -824,11 +824,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Dear Dad (2016)
 - [ ]  Decision To Leave
 - [x]  De Dana Dan (2009) 
-- [ ]  Deewar
+- [x]  Deewar
 - [x]  Delhi Belly (2011)
 - [ ]  Deliverance
 - [ ]  Dev D
 - [x]  Dhrishyam (2015)
+- [x]  Dhurandhar (2025)
 - [x]  Dil Chahta hai (2001)
 - [ ]  Dil Se
 - [x]  Divergent (2014)
@@ -861,7 +862,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Ford V Ferrari
 - [x]  Forensic
 - [ ]  Four Daughters
-- [ ]  Freddy
+- [x]  Freddy
 - [ ]  Fury
 
 - [ ]  Gali Guleiyan
@@ -899,6 +900,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Harry Potter and the Philosopher's Stone (2001)
 - [x]  Harry Potter and the Chamber of Secrets (2002)
 - [x]  Harry Potter and the Prisoner Of Azkaban (2004)
+- [x]  Harry Potter and the Goblet of Fire (2005)
+- [x]  Harry Potter and the Order of the Phoenix (2007)
+- [x]  Harry Potter and the Half-Blood Prince (2009)
+- [x]  Harry Potter and the Deathly Hallows: Part 1 (2010)
+- [x]  Harry Potter and the Deathly Hallows: Part 2 (2011)
 - [ ]  Hazaaron Khwaishey Aisi
 - [ ]  Head-On (2004)
 - [ ]  Heartbeats
@@ -921,13 +927,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Inception
 - [ ]  Indie Game
 - [x]  Inglourious Basterds (2009)
-- [ ]  Inside Out (2015)
-- [ ]  Inside Out 2
 - [x]  Interstellar
 - [ ]  In the Mood for Love (2000)
 - [x]  Invictus
 - [x]  Iron Man
-- [ ]  Irreversible
+- [x]  Irreversible
 - [x]  I Saw the Devil (2010)
 - [ ]  It's a Wonderful life (1946)
 
@@ -946,7 +950,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Kai Po Chhe
 - [x]  Kalki 2898 AD
 - [ ]  Kaminey
-- [x]  Kantara
+- [x]  Kantara (2022)
+- [x]  Kantara - A Legend: Chapter 1 (2025)
 - [ ]  Khamosh (1985)
 - [x]  Khamoshi : The Musical (1996)
 - [x]  Khatta Meetha
@@ -1032,6 +1037,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  New York (2009)
 - [x]  Nickel Boys (2024)
 - [x]  Nightcrawler (2014)
+- [x]  Nil Battey Sannata (2016)
 - [ ]  Nine Queens (2000)
 - [ ]  No Country for Old Men (2007)
 - [x]  No Smoking (2007)
@@ -1060,7 +1066,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Phantom
 - [ ]  Phantom Thread (2017)
 - [ ]  Pi (1998)
+- [x]  Pieces Of a Woman (2020)
 - [ ]  Pihu
+- [x]  Pirates of the Caribbean: The Curse of the Black Pearl (2003)
 - [x]  PK
 - [x]  Planet Of The Apes (2001)
 - [x]  Ponniyin Selvan I & II
@@ -1093,7 +1101,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Sadgati (1981)
 - [x]  Salaam Venky
 - [x]  Salaam Bombay
-- [ ]  Salo or the 120 days of Sodom(1975)
+- [x]  Salo or the 120 days of Sodom(1975)
 - [x]  Sapta Sagaradaache Ello Side A & Side B (2023)
 - [x]  Sardar Udhham
 - [x]  Sarkar
@@ -1108,6 +1116,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Shahid (2013)
 - [ ]  Shame (2011)
 - [x]  Shangai
+- [x]  Shaurya (2008)
 - [x]  Shershah
 - [x]  Ship of Theseus (2012)
 - [ ]  Shool
@@ -1135,7 +1144,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Spotlight
 - [ ]  Stronger
 - [x]  Suraj Ka Saatva Ghoda
-- [ ]  Swades
+- [x]  Swades
 - [ ]  Sweet Sixteen (2002)
 - [ ]  Sympathy for Mr. Vengeance (2002)
 
@@ -1147,6 +1156,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Tasveer 8x10
 - [ ]  Taxi (2015)
 - [x]  Taxi Driver (2017)
+- [x]  Taxi Driver (1976)
 - [ ]  Terms and Conditions May Apply
 - [x]  Tenet
 - [x]  The Accountant (2016)
@@ -1256,7 +1266,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Wolf of Wall Street (2013)
 - [ ]  The Yellow Sea (2010)
 - [ ]  The Zone of Interest
-- [ ]  There Will Be Blood (2007)
+- [x]  There Will Be Blood (2007)
 - [ ]  The World at War
 - [x]  Thor Ragnarok
 - [ ]  Three Monkeys (2008)
@@ -1267,6 +1277,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Tom at the farm
 - [ ]  Too Old To Die Young
 - [x]  Top Gun Maverick
+- [x]  Train Dreams (2025)
 - [ ]  Trainspotting (1996)
 - [x]  Train To Busan
 - [x]  Tron: Legacy
@@ -1313,7 +1324,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 
 - [ ]  13 Reasons Why
-- [x]  1899 ()
+- [x]  1899 
 
 - [ ]  Altered Carbon
 - [x]  Aspirants
@@ -1356,8 +1367,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  Kota Factory
 
-- [ ]  Love Death & Robots
+- [ ]  Lost
 - [ ]  Line Of Duty
+- [ ]  Love Death & Robots
 
 - [ ]  Mad Men
 - [x]  Maharani
@@ -1414,6 +1426,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Sopranos
 - [ ]  The Terminal List
 - [ ]  The Undoing
+- [x]  The Walking Dead
 - [ ]  The West Wing
 - [x]  The Wire
 - [x]  True Detective
