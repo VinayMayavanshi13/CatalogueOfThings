@@ -745,7 +745,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Baby Driver (2017)
 - [ ]  Bacurau (2019)
 - [x]  Bahubali - The Beginning (2015) and Conclusion (2017)
-- [ ]  Bandit Queen (1994)
+- [x]  Bandit Queen (1994)
 - [ ]  Baran (2001)
 - [ ]  Barbarian
 - [ ]  Bashu, The Little Stranger (1989)
