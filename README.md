@@ -300,6 +300,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Pet Sematary by Stephen King
 - [ ]  Philosophy of Mathematics by Øystein Linnebo
 - [ ]  Physics for Scientists and Engineers - Paul Tipler
+- [x]  Premchand Best Stories
 - [ ]  Pride and Prejudice - Jane Austen
 - [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence - Ajay Agrawal, Joshua Gans and Avi Goldfarb
 - [ ]  Princeton Companion of Mathematics - Timothy Gowers
@@ -673,6 +674,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 
+- [x]  10 Things I Hate About You (1999)
 - [x]  12 Angry Men (1957)
 - [ ]  12 O Clock
 - [x]  12th Fail (2023)
@@ -865,7 +867,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Freddy
 - [ ]  Fury
 
-- [ ]  Gali Guleiyan
+- [x]  Gali Guleiyan (2017)
 - [ ]  Gandu(2010)
 - [x]  Gangaajal
 - [x]  Gangs of Wasseypur 1,2
@@ -962,6 +964,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Kill Bill Vol. 1 (2003)
 - [x]  Kill Bill Vol. 2 (2004)
 - [ ]  Kinatay (2009)
+- [x]  Kingdom Of Heaven (2005)
 - [x]  Kingdom Of The Planet Of The Apes (2024)
 - [x]  King Kong (2005)
 - [x]  Knight And Day (2010)
