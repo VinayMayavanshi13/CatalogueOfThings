@@ -75,10 +75,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Bury My Heart At Wounded Knee - Dee Brown
 - [ ]  Buyology - Martin Lindstrom
 
-- [ ]  Cat’s Cradle by Kurt Vonnegut
+- [ ]  Cat’s Cradle - Kurt Vonnegut
 - [ ]  Catching Fire - Richard Wrangham
-- [ ]  Carnegie by Peter Krass 
-- [x]  ChanakyaNeeti - B. K. Chaturvedi
+- [ ]  Carnegie - Peter Krass 
+- [x]  Chanakya Neeti - B. K. Chaturvedi
 - [x]  Chanakya Neeti - Radhakrishnan Pillai
 - [ ]  Chatter - Ethan Kross
 - [ ]  Clear and Simple as the Truth - Francis-Noël Thomas
@@ -124,7 +124,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Enlightenment Now - Steven Pinker
 - [ ]  Entangled Life - Merlin Sheldrake
 - [ ]  Essence of Indian Art - B. N. Goswamy
-- [ ]  Estee: A Success Story Hardcover – Estee Lauder
+- [ ]  Estee: A Success Story – Estee Lauder
 - [ ]  Eugene Meyer by Merlo John Pusey
 - [x]  Everybody Lies - Seth Stephens-Davidowitz
 - [ ]  Everybody Writes - Ann Handley
@@ -149,6 +149,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Genghis Khan and the Making of the Modern World - Jack Weatherford
 - [ ]  Genome: The Autobiography of a Species in 23 Chapters -- Matt Ridley
 - [ ]  Gerrard: My Autobiography by Steven Gerrard
+- [x]  Getting to Yes - Roger Fisher and William Ury
 - [x]  Ghachar Ghochar - Vivek Shanbhag
 - [ ]  Giving Good Weight - John McPhee
 - [ ]  Glengarry Glen Ross by David Mamet
@@ -676,36 +677,37 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  10 Things I Hate About You (1999)
 - [x]  12 Angry Men (1957)
-- [ ]  12 O Clock
+- [ ]  12 O Clock (2021)
 - [x]  12th Fail (2023)
 - [ ]  13 Thirteen (2010)
 - [x]  13 Hours: The Secret Soldiers Of Benghazi (2016)
 - [ ]  2001: A Space Odyssey
 - [x]  28 Days Later (2002)
-- [ ]  28 Weeks Later
-- [ ]  28 Years Later
+- [x]  28 Weeks Later (2007)
+- [ ]  28 Years Later (2025)
 - [x]  300 (2006)
 - [x]  3 Idiots (2009)
-- [ ]  3 Iron
+- [ ]  3 Iron (2004)
 - [ ]  4 Months, 3 Weeks and 2 Days (2007)
 - [x]  500 Days of Summer (2009)
 - [x]  5 Centimeters Per Second (2007)
 - [x]  6 - 5 = 2 (2013)
-- [ ]  7 Boxes
+- [ ]  7 Boxes (2012)
+- [x]  8x10 Tasveer (2009)
 - [x]  96 (2018)
 
-- [ ]  Aadujeevitham : The Goat Life
-- [ ]  Aakrosh
-- [ ]  Aamir
+- [ ]  Aadujeevitham : The Goat Life (2024)
+- [ ]  Aakrosh (2010)
+- [ ]  Aamir (2008)
 - [ ]  Aandi (1975)
 - [x]  Aavesham (2024)
 - [ ]  About Elly (2009)
-- [ ]  About Time
-- [ ]  Acopalypse Now
+- [ ]  About Time (2013)
+- [ ]  Apocalypse Now (1979)
 - [x]  A Death In The Gunj (2016)
 - [x]  Adore (2013)
-- [x]  Aftersun
-- [ ]  A Few Good Men
+- [x]  Aftersun (2022)
+- [ ]  A Few Good Men (1992)
 - [x]  Aligarh (2015)
 - [ ]  A Girl Walks Home Alone at Night (2014)
 - [x]  Alita: Battle Angel (2019)
@@ -713,14 +715,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  All Quite on the Western Front (2022)
 - [x]  Amar Singh Chamkila (2024)
 - [x]  Ambulance (2022)
+- [x]  American History X (1998)
 - [x]  American Pie (1999)
 - [x]  American Psycho (2000)
 - [ ]  A Moment Of Innocence (1996)
-- [ ]  Amores Perros 
+- [ ]  Amores Perros (2000)
 - [x]  Andhadhun (2018)
-- [ ]  Andaz Apna Apna
+- [ ]  Andaz Apna Apna (1994)
 - [ ]  And Life Goes On (1992)
-- [ ]  An Given Sunday
+- [ ]  An Given Sunday (1999)
 - [ ]  Ankhon Dekhi
 - [ ]  Ankur
 - [ ]  Annihilation
@@ -826,14 +829,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Dear Dad (2016)
 - [ ]  Decision To Leave
 - [x]  De Dana Dan (2009) 
-- [x]  Deewar
+- [x]  Deewar (1975)
 - [x]  Delhi Belly (2011)
 - [ ]  Deliverance
 - [ ]  Dev D
+- [x]  Dhobi Ghat (2010)
 - [x]  Dhrishyam (2015)
 - [x]  Dhurandhar (2025)
 - [x]  Dil Chahta hai (2001)
-- [ ]  Dil Se
+- [x]  Dil Se (1998)
 - [x]  Divergent (2014)
 - [x]  Doctor Strange (2016)
 - [ ]  Do Dooni Char
@@ -856,46 +860,46 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fantastic Mr. Fox (2009)
 - [ ]  Fargo (1996)
 - [ ]  Fast and Furious Franchise Movies (from Initial Years)
-- [x]  Fight Club
+- [x]  Fight Club (1999)
 - [ ]  Fire (1996)
 - [ ]  Fireworks Wednesday (2006)
 - [ ]  Following (Christopher Nolan)
-- [x]  Force
-- [x]  Ford V Ferrari
-- [x]  Forensic
+- [x]  Force (2011)
+- [x]  Ford V Ferrari (2019)
+- [x]  Forensic (2020)
 - [ ]  Four Daughters
-- [x]  Freddy
+- [x]  Freddy (2022)
 - [ ]  Fury
 
 - [x]  Gali Guleiyan (2017)
 - [ ]  Gandu(2010)
-- [x]  Gangaajal
-- [x]  Gangs of Wasseypur 1,2
-- [x]  Garam Masala
+- [x]  Gangaajal (2003)
+- [x]  Gangs of Wasseypur 1,2 (2012)
+- [x]  Garam Masala (2005)
 - [x]  Get Out (2017)
 - [ ]  Gett: The Trial of Viviane Amsalem (2014)
-- [x]  Ghazi Attack
 - [x]  Ghuspaith between Borders (2023)
-- [x]  Gifted
+- [x]  Gifted (2017)
 - [ ]  Glengarry Glen Ross
-- [x]  Go Goa Gone
-- [x]  Goliyon Ki Raasleela Ram-Leela
+- [x]  Go Goa Gone (2013)
+- [x]  Goliyon Ki Raasleela Ram-Leela (2013)
 - [ ]  Gomorrah (2008)
 - [ ]  Gone Baby Gone (2007)
-- [x]  Gone Girl
+- [x]  Gone Girl (2014)
 - [ ]  Gone in sixty seconds 
-- [ ]  Good Fellas
+- [x]  GoodFellas (1990)
 - [x]  Good Luck to You, Leo Grande (2022)
-- [x]  Good Will Hunting
+- [x]  Good Will Hunting (1997)
 - [ ]  Grandmother (2009)
-- [x]  Gulaal - Anurag Kashyap
-- [x]  Gully Boy
-- [x]  Guardians of the Galaxy Vol. 1 and 2
-- [x]  Gurgaon
+- [x]  Gulaal - Anurag Kashyap (2009)
+- [x]  Gully Boy (2019)
+- [x]  Guardians of the Galaxy Vol. 1 and 2 (2014, 2017)
+- [x]  Gurgaon (2017)
+- [x]  Guru (2007)
 
 - [ ]  Haasil
-- [x]  Hacksaw Ridge
-- [x]  Haider
+- [x]  Hacksaw Ridge (2016)
+- [x]  Haider (2014)
 - [ ]  Half Moon (Iranian Movie)
 - [ ]  Han Gong-ju (2013)
 - [ ]  Happy Together (1997)
@@ -913,52 +917,54 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Heat
 - [ ]  Hellaro
 - [ ]  Her
-- [x]  Hera Pheri
+- [x]  Hera Pheri (2000)
 - [ ]  Heretic
-- [x]  Hey Ram
-- [x]  Hi Nanna
-- [x]  HIT 1 and 2 (Telegu Version)
+- [x]  Hey Ram (2000)
+- [x]  Hi Nanna (2023)
+- [x]  HIT 1, 2 and 3 (Telegu Version) (2020, 2022, 2025)
 - [ ]  Hiroshima Mon Amour
 - [ ]  Hotel Mumbai
 - [ ]  How to make millions before grandma dies
 
-- [x]  Icendies
+- [x]  Icendies (2010)
 - [ ]  Il Divo (2008)
 - [ ]  Ilo Ilo (2013)
-- [ ]  I killed my mother
-- [x]  Inception
+- [ ]  I Killed My Mother
+- [x]  Inception (2010)
 - [ ]  Indie Game
 - [x]  Inglourious Basterds (2009)
-- [x]  Interstellar
+- [x]  Interstellar (2014)
+- [x]  Insomnia (2002)
 - [ ]  In the Mood for Love (2000)
-- [x]  Invictus
-- [x]  Iron Man
-- [x]  Irreversible
+- [x]  Invictus (2009)
+- [x]  Iron Man (2008)
+- [x]  Irreversible (2002)
 - [x]  I Saw the Devil (2010)
 - [ ]  It's a Wonderful life (1946)
 
 - [ ]  Jackie Brown (1997)
-- [x]  Jay Bhim
-- [x]  Jersey (Original Starring Nani)
-- [x]  Jodha Akbar
-- [x]  Johnny Gaddar
-- [x]  John Wick
+- [x]  Jay Bhim (2021)
+- [x]  Jersey (Original Starring Nani) (2019)
+- [x]  Jodha Akbar (2008)
+- [x]  Johnny Gaddar (2007)
+- [x]  John Wick (2014, 2017, 2019, 2023)
 - [ ]  Joker
 - [ ]  Joyland
 
 - [ ]  Kadaisi Vivasayi
-- [x]  Kagaaz Ke Phool
-- [x]  Kahani 1, 2
-- [x]  Kai Po Chhe
-- [x]  Kalki 2898 AD
+- [x]  Kagaaz Ke Phool (1959)
+- [x]  Kahani 1, 2 (2012, 2016)
+- [x]  Kai Po Chhe (2013)
+- [x]  Kalki 2898 AD (2024)
 - [ ]  Kaminey
 - [x]  Kantara (2022)
 - [x]  Kantara - A Legend: Chapter 1 (2025)
+- [x]  Karwaan (2018)
 - [ ]  Khamosh (1985)
 - [x]  Khamoshi : The Musical (1996)
-- [x]  Khatta Meetha
-- [x]  Kho Gaye Hum Kahaan
-- [x]  Khosla Ka Ghosla
+- [x]  Khatta Meetha (2010)
+- [x]  Kho Gaye Hum Kahaan (2023)
+- [x]  Khosla Ka Ghosla (2006)
 - [ ]  Kid (by Larry Clark)
 - [x]  Kill (2024)
 - [x]  Kill Bill Vol. 1 (2003)
@@ -970,13 +976,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Knight And Day (2010)
 
 - [x]  L.A. Confidential (1997)
-- [x]  Lagaan
+- [x]  Lagaan (2001)
 - [ ]  La Haine (1995)
-- [x]  Laila Majnu
+- [x]  Laila Majnu (2018)
 - [x]  L.A. Johns (1997)
-- [x]  Lakshya
+- [x]  Lakshya (2004)
 - [ ]  Lawrence Of Arabia
-- [x]  Leon : The Professional
+- [x]  Leon : The Professional (1994)
 - [ ]  Let the Right One In (2008)
 - [ ]  Life and a Day (2016)
 - [ ]  Life is Beautiful (1997)
@@ -985,52 +991,53 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Live By Night (2016)
 - [ ]  Lock, Stock and Two Smoking Barrels (1998)
 - [ ]  Lone Survivor
-- [x]  Lost in Translation (Sofia Cappola)
-- [x]  Love and Other Drugs
-- [x]  Love Sonia
-- [x]  Luck
+- [x]  Lost in Translation (Sofia Cappola) (2003)
+- [x]  Love and Other Drugs (2010)
+- [x]  Love Sonia (2018)
+- [x]  Luck (2009)
 - [ ]  Luck By Chance
-- [x]  Lucknow Central
-- [x]  Lucy
+- [x]  Lucknow Central (2017)
+- [x]  Lucy (2014)
  
 - [x]  Mad Max: Fury Road (2015)
-- [x]  Madras Cafe
+- [x]  Madras Cafe (2013)
 - [x]  Madgaon Express (2024)
 - [ ]  Maestro (Brad Pitt)
-- [x]  Maharaja
-- [x]  Main Aur Charles
-- [x]  Major
-- [x]  Malamaal Weekly
-- [ ]  Manchester by the Sea
+- [x]  Maharaja (2024)
+- [x]  Main Aur Charles (2015)
+- [x]  Major (2022)
+- [ ]  Malena (2000)
+- [x]  Malamaal Weekly (2006)
+- [x]  Manchester by the Sea (2016)
 - [x]  Mangalavaaram (2023)
-- [x]  Manjummel Boys
-- [x]  Man Of Steel
+- [x]  Manjummel Boys (2024)
+- [x]  Man Of Steel (2013)
 - [x]  Manorama Six Feet Under (2007)
-- [x]  Manotstaan
-- [x]  Maqbool
-- [x]  Margin Call
-- [x]  Masaan
+- [x]  Manotstaan (2017)
+- [x]  Maqbool (2003)
+- [x]  Margin Call (2011)
+- [x]  Masaan (2015)
 - [x]  Materialists (2025)
 - [ ]  May December (2023)
 - [x]  Meet Joe Black (1998)
 - [ ]  Meiyazhagan
 - [x]  Memories of Murder (2003)
-- [x]  Merry Christmas
+- [x]  Merry Christmas (2024)
 - [ ]  Mesrine: Killer Instinct (2008)
 - [x]  Me Vasantrao (2022)
 - [ ]  Minari
 - [ ]  Mission: Impossible Franchise
 - [ ]  Moneyball 
-- [x]  Monica O My Darling
+- [x]  Monica O My Darling (2022)
 - [ ]  Monk and the Gun
-- [x]  Monsoon Shootout
-- [ ]  Monster (by Koreeda)
+- [x]  Monsoon Shootout (2013)
+- [x]  Monster (2023)
 - [ ]  Mother India
 - [x]  Mr. & Mrs. Smith (2005)
-- [x]  Mukundan Unnin Associates
+- [x]  Mukundan Unnin Associates (2022)
 - [ ]  Mullholland Drive
-- [x]  Munnabhai MBBS
-- [x]  Murder 2
+- [x]  Munnabhai MBBS (2003)
+- [x]  Murder 2 (2011)
 - [ ]  Mughal E Azam
 - [x]  Mystic River (2003)
 
@@ -1038,7 +1045,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Nay Varan Bhat Loncha Kon Nai Koncha (2022)
 - [ ]  Neighboring Sounds (2012)
 - [x]  New York (2009)
-- [x]  Nickel Boys (2024)
 - [x]  Nightcrawler (2014)
 - [x]  Nil Battey Sannata (2016)
 - [ ]  Nine Queens (2000)
@@ -1056,125 +1062,125 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  One Day (2011)
 - [ ]  One Hour Photo
 - [ ]  Operation Romeo
-- [x]  Oppenheimer
+- [x]  Oppenheimer (2023)
 - [x]  Oye Lucky! Lucky Oye! (2008)
 
 - [ ]  Paheli by Amol Palekar
 - [ ]  Pan’s Labyrinth (2006)
-- [x]  Parasite
-- [x]  Parmanu
+- [x]  Parasite (2019)
+- [x]  Parmanu (2018)
 - [x]  Past Lives (2023)
 - [ ]  Peppermint Candy
 - [x]  Perfect Sense (2011)
-- [x]  Phantom
+- [x]  Phantom (2015)
 - [ ]  Phantom Thread (2017)
 - [ ]  Pi (1998)
 - [x]  Pieces Of a Woman (2020)
 - [ ]  Pihu
 - [x]  Pirates of the Caribbean: The Curse of the Black Pearl (2003)
-- [x]  PK
+- [x]  PK (2014)
 - [x]  Planet Of The Apes (2001)
-- [x]  Ponniyin Selvan I & II
+- [x]  Ponniyin Selvan I & II (2022, 2023)
 - [x]  Pretty Thing (2025)
 - [x]  Pride & Prejudice (2005)
 - [x]  Prince Of Persia: The Sands Of Time (2010)
 - [x]  Prisoner (2013)
-- [x]  Pulp Fiction
+- [x]  Pulp Fiction (1994)
 - [ ]  Pyasa
 
 - [x]  Quantum Of Solace (2008)
 - [ ]  Queen
 
-- [x]  Raajneeti
-- [x]  Raazi
-- [x]  Rakht Charitra
-- [x]  Rang De Basanti
+- [x]  Raajneeti (2010)
+- [x]  Raat Akeli Hain (2020)
+- [x]  Raazi (2018)
+- [x]  Rakht Charitra (2010)
+- [x]  Rang De Basanti (2006)
 - [ ]  Raw (2016)
-- [ ]  Requiem for a Dream (2000)
+- [x]  Requiem for a Dream (2000)
 - [ ]  Return to Seoul
 - [x]  Revolutionary Road (2008)
 - [x]  Rise Of The Planet Of Apes (2011)
-- [ ]  Rocket Singh Salesman of the year
+- [x]  Rocket Singh Salesman Of The Year (2009)
 - [ ]  Roja
-- [x]  Run (2020 Aneesh Chaganty)
+- [x]  Run (2020)
 - [ ]  Run Lola Run (1998)
 - [ ]  Rush
 - [ ]  Rust and Bone (2012)
 
 - [x]  Sadgati (1981)
-- [x]  Salaam Venky
-- [x]  Salaam Bombay
-- [x]  Salo or the 120 days of Sodom(1975)
+- [x]  Salaam Venky (2022)
+- [x]  Salaam Bombay (1988)
+- [x]  Salo or the 120 days of Sodom (1975)
 - [x]  Sapta Sagaradaache Ello Side A & Side B (2023)
-- [x]  Sardar Udhham
-- [x]  Sarkar
-- [x]  Satya
-- [x]  Scarface
+- [x]  Sardar Udhham (2021)
+- [x]  Sarkar (2005)
+- [x]  Satya (1998)
+- [x]  Scarface (1983)
 - [x]  Scent of a Woman (1992)
-- [x]  Schindler's List
-- [x]  Se7en
-- [x]  Section 375
+- [x]  Schindler's List (1993)
+- [x]  Se7en (1995)
+- [x]  Section 375 (2019)
 - [x]  Sehar (2005)
 - [x]  Shadow Assasins (2022)
 - [x]  Shahid (2013)
 - [ ]  Shame (2011)
-- [x]  Shangai
+- [x]  Shangai (2012)
 - [x]  Shaurya (2008)
-- [x]  Shershah
+- [x]  Shershah (2021)
 - [x]  Ship of Theseus (2012)
 - [ ]  Shool
-- [x]  Shootout at Lokhandwala
+- [x]  Shootout at Lokhandwala (2007)
 - [ ]  Shor in the City
 - [ ]  Showgirls(1995)
-- [x]  Shutter Island 
-- [x]  Sicario I & II
+- [x]  Shutter Island (2010)
+- [x]  Sicario I & II (2015, 2018)
 - [x]  Side Effects (2013)
 - [ ]  Silicon Cowboys
 - [x]  Sinners (2025)
 - [ ]  Sins(2005)
-- [x]  Sita Raman
+- [x]  Sita Raman (2022)
 - [x]  Siya (2022)
 - [x]  Skyfall (2012)
 - [ ]  Snatch (2000)
-- [x]  Snowden
+- [x]  Snowden (2016)
 - [ ]  Snowtown (2011)
 - [ ]  Somewhere (Sofia Coppola)
-- [x]  Soorarai Pottru 
-- [x]  Special 26
+- [x]  Soorarai Pottru (2020)
+- [x]  Special 26 (2013)
 - [x]  Spectre (2015)
 - [ ]  Spider Man - Across the Spider Verse
-- [x]  Spider Man - No Way Home
+- [x]  Spider Man - No Way Home (2021)
 - [ ]  Spotlight
 - [ ]  Stronger
-- [x]  Suraj Ka Saatva Ghoda
-- [x]  Swades
+- [x]  Suraj Ka Saatva Ghoda (1992)
+- [x]  Swades (2004)
 - [ ]  Sweet Sixteen (2002)
 - [ ]  Sympathy for Mr. Vengeance (2002)
 
-- [x]  Taare Zameen Par
-- [x]  Table No. 21 
-- [x]  Talvar
-- [x]  Taken
+- [x]  Taare Zameen Par (2007)
+- [x]  Table No. 21 (2013)
+- [x]  Talvar (2015)
+- [x]  Taken (2008)
 - [ ]  Taste Of Cherry (1997)
-- [x]  Tasveer 8x10
 - [ ]  Taxi (2015)
 - [x]  Taxi Driver (2017)
 - [x]  Taxi Driver (1976)
 - [ ]  Terms and Conditions May Apply
-- [x]  Tenet
+- [x]  Tenet (2020)
 - [x]  The Accountant (2016)
 - [x]  The Accountant 2 (2025)
 - [x]  The Amateur (2025)
 - [ ]  The American President
-- [x]  The Assassination Of Jesse James By The Coward Robert Ford
-- [x]  The Attacks Of 26/11
-- [x]  The Banshees Of Inisherin(2022)
+- [x]  The Assassination Of Jesse James By The Coward Robert Ford (2007)
+- [x]  The Attacks Of 26/11 (2013)
+- [x]  The Banshees Of Inisherin (2022)
 - [x]  The Batman (2022)
-- [x]  The Beautiful Mind 
+- [x]  The Beautiful Mind (2001)
 - [ ]  The Beat That My Heart Skipped (2005)
 - [ ]  The Best of Youth (2003)
 - [ ]  The Big Lebowski (1998)
-- [x]  The Big Shot
+- [x]  The Big Shot (2015)
 - [ ]  The Birth of a nation(1915)
 - [x]  The Bourne Identity (2002)
 - [x]  The Bourne Legacy (2012)
@@ -1188,33 +1194,34 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Count Of Monte Cristo (2024)
 - [ ]  The Cow (1969)
 - [ ]  The Curious Case of Benjamin Button 
-- [x]  The Dark Knight Trilogy - (Batman Begins, The Dark Knight, The Dark Knight Rises)
+- [x]  The Dark Knight Trilogy - (Batman Begins (2005), The Dark Knight (2008), The Dark Knight Rises(2012) )
 - [ ]  The Da Vinci Code
-- [x]  The Departed
+- [x]  The Departed (2006)
 - [ ]  The Devil’s Backbone (2001)
 - [ ]  The Edge of Heaven (2007)
-- [x]  The Equalizer 
+- [x]  The Equalizer (2014)
 - [ ]  The Founder 
 - [x]  The Gangster, the Cop, the Devil (2019)
-- [x]  The Godfather I & II
-- [x]  The Gorge
-- [x]  The Girl Next Door - It's a fun movie.
-- [x]  The Girl With the Dragon Tattoo
+- [x]  The Godfather I, II & III (1972, 1974, 1990)
+- [x]  The Gorge (2025)
+- [x]  The Ghazi Attack (2017)
+- [x]  The Girl Next Door (2004)
+- [x]  The Girl With the Dragon Tattoo (2011)
 - [ ]  The Great Beauty (2013)
 - [ ]  The Great Indian Kitchen
 - [ ]  The Great Hack
-- [x]  The Green Mile
+- [x]  The Green Mile (1999)
 - [x]  The Hangover (2009)
 - [ ]  The Hidden Blade (2004)
 - [ ]  The Holdovers 
 - [x]  The Hunt (2012)
-- [x]  The Imitation Game
+- [x]  The Imitation Game (2014)
 - [ ]  The Impossible (2012)
 - [ ]  The Intern 
 - [ ]  The Internship
 - [ ]  The Irishman
 - [ ]  The Jungle Book (2016)
-- [x]  The Killer
+- [x]  The Killer (2023)
 - [ ]  The Last House on the Left
 - [ ]  The Last Jedi
 - [ ]  The Last King of Scotland (2006)
@@ -1227,16 +1234,16 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Lord Of The Rings Triology (2001,2002, 2003)
 - [ ]  The Man From Earth
 - [ ]  The Man Who Knew Infinity
-- [x]  The Martian
+- [x]  The Martian (2015)
 - [ ]  The Master (2012)
 - [x]  The Matrix Franchise
 - [ ]  The Old Oak
 - [ ]  The Patience Stone (2013)
-- [x]  The Perks of Being a Wallflower
+- [x]  The Perks of Being a Wallflower (2012)
 - [ ]  The Pianist
 - [ ]  The Pirates of Silicon Valley
 - [ ]  The Platform (2019)
-- [x]  The Prestige
+- [x]  The Prestige (2006)
 - [ ]  The Proposition (2005)
 - [ ]  The Pursuit of Happyness
 - [ ]  The Raid (Part 1 & 2)
@@ -1247,17 +1254,17 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Secret Life Of Walter Witty
 - [ ]  The Secret rules of modern living : the algorithms
 - [ ]  The Seed of the Sacred Fig
-- [x]  The Shawshank Redemption
+- [x]  The Shawshank Redemption (1994)
 - [ ]  The Sixth Sense
 - [ ]  The Skin I Live In
 - [ ]  The Silence Of the Lambs
 - [ ]  The Songs Of Sparrows (2008)
-- [x]  The Stoneman Murders
+- [x]  The Stoneman Murders (2009)
 - [ ]  The Stoning of Soroya M. (2008)
 - [ ]  The Texas Chainsaw Massacre(1974)
 - [ ]  The Thing
 - [ ]  The Time Traveler's Wife
-- [x]  The Truman Show
+- [x]  The Truman Show (1998)
 - [ ]  The Twilight Samurai (2002) 
 - [ ]  The Usual Suspects (1995)
 - [ ]  The Vanishing(1998)
@@ -1271,38 +1278,38 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Zone of Interest
 - [x]  There Will Be Blood (2007)
 - [ ]  The World at War
-- [x]  Thor Ragnarok
+- [x]  Thor Ragnarok (2017)
 - [ ]  Three Monkeys (2008)
 - [ ]  Three Of Us
 - [ ]  Through the Olive Trees (1994)
-- [x]  Titanic 
+- [x]  Titanic (1997)
 - [ ]  Titane
 - [ ]  Tom at the farm
 - [ ]  Too Old To Die Young
-- [x]  Top Gun Maverick
+- [x]  Top Gun Maverick (2022)
 - [x]  Train Dreams (2025)
 - [ ]  Trainspotting (1996)
-- [x]  Train To Busan
-- [x]  Tron: Legacy
+- [x]  Train To Busan (2016)
+- [x]  Tron: Legacy (2010)
 - [ ]  Turtles Can Fly (2005)
 
-- [x]  Udaan
-- [x]  Uri : The Surgical Strike
-- [x]  Ustad Hotel
+- [x]  Udaan (2010)
+- [x]  Uri : The Surgical Strike (2019)
+- [x]  Ustad Hotel (2012)
 - [ ]  Uzak
 
-- [x]  V
+- [x]  V (2020)
 - [x]  Vash (2023)
 - [x]  Vaazhai (2024)
 - [ ]  Vicky Donor
 - [ ]  Videodrome(1983)
 - [x]  Viduthalai Part 1 and 2 (2023 & 2024) 
-- [x]  Vikram
+- [x]  Vikram (2022)
 - [x]  Visaranai (2015)
 
-- [x]  Wall Street 
+- [x]  Wall Street (1987)
 - [ ]  Wake Up Sid
-- [x]  War
+- [x]  War (2019)
 - [x]  War For The Planet Of The Apes (2017)
 - [ ]  Watchmen
 - [x]  Welcome Home (2020)
@@ -1313,16 +1320,50 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Whiplash (2014)
 - [ ]  Wild Tales (2014)
 - [ ]  Wind River
-- [x]  Women Talking
+- [x]  Women Talking (2022)
 
 - [ ]  Yi Yi
 - [ ]  Yu Hota Toh Kya Hota
 - [ ]  Y Tu Mamá También (2001)
 - [ ]  Yuva
 
-- [x]  Zero Dark Thirty
-- [x]  Zindagi Na Milegi Dobara 
-- [x]  Zodiac
+- [x]  Zero Dark Thirty (2012)
+- [x]  Zindagi Na Milegi Dobara (2011)
+- [x]  Zodiac (2007)
+
+### Actor or Directors To Explore
+
+- [ ]  Al Pacino
+- [ ]  Anne Hathaway
+- [ ]  Anurag Kashyap
+- [ ]  Ben Affleck
+- [ ]  Bong Joon Ho
+- [ ]  Brad Pitt
+- [ ]  Casey Affleck
+- [ ]  Christopher Nolan
+- [ ]  Daniel Day-Lewis
+- [ ]  David Fincher
+- [ ]  David Lynch
+- [ ]  Denis Villeneuve
+- [ ]  Jake Gyllenhaal
+- [ ]  Hirokazu Kore-eda
+- [ ]  Irrfan Khan
+- [ ]  Leonardo DiCaprio
+- [ ]  Mark Ruffalo
+- [ ]  Martin Scorsese
+- [ ]  Matthew McConaughey
+- [ ]  Matt Damon
+- [ ]  Natalie Portman
+- [ ]  Park Chan-wook
+- [ ]  Quentin Tarantino
+- [ ]  Ridley Scott
+- [ ]  Robert De Niro
+- [ ]  Satyajit Ray
+- [ ]  Steven Spielberg
+- [ ]  Tom Hanks
+- [ ]  Vetrimaaran
+- [ ]  Vishal Bhardwaj
+
 
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 
@@ -1430,6 +1471,17 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Terminal List
 - [ ]  The Undoing
 - [x]  The Walking Dead
+       - [ ]  Fear the Walking Dead
+       - [ ]  The Walking Dead : World Beyond
+       - [ ]  The Walking Dead : Daryl Dixon
+       - [x]  The Walking Dead : The Ones Who Live
+       - [ ]  The Walking Dead : Dead City
+       - [ ]  The Walking Dead : Red Machete
+       - [ ]  Tales of the Walking Dead
+       - [ ]  The Walking Dead : Torn Apart
+       - [ ]  The Walking Dead : The Oath
+       - [ ]  The Walking Dead : Cold Storage 
+    
 - [ ]  The West Wing
 - [x]  The Wire
 - [x]  True Detective
