@@ -677,14 +677,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  10 Things I Hate About You (1999)
 - [x]  12 Angry Men (1957)
-- [ ]  12 O Clock (2021)
+- [x]  12 O Clock (2021)
 - [x]  12th Fail (2023)
 - [ ]  13 Thirteen (2010)
 - [x]  13 Hours: The Secret Soldiers Of Benghazi (2016)
 - [ ]  2001: A Space Odyssey
 - [x]  28 Days Later (2002)
 - [x]  28 Weeks Later (2007)
-- [ ]  28 Years Later (2025)
+- [x]  28 Years Later (2025) - Trilogy
 - [x]  300 (2006)
 - [x]  3 Idiots (2009)
 - [ ]  3 Iron (2004)
@@ -709,6 +709,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Aftersun (2022)
 - [ ]  A Few Good Men (1992)
 - [x]  Aligarh (2015)
+- [x]  Agent Sai Srinivasa Athreya (2019)
 - [ ]  A Girl Walks Home Alone at Night (2014)
 - [x]  Alita: Battle Angel (2019)
 - [x]  All India Rank (2023)
@@ -974,6 +975,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Kingdom Of The Planet Of The Apes (2024)
 - [x]  King Kong (2005)
 - [x]  Knight And Day (2010)
+- [x]  Knives Out (2019)
 
 - [x]  L.A. Confidential (1997)
 - [x]  Lagaan (2001)
@@ -1008,6 +1010,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Major (2022)
 - [ ]  Malena (2000)
 - [x]  Malamaal Weekly (2006)
+- [x]  Mammal (2016)
 - [x]  Manchester by the Sea (2016)
 - [x]  Mangalavaaram (2023)
 - [x]  Manjummel Boys (2024)
@@ -1081,6 +1084,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  PK (2014)
 - [x]  Planet Of The Apes (2001)
 - [x]  Ponniyin Selvan I & II (2022, 2023)
+- [x]  Potrait Of A Lady On Fire (2019)
 - [x]  Pretty Thing (2025)
 - [x]  Pride & Prejudice (2005)
 - [x]  Prince Of Persia: The Sands Of Time (2010)
@@ -1105,7 +1109,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Roja
 - [x]  Run (2020)
 - [ ]  Run Lola Run (1998)
-- [ ]  Rush
+- [x]  Rush (2013)
 - [ ]  Rust and Bone (2012)
 
 - [x]  Sadgati (1981)
@@ -1210,6 +1214,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Great Beauty (2013)
 - [ ]  The Great Indian Kitchen
 - [ ]  The Great Hack
+- [x]  The Grey (2011)
 - [x]  The Green Mile (1999)
 - [x]  The Hangover (2009)
 - [ ]  The Hidden Blade (2004)
@@ -1255,6 +1260,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Secret rules of modern living : the algorithms
 - [ ]  The Seed of the Sacred Fig
 - [x]  The Shawshank Redemption (1994)
+- [x]  The Shining (1980)
 - [ ]  The Sixth Sense
 - [ ]  The Skin I Live In
 - [ ]  The Silence Of the Lambs
