@@ -735,7 +735,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Article 15 (2019)
 - [x]  Ascharya F*ck It (2018)
 - [ ]  A Separation (2011)
-- [ ]  A Serbian Film (2010)
 - [ ]  A Serious Man (2009)
 - [x]  A Time To Kill (1996)
 - [ ]  Asoka
