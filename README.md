@@ -681,7 +681,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  12th Fail (2023)
 - [ ]  13 Thirteen (2010)
 - [x]  13 Hours: The Secret Soldiers Of Benghazi (2016)
-- [ ]  2001: A Space Odyssey
+- [x]  20th Century Women (2016)
 - [x]  28 Days Later (2002)
 - [x]  28 Weeks Later (2007)
 - [x]  28 Years Later (2025) - Trilogy
@@ -707,7 +707,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  A Death In The Gunj (2016)
 - [x]  Adore (2013)
 - [x]  Aftersun (2022)
-- [ ]  A Few Good Men (1992)
+- [X]  A Few Good Men (1992)
 - [x]  Aligarh (2015)
 - [x]  Agent Sai Srinivasa Athreya (2019)
 - [ ]  A Girl Walks Home Alone at Night (2014)
@@ -731,6 +731,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Anora (2024)
 - [ ]  Apollo 13
 - [ ]  A Prophet (2009)
+- [x]  Are You There God? It's Me, Margaret. (2023)
 - [x]  Argo (2012)
 - [x]  Article 15 (2019)
 - [x]  Ascharya F*ck It (2018)
@@ -872,7 +873,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fury
 
 - [x]  Gali Guleiyan (2017)
-- [ ]  Gandu(2010)
 - [x]  Gangaajal (2003)
 - [x]  Gangs of Wasseypur 1,2 (2012)
 - [x]  Garam Masala (2005)
@@ -902,6 +902,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Haider (2014)
 - [ ]  Half Moon (Iranian Movie)
 - [ ]  Han Gong-ju (2013)
+- [x]  Hannibal (2001)
 - [ ]  Happy Together (1997)
 - [x]  Harry Potter and the Philosopher's Stone (2001)
 - [x]  Harry Potter and the Chamber of Secrets (2002)
@@ -914,7 +915,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hazaaron Khwaishey Aisi
 - [ ]  Head-On (2004)
 - [ ]  Heartbeats
-- [ ]  Heat
+- [x]  Heat (1995)
 - [ ]  Hellaro
 - [ ]  Her
 - [x]  Hera Pheri (2000)
@@ -950,11 +951,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  John Wick (2014, 2017, 2019, 2023)
 - [ ]  Joker
 - [ ]  Joyland
+- [x]  Jurassic Park (1993)
 
 - [ ]  Kadaisi Vivasayi
 - [x]  Kagaaz Ke Phool (1959)
 - [x]  Kahani 1, 2 (2012, 2016)
 - [x]  Kai Po Chhe (2013)
+- [x]  Kalamkaval (2025)
 - [x]  Kalki 2898 AD (2024)
 - [ ]  Kaminey
 - [x]  Kantara (2022)
@@ -1039,6 +1042,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Mukundan Unnin Associates (2022)
 - [ ]  Mullholland Drive
 - [x]  Munnabhai MBBS (2003)
+- [x]  Murder (2004)
 - [x]  Murder 2 (2011)
 - [ ]  Mughal E Azam
 - [x]  Mystic River (2003)
@@ -1050,7 +1054,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Nightcrawler (2014)
 - [x]  Nil Battey Sannata (2016)
 - [ ]  Nine Queens (2000)
-- [ ]  No Country for Old Men (2007)
+- [x]  No Country for Old Men (2007)
 - [x]  No Smoking (2007)
 - [x]  No Time To Die (2021)
 - [ ]  Now You See Me 1 and 2
@@ -1061,6 +1065,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Offside (2006)
 - [x]  Oldboy (2003)
 - [x]  Once Upon a Time in America (1984)
+- [x]  Once Upon A Time In Hollywood (2019)
 - [x]  One Day (2011)
 - [ ]  One Hour Photo
 - [ ]  Operation Romeo
@@ -1132,6 +1137,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Shaurya (2008)
 - [x]  Shershah (2021)
 - [x]  Ship of Theseus (2012)
+- [x]  Shiva (1990)
 - [ ]  Shool
 - [x]  Shootout at Lokhandwala (2007)
 - [ ]  Shor in the City
@@ -1226,6 +1232,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Irishman
 - [ ]  The Jungle Book (2016)
 - [x]  The Killer (2023)
+- [x]  The King (2019)
 - [ ]  The Last House on the Left
 - [ ]  The Last Jedi
 - [ ]  The Last King of Scotland (2006)
@@ -1241,6 +1248,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Martian (2015)
 - [ ]  The Master (2012)
 - [x]  The Matrix Franchise
+- [x]  The Mist (2007)
 - [ ]  The Old Oak
 - [ ]  The Patience Stone (2013)
 - [x]  The Perks of Being a Wallflower (2012)
@@ -1269,6 +1277,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Texas Chainsaw Massacre(1974)
 - [ ]  The Thing
 - [ ]  The Time Traveler's Wife
+- [x]  The Town (2010)
 - [x]  The Truman Show (1998)
 - [ ]  The Twilight Samurai (2002) 
 - [ ]  The Usual Suspects (1995)
@@ -1313,6 +1322,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Visaranai (2015)
 
 - [x]  Wall Street (1987)
+- [x]  Wake Up Dead Man (2025)
 - [ ]  Wake Up Sid
 - [x]  War (2019)
 - [x]  War For The Planet Of The Apes (2017)
@@ -1375,6 +1385,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  13 Reasons Why
 - [x]  1899 
 
+- [x]  A Knight Of the Seven Kingdoms
 - [ ]  Altered Carbon
 - [x]  Aspirants
 - [x]  Asur
@@ -1403,6 +1414,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Fauda
 - [ ]  Fleabag
+- [x]  Freedom At Midnight
 - [x]  From 
 
 - [x]  Game of thrones
@@ -1590,6 +1602,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Minimalists : Less Is Now
 - [ ]  The Mind, Explained
 - [ ]  The Mystery of Marilyn Munroe
+- [x]  The Perfect Neighbor (2025)
 - [ ]  The Power of Nightmares 
 - [ ]  The Summit <br/>
 - In August 2008, 22 climbers met on High Camp of K2, the last stop before the summit. 48 hours later, 11 had been killed. At the heart of the film is a mystery about one extraordinary man–Ger McDonnell, the first Irishman to summit K2.
