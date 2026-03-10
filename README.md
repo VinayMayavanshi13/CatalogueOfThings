@@ -675,6 +675,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 ## [Movies](https://github.com/VinayMayavanshi13/CatalogueOfThings#Movies)
 
+- [x]  10,000 BC (2008)
 - [x]  10 Things I Hate About You (1999)
 - [x]  12 Angry Men (1957)
 - [x]  12 O Clock (2021)
@@ -702,8 +703,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Aandi (1975)
 - [x]  Aavesham (2024)
 - [ ]  About Elly (2009)
-- [ ]  About Time (2013)
-- [ ]  Apocalypse Now (1979)
+- [x]  About Time (2013)
+- [x]  Apocalypse Now (1979)
 - [x]  A Death In The Gunj (2016)
 - [x]  Adore (2013)
 - [x]  Aftersun (2022)
@@ -719,6 +720,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  American History X (1998)
 - [x]  American Pie (1999)
 - [x]  American Psycho (2000)
+- [x]  American Sniper (2014)
 - [ ]  A Moment Of Innocence (1996)
 - [ ]  Amores Perros (2000)
 - [x]  Andhadhun (2018)
@@ -758,7 +760,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Batman V Superman: Dawn Of Justice (2016)
 - [ ]  Beautiful City (2004)
 - [x]  Beautiful Kate (2009)
-- [ ]  Before Trilogy - Before Sunset, Before Sunrise, Before Midnight.
+- [ ]  Before Midnight
+- [x]  Before Sunrise
+- [ ]  Before Sunset
 - [ ]  Being Cyrus
 - [ ]  Being John Malkovich
 - [ ]  Ben-hur
@@ -772,7 +776,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Black Friday - Anurag Kashyap (2004)
 - [ ]  Black Swan (2010)
 - [x]  Blade Runner (1982)
-- [ ]  Blade Runner 2049 (2017)
+- [x]  Blade Runner 2049 (2017)
+- [x]  Blood Diamond (2006)
 - [ ]  Blue Valentine (2010)
 - [ ]  Bombay
 - [x]  Boyhood (2014)
@@ -791,6 +796,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Captain America : The First Avenger (2011)
 - [x]  Captain America : Civil War (2016)
 - [x]  Captain America : The Winter Soldier (2014)
+- [x]  Captain Phillips (2013)
 - [ ]  Carlos (2010)
 - [x]  Casino (1995)
 - [x]  Casino Royale (2006)
@@ -821,6 +827,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Contagion (2011)
 - [ ]  Cotton Tail
 - [ ]  Court (Marathi)
+- [x]  Crazy, Stupid, Love (2011)
 - [ ]  Creation
 - [ ]  Crouching Tiger, Hidden Dragon (2000)
 
@@ -833,6 +840,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Deewar (1975)
 - [x]  Delhi Belly (2011)
 - [ ]  Deliverance
+- [x]  Detective Byomkesh Bakshy! (2015)
 - [ ]  Dev D
 - [x]  Dhobi Ghat (2010)
 - [x]  Dhrishyam (2015)
@@ -886,11 +894,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Gomorrah (2008)
 - [ ]  Gone Baby Gone (2007)
 - [x]  Gone Girl (2014)
-- [ ]  Gone in sixty seconds 
+- [ ]  Gone in 60 Seconds 
 - [x]  GoodFellas (1990)
 - [x]  Good Luck to You, Leo Grande (2022)
 - [x]  Good Will Hunting (1997)
 - [ ]  Grandmother (2009)
+- [x]  Grave Of the Fireflies (1988)
 - [x]  Gulaal - Anurag Kashyap (2009)
 - [x]  Gully Boy (2019)
 - [x]  Guardians of the Galaxy Vol. 1 and 2 (2014, 2017)
@@ -938,6 +947,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Insomnia (2002)
 - [ ]  In the Mood for Love (2000)
 - [x]  Invictus (2009)
+- [x]  Iratta (2023)
 - [x]  Iron Man (2008)
 - [x]  Irreversible (2002)
 - [x]  I Saw the Devil (2010)
@@ -945,6 +955,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Jackie Brown (1997)
 - [x]  Jay Bhim (2021)
+- [x]  Jaws (1975)
 - [x]  Jersey (Original Starring Nani) (2019)
 - [x]  Jodha Akbar (2008)
 - [x]  Johnny Gaddar (2007)
@@ -959,10 +970,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Kai Po Chhe (2013)
 - [x]  Kalamkaval (2025)
 - [x]  Kalki 2898 AD (2024)
-- [ ]  Kaminey
+- [x]  Kaminey (2009)
 - [x]  Kantara (2022)
 - [x]  Kantara - A Legend: Chapter 1 (2025)
 - [x]  Karwaan (2018)
+- [x]  Kennedy (2023)
 - [ ]  Khamosh (1985)
 - [x]  Khamoshi : The Musical (1996)
 - [x]  Khatta Meetha (2010)
@@ -1001,6 +1013,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Luck (2009)
 - [ ]  Luck By Chance
 - [x]  Lucknow Central (2017)
+- [x]  Lucifer (2019)
 - [x]  Lucy (2014)
  
 - [x]  Mad Max: Fury Road (2015)
@@ -1025,14 +1038,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Materialists (2025)
 - [ ]  May December (2023)
 - [x]  Meet Joe Black (1998)
-- [ ]  Meiyazhagan
+- [x]  Meiyazhagan (2024)
 - [x]  Memories of Murder (2003)
 - [x]  Merry Christmas (2024)
 - [ ]  Mesrine: Killer Instinct (2008)
 - [x]  Me Vasantrao (2022)
 - [ ]  Minari
 - [ ]  Mission: Impossible Franchise
-- [ ]  Moneyball 
+- [x]  Moneyball (2011)
 - [x]  Monica O My Darling (2022)
 - [ ]  Monk and the Gun
 - [x]  Monsoon Shootout (2013)
@@ -1104,6 +1117,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Raazi (2018)
 - [x]  Rakht Charitra (2010)
 - [x]  Rang De Basanti (2006)
+- [x]  Rathinirvedam (2011)
 - [ ]  Raw (2016)
 - [x]  Requiem for a Dream (2000)
 - [ ]  Return to Seoul
@@ -1119,7 +1133,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Sadgati (1981)
 - [x]  Salaam Venky (2022)
 - [x]  Salaam Bombay (1988)
-- [x]  Salo or the 120 days of Sodom (1975)
 - [x]  Sapta Sagaradaache Ello Side A & Side B (2023)
 - [x]  Sardar Udhham (2021)
 - [x]  Sarkar (2005)
@@ -1130,6 +1143,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Se7en (1995)
 - [x]  Section 375 (2019)
 - [x]  Sehar (2005)
+- [x]  Seven Years In Tibet (1997)
 - [x]  Shadow Assasins (2022)
 - [x]  Shahid (2013)
 - [ ]  Shame (2011)
@@ -1223,7 +1237,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Green Mile (1999)
 - [x]  The Hangover (2009)
 - [ ]  The Hidden Blade (2004)
-- [ ]  The Holdovers 
+- [ ]  The Holdovers
+- [x]  The Housemaid (2025)
 - [x]  The Hunt (2012)
 - [x]  The Imitation Game (2014)
 - [ ]  The Impossible (2012)
@@ -1264,11 +1279,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Salesman (2006)
 - [x]  The Secret in their eyes (2009)
 - [ ]  The Secret Life Of Walter Witty
-- [ ]  The Secret rules of modern living : the algorithms
+- [ ]  The Secret Rules Of Modern Living : The Algorithms
 - [ ]  The Seed of the Sacred Fig
 - [x]  The Shawshank Redemption (1994)
 - [x]  The Shining (1980)
-- [ ]  The Sixth Sense
+- [x]  The Sixth Sense (1999)
 - [ ]  The Skin I Live In
 - [ ]  The Silence Of the Lambs
 - [ ]  The Songs Of Sparrows (2008)
@@ -1392,7 +1407,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  Band Of Brothers
 - [ ]  Barry
-- [x]  Baby Reinder 
+- [x]  Baby Reinder
+- [ ]  Banshee 
 - [ ]  Better Call Saul
 - [ ]  Black Mirror
 - [x]  Breaking Bad
@@ -1405,7 +1421,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  Dahan
 - [ ]  Daredevil
-- [ ]  Dark
+- [x]  Dark
 - [ ]  Dark Matter
 - [ ]  Dexter
 
@@ -1449,6 +1465,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Rectify
 - [x]  Rocket Boys
+- [ ]  Rome
 - [x]  Rudra
 
 - [x]  Scam 1992
@@ -1482,6 +1499,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Man in the High Castle
 - [x]  The Night of
 - [x]  The Outsider
+- [ ]  The Pacific
 - [x]  The Penguin
 - [ ]  The Rehearsal
 - [x]  The Sopranos
@@ -1502,6 +1520,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The West Wing
 - [x]  The Wire
 - [x]  True Detective
+- [ ]  Twin Peaks
 
 - [x]  Watchmen
 
