@@ -894,7 +894,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Gomorrah (2008)
 - [ ]  Gone Baby Gone (2007)
 - [x]  Gone Girl (2014)
-- [ ]  Gone in 60 Seconds 
 - [x]  GoodFellas (1990)
 - [x]  Good Luck to You, Leo Grande (2022)
 - [x]  Good Will Hunting (1997)
