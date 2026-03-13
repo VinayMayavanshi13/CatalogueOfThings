@@ -697,7 +697,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  8x10 Tasveer (2009)
 - [x]  96 (2018)
 
-- [ ]  Aadujeevitham : The Goat Life (2024)
+- [x]  Aadujeevitham : The Goat Life (2024)
 - [ ]  Aakrosh (2010)
 - [ ]  Aamir (2008)
 - [ ]  Aandi (1975)
@@ -848,6 +848,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Dil Chahta hai (2001)
 - [x]  Dil Se (1998)
 - [x]  Divergent (2014)
+- [x]  Django Unchained (2012)
 - [x]  Doctor Strange (2016)
 - [ ]  Do Dooni Char
 - [ ]  Dogtooth 
