@@ -740,7 +740,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  A Separation (2011)
 - [ ]  A Serious Man (2009)
 - [x]  A Time To Kill (1996)
-- [ ]  Asoka
 - [x]  Asuran (2019)
 - [ ]  Athena (2022)
 - [x]  Atonement (2007) 
@@ -762,7 +761,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Beautiful Kate (2009)
 - [ ]  Before Midnight
 - [x]  Before Sunrise
-- [ ]  Before Sunset
+- [x]  Before Sunset
 - [ ]  Being Cyrus
 - [ ]  Being John Malkovich
 - [ ]  Ben-hur
@@ -817,7 +816,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Climates (2006)
 - [ ]  Close-Up (1990)
 - [ ]  Coded Bias
-- [ ]  Coherence
+- [x]  Coherence (2013)
 - [ ]  Columbus
 - [x]  Company (2002)
 - [ ]  Conclave
@@ -960,8 +959,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Jodha Akbar (2008)
 - [x]  Johnny Gaddar (2007)
 - [x]  John Wick (2014, 2017, 2019, 2023)
-- [ ]  Joker
-- [ ]  Joyland
+- [x]  Joker (2019)
 - [x]  Jurassic Park (1993)
 
 - [ ]  Kadaisi Vivasayi
@@ -1319,7 +1317,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Train Dreams (2025)
 - [ ]  Trainspotting (1996)
 - [x]  Train To Busan (2016)
+- [x]  Triangle (2009)
 - [x]  Tron: Legacy (2010)
+- [x]  Troy (2004)
 - [ ]  Turtles Can Fly (2005)
 
 - [x]  Udaan (2010)
