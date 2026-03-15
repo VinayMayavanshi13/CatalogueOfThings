@@ -840,7 +840,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Delhi Belly (2011)
 - [ ]  Deliverance
 - [x]  Detective Byomkesh Bakshy! (2015)
-- [ ]  Dev D
+- [x]  Dev D (2009)
 - [x]  Dhobi Ghat (2010)
 - [x]  Dhrishyam (2015)
 - [x]  Dhurandhar (2025)
@@ -850,6 +850,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Django Unchained (2012)
 - [x]  Doctor Strange (2016)
 - [ ]  Do Dooni Char
+- [ ]  Dog Day Afternoon
 - [ ]  Dogtooth 
 - [ ]  Donnie Darko
 - [ ]  Don't Look Up
@@ -876,6 +877,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Force (2011)
 - [x]  Ford V Ferrari (2019)
 - [x]  Forensic (2020)
+- [ ]  Forest Gump (1994)
 - [ ]  Four Daughters
 - [x]  Freddy (2022)
 - [ ]  Fury
@@ -898,6 +900,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Good Luck to You, Leo Grande (2022)
 - [x]  Good Will Hunting (1997)
 - [ ]  Grandmother (2009)
+- [ ]  Gran Turismo (2003)
 - [x]  Grave Of the Fireflies (1988)
 - [x]  Gulaal - Anurag Kashyap (2009)
 - [x]  Gully Boy (2019)
@@ -944,6 +947,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Inglourious Basterds (2009)
 - [x]  Interstellar (2014)
 - [x]  Insomnia (2002)
+- [ ]  Into the Wild (2007)
 - [ ]  In the Mood for Love (2000)
 - [x]  Invictus (2009)
 - [x]  Iratta (2023)
@@ -971,6 +975,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Kaminey (2009)
 - [x]  Kantara (2022)
 - [x]  Kantara - A Legend: Chapter 1 (2025)
+- [x]  Karthik Calling Karthik (2010)
 - [x]  Karwaan (2018)
 - [x]  Kennedy (2023)
 - [ ]  Khamosh (1985)
@@ -1033,6 +1038,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Maqbool (2003)
 - [x]  Margin Call (2011)
 - [x]  Masaan (2015)
+- [ ]  Master (2016)
 - [x]  Materialists (2025)
 - [ ]  May December (2023)
 - [x]  Meet Joe Black (1998)
