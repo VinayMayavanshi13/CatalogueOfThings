@@ -682,6 +682,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  12th Fail (2023)
 - [ ]  13 Thirteen (2010)
 - [x]  13 Hours: The Secret Soldiers Of Benghazi (2016)
+- [ ]  1917 (2019)
 - [x]  20th Century Women (2016)
 - [x]  28 Days Later (2002)
 - [x]  28 Weeks Later (2007)
@@ -698,7 +699,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  96 (2018)
 
 - [x]  Aadujeevitham : The Goat Life (2024)
-- [ ]  Aakrosh (2010)
+- [x]  Aakrosh (2010) (Good story, poor execution)
 - [ ]  Aamir (2008)
 - [ ]  Aandi (1975)
 - [x]  Aavesham (2024)
@@ -880,9 +881,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Forest Gump (1994)
 - [ ]  Four Daughters
 - [x]  Freddy (2022)
-- [ ]  Fury
+- [x]  Fury (2014)
 
-- [x]  Gali Guleiyan (2017)
 - [x]  Gangaajal (2003)
 - [x]  Gangs of Wasseypur 1,2 (2012)
 - [x]  Garam Masala (2005)
@@ -947,7 +947,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Inglourious Basterds (2009)
 - [x]  Interstellar (2014)
 - [x]  Insomnia (2002)
-- [ ]  Into the Wild (2007)
+- [x]  Into the Wild (2007)
 - [ ]  In the Mood for Love (2000)
 - [x]  Invictus (2009)
 - [x]  Iratta (2023)
@@ -1057,7 +1057,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Mother India
 - [x]  Mr. & Mrs. Smith (2005)
 - [x]  Mukundan Unnin Associates (2022)
-- [ ]  Mullholland Drive
 - [x]  Munnabhai MBBS (2003)
 - [x]  Murder (2004)
 - [x]  Murder 2 (2011)
@@ -1227,7 +1226,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Devil’s Backbone (2001)
 - [ ]  The Edge of Heaven (2007)
 - [x]  The Equalizer (2014)
-- [ ]  The Founder 
+- [ ]  The Founder
+- [x]  The Game (1997) 
 - [x]  The Gangster, the Cop, the Devil (2019)
 - [x]  The Godfather I, II & III (1972, 1974, 1990)
 - [x]  The Gorge (2025)
@@ -1267,6 +1267,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Martian (2015)
 - [ ]  The Master (2012)
 - [x]  The Matrix Franchise
+- [x]  The Namesake (2006)
 - [x]  The Mist (2007)
 - [ ]  The Old Oak
 - [ ]  The Patience Stone (2013)
@@ -1299,7 +1300,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Town (2010)
 - [x]  The Truman Show (1998)
 - [ ]  The Twilight Samurai (2002) 
-- [ ]  The Usual Suspects (1995)
+- [x]  The Usual Suspects (1995)
 - [ ]  The Vanishing(1998)
 - [ ]  The X files
 - [ ]  The White Balloon (1995)
@@ -1415,7 +1416,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Barry
 - [x]  Baby Reinder
 - [ ]  Banshee 
-- [ ]  Better Call Saul
+- [x]  Better Call Saul 
 - [ ]  Black Mirror
 - [x]  Breaking Bad
 - [ ]  Broadchurch
@@ -1505,7 +1506,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Man in the High Castle
 - [x]  The Night of
 - [x]  The Outsider
-- [ ]  The Pacific
+- [x]  The Pacific
 - [x]  The Penguin
 - [ ]  The Rehearsal
 - [x]  The Sopranos
