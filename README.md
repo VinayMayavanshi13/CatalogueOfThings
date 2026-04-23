@@ -19,12 +19,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  1776 - David McCullough
 - [ ]  1984 - George Orwell
 - [ ]  1Q84 - Murakami
+- [x]  21 Lessons for the 21st Century - Yuval Noah Harari
 - [ ]  7 Strategies for Wealth & Happiness - Jim Rohn
 
 - [x]  A Brief History of Intelligence Evolution, AI, and the Five Break - Max Bennet
+- [x]  A Brief History Of Time - Stephen Hawking
 - [x]  A Calendar Of Wisdom - Leo Tolstoy
 - [ ]  A Complaint Free World - Will Bowen
-- [ ]  Against the Odds: An Autobiography -- James Dyson
+- [ ]  Against the Odds: An Autobiography - James Dyson
 - [ ]  A Gentle Introduction to Unqualified Reservations - Mencius Moldbug
 - [ ]  A Gentleman in Moscow - Amor Towles
 - [ ]  A Girl is a Half-formed Thing -Eimear McBride
@@ -33,6 +35,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Alice in Wonderland - Lewis Carroll 
 - [ ]  A Little History of the World - E. H. Gombrich
 - [ ]  Algorithms To Live - Brian Christian, Thomas L. Griffiths, and Tom Griffiths
+- [x]  All Marketers Are Liars - Seth Godin
 - [ ]  All of Mark Twain’s Letters (5 Volumes) 
 - [ ]  All Systems Red (Kindle Single): The Murderbot Diaries - Martha Wells
 - [ ]  Americanah - Chimamanda Ngozi Adichie
@@ -43,6 +46,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Anything You Want - Derek Sivers
 - [ ]  A People's History of the United States - Howard Zinn
 - [ ]  As a Man Thinketh - James Allen
+- [x]  A Short History Of Nearly Everything - Bill Bryson
 - [ ]  A Song Of Ice and Fire - George Martin
 - [ ]  A Spy Among Friends : Philby and the Great Betrayal - Ben Macintyre
 - [ ]  Atlas Shrugged
@@ -59,6 +63,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Benjamin Franklin by Edmund Morgan 
 - [ ]  Benjamin Franklin - Walter Isaacson
 - [ ]  Beyond A Boundary - C.L.R. James
+- [x]  Beyond Entrepreneurship 2.0 - Jim Collins
 - [ ]  Beyond Good And Evil - Friedrich Nietzsche
 - [ ]  Being Mortal - Atul Gawande
 - [ ]  Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do by Jennifer L. Eberhardt
@@ -70,6 +75,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Blue Skinned Gods - SJ Sindu
 - [ ]  Boundless - Ben Greenfield
 - [ ]  Breath - James Nestor
+- [x]  Buddha And His Dhamma - Dr B. R. Ambedkar
 - [ ]  Build - Tony Fadell
 - [ ]  Building a Second Brain Book - Tiago Forte
 - [ ]  Bury My Heart At Wounded Knee - Dee Brown
@@ -80,6 +86,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Carnegie - Peter Krass 
 - [x]  Chanakya Neeti - B. K. Chaturvedi
 - [x]  Chanakya Neeti - Radhakrishnan Pillai
+- [x]  Chanakya in Daily Life - Radhakrishnan Pillai
 - [ ]  Chatter - Ethan Kross
 - [ ]  Clear and Simple as the Truth - Francis-Noël Thomas
 - [ ]  City of Glass by Paul Auster
@@ -96,7 +103,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Daily Rituals - Mason Currey
 - [ ]  Daughters of the Sun: Empresses, Queens and Begums of the Mughal Empire - Ira Mukhtoy
-- [ ]  David Sarnoff: A Biography by Eugene Lyons 
+- [ ]  David Sarnoff: A Biography by Eugene Lyons
+- [x]  Death - Shelly Kagan 
 - [ ]  Deep Down Things The Breathtaking Beauty of Particle Physics - Bruce A Schumm
 - [x]  DeepWork - Cal Newport
 - [ ]  De Gaulle –Julian Jackson
@@ -131,6 +139,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Everything is Fu#ked - Mark Manson
 - [x]  Everything Is Out Of Syllabus - Varun Duggirala
 
+- [x]  Factfulness - Anna Rosling Ronnlund, Hans Rosling and Ola Rosling
 - [ ]  Fahrenheit 451 by Ray Bradbury
 - [ ]  Financial Intelligence - Karen Berman, Joe Knight and John Case.
 - [ ]  Finish what you start - Peter Hollins
@@ -163,6 +172,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Guns, Germs and Steel - Jared Diamond
 - [ ]  Gut - Giulia Enders
 
+- [x]  Hackers and Painters - Paul Graham
 - [ ]  Hacking Darwin: Genetic Engineering and the Future of Humanity by Jamie Metzl
 - [ ]  Hard-Boiled Wonderland and the End of the World by Haruki Murakami
 - [ ]  Hard Drive: Bill Gates and the Making of the Microsoft Empire -- James Wallace
@@ -178,14 +188,17 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Hitch-22 - Christopher Hitchens
 - [ ]  Hitchcock/Truffaut - Francois Truffaut
 - [ ]  House of Sleep - Jonathan Coe
+- [x]  House of Leaves - Mark Z. Danielewski
 - [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
 - [x]  How Not To Be Wrong - Jordan Ellenberg
 - [ ]  How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease - Michael Greger
+- [x]  How Proust Can Change Your Life - Alain De Botton
 - [ ]  How the Internet Happened: From Netscape to the iPhone - Brian McCullough
 - [ ]  How to avoid a climate disaster - Bill Gates
 - [ ]  How to bake π - Eugenia Cheng
 - [x]  How to Be Miserable in Your Twenties - Randy J. Paterson
 - [ ]  How to build this - Guy Raz
+- [x]  How to Change Your Mind - Michael Pollan 
 - [ ]  How To Fail At Almost Everything & Still Win Big - Scott Adams
 - [ ]  How to Hide an Empire - Daniel Immerwahr
 - [ ]  How to lie with statistics - Darrel Huff
@@ -238,6 +251,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Karl Max - Das Kapital
 - [ ]  Kill Decision - Daniel Suarez
 - [x]  Know The Only Truth - Sebastian Santisteban
+- [x]  Krishna The Man and His Philosophy - Osho
 
 - [ ]  Lady Doctor - Kavitha Rao
 - [ ]  Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore
@@ -265,9 +279,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  May Be You Should Talk To Someone - Lori Gottlieb
 - [ ]  Meet You in Hell: Andrew Carnegie, Henry Clay Frick, and the Bitter Partnership That Changed America -- Les Standiford
 - [ ]  Memories, Dreams and Reflection - Carl Jung
+- [x]  Merchants Of Doubts - Naomi Oreskes and Erik M Conway
 - [ ]  Merchants of Truth - Jill Abramson
 - [ ]  Metabolical : Dr Robert lustig - Its about what process food does to our body.
 - [ ]  Metazoa : Animal minds and the birth of consciousness - Peter Godfrey-Smith
+- [x]  Mind Your Manners - Sara Jane Ho
 - [ ]  Models of the mind - Grace Lindsay
 - [ ]  Money : Master The Game - Tony Robbins
 - [ ]  More Than You Know: Finding Financial Wisdom in Unconventional Places - Michael J. Mauboussin
@@ -329,7 +345,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Rich Dad Poor Dad - Robert Kiyosaki
 - [ ]  Rules for Radicals - Saul Alinsky
 
+- [x]  Same as Ever : A Guide to What Never Changes - Morgan Housel
 - [x]  Sapiens - Yuval Noah Harari
+- [x]  Say It Like Obama - Shel Leanne
 - [ ]  Scalped (American Novel Series) by Jason Aaron
 - [ ]  Schaum's Outlines - Joel Lerner and James Cashin
 - [ ]  Secrets of Millionaire Mind - T. Harv Eker
@@ -363,7 +381,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Talent is Never Enough - John C. Maxwell
 - [ ]  Talking to Strangers: What We Should Know about the People We Don't Know" by Malcolm Gladwell
 - [ ]  Tao Te Ching: Text Only Edition Translated - Gia-fu feng and Jane English
-- [ ]  Tarkash - Javed Akhtar 
+- [ ]  Tarkash - Javed Akhtar
+- [x]  Technical Analysis Of The Financial Markets - John J Murphy 
 - [ ]  Technological Revolutions and Financial Capital - Carlota Perez
 - [ ]  Teradyne the First Forty Years - Frederick Van Veen
 - [ ]  Trillion Dollar Coach: The Leadership Playbook That Builds Elite Teams - Eric Schmidt, Jonathan Rosenberg, and Alan Eagle
@@ -398,8 +417,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Body - Bill Bryson
 - [x]  The Body Keeps The Score - Bessel Van Der Kolk
 - [ ]  The Book Of Dust - Philip Pullman
+- [x]  The Book Of Life - Jiddu Krishnamurthi
 - [ ]  The Brand Flip - Marty Neumeier
-- [x]  The Brief History of Nearly Everthing - Bill Bryson
 - [ ]  The Brilliant life of Eudona Lioneysett - Annie Lyons
 - [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
 
@@ -413,6 +432,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Collected Works of Ramana Maharshi edited - Arthur Osborne - Ramana Maharshi is one of the most influential Indian philosophers of the modern era. This collection of his works is a great introduction to his teachings.
 - [ ]  The Communication Book - Mikael Krogerus and Roman Tschappler.
 - [ ]  The Complete Hitchiker Series by Douglas Adams
+- [x]  The Conspiracy Against The Human Race - Thomas Ligotti and Ray Brassier
 - [ ]  The Control of Nature - John McPhee
 - [ ]  The Conversations: Walter Murch and the Art of Editing Film by Michael Ondaatje
 - [ ]  The Copy Book by Rotovision
@@ -459,6 +479,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Heart of Hinduism - Stephen Knapp - This book provides a comprehensive overview of Hindu philosophy and spirituality, including its history, beliefs, and practices.
 - [ ]  The Henna Artist -  Alka Joshi
 - [ ]  The Hero's Journey - Joseph Campbell
+- [x]  The History Book - D.K. London
 - [ ]  The History of the Peloponnesian War - Thucydides
 - [ ]  The History Of Love by Nicole Krauss
 - [ ]  The Hitchhiker's Guide to the Galaxy - Douglas Adams
@@ -517,6 +538,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Painted Bird - Jerzy Kosinski
 - [x]  The Phoenix Project - Gene Kim
 - [x]  The Politics Book - DK London
+- [x]  The Power Of Habit - Charles Duhigg
 - [ ]  The Power of Principles Physics Revealed. A Conversation with Nima Arkani-Hamed - Ideas Roadshow
 - [ ]  The Pricipice - Toby Ord
 - [ ]  The Principal Upanishads - S. Radhakrishnan - This book is an excellent introduction to the Upanishads, which are some of the most important texts in Indian philosophy.
@@ -556,8 +578,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Subtle Art Of Not Giving a F_ck - Mark Manson
 
 - [ ]  The Tao Of Pooh - Benjamin Hoff
-- [ ]  The Three Body Problem Triology - Liu Cixin
 - [ ]  The Tibetan Book of the Dead - Grahan Coleman
+- [x]  The Three Body Problem - Cixin Liu
 - [ ]  The Tipping Point by Malcolm Gladwell
 - [ ]  The Top Five Regrets of The Dying - Bronnie Ware
 - [ ]  The Total Money Makeover - Dave Ramsay
@@ -572,6 +594,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Wizard and the Prophet by Charles Mann 
 - [ ]  The Woman Who Knew Too Much, Revised Ed.: Alice Stewart and the Secrets of Radiation - Gayle Greene
 
+- [ ]  The Year of Magical Thinking - Joan Didion
+
 - [ ]  Things Hidden Since the Foundation of the World - René Girard
 - [ ]  Think Again - Adam Grunt
 - [x]  Think and Grow Rich - Napoleon Hill
@@ -581,7 +605,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Thinking Physics: Understandable Practical Reality -- Lewis Carroll Epstein
 
 - [ ]  This Is How It Always Is - Laurie Frankel
-- [ ]  This Will Make You Smarter - John Brockman
+- [x]  This Will Make You Smarter - John Brockman
 - [ ]  Three Felonies A Day: How the Feds Target the Innocent - Harvey Silvergate
 - [ ]  Thus Spoke Zarathustra - Friedrich Nietzsche
 - [ ]  Tintin and the Secret of Literature by Tom McCarthy
@@ -596,8 +620,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Trust Me, I am Lying - Ryan Holiday
 - [ ]  Tuesdays With Morrie - Mitch Albom
 - [ ]  Turn The Ship Around - L. David Marquet
+- [x]  Twelve Against The Gods - William Bolitho
 
-- [ ]  The Year of Magical Thinking - Joan Didion
+
 
 - [ ]  Ulysses S. Grant: Triumph Over Adversity - Brooks D. Simpson
 - [ ]  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl, et al.
@@ -617,9 +642,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  We Zebras Don’t Get Ulcers - Robert sapolsky
 - [ ]  What Everybody Is Saying - Joe Navarro
 - [ ]  What Happened To You - Dr Bruce Perry
+- [x]  What Has Government Done to Our Money - Murray N Rothbard
 - [ ]  What I Talk About When I Talk About Running - Haruki Murakami.
 - [ ]  What Makes Sammy Run? - Budd Schulberg
 - [x]  What Smart Students Know - Adam Robinson
+- [x]  What's Our Problem - Tim Urban
 - [ ]  What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive - Mark H. McCormack
 - [ ]  What we owe to the future - William MacAskill
 - [ ]  When breathe becomes air - By Paul Kalanithi
@@ -734,6 +761,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Anora (2024)
 - [ ]  Apollo 13
 - [ ]  A Prophet (2009)
+- [x]  A Quiet Place (2018)
 - [x]  Are You There God? It's Me, Margaret. (2023)
 - [x]  Argo (2012)
 - [x]  Article 15 (2019)
@@ -834,6 +862,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Darlings (2022)
 - [ ]  Days Of Heaven(1978) 
 - [x]  Dawn Of The Planet Of The Apes (2014)
+- [x]  Dead Poets Society (1989)
 - [x]  Dear Dad (2016)
 - [ ]  Decision To Leave
 - [x]  De Dana Dan (2009) 
@@ -862,10 +891,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Ek Deewana tha (2012)
 - [ ]  Ek Haseena thi
 - [x]  Ek thi Daayan (2013)
+- [x]  Ella McCay (2025)
 - [ ]  Elite Squad (2007)
 - [x]  Enemy (2014)
 - [ ]  English Vinglish 
 - [x]  Eternal Sunshine of a Spotless Mind (2004)
+- [x]  Ex Machina (2015)
 
 - [ ]  Fahrenheit 9/11 (2004)
 - [ ]  Fantastic Mr. Fox (2009)
@@ -878,7 +909,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Force (2011)
 - [x]  Ford V Ferrari (2019)
 - [x]  Forensic (2020)
-- [ ]  Forest Gump (1994)
+- [x]  Forest Gump (1994)
 - [ ]  Four Daughters
 - [x]  Freddy (2022)
 - [x]  Fury (2014)
@@ -912,6 +943,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Hacksaw Ridge (2016)
 - [x]  Haider (2014)
 - [ ]  Half Moon (Iranian Movie)
+- [x]  Hamnet (2025)
 - [ ]  Han Gong-ju (2013)
 - [x]  Hannibal (2001)
 - [ ]  Happy Together (1997)
@@ -936,7 +968,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  HIT 1, 2 and 3 (Telegu Version) (2020, 2022, 2025)
 - [ ]  Hiroshima Mon Amour
 - [ ]  Hotel Mumbai
-- [ ]  How to make millions before grandma dies
+- [ ]  How to Make Millions Before Grandma Dies
 
 - [x]  Icendies (2010)
 - [ ]  Il Divo (2008)
@@ -945,6 +977,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Inception (2010)
 - [ ]  Indie Game
 - [x]  Inglourious Basterds (2009)
+- [x]  Inheritance (2020)
 - [x]  Interstellar (2014)
 - [x]  Insomnia (2002)
 - [x]  Into the Wild (2007)
@@ -954,7 +987,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Iron Man (2008)
 - [x]  Irreversible (2002)
 - [x]  I Saw the Devil (2010)
-- [ ]  It's a Wonderful life (1946)
+- [x]  It's a Wonderful life (1946)
 
 - [ ]  Jackie Brown (1997)
 - [x]  Jay Bhim (2021)
@@ -991,6 +1024,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Kingdom Of Heaven (2005)
 - [x]  Kingdom Of The Planet Of The Apes (2024)
 - [x]  King Kong (2005)
+- [x]  Kishkindha Kaandam (2024)
 - [x]  Knight And Day (2010)
 - [x]  Knives Out (2019)
 
@@ -1004,7 +1038,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Leon : The Professional (1994)
 - [ ]  Let the Right One In (2008)
 - [ ]  Life and a Day (2016)
-- [ ]  Life is Beautiful (1997)
+- [x]  Life is Beautiful (1997)
 - [ ]  Limitless
 - [ ]  Lion
 - [x]  Live By Night (2016)
@@ -1031,6 +1065,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Mammal (2016)
 - [x]  Manchester by the Sea (2016)
 - [x]  Mangalavaaram (2023)
+- [x]  Manichitrathazhu (1993)
 - [x]  Manjummel Boys (2024)
 - [x]  Man Of Steel (2013)
 - [x]  Manorama Six Feet Under (2007)
@@ -1082,6 +1117,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Oldboy (2003)
 - [x]  Once Upon a Time in America (1984)
 - [x]  Once Upon A Time In Hollywood (2019)
+- [x]  One Battle After Another (2025)
 - [x]  One Day (2011)
 - [ ]  One Hour Photo
 - [ ]  Operation Romeo
@@ -1175,9 +1211,16 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Soorarai Pottru (2020)
 - [x]  Special 26 (2013)
 - [x]  Spectre (2015)
-- [ ]  Spider Man - Across the Spider Verse
+- [x]  Spider Man - Across the Spider Verse (2023)
 - [x]  Spider Man - No Way Home (2021)
+- [x]  Spirited Away (2001)
 - [ ]  Spotlight
+- [x]  Star Wars: A New Hope (Episode IV) (1977)
+- [x]  Star Wars: The Empire Strikes Back (Episode V) (1980)
+- [x]  Star Wars: Return of the Jedi (Episode VI) (1983)
+- [x]  Star Wars: The Phantom Menace (Episode I) (1999)
+- [x]  Star Wars: Attack Of the Clones (Episode II) (2002)
+- [x]  Star Wars: Revenge Of the Sith (Episode III) (2005)
 - [ ]  Stronger
 - [x]  Suraj Ka Saatva Ghoda (1992)
 - [x]  Swades (2004)
@@ -1200,6 +1243,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The American President
 - [x]  The Assassination Of Jesse James By The Coward Robert Ford (2007)
 - [x]  The Attacks Of 26/11 (2013)
+
 - [x]  The Banshees Of Inisherin (2022)
 - [x]  The Batman (2022)
 - [x]  The Beautiful Mind (2001)
@@ -1216,6 +1260,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Chaser (2008)
 - [ ]  The Circle (2000) 
 - [ ]  The Color Of Paradise (1999)
+- [x]  The Conjuring: Last Rites (2025) 
 - [ ]  The Consequences of Love (2004)
 - [x]  The Count Of Monte Cristo (2024)
 - [ ]  The Cow (1969)
@@ -1226,6 +1271,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Devil’s Backbone (2001)
 - [ ]  The Edge of Heaven (2007)
 - [x]  The Equalizer (2014)
+- [x]  The Fault in Our Stars (2014)
 - [ ]  The Founder
 - [x]  The Game (1997) 
 - [x]  The Gangster, the Cop, the Devil (2019)
@@ -1246,12 +1292,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Hunt (2012)
 - [x]  The Imitation Game (2014)
 - [ ]  The Impossible (2012)
-- [ ]  The Intern 
-- [ ]  The Internship
+- [x]  The Intern (2015)
+- [x]  The Internship (2013)
 - [ ]  The Irishman
-- [ ]  The Jungle Book (2016)
+- [x]  The Jungle Book (2016)
 - [x]  The Killer (2023)
 - [x]  The King (2019)
+- [x]  The King Of Comedy (1982)
 - [ ]  The Last House on the Left
 - [ ]  The Last Jedi
 - [ ]  The Last King of Scotland (2006)
@@ -1321,6 +1368,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Tom at the farm
 - [ ]  Too Old To Die Young
 - [x]  Top Gun Maverick (2022)
+- [x]  Tourist Family (2025)
 - [x]  Train Dreams (2025)
 - [ ]  Trainspotting (1996)
 - [x]  Train To Busan (2016)
@@ -1330,6 +1378,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Turtles Can Fly (2005)
 
 - [x]  Udaan (2010)
+- [x]  Unbroken (2014)
 - [x]  Uri : The Surgical Strike (2019)
 - [x]  Ustad Hotel (2012)
 - [ ]  Uzak
