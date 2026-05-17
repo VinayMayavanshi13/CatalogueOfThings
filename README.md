@@ -933,7 +933,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Good Luck to You, Leo Grande (2022)
 - [x]  Good Will Hunting (1997)
 - [ ]  Grandmother (2009)
-- [ ]  Gran Turismo (2003)
+- [x]  Gran Turismo (2023)
 - [x]  Grave Of the Fireflies (1988)
 - [x]  Gulaal - Anurag Kashyap (2009)
 - [x]  Gully Boy (2019)
@@ -1143,6 +1143,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Planet Of The Apes (2001)
 - [x]  Ponniyin Selvan I & II (2022, 2023)
 - [x]  Potrait Of A Lady On Fire (2019)
+- [x]  Premam (2015)
 - [x]  Pretty Thing (2025)
 - [x]  Pride & Prejudice (2005)
 - [x]  Prince Of Persia: The Sands Of Time (2010)
@@ -1197,7 +1198,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Shool
 - [x]  Shootout at Lokhandwala (2007)
 - [ ]  Shor in the City
-- [ ]  Showgirls(1995)
+- [ ]  Showgirls (1995)
 - [x]  Shutter Island (2010)
 - [x]  Sicario I & II (2015, 2018)
 - [x]  Side Effects (2013)
@@ -1457,118 +1458,118 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 ## [Web Series](https://github.com/VinayMayavanshi13/CatalogueOfThings#Web-Series)
 
 - [ ]  13 Reasons Why
-- [x]  1899 
+- [x]  1899 [2022]
+- [x]  3 Body Problem [2024]
 
-- [x]  A Knight Of the Seven Kingdoms
+- [x]  A Knight Of the Seven Kingdoms [2026]
 - [ ]  Altered Carbon
-- [x]  Aspirants
-- [x]  Asur
+- [x]  Aspirants [2021]
+- [x]  Asur [2020,2023]
 
-- [x]  Band Of Brothers
+- [x]  Band Of Brothers [2001]
 - [ ]  Barry
-- [x]  Baby Reinder
+- [x]  Baby Reinder [2024]
 - [ ]  Banshee 
-- [x]  Better Call Saul 
+- [x]  Better Call Saul [2015-2022]
 - [ ]  Black Mirror
-- [x]  Breaking Bad
+- [x]  Breaking Bad [2008-2013]
 - [ ]  Broadchurch
 
 - [ ]  CAT
-- [x]  Chernobyl
+- [x]  Chernobyl [2019]
 - [x]  Criminal Injustice 
 - [ ]  Curb Your Enthusiasm
 
-- [x]  Dahan
+- [x]  Dahan [2022]
 - [ ]  Daredevil
-- [x]  Dark
+- [x]  Dark [2017-2020]
 - [ ]  Dark Matter
 - [ ]  Dexter
 
 - [ ]  Entourage
-- [x]  Euphoria
+- [x]  Euphoria [2019-2026]
 
 - [ ]  Fauda
 - [ ]  Fleabag
-- [x]  Freedom At Midnight
-- [x]  From 
+- [x]  Freedom At Midnight [2024,2026]
+- [x]  From [2022-2026]
 
-- [x]  Game of thrones
+- [x]  Game of thrones [2011-2019]
 - [ ]  Gotham
 
-- [x]  House Of the Dragon
+- [x]  House Of the Dragon [2022,2024,2026]
 
-- [x]  Industry
+- [x]  Industry [2020-2027]
 
 - [ ]  Jack Ryan
 
-- [x]  Kota Factory
+- [x]  Kota Factory [2019-2021]
 
 - [ ]  Lost
 - [ ]  Line Of Duty
 - [ ]  Love Death & Robots
 
 - [ ]  Mad Men
-- [x]  Maharani
-- [x]  Mare of Easttown
-- [x]  Manhunt Unabomber
-- [x]  Mind Hunters
-- [x]  Mirzapur
-- [x]  Money Heist
-- [x]  Mr Robot
+- [x]  Maharani [2021-2025]
+- [x]  Mare of Easttown [2021]
+- [x]  Manhunt Unabomber [2017]
+- [x]  Mind Hunters [2017-2019]
+- [x]  Mirzapur [2018-2024]
+- [x]  Money Heist [2017-2021]
+- [x]  Mr Robot [2015-2019]
 
-- [x]  Olive Kitteridge
+- [x]  Olive Kitteridge [2014]
 - [ ]  Ozark
 
-- [x]  Prison Break
+- [x]  Prison Break [2005-2017]
 - [ ]  Presumed Innocent
 
 - [ ]  Rectify
-- [x]  Rocket Boys
+- [x]  Rocket Boys [2022-2023]
 - [ ]  Rome
-- [x]  Rudra
+- [x]  Rudra [2022]
 
-- [x]  Scam 1992
+- [x]  Scam 1992 [2020]
 - [ ]  Severance 
-- [x]  Sharp Objects
+- [x]  Sharp Objects [2018]
 - [ ]  Shantaram
-- [x]  Shogun
+- [x]  Shogun [2024]
 - [ ]  Silicon Valley
 - [ ]  Sliders
 - [ ]  Slow Horses
-- [x]  Special Ops 1,1.5
-- [x]  Stranger Things
-- [x]  Succession - HBO Max
+- [x]  Special Ops 1,1.5 [2020,2025]
+- [x]  Stranger Things [2016-2025]
+- [x]  Succession [2018-2023]
 - [ ]  Supernatural
 
-- [x]  The 3 Body Problem
-- [x]  The Bear
-- [x]  The Boys
+- [x]  The Bear [2022-2026]
+- [x]  The Boys [2019-2026]
 - [ ]  The Bridge
 - [ ]  The Chef Show
 - [ ]  The Curse Een
 - [x]  The Day Of the Jackal (2024)
-- [x]  The Family Man
+- [x]  The Family Man [2019,2021,2025]
 - [ ]  The Good Doctor
 - [ ]  The Handmaid's Tale
-- [x]  The Knick
+- [x]  The Knick [2014-2015]
 - [ ]  The Last Kingdom
-- [x]  The Last of Us
-- [x]  The Leftovers
+- [x]  The Last of Us [2023,2025,]
+- [x]  The Leftovers [201-2017]
 - [ ]  The Lost Room
 - [ ]  The Man in the High Castle
-- [x]  The Night of
-- [x]  The Outsider
-- [x]  The Pacific
-- [x]  The Penguin
+- [x]  The Night of [2016]
+- [x]  The Outsider [2020]
+- [x]  The Pacific [2010]
+- [x]  The Penguin [2024]
 - [ ]  The Rehearsal
-- [x]  The Sopranos
+- [x]  The Sopranos [1999-2007]
 - [ ]  The Terminal List
 - [ ]  The Undoing
-- [x]  The Walking Dead
+- [x]  The Walking Dead [2010-2022]
        - [ ]  Fear the Walking Dead
        - [ ]  The Walking Dead : World Beyond
        - [ ]  The Walking Dead : Daryl Dixon
-       - [x]  The Walking Dead : The Ones Who Live
+       - [x]  The Walking Dead : The Ones Who Live [2024]
        - [ ]  The Walking Dead : Dead City
        - [ ]  The Walking Dead : Red Machete
        - [ ]  Tales of the Walking Dead
@@ -1577,8 +1578,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
        - [ ]  The Walking Dead : Cold Storage 
     
 - [ ]  The West Wing
-- [x]  The Wire
-- [x]  True Detective
+- [x]  The Wire [2002-2008]
+- [x]  True Detective [2014,2015,2019,2024]
 - [ ]  Twin Peaks
 
 - [x]  Watchmen
@@ -1586,9 +1587,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 ## [TV Shows](https://github.com/VinayMayavanshi13/CatalogueOfThings#TV-Shows)
 
 - [ ]  Bharat Ek Khoj (Directed by Shyam Benegal) - is a historical drama based on Jawaharlal Nehru's book The Discovery of India.
-- [x]  BR Chopra's Mahabharat
+- [x]  BR Chopra's Mahabharat [1988]
 - [ ]  Brooklyn Nine Nine
-- [x]  Ramanand Sagar's Ramayan
+- [x]  Ramanand Sagar's Ramayan [1987]
 - [ ]  Rick And Morty - Animated Show
 - [ ]  The Office
 - [ ]  The Big Bang Theory
@@ -1597,7 +1598,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 ## [Documentaries](https://github.com/VinayMayavanshi13/CatalogueOfThings#Documentaries)
 
 - [ ]  14 Peaks
-- [x]  20 Days in Mariupol 
+- [x]  20 Days in Mariupol (2023)
 
 - [ ]  Abstract : The Art Of Design
 - [ ]  American Factory <br/>
@@ -1688,7 +1689,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Tickled (2016)
 
 - [ ]  We are Legion
-- [x]  Who is America
+- [x]  Who is America (2018)
 
 ## [Anime](https://github.com/VinayMayavanshi13/CatalogueOfThings#Anime)
 
