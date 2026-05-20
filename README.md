@@ -907,6 +907,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Fight Club (1999)
 - [ ]  Fire (1996)
 - [ ]  Fireworks Wednesday (2006)
+- [x]  Five Feet Apart (2019)
 - [ ]  Following (Christopher Nolan)
 - [x]  Force (2011)
 - [x]  Ford V Ferrari (2019)
@@ -966,6 +967,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Hera Pheri (2000)
 - [ ]  Heretic
 - [x]  Hey Ram (2000)
+- [x]  High Crimes (2002)
 - [x]  Hi Nanna (2023)
 - [x]  HIT 1, 2 and 3 (Telegu Version) (2020, 2022, 2025)
 - [ ]  Hiroshima Mon Amour
@@ -990,6 +992,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Irreversible (2002)
 - [x]  I Saw the Devil (2010)
 - [x]  It's a Wonderful life (1946)
+- [x]  I Want to Eat Your Pancreas (2018)
 
 - [ ]  Jackie Brown (1997)
 - [x]  Jay Bhim (2021)
@@ -1208,7 +1211,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Sita Raman (2022)
 - [x]  Siya (2022)
 - [x]  Skyfall (2012)
-- [ ]  Snatch (2000)
+- [x]  Snatch (2000)
 - [x]  Snowden (2016)
 - [ ]  Snowtown (2011)
 - [ ]  Somewhere (Sofia Coppola)
