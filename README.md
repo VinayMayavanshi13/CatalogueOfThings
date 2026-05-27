@@ -809,6 +809,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Blade Runner 2049 (2017)
 - [x]  Blood Diamond (2006)
 - [ ]  Blue Valentine (2010)
+- [x]  Body Of Lies (2008)
 - [ ]  Bombay
 - [x]  Boyhood (2014)
 - [ ]  Braveheart
@@ -886,7 +887,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Dogtooth 
 - [ ]  Donnie Darko
 - [ ]  Don't Look Up
-- [ ]  Drive (2011)
+- [x]  Drive (2011)
 - [x]  Dunkirk (2017)
 
 - [ ]  EE.MA.YAU
@@ -998,6 +999,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Jay Bhim (2021)
 - [x]  Jaws (1975)
 - [x]  Jersey (Original Starring Nani) (2019)
+- [x]  Jism (2003)
 - [x]  Jodha Akbar (2008)
 - [x]  Johnny Gaddar (2007)
 - [x]  John Wick (2014, 2017, 2019, 2023)
@@ -1039,6 +1041,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Laila Majnu (2018)
 - [x]  L.A. Johns (1997)
 - [x]  Lakshya (2004)
+- [x]  Lawless (2012)
 - [ ]  Lawrence Of Arabia
 - [x]  Leon : The Professional (1994)
 - [ ]  Let the Right One In (2008)
@@ -1107,6 +1110,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Nay Varan Bhat Loncha Kon Nai Koncha (2022)
 - [ ]  Neighboring Sounds (2012)
 - [x]  New York (2009)
+- [x]  NH10 (2015)
 - [x]  Nightcrawler (2014)
 - [x]  Nil Battey Sannata (2016)
 - [ ]  Nine Queens (2000)
@@ -1119,6 +1123,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  October (2018)
 - [x]  October Sky (1999)
 - [ ]  Offside (2006)
+- [x]  O Kadhal Kanmani (2015)
 - [x]  Oldboy (2003)
 - [x]  Once Upon a Time in America (1984)
 - [x]  Once Upon A Time In Hollywood (2019)
@@ -1165,6 +1170,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Rathinirvedam (2011)
 - [ ]  Raw (2016)
 - [x]  Red Dragon (2002)
+- [x]  Red Sparrow (2018)
 - [x]  Requiem for a Dream (2000)
 - [ ]  Return to Seoul
 - [x]  Revolutionary Road (2008)
