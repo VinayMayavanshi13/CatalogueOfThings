@@ -521,6 +521,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Millionaire Next Door - Thomas J. Stanley
 - [ ]  The Mind is Flat - Nick Chater
 - [ ]  The Mom Test - Rob Fitzpatrick
+- [x]  The Monk Who Sold His Ferrari - Robin Sharma
 - [ ]  The Mosquito: A Human History of Our Deadliest Predator - Timothy C. Winegard
 - [ ]  The Mountain Is You - Brianna Wiest.
 - [x]  The Muqaddimah: An Introduction to History - Ibn Khaldun
@@ -786,6 +787,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Bandit Queen (1994)
 - [ ]  Baran (2001)
 - [ ]  Barbarian
+- [x]  Barfi (2012)
 - [ ]  Bashu, The Little Stranger (1989)
 - [x]  Batman V Superman: Dawn Of Justice (2016)
 - [ ]  Beautiful City (2004)
@@ -794,7 +796,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Before Sunrise
 - [x]  Before Sunset
 - [ ]  Being Cyrus
-- [ ]  Being John Malkovich
 - [ ]  Ben-hur
 - [ ]  Beyond Utopia
 - [x]  Bhaag Milkha Bhaag (2013)
@@ -815,6 +816,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Braveheart
 - [ ]  Brick (2005)
 - [x]  Bridge of Spies (2015)
+- [x]  Bridge To Terabithia (2007)
 - [ ]  Buddha Collapsed Out Of Shame (2007)
 - [x]  Buddha: The Great Departure (2011)
 - [ ]  Bullet Train
@@ -1388,6 +1390,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Triangle (2009)
 - [x]  Tron: Legacy (2010)
 - [x]  Troy (2004)
+- [x]  True Grit (2010)
 - [ ]  Turtles Can Fly (2005)
 
 - [x]  Udaan (2010)
