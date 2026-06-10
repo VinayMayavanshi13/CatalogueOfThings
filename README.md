@@ -755,11 +755,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  A Moment Of Innocence (1996)
 - [ ]  Amores Perros (2000)
 - [x]  Andhadhun (2018)
-- [ ]  Andaz Apna Apna (1994)
 - [ ]  And Life Goes On (1992)
 - [ ]  An Given Sunday (1999)
-- [ ]  Ankhon Dekhi
 - [ ]  Ankur
+- [x]  Annayum Rasoolum (2013)
 - [ ]  Annihilation
 - [x]  Anora (2024)
 - [ ]  Apollo 13
@@ -917,6 +916,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Forensic (2020)
 - [x]  Forest Gump (1994)
 - [ ]  Four Daughters
+- [x]  Fracture (2007)
 - [x]  Freddy (2022)
 - [x]  Fury (2014)
 
@@ -961,7 +961,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Harry Potter and the Half-Blood Prince (2009)
 - [x]  Harry Potter and the Deathly Hallows: Part 1 (2010)
 - [x]  Harry Potter and the Deathly Hallows: Part 2 (2011)
-- [ ]  Hazaaron Khwaishey Aisi
+- [x]  Hazaaron Khwaishein Aisi (2003)
 - [ ]  Head-On (2004)
 - [ ]  Heartbeats
 - [x]  Heat (1995)
@@ -1223,6 +1223,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Snowden (2016)
 - [ ]  Snowtown (2011)
 - [ ]  Somewhere (Sofia Coppola)
+- [x]  Sookshmadarshini (2024)
 - [x]  Soorarai Pottru (2020)
 - [x]  Special 26 (2013)
 - [x]  Spectre (2015)
@@ -1255,6 +1256,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Accountant (2016)
 - [x]  The Accountant 2 (2025)
 - [x]  The Amateur (2025)
+- [x]  The Amazing Spider-Man (2012)
+- [x]  The Amazing Spider-Man 2 (2014)
 - [ ]  The American President
 - [x]  The Assassination Of Jesse James By The Coward Robert Ford (2007)
 - [x]  The Attacks Of 26/11 (2013)
@@ -1279,13 +1282,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Consequences of Love (2004)
 - [x]  The Count Of Monte Cristo (2024)
 - [ ]  The Cow (1969)
-- [ ]  The Curious Case of Benjamin Button 
+- [x]  The Curious Case of Benjamin Button (2008)
 - [x]  The Dark Knight Trilogy - (Batman Begins (2005), The Dark Knight (2008), The Dark Knight Rises(2012) )
 - [ ]  The Da Vinci Code
 - [x]  The Departed (2006)
 - [ ]  The Devil’s Backbone (2001)
 - [ ]  The Edge of Heaven (2007)
 - [x]  The Equalizer (2014)
+- [x]  The Exorcist (1973)
 - [x]  The Fault in Our Stars (2014)
 - [ ]  The Founder
 - [x]  The Game (1997) 
@@ -1423,6 +1427,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Wild Tales (2014)
 - [x]  Wind River (2017)
 - [x]  Women Talking (2022)
+- [x]  World War Z (2013)
 
 - [ ]  Yi Yi
 - [ ]  Yu Hota Toh Kya Hota
