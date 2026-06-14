@@ -325,6 +325,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Principles for Dealing with the Changing Economic Order - Ray Dalio
 - [ ]  Prisoners of Geography - Tim Marshall
 - [ ]  Probably Approximately Correct - Leslie Valiant
+- [x]  Project Hail Mary A Novel - Andy Weir
 - [x]  Psychology - Peter O. Gray
 - [ ]  Purple Cow - Seth Godin
 
@@ -359,6 +360,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Shiva Purana Three Volumes - Bibek Debroy 
 - [ ]  Shogun - James Clavell
 - [ ]  Shuggie Bain - Douglas Stuart
+- [x]  Siddhartha - Hermann Hesse
 - [ ]  Social Animal - David Brooks
 - [ ]  Socratic Selling - Kevin Daley
 - [x]  Soft Skills The Software Developer's Life Manual - John Sonmez
@@ -803,6 +805,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Big Fish
 - [ ]  Birth
 - [x]  BlackBerry (2023)
+- [x]  Black Hawk Down (2001)
 - [x]  Black Friday - Anurag Kashyap (2004)
 - [ ]  Black Swan (2010)
 - [x]  Blade Runner (1982)
@@ -1075,6 +1078,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Mammal (2016)
 - [x]  Manchester by the Sea (2016)
 - [x]  Mangalavaaram (2023)
+- [x]  Manhunter (1986)
 - [x]  Manichitrathazhu (1993)
 - [x]  Manjummel Boys (2024)
 - [x]  Man Of Steel (2013)
@@ -1309,6 +1313,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Holdovers
 - [x]  The Housemaid (2025)
 - [x]  The Hunt (2012)
+- [x]  The Hurt Locker (2008)
 - [x]  The Imitation Game (2014)
 - [ ]  The Impossible (2012)
 - [x]  The Intern (2015)
@@ -1396,6 +1401,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Troy (2004)
 - [x]  True Grit (2010)
 - [ ]  Turtles Can Fly (2005)
+- [x]  Twelve Monkeys (1995)
 
 - [x]  Udaan (2010)
 - [x]  Unbroken (2014)
