@@ -124,7 +124,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Eat, drink and be healthy : the Harvard Medical  School guide to healthy eating - Patrick J Skerrett
 - [ ]  Eat Fat Get Thin - Mark Hyman
 - [ ]  Edison – A Biography - Matthew Josephson
-- [ ]  Educated - Tara Westower
+- [x]  Educated - Tara Westower
 - [ ]  Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
 - [ ]  Einstein: Life and Times - Ronald W. Clark
 - [ ]  Empire of Ants - Sussane Foitzik and Olaf Frit
@@ -825,6 +825,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Bullhead (2011)
 - [ ]  Burning
 
+- [x]  Caddo Lake (2024)
 - [ ]  Cannibal Holocaust (1980)
 - [x]  Capefear (1991)
 - [ ]  Capernaum
@@ -913,7 +914,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fire (1996)
 - [ ]  Fireworks Wednesday (2006)
 - [x]  Five Feet Apart (2019)
-- [ ]  Following (Christopher Nolan)
+- [x]  Following (1998)
 - [x]  Force (2011)
 - [x]  Ford V Ferrari (2019)
 - [x]  Forensic (2020)
