@@ -807,7 +807,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  BlackBerry (2023)
 - [x]  Black Hawk Down (2001)
 - [x]  Black Friday - Anurag Kashyap (2004)
-- [ ]  Black Swan (2010)
+- [X]  Black Swan (2010)
 - [x]  Blade Runner (1982)
 - [x]  Blade Runner 2049 (2017)
 - [x]  Blood Diamond (2006)
@@ -890,7 +890,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Do Dooni Char
 - [ ]  Dog Day Afternoon
 - [ ]  Dogtooth 
-- [ ]  Donnie Darko
+- [X]  Donnie Darko (2001)
 - [ ]  Don't Look Up
 - [x]  Drive (2011)
 - [x]  Dunkirk (2017)
@@ -1127,6 +1127,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Now You See Me 1 and 2
 
 - [ ]  Oasis (2002)
+- [x]  Obsession (2025)
 - [x]  October (2018)
 - [x]  October Sky (1999)
 - [ ]  Offside (2006)
@@ -1163,6 +1164,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Pride & Prejudice (2005)
 - [x]  Prince Of Persia: The Sands Of Time (2010)
 - [x]  Prisoner (2013)
+- [x]  Project Hail Mary (2026)
 - [x]  Pulp Fiction (1994)
 - [ ]  Pyasa
 
@@ -1296,6 +1298,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Equalizer (2014)
 - [x]  The Exorcist (1973)
 - [x]  The Fault in Our Stars (2014)
+- [x]  The Fighter (2010)
 - [ ]  The Founder
 - [x]  The Game (1997) 
 - [x]  The Gangster, the Cop, the Devil (2019)
@@ -1335,7 +1338,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Lizard (2004)
 - [x]  The Lord Of The Rings Triology (2001,2002, 2003)
 - [ ]  The Man From Earth
-- [ ]  The Man Who Knew Infinity
+- [x]  The Man Who Knew Infinity (2015)
 - [x]  The Martian (2015)
 - [ ]  The Master (2012)
 - [x]  The Matrix Franchise
