@@ -1350,7 +1350,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Prestige (2006)
 - [ ]  The Proposition (2005)
 - [ ]  The Pursuit of Happyness
-- [ ]  The Raid (Part 1 & 2)
+- [x]  The Raid (2011)
 - [x]  The Revenant (2015)
 - [ ]  The Runner (1984) 
 - [ ]  The Salesman (2006)
