@@ -444,6 +444,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  The Daily Pressfield - Steven Pressfield
 - [ ]  The Dawn of Everything - David Graeber and David Wengrow
+- [x]  The Design Of Everyday Things - Don Norman
 - [x]  The Diabetes Code - Dr Jason Fung
 - [ ]  The Dictator's Handbook - Alastair Smith and Bruce Bueno de Mesquita
 - [ ]  The Dip - Seth Godin
@@ -712,7 +713,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  12 Angry Men (1957)
 - [x]  12 O Clock (2021)
 - [x]  12th Fail (2023)
-- [ ]  13 Thirteen (2010)
+- [ ]  12 Years a Slave (2013)
+- [x]  13 (2010)
 - [x]  13 Hours: The Secret Soldiers Of Benghazi (2016)
 - [ ]  1917 (2019)
 - [x]  20th Century Women (2016)
@@ -755,7 +757,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  American Psycho (2000)
 - [x]  American Sniper (2014)
 - [ ]  A Moment Of Innocence (1996)
-- [ ]  Amores Perros (2000)
+- [x]  Amores Perros (2000)
 - [x]  Andhadhun (2018)
 - [ ]  And Life Goes On (1992)
 - [ ]  An Given Sunday (1999)
@@ -867,6 +869,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Creation
 - [ ]  Crouching Tiger, Hidden Dragon (2000)
 
+- [ ]  Dallas Buyers Club (2013)
 - [x]  Darlings (2022)
 - [ ]  Days Of Heaven(1978) 
 - [x]  Dawn Of The Planet Of The Apes (2014)
@@ -905,7 +908,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  English Vinglish 
 - [x]  Eternal Sunshine of a Spotless Mind (2004)
 - [x]  Ex Machina (2015)
+- [x]  Eyes Wide Shut (1999)
 
+- [x]  F1 : The Movie (2025)
 - [ ]  Fahrenheit 9/11 (2004)
 - [ ]  Fantastic Mr. Fox (2009)
 - [ ]  Fargo (1996)
@@ -1271,6 +1276,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  The Banshees Of Inisherin (2022)
 - [x]  The Batman (2022)
+- [x]  The Beach (2000)
 - [x]  The Beautiful Mind (2001)
 - [ ]  The Beat That My Heart Skipped (2005)
 - [ ]  The Best of Youth (2003)
