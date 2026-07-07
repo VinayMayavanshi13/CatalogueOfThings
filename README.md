@@ -713,7 +713,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  12 Angry Men (1957)
 - [x]  12 O Clock (2021)
 - [x]  12th Fail (2023)
-- [ ]  12 Years a Slave (2013)
+- [x]  12 Years a Slave (2013)
 - [x]  13 (2010)
 - [x]  13 Hours: The Secret Soldiers Of Benghazi (2016)
 - [ ]  1917 (2019)
@@ -723,7 +723,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  28 Years Later (2025) - Trilogy
 - [x]  300 (2006)
 - [x]  3 Idiots (2009)
-- [ ]  3 Iron (2004)
+- [x]  3 Iron (2004)
 - [ ]  4 Months, 3 Weeks and 2 Days (2007)
 - [x]  500 Days of Summer (2009)
 - [x]  5 Centimeters Per Second (2007)
@@ -871,7 +871,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Dallas Buyers Club (2013)
 - [x]  Darlings (2022)
-- [ ]  Days Of Heaven(1978) 
+- [ ]  Days Of Heaven (1978) 
 - [x]  Dawn Of The Planet Of The Apes (2014)
 - [x]  Dead Poets Society (1989)
 - [x]  Dear Dad (2016)
@@ -900,7 +900,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  EE.MA.YAU
 - [x]  Ek Deewana tha (2012)
-- [ ]  Ek Haseena thi
+- [ ]  Ek Haseena thi (2004)
 - [x]  Ek thi Daayan (2013)
 - [x]  Ella McCay (2025)
 - [ ]  Elite Squad (2007)
@@ -914,7 +914,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fahrenheit 9/11 (2004)
 - [ ]  Fantastic Mr. Fox (2009)
 - [ ]  Fargo (1996)
-- [ ]  Fast and Furious Franchise Movies (from Initial Years)
+- [ ]  Fast and Furious Movies
 - [x]  Fight Club (1999)
 - [ ]  Fire (1996)
 - [ ]  Fireworks Wednesday (2006)
@@ -926,6 +926,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Forest Gump (1994)
 - [ ]  Four Daughters
 - [x]  Fracture (2007)
+- [x]  Frankenstein (2025)
 - [x]  Freddy (2022)
 - [x]  Fury (2014)
 
@@ -1078,6 +1079,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Maestro (Brad Pitt)
 - [x]  Maharaja (2024)
 - [x]  Main Aur Charles (2015)
+- [x]  Main Vaapas Aaunga (2026)
 - [x]  Major (2022)
 - [ ]  Malena (2000)
 - [x]  Malamaal Weekly (2006)
@@ -1282,7 +1284,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Best of Youth (2003)
 - [ ]  The Big Lebowski (1998)
 - [x]  The Big Shot (2015)
-- [ ]  The Birth of a nation(1915)
+- [ ]  The Birth of a Nation (1915)
 - [x]  The Bourne Identity (2002)
 - [x]  The Bourne Legacy (2012)
 - [x]  The Bourne Supremacy (2004)
@@ -1384,6 +1386,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Usual Suspects (1995)
 - [ ]  The Vanishing(1998)
 - [ ]  The X files
+- [x]  The Way Back (2010)
 - [ ]  The White Balloon (1995)
 - [ ]  The White Meadows (2009)
 - [ ]  The Wind Will Carry Us (1999)
@@ -1398,7 +1401,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Three Of Us
 - [ ]  Through the Olive Trees (1994)
 - [x]  Titanic (1997)
-- [ ]  Titane
+- [x]  Titane (2021)
 - [ ]  Tom at the farm
 - [ ]  Too Old To Die Young
 - [x]  Top Gun Maverick (2022)
