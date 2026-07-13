@@ -426,7 +426,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Brilliant life of Eudona Lioneysett - Annie Lyons
 - [ ]  The Brother’s Karamazov - Fyodor Dostoevsky
 
-- [ ]  The Catcher in the Rye by J. D. Salinger
+- [ ]  The Catcher in the Rye - J. D. Salinger
 - [ ]  The China Study - T. Colin Campbell
 - [ ]  The Choice - Dr. Edith Eger
 - [ ]  The Coaching Habit - Michael Bungay Stanier
@@ -716,7 +716,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  12 Years a Slave (2013)
 - [x]  13 (2010)
 - [x]  13 Hours: The Secret Soldiers Of Benghazi (2016)
-- [ ]  1917 (2019)
+- [x]  1917 (2019)
 - [x]  20th Century Women (2016)
 - [x]  28 Days Later (2002)
 - [x]  28 Weeks Later (2007)
@@ -724,7 +724,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  300 (2006)
 - [x]  3 Idiots (2009)
 - [x]  3 Iron (2004)
-- [ ]  4 Months, 3 Weeks and 2 Days (2007)
+- [x]  4 Months, 3 Weeks and 2 Days (2007)
 - [x]  500 Days of Summer (2009)
 - [x]  5 Centimeters Per Second (2007)
 - [x]  6 - 5 = 2 (2013)
@@ -772,7 +772,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Argo (2012)
 - [x]  Article 15 (2019)
 - [x]  Ascharya F*ck It (2018)
-- [ ]  A Separation (2011)
+- [x]  A Separation (2011)
 - [ ]  A Serious Man (2009)
 - [x]  A Time To Kill (1996)
 - [x]  Asuran (2019)
@@ -804,6 +804,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Bhaag Milkha Bhaag (2013)
 - [x]  Bhagham Bhag (2006)
 - [x]  Bhool Bhulaiyaa (2007)
+- [x]  Bhoot (2003)
 - [ ]  Big Fish
 - [ ]  Birth
 - [x]  BlackBerry (2023)
@@ -857,6 +858,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Coded Bias
 - [x]  Coherence (2013)
 - [ ]  Columbus
+- [x]  Come And See (1985)
 - [x]  Company (2002)
 - [ ]  Conclave
 - [ ]  Confessions (2010)
@@ -868,6 +870,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Crazy, Stupid, Love (2011)
 - [ ]  Creation
 - [ ]  Crouching Tiger, Hidden Dragon (2000)
+- [x]  Cruel Intentions (1999)
 
 - [ ]  Dallas Buyers Club (2013)
 - [x]  Darlings (2022)
@@ -898,6 +901,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Drive (2011)
 - [x]  Dunkirk (2017)
 
+- [x]  Edge Of Tomorrow (2014)
 - [ ]  EE.MA.YAU
 - [x]  Ek Deewana tha (2012)
 - [ ]  Ek Haseena thi (2004)
@@ -1029,6 +1033,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Kantara - A Legend: Chapter 1 (2025)
 - [x]  Karthik Calling Karthik (2010)
 - [x]  Karwaan (2018)
+- [x]  Kaun? (1999)
 - [x]  Kennedy (2023)
 - [ ]  Khamosh (1985)
 - [x]  Khamoshi : The Musical (1996)
@@ -1096,6 +1101,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Margin Call (2011)
 - [x]  Masaan (2015)
 - [ ]  Master (2016)
+- [x]  Match Point (2005)
 - [x]  Materialists (2025)
 - [ ]  May December (2023)
 - [x]  Meet Joe Black (1998)
@@ -1204,6 +1210,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Sapta Sagaradaache Ello Side A & Side B (2023)
 - [x]  Sardar Udhham (2021)
 - [x]  Sarkar (2005)
+- [x]  Satluj (2026)
 - [x]  Satya (1998)
 - [x]  Scarface (1983)
 - [x]  Scent of a Woman (1992)
@@ -1261,7 +1268,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Table No. 21 (2013)
 - [x]  Talvar (2015)
 - [x]  Taken (2008)
-- [ ]  Taste Of Cherry (1997)
+- [x]  Taste Of Cherry (1997)
 - [ ]  Taxi (2015)
 - [x]  Taxi Driver (2017)
 - [x]  Taxi Driver (1976)
@@ -1374,7 +1381,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Sixth Sense (1999)
 - [ ]  The Skin I Live In
 - [x]  The Silence Of the Lambs (1991)
-- [ ]  The Songs Of Sparrows (2008)
+- [x]  The Song Of Sparrows (2008)
 - [x]  The Stoneman Murders (2009)
 - [ ]  The Stoning of Soroya M. (2008)
 - [ ]  The Texas Chainsaw Massacre(1974)
@@ -1385,6 +1392,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Twilight Samurai (2002) 
 - [x]  The Usual Suspects (1995)
 - [ ]  The Vanishing(1998)
+- [x]  The Village (2004)
 - [ ]  The X files
 - [x]  The Way Back (2010)
 - [ ]  The White Balloon (1995)
