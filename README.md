@@ -962,7 +962,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Haasil
 - [x]  Hacksaw Ridge (2016)
 - [x]  Haider (2014)
-- [ ]  Half Moon (Iranian Movie)
+- [ ]  Half Moon ()
 - [x]  Hamnet (2025)
 - [ ]  Han Gong-ju (2013)
 - [x]  Hannibal (2001)
