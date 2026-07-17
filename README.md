@@ -768,6 +768,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Apollo 13
 - [ ]  A Prophet (2009)
 - [x]  A Quiet Place (2018)
+- [x]  Ardh Satya (1983)
 - [x]  Are You There God? It's Me, Margaret. (2023)
 - [x]  Argo (2012)
 - [x]  Article 15 (2019)
@@ -872,7 +873,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Crouching Tiger, Hidden Dragon (2000)
 - [x]  Cruel Intentions (1999)
 
-- [ ]  Dallas Buyers Club (2013)
+- [x]  Dallas Buyers Club (2013)
 - [x]  Darlings (2022)
 - [ ]  Days Of Heaven (1978) 
 - [x]  Dawn Of The Planet Of The Apes (2014)
@@ -1212,6 +1213,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Sarkar (2005)
 - [x]  Satluj (2026)
 - [x]  Satya (1998)
+- [x]  Saw (2004)
 - [x]  Scarface (1983)
 - [x]  Scent of a Woman (1992)
 - [x]  Schindler's List (1993)
@@ -1451,10 +1453,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  White God (2014)
 - [ ]  White Material (2009)
 - [x]  Whiplash (2014)
-- [ ]  Wild Tales (2014)
+- [x]  Wild Tales (2014)
 - [x]  Wind River (2017)
 - [x]  Women Talking (2022)
 - [x]  World War Z (2013)
+- [x]  Wrong Turn (2003)
 
 - [ ]  Yi Yi
 - [ ]  Yu Hota Toh Kya Hota
