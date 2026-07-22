@@ -132,6 +132,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Emotional Intelligence - Daniel Goleman
 - [ ]  Enlightenment Now - Steven Pinker
 - [ ]  Entangled Life - Merlin Sheldrake
+- [x]  Essays In Love - Alain De Botton
 - [ ]  Essence of Indian Art - B. N. Goswamy
 - [ ]  Estee: A Success Story – Estee Lauder
 - [ ]  Eugene Meyer - Merlo John Pusey
@@ -769,6 +770,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  A Prophet (2009)
 - [x]  A Quiet Place (2018)
 - [x]  Ardh Satya (1983)
+- [x]  Arth (1982)
 - [x]  Are You There God? It's Me, Margaret. (2023)
 - [x]  Argo (2012)
 - [x]  Article 15 (2019)
@@ -886,6 +888,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Deliverance
 - [x]  Detective Byomkesh Bakshy! (2015)
 - [x]  Dev D (2009)
+- [x]  Dharm (2007)
 - [x]  Dhobi Ghat (2010)
 - [x]  Dhrishyam (2015)
 - [x]  Dhurandhar (2025)
@@ -903,7 +906,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Dunkirk (2017)
 
 - [x]  Edge Of Tomorrow (2014)
-- [ ]  EE.MA.YAU
+- [x]  EE.MA.YAU (2018)
 - [x]  Ek Deewana tha (2012)
 - [ ]  Ek Haseena thi (2004)
 - [x]  Ek thi Daayan (2013)
@@ -920,7 +923,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fantastic Mr. Fox (2009)
 - [ ]  Fargo (1996)
 - [ ]  Fast and Furious Movies
+- [x]  Fathers and Daughters (2015)
 - [x]  Fight Club (1999)
+- [x]  Final Destination (2000)
 - [ ]  Fire (1996)
 - [ ]  Fireworks Wednesday (2006)
 - [x]  Five Feet Apart (2019)
@@ -981,7 +986,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Heartbeats
 - [x]  Heat (1995)
 - [ ]  Hellaro
-- [ ]  Her
+- [x]  Her (2013)
 - [x]  Hera Pheri (2000)
 - [ ]  Heretic
 - [x]  Hey Ram (2000)
@@ -1138,7 +1143,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  No Country for Old Men (2007)
 - [x]  No Smoking (2007)
 - [x]  No Time To Die (2021)
-- [ ]  Now You See Me 1 and 2
+- [x]  Now You See Me 1 and 2 (2013, 2016)
 
 - [ ]  Oasis (2002)
 - [x]  Obsession (2025)
@@ -1354,6 +1359,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Lives of Others (2006)
 - [ ]  The Lizard (2004)
 - [x]  The Lord Of The Rings Triology (2001,2002, 2003)
+- [x]  The Lovely Bones (2009)
 - [ ]  The Man From Earth
 - [x]  The Man Who Knew Infinity (2015)
 - [x]  The Martian (2015)
@@ -1361,6 +1367,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Matrix Franchise
 - [x]  The Namesake (2006)
 - [x]  The Mist (2007)
+- [x]  The Odyssey (2026)
 - [ ]  The Old Oak
 - [ ]  The Patience Stone (2013)
 - [x]  The Perks of Being a Wallflower (2012)
