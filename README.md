@@ -115,6 +115,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Diary and Autobiography of John Adams
 - [ ]  Disruptor - Arwen Elys Dayton
 - [ ]  Do I Make Myself Clear - Harold Evans
+- [x]  Don't Lose Out, Work Out - Rujuta Diwekar
 - [x]  Don't Sweat The Small Stuff And It's All Small Stuff - Richard Carlson
 - [x]  Dopamine Nation - Dr Anna Lembke
 - [x]  Dr. Cuterus - Dr Tanya Narendra
@@ -788,6 +789,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Babel
 - [x]  Baby Driver (2017)
+- [x]  Back to the Future I, II and III (1985, 1989, 1990)
 - [ ]  Bacurau (2019)
 - [x]  Bahubali - The Beginning (2015) and Conclusion (2017)
 - [x]  Bandit Queen (1994)
@@ -1185,7 +1187,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Prisoner (2013)
 - [x]  Project Hail Mary (2026)
 - [x]  Pulp Fiction (1994)
-- [ ]  Pyasa
+- [x]  Pyaasa (1957)
 
 - [x]  Quantum Of Solace (2008)
 - [ ]  Queen
