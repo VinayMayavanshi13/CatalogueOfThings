@@ -42,6 +42,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  An Ancestor’s Tale - Richard Dawkins
 - [x]  An Autobiography or The Story My Experiments with Truth - M. K. Gandhi
 - [ ]  Andha Yug - Dharamvir Bharati
+- [x]  Animal Farm - George Orwell
 - [ ]  Antking - Charlie Kaufman
 - [ ]  Anything You Want - Derek Sivers
 - [ ]  A People's History of the United States - Howard Zinn
@@ -59,6 +60,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Bad Blood - John Carreyrou
 - [ ]  Beloved - Toni Morrison
+- [x]  Believing Bullshit - Stephen Law
 - [ ]  Benjamin Franklin by Carl Van Doren
 - [ ]  Benjamin Franklin by Edmund Morgan 
 - [ ]  Benjamin Franklin - Walter Isaacson
