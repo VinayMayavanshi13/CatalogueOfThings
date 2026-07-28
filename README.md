@@ -744,6 +744,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Apocalypse Now (1979)
 - [x]  A Death In The Gunj (2016)
 - [x]  Adore (2013)
+- [x]  A Fistful Of Dollars (1964)
 - [x]  Aftersun (2022)
 - [X]  A Few Good Men (1992)
 - [x]  Aligarh (2015)
@@ -790,6 +791,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Babel
 - [x]  Baby Driver (2017)
 - [x]  Back to the Future I, II and III (1985, 1989, 1990)
+- [ ]  Back to the Future II (1989)
+- [ ]  Back to the Future III (1990)
 - [ ]  Bacurau (2019)
 - [x]  Bahubali - The Beginning (2015) and Conclusion (2017)
 - [x]  Bandit Queen (1994)
@@ -907,6 +910,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Drive (2011)
 - [x]  Dunkirk (2017)
 
+- [x]  Eden Lake (2008)
 - [x]  Edge Of Tomorrow (2014)
 - [x]  EE.MA.YAU (2018)
 - [x]  Ek Deewana tha (2012)
@@ -928,6 +932,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Fathers and Daughters (2015)
 - [x]  Fight Club (1999)
 - [x]  Final Destination (2000)
+- [x]  Final Destination 2 (2003)
 - [ ]  Fire (1996)
 - [ ]  Fireworks Wednesday (2006)
 - [x]  Five Feet Apart (2019)
@@ -1076,7 +1081,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Lion
 - [x]  Live By Night (2016)
 - [ ]  Lock, Stock and Two Smoking Barrels (1998)
-- [ ]  Lone Survivor
+- [x]  Lone Survivor (2013)
 - [x]  Lost in Translation (Sofia Cappola) (2003)
 - [x]  Love and Other Drugs (2010)
 - [x]  Love Sonia (2018)
@@ -1108,7 +1113,6 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Maqbool (2003)
 - [x]  Margin Call (2011)
 - [x]  Masaan (2015)
-- [ ]  Master (2016)
 - [x]  Match Point (2005)
 - [x]  Materialists (2025)
 - [ ]  May December (2023)
@@ -1169,6 +1173,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Parmanu (2018)
 - [x]  Past Lives (2023)
 - [ ]  Peppermint Candy
+- [x]  Perfect Blue (1997)
 - [x]  Perfect Sense (2011)
 - [x]  Phantom (2015)
 - [ ]  Phantom Thread (2017)
@@ -1255,6 +1260,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Somewhere (Sofia Coppola)
 - [x]  Sookshmadarshini (2024)
 - [x]  Soorarai Pottru (2020)
+- [x]  Source Code (2011)
 - [x]  Special 26 (2013)
 - [x]  Spectre (2015)
 - [x]  Spider Man - Across the Spider Verse (2023)
@@ -1305,6 +1311,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Bourne Legacy (2012)
 - [x]  The Bourne Supremacy (2004)
 - [x]  The Bourne Ultimatum (2007)
+- [x]  The Boy, the mole, the fox and the horse (2022)
 
 - [ ]  The Chaser (2008)
 - [ ]  The Circle (2000) 
@@ -1315,7 +1322,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Cow (1969)
 - [x]  The Curious Case of Benjamin Button (2008)
 - [x]  The Dark Knight Trilogy - (Batman Begins (2005), The Dark Knight (2008), The Dark Knight Rises(2012) )
-- [ ]  The Da Vinci Code
+- [x]  The Da Vinci Code (2006)
 - [x]  The Departed (2006)
 - [ ]  The Devil’s Backbone (2001)
 - [ ]  The Edge of Heaven (2007)
@@ -1380,6 +1387,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Proposition (2005)
 - [ ]  The Pursuit of Happyness
 - [x]  The Raid (2011)
+- [x]  The Reader (2008)
 - [x]  The Revenant (2015)
 - [ ]  The Runner (1984) 
 - [ ]  The Salesman (2006)
@@ -1395,7 +1403,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Song Of Sparrows (2008)
 - [x]  The Stoneman Murders (2009)
 - [ ]  The Stoning of Soroya M. (2008)
-- [ ]  The Texas Chainsaw Massacre(1974)
+- [ ]  The Texas Chainsaw Massacre (1974)
+- [x]  The Texas Chainsaw Massacre (2003)
 - [ ]  The Thing
 - [ ]  The Time Traveler's Wife
 - [x]  The Town (2010)
@@ -1553,7 +1562,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Game of thrones [2011-2019]
 - [ ]  Gotham
 
+- [x]  Hannibal [2013]
 - [x]  House Of the Dragon [2022,2024,2026]
+
 
 - [x]  Industry [2020-2027]
 
