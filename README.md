@@ -222,6 +222,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  I Don't Want To Talk About It - Terrence Real
 - [ ]  If You Want To Write - Brenda Ueland
 - [ ]  Imagining India - Nandan Nilekani
+- [x]  Indian Spuerfoods - Rujuta Diwekar
 - [ ]  "I Never Wanted to be Vice-President of Anything!": An Investigative Biography of Nelson Rockefeller - Michael Kramer and Sam Roberts
 - [ ]  In Defense of Food - Michael Pollan
 - [ ]  India Before Gandhi - Ramachandra Guha
@@ -317,7 +318,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Outlive - Peter Attia
 
 - [ ]  Pandeymonium: Piyush Pandey On Advertising - Piyush Pandey
-- [ ]  Perfectly Reasonable Deviations from the Beaten Track - Richard Feynman
+- [x]  Perfectly Reasonable Deviations from the Beaten Track The Letters Of Richard P. Feynman
 - [ ]  Peter Pan - James Barrie
 - [ ]  Pet Sematary - Stephen King
 - [ ]  Philosophy of Mathematics - Øystein Linnebo
@@ -865,6 +866,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  City of God (2002)
 - [ ]  Climates (2006)
 - [ ]  Close-Up (1990)
+- [x]  Cocktail (2012)
 - [ ]  Coded Bias
 - [x]  Coherence (2013)
 - [ ]  Columbus
@@ -956,7 +958,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Gett: The Trial of Viviane Amsalem (2014)
 - [x]  Ghuspaith between Borders (2023)
 - [x]  Gifted (2017)
-- [ ]  Glengarry Glen Ross
+- [x]  Glengarry Glen Ross (1992)
 - [x]  Go Goa Gone (2013)
 - [x]  Goliyon Ki Raasleela Ram-Leela (2013)
 - [ ]  Gomorrah (2008)
@@ -1275,7 +1277,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Star Wars: The Phantom Menace (Episode I) (1999)
 - [x]  Star Wars: Attack Of the Clones (Episode II) (2002)
 - [x]  Star Wars: Revenge Of the Sith (Episode III) (2005)
-- [ ]  Stronger
+- [x]  Stronger (2017)
 - [x]  Suraj Ka Saatva Ghoda (1992)
 - [x]  Swades (2004)
 - [ ]  Sweet Sixteen (2002)
@@ -1345,6 +1347,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Great Hack
 - [x]  The Grey (2011)
 - [x]  The Green Mile (1999)
+- [x]  The Handmaiden (2016)
 - [x]  The Hangover (2009)
 - [ ]  The Hidden Blade (2004)
 - [ ]  The Holdovers
@@ -1371,6 +1374,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Lizard (2004)
 - [x]  The Lord Of The Rings Triology (2001,2002, 2003)
 - [x]  The Lovely Bones (2009)
+- [x]  The Machinist (2004)
 - [ ]  The Man From Earth
 - [x]  The Man Who Knew Infinity (2015)
 - [x]  The Martian (2015)
@@ -1405,6 +1409,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Song Of Sparrows (2008)
 - [x]  The Stoneman Murders (2009)
 - [ ]  The Stoning of Soroya M. (2008)
+- [x]  The Terminator (1984)
 - [ ]  The Texas Chainsaw Massacre (1974)
 - [x]  The Texas Chainsaw Massacre (2003)
 - [ ]  The Thing
@@ -1413,7 +1418,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Truman Show (1998)
 - [ ]  The Twilight Samurai (2002) 
 - [x]  The Usual Suspects (1995)
-- [ ]  The Vanishing(1998)
+- [ ]  The Vanishing (1998)
 - [x]  The Village (2004)
 - [ ]  The X files
 - [x]  The Way Back (2010)
