@@ -192,6 +192,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  History Has Begun - Bruno Maçães
 - [ ]  Hitch-22 - Christopher Hitchens
 - [ ]  Hitchcock/Truffaut - Francois Truffaut
+- [x]  Homo Deus - Yuval Noah Harari
 - [ ]  House of Sleep - Jonathan Coe
 - [x]  House of Leaves - Mark Z. Danielewski
 - [ ]  How Innovation Works: And Why It Flourishes in Freedom - Matt Ridley
@@ -303,6 +304,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Nobody Wants to Read Your Sh*t - Steven Pressfield
 - [ ]  No Logo: No Space, No Choice, No Jobs - Naomi Klein
 - [x]  No One Belongs Here More Than You - Miranda July
+- [x]  Notes to Myself - Hugh Prather
 - [ ]  Not Your Usual Founding Father: Selected Readings from Benjamin Franklin - Ben Franklin and Edmund Morgan 
 
 - [ ]  Ogilvy on Advertising in the Digital Age - Miles Young
@@ -525,6 +527,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Markandeya Puran - Bibek Debroy
 - [ ]  The Martian - Andy Weir
 - [ ]  The Master and the Margarita - Mikhail Bulgakov
+- [x]  The McKinsey Mindset - Ethan M. Rasiel and Paul N. Friga 
 - [ ]  The Midnight Library - Matt Haig
 - [ ]  The Millionaire Next Door - Thomas J. Stanley
 - [ ]  The Mind is Flat - Nick Chater
@@ -745,6 +748,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  About Elly (2009)
 - [x]  About Time (2013)
 - [x]  Apocalypse Now (1979)
+- [x]  Apocalypto (2006)
 - [x]  A Death In The Gunj (2016)
 - [x]  Adore (2013)
 - [x]  A Fistful Of Dollars (1964)
@@ -771,6 +775,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Annayum Rasoolum (2013)
 - [ ]  Annihilation
 - [x]  Anora (2024)
+- [x]  Apocalypto (2006)
 - [ ]  Apollo 13
 - [ ]  A Prophet (2009)
 - [x]  A Quiet Place (2018)
@@ -810,12 +815,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Before Sunrise
 - [x]  Before Sunset
 - [ ]  Being Cyrus
-- [ ]  Ben-hur
+- [x]  BenHur (1959)
 - [ ]  Beyond Utopia
 - [x]  Bhaag Milkha Bhaag (2013)
 - [x]  Bhagham Bhag (2006)
 - [x]  Bhool Bhulaiyaa (2007)
 - [x]  Bhoot (2003)
+- [x]  Bicycle Thieves (1948)
 - [ ]  Big Fish
 - [ ]  Birth
 - [x]  BlackBerry (2023)
@@ -847,6 +853,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Captain America : Civil War (2016)
 - [x]  Captain America : The Winter Soldier (2014)
 - [x]  Captain Phillips (2013)
+- [x]  Carlito's Way (1993)
 - [ ]  Carlos (2010)
 - [x]  Casino (1995)
 - [x]  Casino Royale (2006)
@@ -909,6 +916,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Do Dooni Char
 - [ ]  Dog Day Afternoon
 - [ ]  Dogtooth 
+- [x]  Donnie Brasco (1997)
 - [X]  Donnie Darko (2001)
 - [ ]  Don't Look Up
 - [x]  Drive (2011)
@@ -941,12 +949,14 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Fireworks Wednesday (2006)
 - [x]  Five Feet Apart (2019)
 - [x]  Following (1998)
+- [x]  For A Few Dollars More (1965)
 - [x]  Force (2011)
 - [x]  Ford V Ferrari (2019)
 - [x]  Forensic (2020)
 - [x]  Forest Gump (1994)
 - [ ]  Four Daughters
 - [x]  Fracture (2007)
+- [x]  Fractured (2019)
 - [x]  Frankenstein (2025)
 - [x]  Freddy (2022)
 - [x]  Fury (2014)
@@ -970,6 +980,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Grandmother (2009)
 - [x]  Gran Turismo (2023)
 - [x]  Grave Of the Fireflies (1988)
+- [x]  Gravity (2013)
 - [x]  Gulaal - Anurag Kashyap (2009)
 - [x]  Gully Boy (2019)
 - [x]  Guardians of the Galaxy Vol. 1 and 2 (2014, 2017)
@@ -1000,6 +1011,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Her (2013)
 - [x]  Hera Pheri (2000)
 - [ ]  Heretic
+- [x]  He's Just Not That Into You (2009)
 - [x]  Hey Ram (2000)
 - [x]  High Crimes (2002)
 - [x]  Hi Nanna (2023)
@@ -1018,6 +1030,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Inheritance (2020)
 - [x]  Interstellar (2014)
 - [x]  Insomnia (2002)
+- [x]  In Time (2011)
 - [x]  Into the Wild (2007)
 - [ ]  In the Mood for Love (2000)
 - [x]  Invictus (2009)
@@ -1039,6 +1052,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Joker (2019)
 - [x]  Jurassic Park (1993)
 
+- [x]  Kaala Patthar (1979)
 - [ ]  Kadaisi Vivasayi
 - [x]  Kagaaz Ke Phool (1959)
 - [x]  Kahani 1, 2 (2012, 2016)
@@ -1076,7 +1090,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  L.A. Johns (1997)
 - [x]  Lakshya (2004)
 - [x]  Lawless (2012)
-- [ ]  Lawrence Of Arabia
+- [x]  Lawrence Of Arabia (1962)
 - [x]  Leon : The Professional (1994)
 - [ ]  Let the Right One In (2008)
 - [ ]  Life and a Day (2016)
@@ -1107,13 +1121,15 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Malamaal Weekly (2006)
 - [x]  Mammal (2016)
 - [x]  Manchester by the Sea (2016)
+- [x]  Mandi (1983)
 - [x]  Mangalavaaram (2023)
 - [x]  Manhunter (1986)
 - [x]  Manichitrathazhu (1993)
 - [x]  Manjummel Boys (2024)
 - [x]  Man Of Steel (2013)
 - [x]  Manorama Six Feet Under (2007)
-- [x]  Manotstaan (2017)
+- [x]  Manto (2018)
+- [x]  Mantostaan (2017)
 - [x]  Maqbool (2003)
 - [x]  Margin Call (2011)
 - [x]  Masaan (2015)
@@ -1136,6 +1152,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Mother India
 - [x]  Mr. & Mrs. Smith (2005)
 - [x]  Mukundan Unnin Associates (2022)
+- [x]  Munich (2005)
 - [x]  Munnabhai MBBS (2003)
 - [x]  Murder (2004)
 - [x]  Murder 2 (2011)
@@ -1204,8 +1221,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Raajneeti (2010)
 - [x]  Raat Akeli Hain (2020)
 - [x]  Raazi (2018)
+- [x]  Raging Bull (1980)
+- [x]  Raiders of the Lost Ark (1981)
+- [x]  Raincoat (2004)
 - [x]  Rakht Charitra (2010)
 - [x]  Rang De Basanti (2006)
+- [x]  Rao Bahadur (2026)
 - [x]  Rathinirvedam (2011)
 - [ ]  Raw (2016)
 - [x]  Red Dragon (2002)
@@ -1258,6 +1279,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Sita Raman (2022)
 - [x]  Siya (2022)
 - [x]  Skyfall (2012)
+- [x]  Sleepers (1996)
 - [x]  Snatch (2000)
 - [x]  Snowden (2016)
 - [ ]  Snowtown (2011)
@@ -1291,6 +1313,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Taxi (2015)
 - [x]  Taxi Driver (2017)
 - [x]  Taxi Driver (1976)
+- [x]  Terminator 2: Judgment Day (1991)
 - [ ]  Terms and Conditions May Apply
 - [x]  Tenet (2020)
 - [x]  The Accountant (2016)
@@ -1329,6 +1352,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Da Vinci Code (2006)
 - [x]  The Departed (2006)
 - [ ]  The Devil’s Backbone (2001)
+- [x]  The Dreamers (2003)
 - [ ]  The Edge of Heaven (2007)
 - [x]  The Equalizer (2014)
 - [x]  The Exorcist (1973)
@@ -1342,6 +1366,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Ghazi Attack (2017)
 - [x]  The Girl Next Door (2004)
 - [x]  The Girl With the Dragon Tattoo (2011)
+- [x]  The Good, the Bad and the Ugly (1966)
 - [ ]  The Great Beauty (2013)
 - [ ]  The Great Indian Kitchen
 - [ ]  The Great Hack
@@ -1358,7 +1383,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Impossible (2012)
 - [x]  The Intern (2015)
 - [x]  The Internship (2013)
-- [ ]  The Irishman
+- [x]  The Irishman (2019)
 - [x]  The Jungle Book (2016)
 - [x]  The Killer (2023)
 - [x]  The King (2019)
@@ -1366,7 +1391,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Last House on the Left
 - [ ]  The Last Jedi
 - [ ]  The Last King of Scotland (2006)
-- [ ]  The Last Samurai
+- [x]  The Last Samurai (2003)
 - [ ]  The Last Temptation Of Christ(1988)
 - [ ]  The Legend of Bhagat Singh
 - [x]  The Lighthouse (2019) - Do not f*#%ing understood it.
@@ -1412,7 +1437,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Terminator (1984)
 - [ ]  The Texas Chainsaw Massacre (1974)
 - [x]  The Texas Chainsaw Massacre (2003)
-- [ ]  The Thing
+- [x]  The Thing (1982)
 - [ ]  The Time Traveler's Wife
 - [x]  The Town (2010)
 - [x]  The Truman Show (1998)
@@ -1432,6 +1457,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  There Will Be Blood (2007)
 - [ ]  The World at War
 - [x]  Thor Ragnarok (2017)
+- [x]  Three Colours : Blue (1993)
 - [ ]  Three Monkeys (2008)
 - [ ]  Three Of Us
 - [ ]  Through the Olive Trees (1994)
@@ -1439,6 +1465,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Titane (2021)
 - [ ]  Tom at the farm
 - [ ]  Too Old To Die Young
+- [ ]  Top Gun (1986)
 - [x]  Top Gun Maverick (2022)
 - [x]  Tourist Family (2025)
 - [x]  Train Dreams (2025)
@@ -1452,6 +1479,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Twelve Monkeys (1995)
 
 - [x]  Udaan (2010)
+- [x]  Udta Punjab (2016)
 - [x]  Unbroken (2014)
 - [x]  Uri : The Surgical Strike (2019)
 - [x]  Ustad Hotel (2012)
@@ -1464,6 +1492,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Videodrome(1983)
 - [x]  Viduthalai Part 1 and 2 (2023 & 2024) 
 - [x]  Vikram (2022)
+- [x]  Vinnaithaandi Varuvaayaa (2010)
 - [x]  Visaranai (2015)
 
 - [x]  Wall Street (1987)
@@ -1487,7 +1516,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Yi Yi
 - [ ]  Yu Hota Toh Kya Hota
 - [ ]  Y Tu Mamá También (2001)
-- [ ]  Yuva
+- [x]  Yuva (2004)
 
 - [x]  Zero Dark Thirty (2012)
 - [x]  Zindagi Na Milegi Dobara (2011)
@@ -1579,7 +1608,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  Kota Factory [2019-2021]
 
-- [ ]  Lost
+- [x]  Lost
 - [ ]  Line Of Duty
 - [ ]  Love Death & Robots
 
