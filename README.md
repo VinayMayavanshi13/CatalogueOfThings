@@ -108,6 +108,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Daughters of the Sun: Empresses, Queens and Begums of the Mughal Empire - Ira Mukhtoy
 - [ ]  David Sarnoff: A Biography - Eugene Lyons
 - [x]  Death - Shelly Kagan 
+- [x]  Decoding Greatness - Ron Friedman
 - [ ]  Deep Down Things The Breathtaking Beauty of Particle Physics - Bruce A Schumm
 - [x]  DeepWork - Cal Newport
 - [ ]  De Gaulle –Julian Jackson
@@ -405,6 +406,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need - Daniel H. Pink
 - [ ]  The Alchemist - Paulo Coelho
 - [x]  The Almanack Of Naval Ravikant - Eric Jorgenson
+- [x]  The Architecture Of Happiness - Alain De Botton
 - [ ]  The Argumentative Indian - Amartya Sen
 - [x]  The Art and Craft of Problem Solving - Paul Zietz
 - [ ]  The Artist’s Way – Morning Pages Journal - Julia Cameron
@@ -723,6 +725,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  12th Fail (2023)
 - [x]  12 Years a Slave (2013)
 - [x]  13 (2010)
+- [x]  13B: Fear Has a New Address (2009)
 - [x]  13 Hours: The Secret Soldiers Of Benghazi (2016)
 - [x]  1917 (2019)
 - [x]  20th Century Women (2016)
@@ -736,12 +739,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  500 Days of Summer (2009)
 - [x]  5 Centimeters Per Second (2007)
 - [x]  6 - 5 = 2 (2013)
-- [ ]  7 Boxes (2012)
+- [x]  7 Boxes (2012)
 - [x]  8x10 Tasveer (2009)
 - [x]  96 (2018)
 
 - [x]  Aadujeevitham : The Goat Life (2024)
-- [x]  Aakrosh (2010) (Good story, poor execution)
+- [x]  Aakrosh (2010)
+- [x]  Aaranya Kaandam (2011)
 - [ ]  Aamir (2008)
 - [ ]  Aandi (1975)
 - [x]  Aavesham (2024)
@@ -768,6 +772,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  American Sniper (2014)
 - [ ]  A Moment Of Innocence (1996)
 - [x]  Amores Perros (2000)
+- [x]  Anand (1971)
 - [x]  Andhadhun (2018)
 - [ ]  And Life Goes On (1992)
 - [ ]  An Given Sunday (1999)
@@ -888,6 +893,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Court (Marathi)
 - [x]  Crazy, Stupid, Love (2011)
 - [ ]  Creation
+- [x]  Crime and Punishment (1935)
 - [ ]  Crouching Tiger, Hidden Dragon (2000)
 - [x]  Cruel Intentions (1999)
 
@@ -897,6 +903,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Dawn Of The Planet Of The Apes (2014)
 - [x]  Dead Poets Society (1989)
 - [x]  Dear Dad (2016)
+- [x]  Dear Zindagi (2016)
 - [ ]  Decision To Leave
 - [x]  De Dana Dan (2009) 
 - [x]  Deewar (1975)
@@ -912,6 +919,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Dil Se (1998)
 - [x]  Divergent (2014)
 - [x]  Django Unchained (2012)
+- [x]  Dobaaraa (2022)
 - [x]  Doctor Strange (2016)
 - [ ]  Do Dooni Char
 - [ ]  Dog Day Afternoon
@@ -937,6 +945,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Eyes Wide Shut (1999)
 
 - [x]  F1 : The Movie (2025)
+- [x]  Face/Off (1997)
 - [ ]  Fahrenheit 9/11 (2004)
 - [ ]  Fantastic Mr. Fox (2009)
 - [ ]  Fargo (1996)
@@ -1044,7 +1053,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Jackie Brown (1997)
 - [x]  Jay Bhim (2021)
 - [x]  Jaws (1975)
-- [x]  Jersey (Original Starring Nani) (2019)
+- [x]  Jersey (2019)
 - [x]  Jism (2003)
 - [x]  Jodha Akbar (2008)
 - [x]  Johnny Gaddar (2007)
@@ -1187,6 +1196,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Operation Romeo
 - [x]  Oppenheimer (2023)
 - [x]  Oye Lucky! Lucky Oye! (2008)
+- [x]  Out Of the Furnace (2013)
 
 - [ ]  Paheli by Amol Palekar
 - [ ]  Pan’s Labyrinth (2006)
@@ -1201,7 +1211,12 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Pi (1998)
 - [x]  Pieces Of a Woman (2020)
 - [ ]  Pihu
+- [x]  Piku (2015)
 - [x]  Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+- [x]  Pirates of the Caribbean: Dead Man's Chest (2006)
+- [ ]  Pirates of the Caribbean: At World's End (2007)
+- [ ]  Pirates of the Caribbean: On Stranger Tides (2011)
+- [ ]  Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 - [x]  PK (2014)
 - [x]  Planet Of The Apes (2001)
 - [x]  Ponniyin Selvan I & II (2022, 2023)
@@ -1212,6 +1227,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Prince Of Persia: The Sands Of Time (2010)
 - [x]  Prisoner (2013)
 - [x]  Project Hail Mary (2026)
+- [x]  Psycho (1960)
 - [x]  Pulp Fiction (1994)
 - [x]  Pyaasa (1957)
 
