@@ -449,6 +449,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Control of Nature - John McPhee
 - [ ]  The Conversations: Walter Murch and the Art of Editing Film - Michael Ondaatje
 - [ ]  The Copy Book - Rotovision
+- [x]  The Corrections A Novel - Jonathan Franzen
 - [ ]  The Craft - John Dickie
 
 - [x]  The Daily Pressfield - Steven Pressfield
@@ -770,7 +771,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  American Pie (1999)
 - [x]  American Psycho (2000)
 - [x]  American Sniper (2014)
-- [ ]  A Moment Of Innocence (1996)
+- [x]  A Moment Of Innocence (1996)
 - [x]  Amores Perros (2000)
 - [x]  Anand (1971)
 - [x]  Andhadhun (2018)
@@ -922,7 +923,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Dobaaraa (2022)
 - [x]  Doctor Strange (2016)
 - [ ]  Do Dooni Char
-- [ ]  Dog Day Afternoon
+- [x]  Dog Day Afternoon (1975)
 - [ ]  Dogtooth 
 - [x]  Donnie Brasco (1997)
 - [X]  Donnie Darko (2001)
@@ -930,6 +931,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Drive (2011)
 - [x]  Dunkirk (2017)
 
+- [x]  Earth (1998)
 - [x]  Eden Lake (2008)
 - [x]  Edge Of Tomorrow (2014)
 - [x]  EE.MA.YAU (2018)
@@ -1147,6 +1149,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  May December (2023)
 - [x]  Meet Joe Black (1998)
 - [x]  Meiyazhagan (2024)
+- [x]  Memories (2013)
 - [x]  Memories of Murder (2003)
 - [x]  Merry Christmas (2024)
 - [ ]  Mesrine: Killer Instinct (2008)
@@ -1161,6 +1164,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Mother India
 - [x]  Mr. & Mrs. Smith (2005)
 - [x]  Mukundan Unnin Associates (2022)
+- [x]  Mumbai Meri Jaan (2008)
 - [x]  Munich (2005)
 - [x]  Munnabhai MBBS (2003)
 - [x]  Murder (2004)
@@ -1306,6 +1310,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Special 26 (2013)
 - [x]  Spectre (2015)
 - [x]  Spider Man - Across the Spider Verse (2023)
+- [x]  Spider Man: Into the Spider-Verse (2018)
 - [x]  Spider Man - No Way Home (2021)
 - [x]  Spirited Away (2001)
 - [ ]  Spotlight
@@ -1477,6 +1482,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Three Monkeys (2008)
 - [ ]  Three Of Us
 - [ ]  Through the Olive Trees (1994)
+- [x]  Tinker Tailor Soldier Spy (2011)
 - [x]  Titanic (1997)
 - [x]  Titane (2021)
 - [ ]  Tom at the farm
