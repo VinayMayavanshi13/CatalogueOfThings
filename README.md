@@ -482,6 +482,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Garuda Purana - Ernest Wood
 - [ ]  The Glass Bead Game - Hermann Hesse
 - [ ]  The Goal - Eliyahu Goldratt
+- [x]  The God of Small Things - Arundhati Roy
 - [ ]  The Gray Lady Winked - Ashley Rindsberg
 - [ ]  The Great CEO Within - Matt Mochary
 - [ ]  The Gulag Archipelago - Aleksandr I. Solzhenitsyn
@@ -747,7 +748,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Aadujeevitham : The Goat Life (2024)
 - [x]  Aakrosh (2010)
 - [x]  Aaranya Kaandam (2011)
-- [ ]  Aamir (2008)
+- [x]  Aamir (2008)
 - [ ]  Aandi (1975)
 - [x]  Aavesham (2024)
 - [ ]  About Elly (2009)
@@ -815,6 +816,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Barfi (2012)
 - [ ]  Bashu, The Little Stranger (1989)
 - [x]  Batman V Superman: Dawn Of Justice (2016)
+- [x]  Bawarchi (1972)
 - [ ]  Beautiful City (2004)
 - [x]  Beautiful Kate (2009)
 - [ ]  Before Midnight
@@ -901,6 +903,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Dallas Buyers Club (2013)
 - [x]  Darlings (2022)
 - [ ]  Days Of Heaven (1978) 
+- [x]  Darna Mana Hai (2003)
 - [x]  Dawn Of The Planet Of The Apes (2014)
 - [x]  Dead Poets Society (1989)
 - [x]  Dear Dad (2016)
@@ -998,7 +1001,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Gurgaon (2017)
 - [x]  Guru (2007)
 
-- [ ]  Haasil
+- [x]  Haasil (2003)
 - [x]  Hacksaw Ridge (2016)
 - [x]  Haider (2014)
 - [ ]  Half Moon ()
@@ -1171,6 +1174,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Murder 2 (2011)
 - [ ]  Mughal E Azam
 - [x]  Mystic River (2003)
+- [x]  My Client's Wife (2020)
 
 - [ ]  Naan Kadavul (2009)
 - [x]  Nay Varan Bhat Loncha Kon Nai Koncha (2022)
@@ -1205,6 +1209,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Paheli by Amol Palekar
 - [ ]  Pan’s Labyrinth (2006)
 - [x]  Parasite (2019)
+- [x]  Parking (2023)
 - [x]  Parmanu (2018)
 - [x]  Past Lives (2023)
 - [ ]  Peppermint Candy
@@ -1218,7 +1223,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Piku (2015)
 - [x]  Pirates of the Caribbean: The Curse of the Black Pearl (2003)
 - [x]  Pirates of the Caribbean: Dead Man's Chest (2006)
-- [ ]  Pirates of the Caribbean: At World's End (2007)
+- [x]  Pirates of the Caribbean: At World's End (2007)
 - [ ]  Pirates of the Caribbean: On Stranger Tides (2011)
 - [ ]  Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 - [x]  PK (2014)
@@ -1427,6 +1432,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Master (2012)
 - [x]  The Matrix Franchise
 - [x]  The Namesake (2006)
+- [x]  The Notebook (2004)
 - [x]  The Mist (2007)
 - [x]  The Odyssey (2026)
 - [ ]  The Old Oak
@@ -1461,6 +1467,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Thing (1982)
 - [ ]  The Time Traveler's Wife
 - [x]  The Town (2010)
+- [x]  The Tree Of Life (2011)
 - [x]  The Truman Show (1998)
 - [ ]  The Twilight Samurai (2002) 
 - [x]  The Usual Suspects (1995)
@@ -1509,7 +1516,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  V (2020)
 - [x]  Vash (2023)
+- [x]  Vash Level 2 (2025)
 - [x]  Vaazhai (2024)
+- [x]  Vazhakku Enn 18/9 (2012)
 - [ ]  Vicky Donor
 - [ ]  Videodrome(1983)
 - [x]  Viduthalai Part 1 and 2 (2023 & 2024) 
@@ -1519,7 +1528,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [x]  Wall Street (1987)
 - [x]  Wake Up Dead Man (2025)
-- [ ]  Wake Up Sid
+- [x]  Wake Up Sid (2009)
 - [x]  War (2019)
 - [x]  War For The Planet Of The Apes (2017)
 - [ ]  Watchmen
