@@ -207,6 +207,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  How to build this - Guy Raz
 - [x]  How to Change Your Mind - Michael Pollan 
 - [ ]  How To Fail At Almost Everything & Still Win Big - Scott Adams
+- [x]  How to Get Glass Skin - Dr. Anupriya Goel
 - [ ]  How to Hide an Empire - Daniel Immerwahr
 - [ ]  How to lie with statistics - Darrel Huff
 - [ ]  How to Live - Sarah Bakewell
@@ -326,6 +327,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Pet Sematary - Stephen King
 - [ ]  Philosophy of Mathematics - Øystein Linnebo
 - [ ]  Physics for Scientists and Engineers - Paul Tipler
+- [x]  Poor Charlie's Almanack
 - [x]  Premchand Best Stories
 - [ ]  Pride and Prejudice - Jane Austen
 - [ ]  Prediction Machines: The Simple Economics of Artificial Intelligence - Ajay Agrawal, Joshua Gans and Avi Goldfarb
@@ -384,6 +386,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  SPQR - Mary Beard
 - [ ]  Sputnik Sweetheart - Haruki Murakami
 - [ ]  Spytime: The Undoing of James Jesus Angleton - William F. Buckley Jr.
+- [x]  Sum: Forty Tales From the Afterlives - David Eagleman 
 - [ ]  Superforecasting: The Art and Science of Prediction - Dan Gardner and Philip E. Tetlock
 - [ ]  Super Intelligence - Nick Bostrom
 - [ ]  Suraj Ka Saatva Ghoda - Dharamvir Bharati
@@ -404,7 +407,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The 38 Letters From JD Rockefeller To His Son
 - [x]  The 48 Laws Of Power - Robert Greene
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need - Daniel H. Pink
-- [ ]  The Alchemist - Paulo Coelho
+- [x]  The Alchemist - Paulo Coelho
 - [x]  The Almanack Of Naval Ravikant - Eric Jorgenson
 - [x]  The Architecture Of Happiness - Alain De Botton
 - [ ]  The Argumentative Indian - Amartya Sen
@@ -451,6 +454,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Copy Book - Rotovision
 - [x]  The Corrections A Novel - Jonathan Franzen
 - [ ]  The Craft - John Dickie
+- [x]  The Creative Act - Rick Rubin
 
 - [x]  The Daily Pressfield - Steven Pressfield
 - [ ]  The Dawn of Everything - David Graeber and David Wengrow
@@ -839,19 +843,20 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Blade Runner (1982)
 - [x]  Blade Runner 2049 (2017)
 - [x]  Blood Diamond (2006)
-- [ ]  Blue Valentine (2010)
+- [x]  Blue Valentine (2010)
 - [x]  Body Of Lies (2008)
-- [ ]  Bombay
 - [x]  Boyhood (2014)
 - [ ]  Braveheart
 - [ ]  Brick (2005)
 - [x]  Bridge of Spies (2015)
 - [x]  Bridge To Terabithia (2007)
+- [x]  Brothers (2009)
 - [ ]  Buddha Collapsed Out Of Shame (2007)
 - [x]  Buddha: The Great Departure (2011)
 - [ ]  Bullet Train
 - [ ]  Bullhead (2011)
 - [ ]  Burning
+- [x]  Burnt (2015)
 
 - [x]  Caddo Lake (2024)
 - [ ]  Cannibal Holocaust (1980)
@@ -944,7 +949,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Ella McCay (2025)
 - [ ]  Elite Squad (2007)
 - [x]  Enemy (2014)
-- [ ]  English Vinglish 
+- [x]  English Vinglish (2012)
 - [x]  Eternal Sunshine of a Spotless Mind (2004)
 - [x]  Ex Machina (2015)
 - [x]  Eyes Wide Shut (1999)
@@ -995,11 +1000,13 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Gran Turismo (2023)
 - [x]  Grave Of the Fireflies (1988)
 - [x]  Gravity (2013)
+- [x]  Guide (1965)
 - [x]  Gulaal - Anurag Kashyap (2009)
 - [x]  Gully Boy (2019)
 - [x]  Guardians of the Galaxy Vol. 1 and 2 (2014, 2017)
 - [x]  Gurgaon (2017)
 - [x]  Guru (2007)
+- [x]  Guzaarish (2010)
 
 - [x]  Haasil (2003)
 - [x]  Hacksaw Ridge (2016)
@@ -1039,6 +1046,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Ilo Ilo (2013)
 - [ ]  I Killed My Mother
 - [x]  Inception (2010)
+- [x]  Indiana Jones and the Temple of Doom (1984)
 - [ ]  Indie Game
 - [x]  Inglourious Basterds (2009)
 - [x]  Inheritance (2020)
@@ -1056,6 +1064,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  I Want to Eat Your Pancreas (2018)
 
 - [ ]  Jackie Brown (1997)
+- [x]  Jack Reacher (2012)
 - [x]  Jay Bhim (2021)
 - [x]  Jaws (1975)
 - [x]  Jersey (2019)
@@ -1158,7 +1167,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Mesrine: Killer Instinct (2008)
 - [x]  Me Vasantrao (2022)
 - [ ]  Minari
-- [ ]  Mission: Impossible Franchise
+- [x]  Mission: Impossible III (2006)
 - [x]  Moneyball (2011)
 - [x]  Monica O My Darling (2022)
 - [ ]  Monk and the Gun
@@ -1300,7 +1309,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Side Effects (2013)
 - [ ]  Silicon Cowboys
 - [x]  Sinners (2025)
-- [ ]  Sins(2005)
+- [ ]  Sins (2005)
 - [x]  Sita Raman (2022)
 - [x]  Siya (2022)
 - [x]  Skyfall (2012)
@@ -1312,13 +1321,16 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Sookshmadarshini (2024)
 - [x]  Soorarai Pottru (2020)
 - [x]  Source Code (2011)
+- [x]  Sparsh (1980)
 - [x]  Special 26 (2013)
 - [x]  Spectre (2015)
-- [x]  Spider Man - Across the Spider Verse (2023)
-- [x]  Spider Man: Into the Spider-Verse (2018)
-- [x]  Spider Man - No Way Home (2021)
+- [x]  Spider-Man (2002)
+- [x]  Spider-Man: Across the Spider Verse (2023)
+- [x]  Spider-Man: Into the Spider-Verse (2018)
+- [x]  Spider-Man: No Way Home (2021)
 - [x]  Spirited Away (2001)
 - [ ]  Spotlight
+- [x]  Stanley Ka Dabba (2011)
 - [x]  Star Wars: A New Hope (Episode IV) (1977)
 - [x]  Star Wars: The Empire Strikes Back (Episode V) (1980)
 - [x]  Star Wars: Return of the Jedi (Episode VI) (1983)
@@ -1340,8 +1352,10 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Taxi Driver (2017)
 - [x]  Taxi Driver (1976)
 - [x]  Terminator 2: Judgment Day (1991)
+- [x]  Terminator Salvation (2009)
 - [ ]  Terms and Conditions May Apply
 - [x]  Tenet (2020)
+- [x]  That Girl in Yellow Boots (2011)
 - [x]  The Accountant (2016)
 - [x]  The Accountant 2 (2025)
 - [x]  The Amateur (2025)
@@ -1531,6 +1545,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Wake Up Sid (2009)
 - [x]  War (2019)
 - [x]  War For The Planet Of The Apes (2017)
+- [x]  Warrior (2011)
 - [ ]  Watchmen
 - [x]  Welcome Home (2020)
 - [ ]  What Comes Around (2023)
