@@ -409,6 +409,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need - Daniel H. Pink
 - [x]  The Alchemist - Paulo Coelho
 - [x]  The Almanack Of Naval Ravikant - Eric Jorgenson
+- [x]  The Anthology Of Balaji - Eric Jorgenson
 - [x]  The Architecture Of Happiness - Alain De Botton
 - [ ]  The Argumentative Indian - Amartya Sen
 - [x]  The Art and Craft of Problem Solving - Paul Zietz
@@ -809,9 +810,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 
 - [ ]  Babel
 - [x]  Baby Driver (2017)
-- [x]  Back to the Future I, II and III (1985, 1989, 1990)
-- [ ]  Back to the Future II (1989)
-- [ ]  Back to the Future III (1990)
+- [x]  Back to the Future I (1985)
 - [ ]  Bacurau (2019)
 - [x]  Bahubali - The Beginning (2015) and Conclusion (2017)
 - [x]  Bandit Queen (1994)
@@ -875,8 +874,9 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [ ]  Character (1997)
 - [x]  Chak De India (2007)
 - [x]  Challengers (2024)
+- [x]  Chandni Bar (2001)
 - [x]  Chandni Chowk to China (2009)
-- [ ]  Chef (2014)
+- [x]  Chef (2014)
 - [ ]  Chhapa Kurishu
 - [x]  Chhaava (2025)
 - [ ]  Chhoti Si Baat
@@ -884,6 +884,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Chup Chup Ke (2006)
 - [ ]  Citizenfour
 - [ ]  City of God (2002)
+- [x]  Cleopatra (1963)
 - [ ]  Climates (2006)
 - [ ]  Close-Up (1990)
 - [x]  Cocktail (2012)
@@ -985,9 +986,11 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Garam Masala (2005)
 - [x]  Get Out (2017)
 - [ ]  Gett: The Trial of Viviane Amsalem (2014)
+- [x]  Ghanchakkar (2013)
 - [x]  Ghuspaith between Borders (2023)
 - [x]  Gifted (2017)
 - [x]  Glengarry Glen Ross (1992)
+- [x]  God's Crooked Lines (2022)
 - [x]  Go Goa Gone (2013)
 - [x]  Goliyon Ki Raasleela Ram-Leela (2013)
 - [ ]  Gomorrah (2008)
@@ -1156,6 +1159,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Maqbool (2003)
 - [x]  Margin Call (2011)
 - [x]  Masaan (2015)
+- [x]  Masoom (1983)
 - [x]  Match Point (2005)
 - [x]  Materialists (2025)
 - [ ]  May December (2023)
@@ -1405,6 +1409,8 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  The Gorge (2025)
 - [x]  The Ghazi Attack (2017)
 - [x]  The Girl Next Door (2004)
+- [x]  The Girl Who Kicked the Hornets' Nest (2009)
+- [x]  The Girl Who Played With Fire (2009)
 - [x]  The Girl With the Dragon Tattoo (2011)
 - [x]  The Good, the Bad and the Ugly (1966)
 - [ ]  The Great Beauty (2013)
@@ -1514,6 +1520,7 @@ Welcome to the "Catalogue of Things" repository! This is a place where you can f
 - [x]  Train Dreams (2025)
 - [ ]  Trainspotting (1996)
 - [x]  Train To Busan (2016)
+- [x]  Transformers (2007)
 - [x]  Triangle (2009)
 - [x]  Tron: Legacy (2010)
 - [x]  Troy (2004)
